@@ -4,6 +4,8 @@
 
 最終更新の基準コミット: `9b4909c feat: add MV costume catalog MVP`
 
+公開前チェックリストは `docs/publish-checklist.md` を参照。
+
 ---
 
 ## 1. プロジェクト概要
