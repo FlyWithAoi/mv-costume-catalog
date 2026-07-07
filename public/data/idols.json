@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-07",
+  "updated_at": "2026-07-08",
   "idols": [
     {
       "slug": "tenshouin-eichi",
@@ -33,6 +33,38 @@
       "name_romaji": "fushimi yuzuru",
       "aliases": ["弓弦", "yuzuru"],
       "sort_order": 40
+    },
+    {
+      "slug": "sakuma-rei",
+      "name": "朔間 零",
+      "name_kana": "さくま れい",
+      "name_romaji": "sakuma rei",
+      "aliases": ["零", "rei"],
+      "sort_order": 110
+    },
+    {
+      "slug": "hakaze-kaoru",
+      "name": "羽風 薫",
+      "name_kana": "はかぜ かおる",
+      "name_romaji": "hakaze kaoru",
+      "aliases": ["薫", "kaoru"],
+      "sort_order": 120
+    },
+    {
+      "slug": "oogami-koga",
+      "name": "大神 晃牙",
+      "name_kana": "おおがみ こうが",
+      "name_romaji": "oogami koga",
+      "aliases": ["晃牙", "koga"],
+      "sort_order": 130
+    },
+    {
+      "slug": "otogari-adonis",
+      "name": "乙狩 アドニス",
+      "name_kana": "おとがり あどにす",
+      "name_romaji": "otogari adonis",
+      "aliases": ["アドニス", "adonis"],
+      "sort_order": 140
     }
   ]
 }

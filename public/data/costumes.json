@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-07",
+  "updated_at": "2026-07-08",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -81,6 +81,102 @@
       "tags": ["Tシャツ", "ライブ"],
       "note_public": "未購入のため参考画像なし。",
       "updated_at": "2026-07-07"
+    },
+    {
+      "id": "himemiya-tori_common-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_common-01_icon.webp",
+        "front": "himemiya-tori_common-01_front.webp",
+        "back": "himemiya-tori_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "himemiya-tori_musica-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Musica",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_musica-01_icon.webp",
+        "front": "himemiya-tori_musica-01_front.webp",
+        "back": "himemiya-tori_musica-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "himemiya-tori_egoist-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "エゴイスト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_egoist-01_icon.webp",
+        "front": "himemiya-tori_egoist-01_front.webp",
+        "back": "himemiya-tori_egoist-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "himemiya-tori_newyear-rise-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "shop",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "sakuma-rei_caelum-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "Caelum",
+      "costume_group": "cross",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_caelum-01_icon.webp",
+        "front": "sakuma-rei_caelum-01_front.webp",
+        "back": "sakuma-rei_caelum-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "sakuma-rei_common-scr-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_common-scr-01_icon.webp",
+        "front": "sakuma-rei_common-scr-01_front.webp",
+        "back": "sakuma-rei_common-scr-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
     }
   ]
 }

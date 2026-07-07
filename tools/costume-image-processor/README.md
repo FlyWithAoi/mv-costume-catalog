@@ -2,8 +2,11 @@
 
 MV衣装カタログの元スクショから、公開用の軽量WebP画像を生成するローカル用CLIツールです。
 
-- 入力: `_private/raw_screenshots/wataru_test/`（`.gitignore` で除外済み・非公開）
-- 出力: `public/images/costumes/hibiki-wataru/`
+- 入力: `_private/raw_screenshots/{キャラフォルダ}/`（`.gitignore` で除外済み・非公開）
+- 出力: `public/images/costumes/{idol_slug}/`
+
+複数キャラに対応しています。キャラフォルダと衣装一覧は `presets.json` の `collections` に定義します
+（例: `wataru_test` → `hibiki-wataru`、`tori_test` → `himemiya-tori`、`rei_test` → `sakuma-rei`）。
 
 GUI・OCR・JSON追記機能はまだありません（Phase 2はこの画像加工のみ）。
 
@@ -110,20 +113,32 @@ select.png からミニアイコンを切り抜きます。切り抜き方法は
     "min_box_width": 60,    // これより小さい検出はノイズ扱いでフォールバック
     "min_box_height": 60
   },
-  "items": {
-    "01_common": {
-      "id": "hibiki-wataru_common-01",
-      "icon_mode": "auto_selected_card",                                 // 通常一覧は自動検出
-      "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },      // 失敗時のフォールバック
-      "has_body_images": true
+  "collections": {
+    "wataru_test": {                        // _private/raw_screenshots/ 内のフォルダ名
+      "idol_slug": "hibiki-wataru",
+      "output_dir": "hibiki-wataru",        // public/images/costumes/ 内の出力先
+      "items": {
+        "01_common": {
+          "id": "hibiki-wataru_common-01",
+          "icon_mode": "auto_selected_card",                             // 通常一覧は自動検出
+          "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },  // 失敗時のフォールバック
+          "has_body_images": true
+        },
+        "05_locked": {
+          "id": "hibiki-wataru_starlight-10th-01",
+          "icon_mode": "manual_crop",                                    // ポップアップは手動
+          "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
+          "has_body_images": false
+        }
+        // ... 他の衣装も同様
+      }
     },
-    "05_locked": {
-      "id": "hibiki-wataru_starrai-10th-tshirt",
-      "icon_mode": "manual_crop",                                        // ポップアップは手動
-      "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
-      "has_body_images": false
+    "tori_test": {
+      "idol_slug": "himemiya-tori",
+      "output_dir": "himemiya-tori",
+      "items": { /* 同様 */ }
     }
-    // ... 他の衣装も同様
+    // キャラを増やすときは collections にフォルダごと追記する（コード変更不要）
   }
 }
 ```
@@ -179,10 +194,11 @@ python tools/costume-image-processor/process_images.py --debug
 - **オレンジ枠** … `icon_crop` を使った範囲（フォールバック or 手動 manual_crop）
 
 出力先: `tools/costume-image-processor/debug/`
+（ファイル名は「コレクション名_フォルダ名」プレフィックスで、キャラ間で衝突しません）
 
-- `01_common_select_debug.png` … select.png に青枠＋赤/オレンジ枠
-- `01_common_front_debug.png` … 回転後の front に body.crop の赤枠
-- `01_common_back_debug.png` … 回転後の back に body.crop の赤枠
+- `wataru_test_01_common_select_debug.png` … select.png に青枠＋赤/オレンジ枠
+- `wataru_test_01_common_front_debug.png` … 回転後の front に body.crop の赤枠
+- `wataru_test_01_common_back_debug.png` … 回転後の back に body.crop の赤枠
 
 コンソールにも各フォルダの結果（`auto detected` / `fallback manual crop` / `manual crop`）が表示されます。
 赤枠が出ない・ズレる場合は `presets.json` を調整してください。
@@ -193,19 +209,20 @@ python tools/costume-image-processor/process_images.py --debug
 
 ---
 
-## 対応している衣装（テスト素材5件）
+## 対応している衣装
 
-衣装一覧は `presets.json` の `items` に定義しています。
+衣装一覧は `presets.json` の `collections.<コレクション名>.items` に定義しています。
+現在は `wataru_test`（日々樹 渉・5件）、`tori_test`（姫宮 桃李・5件）、`rei_test`（朔間 零・2件）の3コレクションです。
 
-| 入力フォルダ | 出力ID | icon_mode | front/back |
-| --- | --- | --- | --- |
-| 01_common | hibiki-wataru_common-01 | auto_selected_card | あり |
-| 02_caelum | hibiki-wataru_caelum-01 | auto_selected_card | あり |
-| 03_black | hibiki-wataru_black-01 | auto_selected_card | あり |
-| 04_headparts | hibiki-wataru_headparts-01 | auto_selected_card | あり |
-| 05_locked | hibiki-wataru_starrai-10th-tshirt | manual_crop | なし（iconのみ） |
+衣装を増やす場合は該当コレクションの `items` に、キャラを増やす場合は `collections` に
+新しいコレクションを追記してください（コード変更は不要）。
 
-衣装を増やす場合は、`presets.json` の `items` に同じ形式で追記してください（コード変更は不要）。
+### 選択中カードが探索範囲の外にある場合
+
+`auto_selected_card` の探索範囲（`search_area`）は全キャラ共通のため、スクショによっては
+選択中カードが範囲外にあり、**別のカードを誤検出**することがあります（黄緑のMVバッジを拾うため、
+検出自体は「成功」扱いになるのが罠です）。`--debug` で赤枠が選択中カードを囲んでいるか必ず目視確認し、
+ズレている場合はその衣装だけ `icon_mode: "manual_crop"` にして `icon_crop` を選択中カードの位置に合わせてください。
 
 ---
 

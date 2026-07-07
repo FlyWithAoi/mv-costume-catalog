@@ -60,7 +60,13 @@
 
 新しい衣装を1着追加するときの標準フロー。
 
-1. `_private/raw_screenshots/` の下に、衣装用のフォルダを作る（例: `06_xxx`）
+**複数キャラ対応（C-3以降）**: 元スクショは `_private/raw_screenshots/{キャラフォルダ}/{衣装フォルダ}/` の2段構成。
+キャラを増やすときは、キャラフォルダを作り、`presets.json` の `collections` にエントリを追加し、
+`idols.json`（必要なら `units.json` も）にマスタを追加する。
+自動検出は選択中カードが `search_area` の外にあると別カードに誤爆するため、
+**--debug の赤枠が選択中カードを囲んでいるか必ず目視確認**する（詳細はツールREADME参照）。
+
+1. `_private/raw_screenshots/{キャラフォルダ}/` の下に、衣装用のフォルダを作る（例: `06_xxx`）
 2. フォルダに `select.png` / `front.png` / `back.png` を入れる
    - 未購入・未解放などで着用画像が無い場合は `front.png` / `back.png` を省略してよい（`process_images.py` は欠損してもエラーにならずスキップする）
 3. `tools/costume-image-processor/presets.json` の `items` に、その衣装のエントリを追加する

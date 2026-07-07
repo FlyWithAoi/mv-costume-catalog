@@ -1,8 +1,9 @@
 """
 MV衣装カタログ Phase 2: 画像加工CLIスクリプト
 
-元スクショ（_private/raw_screenshots/wataru_test/）から、
-公開用のWebP画像（public/images/costumes/hibiki-wataru/）を生成する。
+元スクショ（_private/raw_screenshots/{キャラフォルダ}/）から、
+公開用のWebP画像（public/images/costumes/{idol_slug}/）を生成する。
+キャラフォルダと衣装一覧は presets.json の collections に定義する（複数キャラ対応）。
 
 処理内容:
   - front.png / back.png: 90度回転で縦向きに直す → プリセットでトリミング
@@ -42,8 +43,8 @@ except ImportError:
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parents[1]  # tools/costume-image-processor -> tools -> ルート
 
-INPUT_ROOT = PROJECT_ROOT / "_private" / "raw_screenshots" / "wataru_test"
-OUTPUT_DIR = PROJECT_ROOT / "public" / "images" / "costumes" / "hibiki-wataru"
+INPUT_ROOT_BASE = PROJECT_ROOT / "_private" / "raw_screenshots"
+OUTPUT_DIR_BASE = PROJECT_ROOT / "public" / "images" / "costumes"
 PRESETS_PATH = SCRIPT_DIR / "presets.json"
 DEBUG_DIR = SCRIPT_DIR / "debug"
 
@@ -83,7 +84,7 @@ def resize_long_edge(img, long_edge_px):
 def save_webp(img, out_path, quality):
     if img.mode not in ("RGB", "RGBA"):
         img = img.convert("RGB")
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     img.save(out_path, "WEBP", quality=quality)
 
 
@@ -215,7 +216,7 @@ def draw_boxes(base_img, boxes, out_path):
     dbg.save(out_path, "PNG")
 
 
-def debug_icon(select_src, folder, entry, presets):
+def debug_icon(select_src, prefix, entry, presets):
     """select.png に探索範囲(青)・自動検出(赤)・icon_crop(オレンジ)を描く。戻り値は method。"""
     with Image.open(select_src) as im:
         im = im.convert("RGB")
@@ -231,17 +232,17 @@ def debug_icon(select_src, folder, entry, presets):
             boxes.append((box, COLOR_AUTO))        # 赤: 自動検出
         else:
             boxes.append((box, COLOR_MANUAL))      # オレンジ: フォールバック or 手動
-        out = DEBUG_DIR / f"{folder}_select_debug.png"
+        out = DEBUG_DIR / f"{prefix}_select_debug.png"
         draw_boxes(im, boxes, out)
         return out.name, method
 
 
-def debug_body(src_path, folder, kind, presets):
+def debug_body(src_path, prefix, kind, presets):
     """front/back を回転した画像に body.crop の赤枠を描く。"""
     body_cfg = presets["body"]
     with Image.open(src_path) as im:
         rotated = im.convert("RGB").rotate(body_cfg["rotate_degrees"], expand=True)
-        out = DEBUG_DIR / f"{folder}_{kind}_debug.png"
+        out = DEBUG_DIR / f"{prefix}_{kind}_debug.png"
         draw_boxes(rotated, [(body_cfg["crop"], COLOR_BODY)], out)
         return out.name
 
@@ -259,8 +260,8 @@ def main():
     print("=" * 60)
     print("MV衣装カタログ Phase 2: 画像加工スクリプト" + ("  [DEBUGモード]" if args.debug else ""))
     print("=" * 60)
-    print(f"入力元 : {INPUT_ROOT}")
-    print(f"出力先 : {DEBUG_DIR}  (確認画像)" if args.debug else f"出力先 : {OUTPUT_DIR}")
+    print(f"入力元 : {INPUT_ROOT_BASE}/(collections)")
+    print(f"出力先 : {DEBUG_DIR}  (確認画像)" if args.debug else f"出力先 : {OUTPUT_DIR_BASE}/(idol_slug)")
     if args.debug:
         print("枠の色 : 青=探索範囲 / 赤=自動検出 / オレンジ=icon_crop(フォールバック or 手動)")
     print()
@@ -269,81 +270,98 @@ def main():
         print(f"[エラー] presets.json が見つかりません: {PRESETS_PATH}")
         sys.exit(1)
     presets = load_presets()
-    items = presets.get("items", {})
-    if not items:
-        print("[エラー] presets.json の items が空です。")
-        sys.exit(1)
-
-    if not INPUT_ROOT.exists():
-        print(f"[エラー] 入力フォルダが見つかりません: {INPUT_ROOT}")
+    collections = presets.get("collections", {})
+    if not collections:
+        print("[エラー] presets.json の collections が空です。")
         sys.exit(1)
 
     generated = []   # 生成できたファイル
     skipped = []     # スキップ（理由つき）
-    icon_results = []  # (folder, method) アイコンの検出結果
+    icon_results = []  # (collection/folder, method) アイコンの検出結果
 
-    for folder_name, entry in items.items():
-        folder = INPUT_ROOT / folder_name
-        cid = entry["id"]
-        print(f"--- {folder_name} ({cid}) ---")
+    for coll_name, coll in collections.items():
+        input_root = INPUT_ROOT_BASE / coll_name
+        output_dir = OUTPUT_DIR_BASE / coll.get("output_dir", coll.get("idol_slug", coll_name))
+        items = coll.get("items", {})
 
-        if not folder.exists():
-            msg = f"{folder_name}: フォルダなし → スキップ"
+        print(f"===== コレクション: {coll_name} -> {output_dir.name}/ =====")
+        if not input_root.exists():
+            msg = f"{coll_name}: 入力フォルダなし ({input_root}) → コレクションごとスキップ"
             print(f"  [警告] {msg}")
             skipped.append(msg)
             print()
             continue
+        if not items:
+            print(f"  (items が空。presets.json に衣装を追加してください)")
+            print()
+            continue
+        print()
 
-        # 1. アイコン（select.png）
-        select_src = folder / "select.png"
-        if select_src.exists():
-            try:
-                if args.debug:
-                    name, method = debug_icon(select_src, folder_name, entry, presets)
-                    print(f"  [OK] debug icon  -> {name}   [{_method_label(method)}]")
-                    generated.append(name)
-                else:
-                    icon_out = OUTPUT_DIR / f"{cid}_icon.webp"
-                    method = process_icon(select_src, icon_out, entry, presets)
-                    print(f"  [OK] icon  -> {icon_out.name}   [{_method_label(method)}]")
-                    generated.append(icon_out.name)
-                icon_results.append((folder_name, method))
-            except Exception as e:
-                msg = f"{folder_name}/select.png: 処理失敗 ({e})"
+        for folder_name, entry in items.items():
+            folder = input_root / folder_name
+            cid = entry["id"]
+            label = f"{coll_name}/{folder_name}"
+            print(f"--- {label} ({cid}) ---")
+
+            if not folder.exists():
+                msg = f"{label}: フォルダなし → スキップ"
                 print(f"  [警告] {msg}")
                 skipped.append(msg)
-        else:
-            msg = f"{folder_name}/select.png: なし → アイコンをスキップ"
-            print(f"  [警告] {msg}")
-            skipped.append(msg)
+                print()
+                continue
 
-        # 2. front / back
-        if entry.get("has_body_images"):
-            for kind in ("front", "back"):
-                body_src = folder / f"{kind}.png"
-                if body_src.exists():
-                    try:
-                        if args.debug:
-                            name = debug_body(body_src, folder_name, kind, presets)
-                            print(f"  [OK] debug {kind:5s} -> {name}")
-                            generated.append(name)
-                        else:
-                            body_out = OUTPUT_DIR / f"{cid}_{kind}.webp"
-                            process_body(body_src, body_out, presets)
-                            print(f"  [OK] {kind:5s} -> {body_out.name}")
-                            generated.append(body_out.name)
-                    except Exception as e:
-                        msg = f"{folder_name}/{kind}.png: 処理失敗 ({e})"
-                        print(f"  [警告] {msg}")
-                        skipped.append(msg)
-                else:
-                    msg = f"{folder_name}/{kind}.png: なし → スキップ"
+            # 1. アイコン（select.png）
+            select_src = folder / "select.png"
+            if select_src.exists():
+                try:
+                    if args.debug:
+                        prefix = f"{coll_name}_{folder_name}"
+                        name, method = debug_icon(select_src, prefix, entry, presets)
+                        print(f"  [OK] debug icon  -> {name}   [{_method_label(method)}]")
+                        generated.append(name)
+                    else:
+                        icon_out = output_dir / f"{cid}_icon.webp"
+                        method = process_icon(select_src, icon_out, entry, presets)
+                        print(f"  [OK] icon  -> {icon_out.name}   [{_method_label(method)}]")
+                        generated.append(icon_out.name)
+                    icon_results.append((label, method))
+                except Exception as e:
+                    msg = f"{label}/select.png: 処理失敗 ({e})"
                     print(f"  [警告] {msg}")
                     skipped.append(msg)
-        else:
-            print("  (この衣装は front/back なし設定)")
+            else:
+                msg = f"{label}/select.png: なし → アイコンをスキップ"
+                print(f"  [警告] {msg}")
+                skipped.append(msg)
 
-        print()
+            # 2. front / back
+            if entry.get("has_body_images"):
+                for kind in ("front", "back"):
+                    body_src = folder / f"{kind}.png"
+                    if body_src.exists():
+                        try:
+                            if args.debug:
+                                prefix = f"{coll_name}_{folder_name}"
+                                name = debug_body(body_src, prefix, kind, presets)
+                                print(f"  [OK] debug {kind:5s} -> {name}")
+                                generated.append(name)
+                            else:
+                                body_out = output_dir / f"{cid}_{kind}.webp"
+                                process_body(body_src, body_out, presets)
+                                print(f"  [OK] {kind:5s} -> {body_out.name}")
+                                generated.append(body_out.name)
+                        except Exception as e:
+                            msg = f"{label}/{kind}.png: 処理失敗 ({e})"
+                            print(f"  [警告] {msg}")
+                            skipped.append(msg)
+                    else:
+                        msg = f"{label}/{kind}.png: なし → スキップ"
+                        print(f"  [警告] {msg}")
+                        skipped.append(msg)
+            else:
+                print("  (この衣装は front/back なし設定)")
+
+            print()
 
     # --- サマリ ---
     print("=" * 60)
