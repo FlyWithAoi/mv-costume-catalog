@@ -1,0 +1,392 @@
+:root {
+  --bg: #f7f7fb;
+  --card-bg: #ffffff;
+  --text: #23232b;
+  --text-muted: #6b6b7a;
+  --accent: #6c5ce7;
+  --accent-soft: #eeecfc;
+  --border: #e2e2ec;
+  --ok: #2fa84f;
+  --warn: #c98a00;
+  --danger: #c0392b;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* hidden 属性を常に最優先で非表示にする（display 指定の上書きバグ防止） */
+[hidden] {
+  display: none !important;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.site-header {
+  text-align: center;
+  padding: 24px 16px 16px;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.subtitle {
+  margin: 4px 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 16px 48px;
+}
+
+/* Controls */
+.controls {
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  padding: 12px 0;
+  z-index: 10;
+}
+
+.search-box {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+}
+
+.search-box:focus {
+  outline: 2px solid var(--accent);
+  border-color: var(--accent);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.filter-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.filter-item select {
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--card-bg);
+  font-size: 0.9rem;
+}
+
+.filter-checkbox {
+  cursor: pointer;
+}
+
+.filter-checkbox input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+
+.result-count {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* Card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px;
+  cursor: pointer;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.card-top {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.card-icon {
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  object-fit: cover;
+  background: var(--accent-soft);
+}
+
+.card-icon.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.card-heading {
+  min-width: 0;
+}
+
+.card-costume-name {
+  font-weight: 600;
+  font-size: 1rem;
+  word-break: break-word;
+}
+
+.card-idol {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.badge.unlock-unlocked { background: #e5f6ea; color: var(--ok); }
+.badge.unlock-card_only { background: #fff4dc; color: var(--warn); }
+.badge.unlock-card_missing { background: #fdeceb; color: var(--danger); }
+.badge.unlock-not_purchased { background: #ededf2; color: var(--text-muted); }
+
+.badge.req-yes { background: #e5f6ea; color: var(--ok); }
+.badge.req-no { background: #ededf2; color: var(--text-muted); }
+
+/* Empty */
+.empty-message {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 40px 0;
+}
+
+/* Modal */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  z-index: 100;
+}
+
+.modal {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  max-width: 720px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  padding: 24px;
+}
+
+.modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: var(--bg);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.modal-close:hover {
+  background: var(--border);
+}
+
+.modal-body h2 {
+  margin: 0 0 4px;
+  padding-right: 40px;
+}
+
+.modal-idol {
+  color: var(--text-muted);
+  margin: 0 0 16px;
+}
+
+.modal-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.modal-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.modal-image-block {
+  flex: 1 1 200px;
+  text-align: center;
+}
+
+/* front/backがなくミニアイコン1枚だけの場合、flexの伸長で巨大化しないよう幅を固定する */
+.modal-images.icon-only {
+  justify-content: center;
+}
+
+.modal-images.icon-only .modal-image-block {
+  flex: 0 0 auto;
+  width: 220px;
+  max-width: 220px;
+}
+
+.modal-image-block img {
+  width: 100%;
+  border-radius: 8px;
+  background: var(--accent-soft);
+}
+
+.modal-image-block .label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.no-image-note {
+  background: var(--bg);
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+.modal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.tag {
+  font-size: 0.78rem;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+.modal-note {
+  background: var(--accent-soft);
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+}
+
+.request-section {
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.request-text {
+  font-family: monospace;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 8px 0;
+  user-select: all;
+}
+
+.copy-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  filter: brightness(1.05);
+}
+
+.copy-status {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 0.85rem;
+  color: var(--ok);
+}
+
+.site-footer {
+  text-align: center;
+  padding: 24px 16px;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 480px) {
+  .card-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .card-icon { width: 44px; height: 44px; }
+}

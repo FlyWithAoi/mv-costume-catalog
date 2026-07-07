@@ -1,0 +1,62 @@
+{
+  "_comment": "座標・サイズ・閾値はすべて仮の初期値です。実際のスクショに合わせて調整してください。x,y は左上原点、width/height はピクセル。まず --debug で枠を確認してから数字を調整するのがおすすめです。",
+
+  "output": {
+    "long_edge_body": 1000,
+    "icon_size": 200,
+    "webp_quality": 80
+  },
+
+  "body": {
+    "_comment": "front/back は横長スクショ。rotate_degrees で縦向きに直してから crop する。crop は回転後（縦向き）の画像に対する座標。この設定は全衣装共通のため、ヘルメット・帽子など背の高いヘッドパーツがあっても切れないよう、上方向には余裕を持たせてある。実測: 通常衣装の頭頂部 y≈850、caelum(ヘルメット)の頭頂部 y≈620、足元下端は全衣装ともy≈1780。",
+    "rotate_degrees": -90,
+    "crop": { "x": 0, "y": 580, "width": 1000, "height": 1250 }
+  },
+
+  "auto_selected_card": {
+    "_comment": "通常の衣装一覧画面で選択中カードの黄緑枠を検出する設定。座標・閾値は仮。--debug の青枠(探索範囲)/赤枠(検出結果)を見て調整する。注意: この画面は全サムネイルに黄緑の『MV』バッジが付いているため、探索範囲を選択カード1枚の周辺だけに絞らないと枠が大きくなりがち。実運用では『選択中カードのおおよその位置』に search_area を絞るのが有効。",
+    "search_area": { "x": 700, "y": 260, "width": 320, "height": 320 },
+    "green_threshold": {
+      "min_g": 200,
+      "max_r": 255,
+      "max_b": 130
+    },
+    "padding": 20,
+    "min_box_width": 60,
+    "min_box_height": 60
+  },
+
+  "items": {
+    "01_common": {
+      "id": "hibiki-wataru_common-01",
+      "icon_mode": "auto_selected_card",
+      "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+      "has_body_images": true
+    },
+    "02_caelum": {
+      "id": "hibiki-wataru_caelum-01",
+      "icon_mode": "auto_selected_card",
+      "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+      "has_body_images": true
+    },
+    "03_black": {
+      "id": "hibiki-wataru_black-01",
+      "icon_mode": "auto_selected_card",
+      "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+      "has_body_images": true
+    },
+    "04_headparts": {
+      "_comment": "この衣装だけ選択カードの位置が共通の auto_selected_card.search_area からズレており、自動検出だとカード右端が切れるため manual_crop で安定させている。",
+      "id": "hibiki-wataru_headparts-01",
+      "icon_mode": "manual_crop",
+      "icon_crop": { "x": 920, "y": 335, "width": 210, "height": 235 },
+      "has_body_images": true
+    },
+    "05_locked": {
+      "id": "hibiki-wataru_starlight-10th-01",
+      "icon_mode": "manual_crop",
+      "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
+      "has_body_images": false
+    }
+  }
+}

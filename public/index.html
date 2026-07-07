@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MV衣装カタログ｜暘晴あゆむ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>MV衣装カタログ</h1>
+    <p class="subtitle">あんさんぶるスターズ！！Music｜配信リクエスト用の所持衣装一覧</p>
+  </header>
+
+  <main class="container">
+    <section class="controls" aria-label="検索と絞り込み">
+      <input
+        type="search"
+        id="search-box"
+        class="search-box"
+        placeholder="アイドル名・ユニット名・衣装名・タグで検索"
+        autocomplete="off"
+      >
+
+      <div class="filters">
+        <label class="filter-item">
+          <span>解放状態</span>
+          <select id="filter-unlock">
+            <option value="">すべて</option>
+            <option value="unlocked">解放済み</option>
+            <option value="card_only">カード所持のみ</option>
+            <option value="card_missing">カード未所持</option>
+            <option value="not_purchased">未購入</option>
+          </select>
+        </label>
+
+        <label class="filter-item filter-checkbox">
+          <input type="checkbox" id="filter-requestable" checked>
+          <span>リクエスト可能のみ</span>
+        </label>
+      </div>
+
+      <p class="result-count" id="result-count"></p>
+    </section>
+
+    <section id="card-grid" class="card-grid" aria-live="polite"></section>
+    <p id="empty-message" class="empty-message" hidden>該当する衣装がありません。</p>
+  </main>
+
+  <!-- 詳細モーダル -->
+  <div id="modal-overlay" class="modal-overlay" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button type="button" class="modal-close" id="modal-close" aria-label="閉じる">×</button>
+      <div id="modal-body" class="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Phase 1 MVP｜画像加工・OCRは未実装</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

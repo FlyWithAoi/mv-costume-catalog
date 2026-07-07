@@ -1,0 +1,8 @@
+_private/
+tools/costume-image-processor/debug/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+.venv/
+*.pyc

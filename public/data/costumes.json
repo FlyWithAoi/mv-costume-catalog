@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-07",
+  "costumes": [
+    {
+      "id": "hibiki-wataru_common-01",
+      "idol": "日々樹 渉",
+      "idol_slug": "hibiki-wataru",
+      "unit": "fine",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_common-01_icon.webp",
+        "front": "hibiki-wataru_common-01_front.webp",
+        "back": "hibiki-wataru_common-01_back.webp"
+      },
+      "tags": ["白系", "制服", "通年"],
+      "note_public": "",
+      "updated_at": "2026-07-07"
+    },
+    {
+      "id": "hibiki-wataru_caelum-01",
+      "idol": "日々樹 渉",
+      "idol_slug": "hibiki-wataru",
+      "unit": "fine",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_caelum-01_icon.webp",
+        "front": "hibiki-wataru_caelum-01_front.webp",
+        "back": "hibiki-wataru_caelum-01_back.webp"
+      },
+      "tags": ["白系", "青系", "王子様"],
+      "note_public": "",
+      "updated_at": "2026-07-07"
+    },
+    {
+      "id": "hibiki-wataru_black-01",
+      "idol": "日々樹 渉",
+      "idol_slug": "hibiki-wataru",
+      "unit": "fine",
+      "costume_name": "黒系衣装（仮）",
+      "costume_group": "other",
+      "unlock_status": "card_only",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_black-01_icon.webp",
+        "front": "hibiki-wataru_black-01_front.webp",
+        "back": "hibiki-wataru_black-01_back.webp"
+      },
+      "tags": ["黒系", "クール"],
+      "note_public": "",
+      "updated_at": "2026-07-07"
+    },
+    {
+      "id": "hibiki-wataru_headparts-01",
+      "idol": "日々樹 渉",
+      "idol_slug": "hibiki-wataru",
+      "unit": "fine",
+      "costume_name": "ヘッドパーツあり衣装（仮）",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_headparts-01_icon.webp",
+        "front": "hibiki-wataru_headparts-01_front.webp",
+        "back": "hibiki-wataru_headparts-01_back.webp"
+      },
+      "tags": ["帽子・ヘッドパーツあり", "華やか"],
+      "note_public": "",
+      "updated_at": "2026-07-07"
+    },
+    {
+      "id": "hibiki-wataru_starlight-10th-01",
+      "idol": "日々樹 渉",
+      "idol_slug": "hibiki-wataru",
+      "unit": "fine",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "shop",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": ["Tシャツ", "ライブ"],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-07"
+    }
+  ]
+}
