@@ -6,3 +6,4 @@ desktop.ini
 __pycache__/
 .venv/
 *.pyc
+.claude/
