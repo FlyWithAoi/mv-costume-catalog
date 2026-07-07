@@ -4,9 +4,7 @@
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
-      "idol": "日々樹 渉",
       "idol_slug": "hibiki-wataru",
-      "unit": "fine",
       "costume_name": "共通アイドル衣装",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -22,9 +20,7 @@
     },
     {
       "id": "hibiki-wataru_caelum-01",
-      "idol": "日々樹 渉",
       "idol_slug": "hibiki-wataru",
-      "unit": "fine",
       "costume_name": "Caelum",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -40,9 +36,7 @@
     },
     {
       "id": "hibiki-wataru_black-01",
-      "idol": "日々樹 渉",
       "idol_slug": "hibiki-wataru",
-      "unit": "fine",
       "costume_name": "黒系衣装（仮）",
       "costume_group": "other",
       "unlock_status": "card_only",
@@ -58,9 +52,7 @@
     },
     {
       "id": "hibiki-wataru_headparts-01",
-      "idol": "日々樹 渉",
       "idol_slug": "hibiki-wataru",
-      "unit": "fine",
       "costume_name": "ヘッドパーツあり衣装（仮）",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -76,9 +68,7 @@
     },
     {
       "id": "hibiki-wataru_starlight-10th-01",
-      "idol": "日々樹 渉",
       "idol_slug": "hibiki-wataru",
-      "unit": "fine",
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "shop",
       "unlock_status": "not_purchased",

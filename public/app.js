@@ -2,6 +2,8 @@
 
 // ---- 設定 ----
 const DATA_URL = "data/costumes.json";
+const IDOLS_URL = "data/idols.json";
+const UNITS_URL = "data/units.json";
 const IMAGE_BASE = "images/costumes"; // + /{idol_slug}/{filename}
 
 // 固定コード -> 日本語表示
@@ -25,6 +27,12 @@ const GROUP_LABELS = {
 
 // ---- 状態 ----
 let allCostumes = [];
+// slug -> アイドルマスタ（idols.json）
+let idolBySlug = {};
+// slug -> ユニットマスタ（units.json）
+let unitsBySlug = {};
+// idol_slug -> 所属ユニット配列（units.json の member_slugs から逆引き）
+let unitsByMemberSlug = {};
 
 // ---- DOM ----
 const searchBox = document.getElementById("search-box");
@@ -48,6 +56,40 @@ function labelGroup(code) {
 
 function imagePath(idolSlug, filename) {
   return `${IMAGE_BASE}/${idolSlug}/${filename}`;
+}
+
+// 検索用の正規化。入力側・データ側の両方に必ず同じ関数を通すこと。
+// NFKC で全角/半角・互換文字をそろえ、小文字化し、空白と検索の邪魔になる記号を除去する。
+// これにより「日々樹 渉」==「日々樹渉」、「Ra*bits」==「rabits」、
+// 「Special for Princess!」==「specialforprincess」が別名なしでも一致する。
+function normalizeForSearch(str) {
+  if (str == null) return "";
+  return String(str)
+    .normalize("NFKC")
+    .toLowerCase()
+    // ASCII の記号・空白（* ! - _ / . , など）をまとめて除去
+    .replace(/[\s!-/:-@[-`{-~]/g, "")
+    // 日本語などの記号（中黒・読点・句点・各種括弧・波ダッシュ・ハイフン類）
+    .replace(/[・、。，．「」『』【】〔〕〈〉《》（）〜～‐‑‒–—―]/g, "");
+}
+
+// idol_slug -> 表示用アイドル名。未登録なら壊さずフォールバック表示。
+function idolName(idolSlug) {
+  const idol = idolBySlug[idolSlug];
+  return idol ? idol.name : "不明なアイドル";
+}
+
+// idol_slug -> 所属ユニット名（複数所属は「・」区切り）。未所属なら空文字。
+function unitLabelForIdol(idolSlug) {
+  const units = unitsByMemberSlug[idolSlug] || [];
+  return units.map((u) => u.name).join("・");
+}
+
+// カード・モーダル共通の「アイドル名｜ユニット名」表示文字列。
+function idolUnitLabel(idolSlug) {
+  const name = idolName(idolSlug);
+  const unitLabel = unitLabelForIdol(idolSlug);
+  return unitLabel ? `${name}｜${unitLabel}` : name;
 }
 
 // 画像読み込み失敗時のフォールバック（ファイル未配置でも壊れない）
@@ -98,7 +140,7 @@ function createCard(c) {
 
   const idol = document.createElement("div");
   idol.className = "card-idol";
-  idol.textContent = `${c.idol}｜${c.unit}`;
+  idol.textContent = idolUnitLabel(c.idol_slug);
 
   heading.appendChild(name);
   heading.appendChild(idol);
@@ -135,7 +177,7 @@ function createCard(c) {
 
 // ---- フィルタリング ----
 function getFiltered() {
-  const q = searchBox.value.trim().toLowerCase();
+  const q = normalizeForSearch(searchBox.value);
   const unlock = filterUnlock.value;
   const onlyRequestable = filterRequestable.checked;
 
@@ -143,17 +185,8 @@ function getFiltered() {
     if (onlyRequestable && !c.requestable) return false;
     if (unlock && c.unlock_status !== unlock) return false;
 
-    if (q) {
-      const haystack = [
-        c.idol,
-        c.unit,
-        c.costume_name,
-        ...(Array.isArray(c.tags) ? c.tags : []),
-      ]
-        .join(" ")
-        .toLowerCase();
-      if (!haystack.includes(q)) return false;
-    }
+    // _search は init 時に事前構築した正規化済み検索文字列
+    if (q && !(c._search || "").includes(q)) return false;
     return true;
   });
 }
@@ -176,8 +209,9 @@ function render() {
 
 // ---- モーダル ----
 function buildRequestText(c) {
-  // 例: 渉：Caelum
-  const shortName = c.idol.split(/\s+/).pop() || c.idol;
+  // 例: 渉：Caelum（表示名の末尾トークンを短縮名として使う）
+  const full = idolName(c.idol_slug);
+  const shortName = full.split(/\s+/).pop() || full;
   return `${shortName}：${c.costume_name}`;
 }
 
@@ -191,7 +225,7 @@ function openModal(c) {
 
   const idol = document.createElement("p");
   idol.className = "modal-idol";
-  idol.textContent = `${c.idol}｜${c.unit}`;
+  idol.textContent = idolUnitLabel(c.idol_slug);
   modalBody.appendChild(idol);
 
   // メタ
@@ -358,23 +392,94 @@ filterUnlock.addEventListener("change", render);
 filterRequestable.addEventListener("change", render);
 
 // ---- 初期化 ----
+async function fetchJson(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status} (${url})`);
+  return res.json();
+}
+
+// idols.json / units.json から lookup 用マップを構築する。
+function buildMaps(idolsData, unitsData) {
+  idolBySlug = {};
+  unitsBySlug = {};
+  unitsByMemberSlug = {};
+
+  const idols = Array.isArray(idolsData.idols) ? idolsData.idols : [];
+  idols.forEach((idol) => {
+    if (idol && idol.slug) idolBySlug[idol.slug] = idol;
+  });
+
+  const units = Array.isArray(unitsData.units) ? unitsData.units : [];
+  units.forEach((unit) => {
+    if (!unit || !unit.slug) return;
+    unitsBySlug[unit.slug] = unit;
+    const members = Array.isArray(unit.member_slugs) ? unit.member_slugs : [];
+    members.forEach((memberSlug) => {
+      if (!unitsByMemberSlug[memberSlug]) unitsByMemberSlug[memberSlug] = [];
+      unitsByMemberSlug[memberSlug].push(unit);
+    });
+  });
+}
+
+// 各衣装レコードに、正規化済みの検索文字列 _search を1回だけ事前構築する。
+// ユニット名は所属アイドル経由で含めるので、検索欄に「fine」「フィーネ」と入れると
+// fine 所属アイドルの衣装（個別衣装・クロス衣装含む）がすべてヒットする。
+function buildSearchIndex() {
+  allCostumes.forEach((c) => {
+    const parts = [c.costume_name, c.note_public];
+    if (Array.isArray(c.tags)) parts.push(...c.tags);
+
+    const idol = idolBySlug[c.idol_slug];
+    if (idol) {
+      parts.push(idol.name, idol.name_kana, idol.name_romaji);
+      if (Array.isArray(idol.aliases)) parts.push(...idol.aliases);
+    }
+
+    const units = unitsByMemberSlug[c.idol_slug] || [];
+    units.forEach((u) => {
+      parts.push(u.name);
+      if (Array.isArray(u.aliases)) parts.push(...u.aliases);
+    });
+
+    // 各パートを個別に正規化してから空白で連結する。
+    // 正規化後の検索クエリには空白が含まれないため、空白は安全な区切り文字になる。
+    c._search = parts.map(normalizeForSearch).join(" ");
+  });
+}
+
+// costumes.json の idol_slug が idols.json に無い場合は警告（ページは壊さない）。
+function warnUnknownSlugs() {
+  allCostumes.forEach((c) => {
+    if (!idolBySlug[c.idol_slug]) {
+      console.warn(
+        `costumes.json の idol_slug "${c.idol_slug}" が idols.json に見つかりません（表示は「不明なアイドル」になります）。`
+      );
+    }
+  });
+}
+
 async function init() {
   // 念のため：初期表示ではモーダルを必ず非表示にする
   modalOverlay.hidden = true;
   document.body.style.overflow = "";
 
   try {
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    allCostumes = Array.isArray(data.costumes) ? data.costumes : [];
+    const [costumesData, idolsData, unitsData] = await Promise.all([
+      fetchJson(DATA_URL),
+      fetchJson(IDOLS_URL),
+      fetchJson(UNITS_URL),
+    ]);
+    allCostumes = Array.isArray(costumesData.costumes) ? costumesData.costumes : [];
+    buildMaps(idolsData, unitsData);
+    warnUnknownSlugs();
+    buildSearchIndex();
   } catch (err) {
     cardGrid.innerHTML = "";
     emptyMessage.hidden = false;
     emptyMessage.textContent =
       "データの読み込みに失敗しました。ローカル確認は python -m http.server を使ってください（index.html を直接開くと fetch がブロックされます）。";
     resultCount.textContent = "";
-    console.error("costumes.json の読み込みに失敗:", err);
+    console.error("データ（costumes/idols/units）の読み込みに失敗:", err);
     return;
   }
   render();

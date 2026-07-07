@@ -92,9 +92,22 @@
 ### 現在の `costumes.json` の役割
 
 - 1レコード＝「アイドル1人の衣装1着」
-- Webページが読み込む唯一のデータソース（`public/data/costumes.json`）
-- アイドル名・ユニット名は現状、衣装レコードの中に文字列でそのまま持っている（`idol`, `unit` フィールド）
+- Webページは `costumes.json` / `idols.json` / `units.json` の3ファイルを `Promise.all` で読み込む
+- アイドル名・ユニット名は **`idol_slug` を正** とし、表示名は `idols.json` / `units.json` から lookup して補完する（C-1で移行済み。旧 `idol` / `unit` フィールドは削除）
+  - `idols.json`: アイドルマスタ（`slug` / `name` / `name_kana` / `name_romaji` / `aliases` / `sort_order`）
+  - `units.json`: ユニットマスタ（`slug` / `name` / `aliases` / `unit_type` / `member_slugs` / `sort_order`）
+  - 「アイドル→所属ユニット」は `units.json` の `member_slugs` を正とし、読み込み時に逆引きマップ（`unitsByMemberSlug`）を構築する
+  - `idol_slug` が `idols.json` に無い場合は `console.warn` を出し、表示は「不明なアイドル」にフォールバックする
 - `unlock_status` / `costume_group` は固定コードで持ち、日本語表示への変換は `app.js` 側の変換テーブルで行っている
+
+### 検索の仕様（C-1）
+
+- 検索対象: 衣装名・タグ・公開メモ・アイドル名/読み/ローマ字/別名・所属ユニット名/別名
+- 入力とデータの両方を同じ正規化関数（`normalizeForSearch`）に通す: `NFKC` 正規化＋小文字化＋空白・記号除去
+  - これにより `日々樹 渉`＝`日々樹渉`、`Ra*bits`＝`rabits`、`Special for Princess!`＝`specialforprincess` が別名なしで一致する
+- 各衣装に正規化済みの検索文字列 `_search` を読み込み時に1回だけ事前構築する（毎回 units→members を辿り直さない）
+- **ユニット名検索は所属アイドル経由**: `fine` / `フィーネ` で検索すると fine 所属アイドルの衣装（個別衣装・クロス衣装含む）がすべてヒットする。「衣装自体が fine 衣装か」ではなく「着ているアイドルが fine 所属か」で判定する
+- 将来「この衣装がどのユニット衣装か」を厳密に管理したくなったら、`costume_unit_slug` のような別フィールドを追加する方針（C-1では未追加）
 
 ### 今後、データが増える前に検討したいこと
 

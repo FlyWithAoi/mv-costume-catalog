@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-07",
+  "units": [
+    {
+      "slug": "fine",
+      "name": "fine",
+      "aliases": ["フィーネ"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "tenshouin-eichi",
+        "hibiki-wataru",
+        "himemiya-tori",
+        "fushimi-yuzuru"
+      ],
+      "sort_order": 10
+    }
+  ]
+}

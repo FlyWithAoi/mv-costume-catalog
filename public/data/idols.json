@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-07",
+  "idols": [
+    {
+      "slug": "tenshouin-eichi",
+      "name": "天祥院 英智",
+      "name_kana": "てんしょういん えいち",
+      "name_romaji": "tenshouin eichi",
+      "aliases": ["英智", "eichi"],
+      "sort_order": 10
+    },
+    {
+      "slug": "hibiki-wataru",
+      "name": "日々樹 渉",
+      "name_kana": "ひびき わたる",
+      "name_romaji": "hibiki wataru",
+      "aliases": ["渉", "wataru"],
+      "sort_order": 20
+    },
+    {
+      "slug": "himemiya-tori",
+      "name": "姫宮 桃李",
+      "name_kana": "ひめみや とうり",
+      "name_romaji": "himemiya tori",
+      "aliases": ["桃李", "tori"],
+      "sort_order": 30
+    },
+    {
+      "slug": "fushimi-yuzuru",
+      "name": "伏見 弓弦",
+      "name_kana": "ふしみ ゆづる",
+      "name_romaji": "fushimi yuzuru",
+      "aliases": ["弓弦", "yuzuru"],
+      "sort_order": 40
+    }
+  ]
+}
