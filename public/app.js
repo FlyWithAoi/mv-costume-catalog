@@ -36,6 +36,7 @@ let unitsByMemberSlug = {};
 
 // ---- DOM ----
 const searchBox = document.getElementById("search-box");
+const filterUnit = document.getElementById("filter-unit");
 const filterUnlock = document.getElementById("filter-unlock");
 const filterRequestable = document.getElementById("filter-requestable");
 const cardGrid = document.getElementById("card-grid");
@@ -178,10 +179,25 @@ function createCard(c) {
 // ---- フィルタリング ----
 function getFiltered() {
   const q = normalizeForSearch(searchBox.value);
+  const unitSlug = filterUnit.value;
   const unlock = filterUnlock.value;
   const onlyRequestable = filterRequestable.checked;
 
+  // 選択中ユニットの所属メンバー一覧（未選択なら null = 絞り込みなし）
+  let unitMembers = null;
+  if (unitSlug) {
+    const unit = unitsBySlug[unitSlug];
+    if (unit) {
+      unitMembers = Array.isArray(unit.member_slugs) ? unit.member_slugs : [];
+    } else {
+      // 不明なslug：ページは壊さず0件扱い
+      console.warn(`ユニットslug "${unitSlug}" が units.json に見つかりません。`);
+      unitMembers = [];
+    }
+  }
+
   return allCostumes.filter((c) => {
+    if (unitMembers && !unitMembers.includes(c.idol_slug)) return false;
     if (onlyRequestable && !c.requestable) return false;
     if (unlock && c.unlock_status !== unlock) return false;
 
@@ -388,6 +404,7 @@ document.addEventListener("keydown", (e) => {
 
 // ---- イベント ----
 searchBox.addEventListener("input", render);
+filterUnit.addEventListener("change", render);
 filterUnlock.addEventListener("change", render);
 filterRequestable.addEventListener("change", render);
 
@@ -447,6 +464,19 @@ function buildSearchIndex() {
   });
 }
 
+// units.json からユニットプルダウンの選択肢を生成する（sort_order 昇順）。
+// 先頭の「すべてのユニット」（value=""）は index.html 側に固定で置いてある。
+function buildUnitOptions() {
+  const units = Object.values(unitsBySlug).slice();
+  units.sort((a, b) => (a.sort_order || 0) - (b.sort_order || 0));
+  units.forEach((unit) => {
+    const opt = document.createElement("option");
+    opt.value = unit.slug;
+    opt.textContent = unit.name;
+    filterUnit.appendChild(opt);
+  });
+}
+
 // costumes.json の idol_slug が idols.json に無い場合は警告（ページは壊さない）。
 function warnUnknownSlugs() {
   allCostumes.forEach((c) => {
@@ -471,6 +501,7 @@ async function init() {
     ]);
     allCostumes = Array.isArray(costumesData.costumes) ? costumesData.costumes : [];
     buildMaps(idolsData, unitsData);
+    buildUnitOptions();
     warnUnknownSlugs();
     buildSearchIndex();
   } catch (err) {
