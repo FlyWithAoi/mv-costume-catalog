@@ -6,6 +6,8 @@
 
 公開前チェックリストは `docs/publish-checklist.md` を参照。
 
+衣装グループ（`costume_group` / `tags`）の分類ルールは `docs/costume-group-rules.md` を参照。
+
 ---
 
 ## 1. プロジェクト概要
