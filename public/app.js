@@ -12,6 +12,7 @@ const UNLOCK_LABELS = {
   card_only: "カード所持のみ",
   card_missing: "カード未所持",
   not_purchased: "未購入",
+  locked: "未解放",
 };
 
 const GROUP_LABELS = {

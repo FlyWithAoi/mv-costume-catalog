@@ -147,6 +147,70 @@
       "updated_at": "2026-07-08"
     },
     {
+      "id": "shino-hajime_common-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_common-01_icon.webp",
+        "front": "shino-hajime_common-01_front.webp",
+        "back": "shino-hajime_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "shino-hajime_rabits-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Ra*bits衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_rabits-01_icon.webp",
+        "front": "shino-hajime_rabits-01_front.webp",
+        "back": "shino-hajime_rabits-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "shino-hajime_geishun-hisho-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "迎春飛翔",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_geishun-hisho-01_icon.webp",
+        "front": "shino-hajime_geishun-hisho-01_front.webp",
+        "back": "shino-hajime_geishun-hisho-01_back.webp"
+      },
+      "tags": ["和装", "お正月"],
+      "note_public": "",
+      "updated_at": "2026-07-08"
+    },
+    {
+      "id": "shino-hajime_common-scr-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-08"
+    },
+    {
       "id": "sakuma-rei_caelum-01",
       "idol_slug": "sakuma-rei",
       "costume_name": "Caelum",

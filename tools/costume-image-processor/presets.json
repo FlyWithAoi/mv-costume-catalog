@@ -104,6 +104,40 @@
         }
       }
     },
+    "hajime_test": {
+      "idol_slug": "shino-hajime",
+      "output_dir": "shino-hajime",
+      "items": {
+        "01_common": {
+          "_comment": "実名 共通アイドル衣装。選択中カードは1行目2枚目。自動検出だと下の行のMVバッジまで枠が広がるため manual_crop。",
+          "id": "shino-hajime_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 755, "y": 290, "width": 195, "height": 195 },
+          "has_body_images": true
+        },
+        "02_unit": {
+          "_comment": "実名 Ra*bits衣装。選択中カードは1行目3枚目で自動検出が隣のカードに誤爆するため manual_crop。",
+          "id": "shino-hajime_rabits-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 925, "y": 290, "width": 195, "height": 195 },
+          "has_body_images": true
+        },
+        "03_geisyunHisho": {
+          "_comment": "実名 迎春飛翔。選択中カードは1行目1枚目で共通 search_area の左外のため manual_crop 前提。",
+          "id": "shino-hajime_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 585, "y": 290, "width": 195, "height": 195 },
+          "has_body_images": true
+        },
+        "05_locked": {
+          "_comment": "実名 共通アイドル衣装（SCR）。未解放詳細ポップアップの手動crop（wataru/toriの05と同レイアウト）。",
+          "id": "shino-hajime_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
+          "has_body_images": false
+        }
+      }
+    },
     "rei_test": {
       "idol_slug": "sakuma-rei",
       "output_dir": "sakuma-rei",

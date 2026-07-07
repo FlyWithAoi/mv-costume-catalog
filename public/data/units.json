@@ -27,6 +27,19 @@
         "otogari-adonis"
       ],
       "sort_order": 70
+    },
+    {
+      "slug": "rabits",
+      "name": "Ra*bits",
+      "aliases": ["ラビッツ"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "nito-nazuna",
+        "shino-hajime",
+        "mashiro-tomoya",
+        "tenma-mitsuru"
+      ],
+      "sort_order": 80
     }
   ]
 }

@@ -35,6 +35,38 @@
       "sort_order": 40
     },
     {
+      "slug": "nito-nazuna",
+      "name": "仁兎 なずな",
+      "name_kana": "にと なずな",
+      "name_romaji": "nito nazuna",
+      "aliases": ["なずな", "nazuna"],
+      "sort_order": 200
+    },
+    {
+      "slug": "shino-hajime",
+      "name": "紫之 創",
+      "name_kana": "しの はじめ",
+      "name_romaji": "shino hajime",
+      "aliases": ["創", "hajime"],
+      "sort_order": 210
+    },
+    {
+      "slug": "mashiro-tomoya",
+      "name": "真白 友也",
+      "name_kana": "ましろ ともや",
+      "name_romaji": "mashiro tomoya",
+      "aliases": ["友也", "tomoya"],
+      "sort_order": 220
+    },
+    {
+      "slug": "tenma-mitsuru",
+      "name": "天満 光",
+      "name_kana": "てんま みつる",
+      "name_romaji": "tenma mitsuru",
+      "aliases": ["光", "mitsuru"],
+      "sort_order": 230
+    },
+    {
       "slug": "sakuma-rei",
       "name": "朔間 零",
       "name_kana": "さくま れい",
