@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08",
+  "updated_at": "2026-07-09",
   "idols": [
     {
       "slug": "tenshouin-eichi",
@@ -8,7 +8,7 @@
       "name_kana": "てんしょういん えいち",
       "name_romaji": "tenshouin eichi",
       "aliases": ["英智", "eichi"],
-      "sort_order": 10
+      "sort_order": 110
     },
     {
       "slug": "hibiki-wataru",
@@ -16,7 +16,7 @@
       "name_kana": "ひびき わたる",
       "name_romaji": "hibiki wataru",
       "aliases": ["渉", "wataru"],
-      "sort_order": 20
+      "sort_order": 120
     },
     {
       "slug": "himemiya-tori",
@@ -24,7 +24,7 @@
       "name_kana": "ひめみや とうり",
       "name_romaji": "himemiya tori",
       "aliases": ["桃李", "tori"],
-      "sort_order": 30
+      "sort_order": 130
     },
     {
       "slug": "fushimi-yuzuru",
@@ -32,39 +32,207 @@
       "name_kana": "ふしみ ゆづる",
       "name_romaji": "fushimi yuzuru",
       "aliases": ["弓弦", "yuzuru"],
-      "sort_order": 40
+      "sort_order": 140
     },
     {
-      "slug": "nito-nazuna",
-      "name": "仁兎 なずな",
-      "name_kana": "にと なずな",
-      "name_romaji": "nito nazuna",
-      "aliases": ["なずな", "nazuna"],
-      "sort_order": 200
-    },
-    {
-      "slug": "shino-hajime",
-      "name": "紫之 創",
-      "name_kana": "しの はじめ",
-      "name_romaji": "shino hajime",
-      "aliases": ["創", "hajime"],
+      "slug": "hidaka-hokuto",
+      "name": "氷鷹 北斗",
+      "name_kana": "ひだか ほくと",
+      "name_romaji": "hidaka hokuto",
+      "aliases": ["北斗", "hokuto"],
       "sort_order": 210
     },
     {
-      "slug": "mashiro-tomoya",
-      "name": "真白 友也",
-      "name_kana": "ましろ ともや",
-      "name_romaji": "mashiro tomoya",
-      "aliases": ["友也", "tomoya"],
+      "slug": "akehoshi-subaru",
+      "name": "明星 スバル",
+      "name_kana": "あけほし すばる",
+      "name_romaji": "akehoshi subaru",
+      "aliases": ["スバル", "subaru"],
       "sort_order": 220
     },
     {
-      "slug": "tenma-mitsuru",
-      "name": "天満 光",
-      "name_kana": "てんま みつる",
-      "name_romaji": "tenma mitsuru",
-      "aliases": ["光", "mitsuru"],
+      "slug": "yuuki-makoto",
+      "name": "遊木 真",
+      "name_kana": "ゆうき まこと",
+      "name_romaji": "yuuki makoto",
+      "aliases": ["真", "makoto"],
       "sort_order": 230
+    },
+    {
+      "slug": "isara-mao",
+      "name": "衣更 真緒",
+      "name_kana": "いさら まお",
+      "name_romaji": "isara mao",
+      "aliases": ["真緒", "mao"],
+      "sort_order": 240
+    },
+    {
+      "slug": "nagumo-tetora",
+      "name": "南雲 鉄虎",
+      "name_kana": "なぐも てとら",
+      "name_romaji": "nagumo tetora",
+      "aliases": ["鉄虎", "tetora"],
+      "sort_order": 310
+    },
+    {
+      "slug": "takamine-midori",
+      "name": "高峯 翠",
+      "name_kana": "たかみね みどり",
+      "name_romaji": "takamine midori",
+      "aliases": ["翠", "midori"],
+      "sort_order": 320
+    },
+    {
+      "slug": "sengoku-shinobu",
+      "name": "仙石 忍",
+      "name_kana": "せんごく しのぶ",
+      "name_romaji": "sengoku shinobu",
+      "aliases": ["忍", "shinobu"],
+      "sort_order": 330
+    },
+    {
+      "slug": "morisawa-chiaki",
+      "name": "守沢 千秋",
+      "name_kana": "もりさわ ちあき",
+      "name_romaji": "morisawa chiaki",
+      "aliases": ["千秋", "chiaki"],
+      "sort_order": 340
+    },
+    {
+      "slug": "shinkai-kanata",
+      "name": "深海 奏汰",
+      "name_kana": "しんかい かなた",
+      "name_romaji": "shinkai kanata",
+      "aliases": ["奏汰", "kanata"],
+      "sort_order": 350
+    },
+    {
+      "slug": "amagi-hiiro",
+      "name": "天城 一彩",
+      "name_kana": "あまぎ ひいろ",
+      "name_romaji": "amagi hiiro",
+      "aliases": ["一彩", "hiiro"],
+      "sort_order": 410
+    },
+    {
+      "slug": "shiratori-aira",
+      "name": "白鳥 藍良",
+      "name_kana": "しらとり あいら",
+      "name_romaji": "shiratori aira",
+      "aliases": ["藍良", "aira"],
+      "sort_order": 420
+    },
+    {
+      "slug": "ayase-mayoi",
+      "name": "礼瀬 マヨイ",
+      "name_kana": "あやせ まよい",
+      "name_romaji": "ayase mayoi",
+      "aliases": ["マヨイ", "mayoi"],
+      "sort_order": 430
+    },
+    {
+      "slug": "kazehaya-tatsumi",
+      "name": "風早 巽",
+      "name_kana": "かぜはや たつみ",
+      "name_romaji": "kazehaya tatsumi",
+      "aliases": ["巽", "tatsumi"],
+      "sort_order": 440
+    },
+    {
+      "slug": "ran-nagisa",
+      "name": "乱 凪砂",
+      "name_kana": "らん なぎさ",
+      "name_romaji": "ran nagisa",
+      "aliases": ["凪砂", "nagisa"],
+      "sort_order": 510
+    },
+    {
+      "slug": "tomoe-hiyori",
+      "name": "巴 日和",
+      "name_kana": "ともえ ひより",
+      "name_romaji": "tomoe hiyori",
+      "aliases": ["日和", "hiyori"],
+      "sort_order": 520
+    },
+    {
+      "slug": "saegusa-ibara",
+      "name": "七種 茨",
+      "name_kana": "さえぐさ いばら",
+      "name_romaji": "saegusa ibara",
+      "aliases": ["茨", "ibara"],
+      "sort_order": 530
+    },
+    {
+      "slug": "sazanami-jun",
+      "name": "漣 ジュン",
+      "name_kana": "さざなみ じゅん",
+      "name_romaji": "sazanami jun",
+      "aliases": ["ジュン", "jun"],
+      "sort_order": 540
+    },
+    {
+      "slug": "itsuki-shu",
+      "name": "斎宮 宗",
+      "name_kana": "いつき しゅう",
+      "name_romaji": "itsuki shu",
+      "aliases": ["宗", "shu"],
+      "sort_order": 610
+    },
+    {
+      "slug": "kagehira-mika",
+      "name": "影片 みか",
+      "name_kana": "かげひら みか",
+      "name_romaji": "kagehira mika",
+      "aliases": ["みか", "mika"],
+      "sort_order": 620
+    },
+    {
+      "slug": "aoi-hinata",
+      "name": "葵 ひなた",
+      "name_kana": "あおい ひなた",
+      "name_romaji": "aoi hinata",
+      "aliases": ["ひなた", "hinata"],
+      "sort_order": 710
+    },
+    {
+      "slug": "aoi-yuuta",
+      "name": "葵 ゆうた",
+      "name_kana": "あおい ゆうた",
+      "name_romaji": "aoi yuuta",
+      "aliases": ["ゆうた", "yuuta"],
+      "sort_order": 720
+    },
+    {
+      "slug": "amagi-rinne",
+      "name": "天城 燐音",
+      "name_kana": "あまぎ りんね",
+      "name_romaji": "amagi rinne",
+      "aliases": ["燐音", "rinne"],
+      "sort_order": 810
+    },
+    {
+      "slug": "himeru",
+      "name": "HiMERU",
+      "name_kana": "ひめる",
+      "name_romaji": "himeru",
+      "aliases": [],
+      "sort_order": 820
+    },
+    {
+      "slug": "oukawa-kohaku",
+      "name": "桜河 こはく",
+      "name_kana": "おうかわ こはく",
+      "name_romaji": "oukawa kohaku",
+      "aliases": ["こはく", "kohaku"],
+      "sort_order": 830
+    },
+    {
+      "slug": "shiina-niki",
+      "name": "椎名 ニキ",
+      "name_kana": "しいな にき",
+      "name_romaji": "shiina niki",
+      "aliases": ["ニキ", "niki"],
+      "sort_order": 840
     },
     {
       "slug": "sakuma-rei",
@@ -72,7 +240,7 @@
       "name_kana": "さくま れい",
       "name_romaji": "sakuma rei",
       "aliases": ["零", "rei"],
-      "sort_order": 110
+      "sort_order": 910
     },
     {
       "slug": "hakaze-kaoru",
@@ -80,7 +248,7 @@
       "name_kana": "はかぜ かおる",
       "name_romaji": "hakaze kaoru",
       "aliases": ["薫", "kaoru"],
-      "sort_order": 120
+      "sort_order": 920
     },
     {
       "slug": "oogami-koga",
@@ -88,7 +256,7 @@
       "name_kana": "おおがみ こうが",
       "name_romaji": "oogami koga",
       "aliases": ["晃牙", "koga"],
-      "sort_order": 130
+      "sort_order": 930
     },
     {
       "slug": "otogari-adonis",
@@ -96,7 +264,223 @@
       "name_kana": "おとがり あどにす",
       "name_romaji": "otogari adonis",
       "aliases": ["アドニス", "adonis"],
-      "sort_order": 140
+      "sort_order": 940
+    },
+    {
+      "slug": "nito-nazuna",
+      "name": "仁兎 なずな",
+      "name_kana": "にと なずな",
+      "name_romaji": "nito nazuna",
+      "aliases": ["なずな", "nazuna"],
+      "sort_order": 1010
+    },
+    {
+      "slug": "shino-hajime",
+      "name": "紫之 創",
+      "name_kana": "しの はじめ",
+      "name_romaji": "shino hajime",
+      "aliases": ["創", "hajime"],
+      "sort_order": 1020
+    },
+    {
+      "slug": "mashiro-tomoya",
+      "name": "真白 友也",
+      "name_kana": "ましろ ともや",
+      "name_romaji": "mashiro tomoya",
+      "aliases": ["友也", "tomoya"],
+      "sort_order": 1030
+    },
+    {
+      "slug": "tenma-mitsuru",
+      "name": "天満 光",
+      "name_kana": "てんま みつる",
+      "name_romaji": "tenma mitsuru",
+      "aliases": ["光", "mitsuru"],
+      "sort_order": 1040
+    },
+    {
+      "slug": "hasumi-keito",
+      "name": "蓮巳 敬人",
+      "name_kana": "はすみ けいと",
+      "name_romaji": "hasumi keito",
+      "aliases": ["敬人", "keito"],
+      "sort_order": 1110
+    },
+    {
+      "slug": "kiryuu-kurou",
+      "name": "鬼龍 紅郎",
+      "name_kana": "きりゅう くろう",
+      "name_romaji": "kiryuu kurou",
+      "aliases": ["紅郎", "kurou"],
+      "sort_order": 1120
+    },
+    {
+      "slug": "kanzaki-souma",
+      "name": "神崎 颯馬",
+      "name_kana": "かんざき そうま",
+      "name_romaji": "kanzaki souma",
+      "aliases": ["颯馬", "souma"],
+      "sort_order": 1130
+    },
+    {
+      "slug": "taki-ibuki",
+      "name": "滝 維吹",
+      "name_kana": "たき いぶき",
+      "name_romaji": "taki ibuki",
+      "aliases": ["維吹", "ibuki"],
+      "sort_order": 1140
+    },
+    {
+      "slug": "kojika-juisu",
+      "name": "小鹿 ジュイス",
+      "name_kana": "こじか じゅいす",
+      "name_romaji": "kojika juisu",
+      "aliases": ["ジュイス", "juisu"],
+      "sort_order": 1210
+    },
+    {
+      "slug": "madoka-nozomi",
+      "name": "円果 望見",
+      "name_kana": "まどか のぞみ",
+      "name_romaji": "madoka nozomi",
+      "aliases": ["望見", "nozomi"],
+      "sort_order": 1220
+    },
+    {
+      "slug": "kuon-mashu",
+      "name": "久遠 舞珠",
+      "name_kana": "くおん ましゅ",
+      "name_romaji": "kuon mashu",
+      "aliases": ["舞珠", "mashu"],
+      "sort_order": 1230
+    },
+    {
+      "slug": "tsuzura-chitose",
+      "name": "甘楽 チトセ",
+      "name_kana": "つづら ちとせ",
+      "name_romaji": "tsuzura chitose",
+      "aliases": ["チトセ", "chitose"],
+      "sort_order": 1240
+    },
+    {
+      "slug": "suou-tsukasa",
+      "name": "朱桜 司",
+      "name_kana": "すおう つかさ",
+      "name_romaji": "suou tsukasa",
+      "aliases": ["司", "tsukasa"],
+      "sort_order": 1310
+    },
+    {
+      "slug": "tsukinaga-reo",
+      "name": "月永 レオ",
+      "name_kana": "つきなが れお",
+      "name_romaji": "tsukinaga reo",
+      "aliases": ["レオ", "reo"],
+      "sort_order": 1320
+    },
+    {
+      "slug": "sena-izumi",
+      "name": "瀬名 泉",
+      "name_kana": "せな いずみ",
+      "name_romaji": "sena izumi",
+      "aliases": ["泉", "izumi"],
+      "sort_order": 1330
+    },
+    {
+      "slug": "sakuma-ritsu",
+      "name": "朔間 凛月",
+      "name_kana": "さくま りつ",
+      "name_romaji": "sakuma ritsu",
+      "aliases": ["凛月", "ritsu"],
+      "sort_order": 1340
+    },
+    {
+      "slug": "narukami-arashi",
+      "name": "鳴上 嵐",
+      "name_kana": "なるかみ あらし",
+      "name_romaji": "narukami arashi",
+      "aliases": ["嵐", "arashi"],
+      "sort_order": 1350
+    },
+    {
+      "slug": "sakasaki-natsume",
+      "name": "逆先 夏目",
+      "name_kana": "さかさき なつめ",
+      "name_romaji": "sakasaki natsume",
+      "aliases": ["夏目", "natsume"],
+      "sort_order": 1410
+    },
+    {
+      "slug": "aoba-tsumugi",
+      "name": "青葉 つむぎ",
+      "name_kana": "あおば つむぎ",
+      "name_romaji": "aoba tsumugi",
+      "aliases": ["つむぎ", "tsumugi"],
+      "sort_order": 1420
+    },
+    {
+      "slug": "harukawa-sora",
+      "name": "春川 宙",
+      "name_kana": "はるかわ そら",
+      "name_romaji": "harukawa sora",
+      "aliases": ["宙", "sora"],
+      "sort_order": 1430
+    },
+    {
+      "slug": "mikejima-madara",
+      "name": "三毛縞 斑",
+      "name_kana": "みけじま まだら",
+      "name_romaji": "mikejima madara",
+      "aliases": ["斑", "madara"],
+      "sort_order": 1510
+    },
+    {
+      "slug": "esu",
+      "name": "エス",
+      "name_kana": "えす",
+      "name_romaji": "esu",
+      "aliases": [],
+      "sort_order": 1710
+    },
+    {
+      "slug": "kanna",
+      "name": "カンナ",
+      "name_kana": "かんな",
+      "name_romaji": "kanna",
+      "aliases": [],
+      "sort_order": 1720
+    },
+    {
+      "slug": "yume",
+      "name": "ユメ",
+      "name_kana": "ゆめ",
+      "name_romaji": "yume",
+      "aliases": [],
+      "sort_order": 1730
+    },
+    {
+      "slug": "raika",
+      "name": "ライカ",
+      "name_kana": "らいか",
+      "name_romaji": "raika",
+      "aliases": [],
+      "sort_order": 1740
+    },
+    {
+      "slug": "sagami-jin",
+      "name": "佐賀美 陣",
+      "name_kana": "さがみ じん",
+      "name_romaji": "sagami jin",
+      "aliases": ["陣", "jin"],
+      "sort_order": 1810
+    },
+    {
+      "slug": "kunugi-akiomi",
+      "name": "椚 章臣",
+      "name_kana": "くぬぎ あきおみ",
+      "name_romaji": "kunugi akiomi",
+      "aliases": ["章臣", "akiomi"],
+      "sort_order": 1820
     }
   ]
 }

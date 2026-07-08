@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08",
+  "updated_at": "2026-07-09",
   "units": [
     {
       "slug": "fine",
@@ -13,7 +13,95 @@
         "himemiya-tori",
         "fushimi-yuzuru"
       ],
-      "sort_order": 10
+      "sort_order": 100
+    },
+    {
+      "slug": "trickstar",
+      "name": "Trickstar",
+      "aliases": ["トリックスター"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "hidaka-hokuto",
+        "akehoshi-subaru",
+        "yuuki-makoto",
+        "isara-mao"
+      ],
+      "sort_order": 200
+    },
+    {
+      "slug": "ryuuseitai",
+      "name": "流星隊",
+      "aliases": [],
+      "unit_type": "regular",
+      "member_slugs": [
+        "nagumo-tetora",
+        "takamine-midori",
+        "sengoku-shinobu",
+        "morisawa-chiaki",
+        "shinkai-kanata"
+      ],
+      "sort_order": 300
+    },
+    {
+      "slug": "alkaloid",
+      "name": "ALKALOID",
+      "aliases": ["アルカロイド"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "amagi-hiiro",
+        "shiratori-aira",
+        "ayase-mayoi",
+        "kazehaya-tatsumi"
+      ],
+      "sort_order": 400
+    },
+    {
+      "slug": "eden",
+      "name": "Eden",
+      "aliases": ["エデン"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "ran-nagisa",
+        "tomoe-hiyori",
+        "saegusa-ibara",
+        "sazanami-jun"
+      ],
+      "sort_order": 500
+    },
+    {
+      "slug": "valkyrie",
+      "name": "Valkyrie",
+      "aliases": ["ヴァルキリー"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "itsuki-shu",
+        "kagehira-mika"
+      ],
+      "sort_order": 600
+    },
+    {
+      "slug": "2wink",
+      "name": "2wink",
+      "aliases": ["とぅうぃんく"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "aoi-hinata",
+        "aoi-yuuta"
+      ],
+      "sort_order": 700
+    },
+    {
+      "slug": "crazy-b",
+      "name": "Crazy:B",
+      "aliases": ["クレビ", "くれいじーびー"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "amagi-rinne",
+        "himeru",
+        "oukawa-kohaku",
+        "shiina-niki"
+      ],
+      "sort_order": 800
     },
     {
       "slug": "undead",
@@ -26,7 +114,7 @@
         "oogami-koga",
         "otogari-adonis"
       ],
-      "sort_order": 70
+      "sort_order": 900
     },
     {
       "slug": "rabits",
@@ -39,7 +127,104 @@
         "mashiro-tomoya",
         "tenma-mitsuru"
       ],
-      "sort_order": 80
+      "sort_order": 1000
+    },
+    {
+      "slug": "akatsuki",
+      "name": "紅月",
+      "aliases": ["あかつき"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "hasumi-keito",
+        "kiryuu-kurou",
+        "kanzaki-souma",
+        "taki-ibuki"
+      ],
+      "sort_order": 1100
+    },
+    {
+      "slug": "mellow-dear-us",
+      "name": "MELLOW DEAR US",
+      "aliases": ["メロアス", "MDU"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "kojika-juisu",
+        "madoka-nozomi",
+        "kuon-mashu",
+        "tsuzura-chitose"
+      ],
+      "sort_order": 1200
+    },
+    {
+      "slug": "knights",
+      "name": "Knights",
+      "aliases": ["ナイツ"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "suou-tsukasa",
+        "tsukinaga-reo",
+        "sena-izumi",
+        "sakuma-ritsu",
+        "narukami-arashi"
+      ],
+      "sort_order": 1300
+    },
+    {
+      "slug": "switch",
+      "name": "Switch",
+      "aliases": ["スイッチ"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "sakasaki-natsume",
+        "aoba-tsumugi",
+        "harukawa-sora"
+      ],
+      "sort_order": 1400
+    },
+    {
+      "slug": "mam",
+      "name": "MaM",
+      "aliases": [],
+      "unit_type": "regular",
+      "member_slugs": [
+        "mikejima-madara"
+      ],
+      "sort_order": 1500
+    },
+    {
+      "slug": "double-face",
+      "name": "Double Face",
+      "aliases": [],
+      "unit_type": "cross",
+      "member_slugs": [
+        "mikejima-madara",
+        "oukawa-kohaku"
+      ],
+      "sort_order": 1600
+    },
+    {
+      "slug": "special-for-princess",
+      "name": "Special for Princess!",
+      "aliases": ["エスプリ", "SFP"],
+      "unit_type": "regular",
+      "member_slugs": [
+        "esu",
+        "kanna",
+        "yume",
+        "raika"
+      ],
+      "sort_order": 1700
+    },
+    {
+      "slug": "jin-and-akiomi",
+      "name": "Jin & Akiomi",
+      "aliases": [],
+      "unit_type": "teacher",
+      "member_slugs": [
+        "sagami-jin",
+        "kunugi-akiomi"
+      ],
+      "sort_order": 1800
     }
   ]
 }
