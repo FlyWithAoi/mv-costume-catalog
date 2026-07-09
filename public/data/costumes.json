@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08",
+  "updated_at": "2026-07-10",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -14,7 +14,11 @@
         "front": "hibiki-wataru_common-01_front.webp",
         "back": "hibiki-wataru_common-01_back.webp"
       },
-      "tags": ["白系", "制服", "通年"],
+      "tags": [
+        "白系",
+        "制服",
+        "通年"
+      ],
       "note_public": "",
       "updated_at": "2026-07-07"
     },
@@ -30,7 +34,11 @@
         "front": "hibiki-wataru_caelum-01_front.webp",
         "back": "hibiki-wataru_caelum-01_back.webp"
       },
-      "tags": ["白系", "青系", "王子様"],
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
       "note_public": "",
       "updated_at": "2026-07-07"
     },
@@ -46,7 +54,10 @@
         "front": "hibiki-wataru_black-01_front.webp",
         "back": "hibiki-wataru_black-01_back.webp"
       },
-      "tags": ["黒系", "クール"],
+      "tags": [
+        "黒系",
+        "クール"
+      ],
       "note_public": "",
       "updated_at": "2026-07-07"
     },
@@ -62,7 +73,10 @@
         "front": "hibiki-wataru_headparts-01_front.webp",
         "back": "hibiki-wataru_headparts-01_back.webp"
       },
-      "tags": ["帽子・ヘッドパーツあり", "華やか"],
+      "tags": [
+        "帽子・ヘッドパーツあり",
+        "華やか"
+      ],
       "note_public": "",
       "updated_at": "2026-07-07"
     },
@@ -78,7 +92,10 @@
         "front": null,
         "back": null
       },
-      "tags": ["Tシャツ", "ライブ"],
+      "tags": [
+        "Tシャツ",
+        "ライブ"
+      ],
       "note_public": "未購入のため参考画像なし。",
       "updated_at": "2026-07-07"
     },
@@ -190,7 +207,10 @@
         "front": "shino-hajime_geishun-hisho-01_front.webp",
         "back": "shino-hajime_geishun-hisho-01_back.webp"
       },
-      "tags": ["和装", "お正月"],
+      "tags": [
+        "和装",
+        "お正月"
+      ],
       "note_public": "",
       "updated_at": "2026-07-08"
     },
@@ -241,6 +261,858 @@
       "tags": [],
       "note_public": "",
       "updated_at": "2026-07-08"
+    },
+    {
+      "id": "tenshouin-eichi_geishun-hisho-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_geishun-hisho-01_icon.webp",
+        "front": "tenshouin-eichi_geishun-hisho-01_front.webp",
+        "back": "tenshouin-eichi_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "tenshouin-eichi_common-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_common-01_icon.webp",
+        "front": "tenshouin-eichi_common-01_front.webp",
+        "back": "tenshouin-eichi_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "tenshouin-eichi_fine-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_fine-01_icon.webp",
+        "front": "tenshouin-eichi_fine-01_front.webp",
+        "back": "tenshouin-eichi_fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "hibiki-wataru_geishun-hisho-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_geishun-hisho-01_icon.webp",
+        "front": "hibiki-wataru_geishun-hisho-01_front.webp",
+        "back": "hibiki-wataru_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "hibiki-wataru_fine-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_fine-01_icon.webp",
+        "front": "hibiki-wataru_fine-01_front.webp",
+        "back": "hibiki-wataru_fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "himemiya-tori_geishun-hisho-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_geishun-hisho-01_icon.webp",
+        "front": "himemiya-tori_geishun-hisho-01_front.webp",
+        "back": "himemiya-tori_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "himemiya-tori_fine-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_fine-01_icon.webp",
+        "front": "himemiya-tori_fine-01_front.webp",
+        "back": "himemiya-tori_fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "fushimi-yuzuru_geishun-hisho-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_geishun-hisho-01_icon.webp",
+        "front": "fushimi-yuzuru_geishun-hisho-01_front.webp",
+        "back": "fushimi-yuzuru_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "fushimi-yuzuru_common-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_common-01_icon.webp",
+        "front": "fushimi-yuzuru_common-01_front.webp",
+        "back": "fushimi-yuzuru_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "fushimi-yuzuru_fine-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_fine-01_icon.webp",
+        "front": "fushimi-yuzuru_fine-01_front.webp",
+        "back": "fushimi-yuzuru_fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "hidaka-hokuto_geishun-hisho-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_geishun-hisho-01_icon.webp",
+        "front": "hidaka-hokuto_geishun-hisho-01_front.webp",
+        "back": "hidaka-hokuto_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "hidaka-hokuto_common-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_common-01_icon.webp",
+        "front": "hidaka-hokuto_common-01_front.webp",
+        "back": "hidaka-hokuto_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "hidaka-hokuto_trickstar-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_trickstar-01_icon.webp",
+        "front": "hidaka-hokuto_trickstar-01_front.webp",
+        "back": "hidaka-hokuto_trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "akehoshi-subaru_geishun-hisho-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_geishun-hisho-01_icon.webp",
+        "front": "akehoshi-subaru_geishun-hisho-01_front.webp",
+        "back": "akehoshi-subaru_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "akehoshi-subaru_common-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_common-01_icon.webp",
+        "front": "akehoshi-subaru_common-01_front.webp",
+        "back": "akehoshi-subaru_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "akehoshi-subaru_trickstar-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_trickstar-01_icon.webp",
+        "front": "akehoshi-subaru_trickstar-01_front.webp",
+        "back": "akehoshi-subaru_trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "yuuki-makoto_geishun-hisho-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_geishun-hisho-01_icon.webp",
+        "front": "yuuki-makoto_geishun-hisho-01_front.webp",
+        "back": "yuuki-makoto_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "yuuki-makoto_common-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_common-01_icon.webp",
+        "front": "yuuki-makoto_common-01_front.webp",
+        "back": "yuuki-makoto_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "yuuki-makoto_trickstar-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_trickstar-01_icon.webp",
+        "front": "yuuki-makoto_trickstar-01_front.webp",
+        "back": "yuuki-makoto_trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "isara-mao_geishun-hisho-01",
+      "idol_slug": "isara-mao",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "isara-mao_geishun-hisho-01_icon.webp",
+        "front": "isara-mao_geishun-hisho-01_front.webp",
+        "back": "isara-mao_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "isara-mao_common-01",
+      "idol_slug": "isara-mao",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "isara-mao_common-01_icon.webp",
+        "front": "isara-mao_common-01_front.webp",
+        "back": "isara-mao_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "isara-mao_trickstar-01",
+      "idol_slug": "isara-mao",
+      "costume_name": "Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "isara-mao_trickstar-01_icon.webp",
+        "front": "isara-mao_trickstar-01_front.webp",
+        "back": "isara-mao_trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "nagumo-tetora_geishun-hisho-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_geishun-hisho-01_icon.webp",
+        "front": "nagumo-tetora_geishun-hisho-01_front.webp",
+        "back": "nagumo-tetora_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "nagumo-tetora_common-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_common-01_icon.webp",
+        "front": "nagumo-tetora_common-01_front.webp",
+        "back": "nagumo-tetora_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "nagumo-tetora_ryuuseitai-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "流星隊衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_ryuuseitai-01_icon.webp",
+        "front": "nagumo-tetora_ryuuseitai-01_front.webp",
+        "back": "nagumo-tetora_ryuuseitai-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "takamine-midori_geishun-hisho-01",
+      "idol_slug": "takamine-midori",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "takamine-midori_geishun-hisho-01_icon.webp",
+        "front": "takamine-midori_geishun-hisho-01_front.webp",
+        "back": "takamine-midori_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "takamine-midori_common-01",
+      "idol_slug": "takamine-midori",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "takamine-midori_common-01_icon.webp",
+        "front": "takamine-midori_common-01_front.webp",
+        "back": "takamine-midori_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "takamine-midori_ryuuseitai-01",
+      "idol_slug": "takamine-midori",
+      "costume_name": "流星隊衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "takamine-midori_ryuuseitai-01_icon.webp",
+        "front": "takamine-midori_ryuuseitai-01_front.webp",
+        "back": "takamine-midori_ryuuseitai-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "sengoku-shinobu_geishun-hisho-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_geishun-hisho-01_icon.webp",
+        "front": "sengoku-shinobu_geishun-hisho-01_front.webp",
+        "back": "sengoku-shinobu_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "sengoku-shinobu_common-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_common-01_icon.webp",
+        "front": "sengoku-shinobu_common-01_front.webp",
+        "back": "sengoku-shinobu_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "sengoku-shinobu_ryuuseitai-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "流星隊衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_ryuuseitai-01_icon.webp",
+        "front": "sengoku-shinobu_ryuuseitai-01_front.webp",
+        "back": "sengoku-shinobu_ryuuseitai-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "morisawa-chiaki_geishun-hisho-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_geishun-hisho-01_icon.webp",
+        "front": "morisawa-chiaki_geishun-hisho-01_front.webp",
+        "back": "morisawa-chiaki_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "morisawa-chiaki_common-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_common-01_icon.webp",
+        "front": "morisawa-chiaki_common-01_front.webp",
+        "back": "morisawa-chiaki_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "morisawa-chiaki_ryuuseitai-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "流星隊衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_ryuuseitai-01_icon.webp",
+        "front": "morisawa-chiaki_ryuuseitai-01_front.webp",
+        "back": "morisawa-chiaki_ryuuseitai-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shinkai-kanata_geishun-hisho-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_geishun-hisho-01_icon.webp",
+        "front": "shinkai-kanata_geishun-hisho-01_front.webp",
+        "back": "shinkai-kanata_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shinkai-kanata_common-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_common-01_icon.webp",
+        "front": "shinkai-kanata_common-01_front.webp",
+        "back": "shinkai-kanata_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shinkai-kanata_ryuuseitai-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "流星隊衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_ryuuseitai-01_icon.webp",
+        "front": "shinkai-kanata_ryuuseitai-01_front.webp",
+        "back": "shinkai-kanata_ryuuseitai-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "amagi-hiiro_geishun-hisho-01",
+      "idol_slug": "amagi-hiiro",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-hiiro_geishun-hisho-01_icon.webp",
+        "front": "amagi-hiiro_geishun-hisho-01_front.webp",
+        "back": "amagi-hiiro_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "amagi-hiiro_common-01",
+      "idol_slug": "amagi-hiiro",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-hiiro_common-01_icon.webp",
+        "front": "amagi-hiiro_common-01_front.webp",
+        "back": "amagi-hiiro_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "amagi-hiiro_alkaloid-01",
+      "idol_slug": "amagi-hiiro",
+      "costume_name": "ALKALOID衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-hiiro_alkaloid-01_icon.webp",
+        "front": "amagi-hiiro_alkaloid-01_front.webp",
+        "back": "amagi-hiiro_alkaloid-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shiratori-aira_geishun-hisho-01",
+      "idol_slug": "shiratori-aira",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiratori-aira_geishun-hisho-01_icon.webp",
+        "front": "shiratori-aira_geishun-hisho-01_front.webp",
+        "back": "shiratori-aira_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shiratori-aira_common-01",
+      "idol_slug": "shiratori-aira",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiratori-aira_common-01_icon.webp",
+        "front": "shiratori-aira_common-01_front.webp",
+        "back": "shiratori-aira_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "shiratori-aira_alkaloid-01",
+      "idol_slug": "shiratori-aira",
+      "costume_name": "ALKALOID衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiratori-aira_alkaloid-01_icon.webp",
+        "front": "shiratori-aira_alkaloid-01_front.webp",
+        "back": "shiratori-aira_alkaloid-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "ayase-mayoi_geishun-hisho-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_geishun-hisho-01_icon.webp",
+        "front": "ayase-mayoi_geishun-hisho-01_front.webp",
+        "back": "ayase-mayoi_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "ayase-mayoi_common-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_common-01_icon.webp",
+        "front": "ayase-mayoi_common-01_front.webp",
+        "back": "ayase-mayoi_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "ayase-mayoi_alkaloid-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ALKALOID衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_alkaloid-01_icon.webp",
+        "front": "ayase-mayoi_alkaloid-01_front.webp",
+        "back": "ayase-mayoi_alkaloid-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "kazehaya-tatsumi_geishun-hisho-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_geishun-hisho-01_icon.webp",
+        "front": "kazehaya-tatsumi_geishun-hisho-01_front.webp",
+        "back": "kazehaya-tatsumi_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "kazehaya-tatsumi_common-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_common-01_icon.webp",
+        "front": "kazehaya-tatsumi_common-01_front.webp",
+        "back": "kazehaya-tatsumi_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
+    },
+    {
+      "id": "kazehaya-tatsumi_alkaloid-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ALKALOID衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_alkaloid-01_icon.webp",
+        "front": "kazehaya-tatsumi_alkaloid-01_front.webp",
+        "back": "kazehaya-tatsumi_alkaloid-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-10"
     }
   ]
 }
