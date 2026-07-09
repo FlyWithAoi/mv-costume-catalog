@@ -79,56 +79,95 @@ public/data/costumes.json                                              ← webp�
 
 ## 6. フォルダ番号の付け方
 
+- **番号は試着室画面での表示位置に対応する値であり、衣装カテゴリ（common / unit / event など）とは独立している。** `01` が必ず共通アイドル衣装、`02` が必ずユニット衣装になるわけではない。試着室内でその衣装がどこに表示されているか（左上から右へ、次の段へ進む順）だけで番号が決まる。
 - 基本方針: **試着室画面の左上から右へ、右端まで行ったら次の段へ進む順番**で番号を振る。
 - ただし、**既存の番号がすでに試着室内の位置を反映している場合は、その番号をそのまま使い、欠番を許容する**。
   - 例: `rei_test` は現状 `02_caelum` と `11_commonSCR` のように番号が飛んでいる。これは「試着室内の位置＝番号」という運用を反映している可能性が高く、無理に `01/02` へ詰め直す必要はない。
   - 詰め直すかどうかは、実際に試着室画面を見て位置を確認したうえで判断する（このドキュメント内では未確定）。
 - フォルダ番号はあくまで**キャラ内でのローカルな番号**であり、全キャラ共通の通し番号としては扱わない（`docs/publish-checklist.md` 7章と同じ方針）。
 
+### 衣装カテゴリが同じでも、キャラによって番号が変わる例
+
+番号は表示位置だけで決まるため、同じ「共通アイドル衣装」でもキャラによって `01` だったり `02` だったりする。
+
+```text
+既存アイドルの例:
+01_geishun-hisho
+02_common
+03_trickstar
+
+MELLOW DEAR USの例:
+01_common
+02_mellow-dear-us
+
+先生の例:
+01_rain-bow
+02_uta-no-ojisan
+```
+
+- 迎春飛翔（正月限定衣装）が試着室の左上1番に表示されるキャラは `01_geishun-hisho` となり、共通アイドル衣装はその分ずれて `02_common` になる（既存アイドルの一部で確認済み。7章参照）。
+- MELLOW DEAR US の4人は迎春飛翔衣装を持っていないため、`01_common` から始まり、ユニット衣装（MELLOW DEAR US）が `02_mellow-dear-us` になる。
+- 先生2人（Jin & Akiomi）は共通アイドル衣装を持っていないため、`01` から先生固有の衣装（例: `01_rain-bow`）になり、`02_uta-no-ojisan` のように続く。
+
+### サブフォルダの作成タイミング
+
+- 全idolの親フォルダ（`_private/raw_screenshots/{idol_slug}/`）は raw-folder-generator であらかじめ作成済みとする。
+- 衣装サブフォルダ（`NN_costume-slug/`）は自動生成しない。実際にスクショを取得したタイミングで、試着室の表示位置を確認しながら個別に作成する（先に番号だけ決め打ちしない）。
+
 ---
 
 ## 7. 移行表
 
-`✅` = 画像あり、`空` = 空フォルダ、新番号に「要確認」と付いているものは試着室の実際の並びを見て確定する。
+`✅` = 画像あり、`空` = 空フォルダ。
+
+> ⚠️ **本章の「新フォルダ」列の番号はすべて仮番号です。** 6章の方針どおり、番号は「試着室画面での表示位置」に対応するべきであり、衣装カテゴリ（common/unitなど）とは無関係です。実際の移行時には、必ず試着室画面を確認してから番号を確定してください。現時点で試着室の表示位置が判明しているのは shino-hajime の一部のみです（下記参照）。それ以外（hibiki-wataru / himemiya-tori / sakuma-rei）の番号は、旧フォルダ番号をそのまま踏襲した**未確認の仮番号**であり、衣装カテゴリと番号の対応関係を示すものではありません。
 
 ### hibiki-wataru（← wataru_test）
 
-| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案） |
+番号は旧フォルダをそのまま踏襲した仮番号。試着室位置は未確認。
+
+| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案・番号は仮） |
 |---|---|---|---|
-| `01_common` ✅ | 共通アイドル衣装 | `hibiki-wataru_common-01` | `01_common` |
-| `02_caelum` ✅ | Caelum | `hibiki-wataru_caelum-01` | `02_caelum` |
-| `03_black` ✅ | 黒系衣装（仮） | `hibiki-wataru_black-01` | `03_black` |
-| `04_headparts` ✅ | ヘッドパーツあり衣装（仮） | `hibiki-wataru_headparts-01` | `04_headparts` |
-| `05_locked` ✅ | スタライ10thライブTシャツ | `hibiki-wataru_starlight-10th-01` | `05_starlight-10th` |
+| `01_common` ✅ | 共通アイドル衣装 | `hibiki-wataru_common-01` | `01_common`（仮） |
+| `02_caelum` ✅ | Caelum | `hibiki-wataru_caelum-01` | `02_caelum`（仮） |
+| `03_black` ✅ | 黒系衣装（仮） | `hibiki-wataru_black-01` | `03_black`（仮） |
+| `04_headparts` ✅ | ヘッドパーツあり衣装（仮） | `hibiki-wataru_headparts-01` | `04_headparts`（仮） |
+| `05_locked` ✅ | スタライ10thライブTシャツ | `hibiki-wataru_starlight-10th-01` | `05_starlight-10th`（仮） |
 
 ### himemiya-tori（← tori_test）
 
-| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案） |
+番号は旧フォルダをそのまま踏襲した仮番号。試着室位置は未確認。
+
+| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案・番号は仮） |
 |---|---|---|---|
-| `01_common` ✅ | 共通アイドル衣装 | `himemiya-tori_common-01` | `01_common` |
-| `02_caelum` 空 | （準備中・costumes.json未登録） | `himemiya-tori_caelum-01` | `02_caelum`（空のまま保留） |
-| `03_black` ✅ | Musica | `himemiya-tori_musica-01` | `03_musica` |
-| `04_headparts` ✅ | エゴイスト | `himemiya-tori_egoist-01` | `04_egoist` |
-| `05_locked` ✅ | ニューイヤーライズ（白銀） | `himemiya-tori_newyear-rise-01` | `05_newyear-rise` |
+| `01_common` ✅ | 共通アイドル衣装 | `himemiya-tori_common-01` | `01_common`（仮） |
+| `02_caelum` 空 | （準備中・costumes.json未登録） | `himemiya-tori_caelum-01` | `02_caelum`（空のまま保留、番号は仮） |
+| `03_black` ✅ | Musica | `himemiya-tori_musica-01` | `03_musica`（仮） |
+| `04_headparts` ✅ | エゴイスト | `himemiya-tori_egoist-01` | `04_egoist`（仮） |
+| `05_locked` ✅ | ニューイヤーライズ（白銀） | `himemiya-tori_newyear-rise-01` | `05_newyear-rise`（仮） |
 
 ### sakuma-rei（← rei_test）
 
-| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案・番号要確認） |
+番号は旧フォルダをそのまま踏襲した仮番号。試着室位置は未確認。
+
+| 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案・番号は仮） |
 |---|---|---|---|
-| `02_caelum` ✅ | Caelum | `sakuma-rei_caelum-01` | `02_caelum`（番号は試着室位置。要確認） |
-| `11_commonSCR` ✅ | 共通アイドル衣装（SCR） | `sakuma-rei_common-scr-01` | `11_common-scr`（同上） |
+| `02_caelum` ✅ | Caelum | `sakuma-rei_caelum-01` | `02_caelum`（仮。試着室位置要確認） |
+| `11_commonSCR` ✅ | 共通アイドル衣装（SCR） | `sakuma-rei_common-scr-01` | `11_common-scr`（仮。試着室位置要確認） |
 
 > rei は捕捉2件のみで番号が飛んでいる。位置ベースの番号なら現番号を維持（欠番はそのまま）、単なる作業順であれば `01/02` に詰めることも可能。試着室を確認してから決める。
 
 ### shino-hajime（← hajime_test）
 
+現時点で判明している範囲の試着室表示位置を反映済み。迎春飛翔が試着室左上1番のため、共通アイドル衣装・Ra*bits衣装の番号がそれぞれ1つずつ後ろにずれる。`05_locked`（共通アイドル衣装SCR）のみ、実際の試着室位置が未確認のため番号は決めていない。
+
 | 旧フォルダ | costume_name（不変） | id（不変） | 新フォルダ（提案） |
 |---|---|---|---|
-| `01_common` ✅ | 共通アイドル衣装 | `shino-hajime_common-01` | `01_common` |
-| `02_unit` ✅ | Ra*bits衣装 | `shino-hajime_rabits-01` | `02_rabits` |
-| `03_geisyunHisho` ✅ | 迎春飛翔 | `shino-hajime_geishun-hisho-01` | `03_geishun-hisho` |
+| `03_geisyunHisho` ✅ | 迎春飛翔 | `shino-hajime_geishun-hisho-01` | `01_geishun-hisho`（試着室左上1番） |
+| `01_common` ✅ | 共通アイドル衣装 | `shino-hajime_common-01` | `02_common` |
+| `02_unit` ✅ | Ra*bits衣装 | `shino-hajime_rabits-01` | `03_rabits` |
+| `05_locked` ✅ | 共通アイドル衣装（SCR） | `shino-hajime_common-scr-01` | 番号要確認（試着室位置が未確認のため未確定） |
 | `04_headparts` 空 | （孤立フォルダ・presets/costumes.json未登録） | — | 移行しない（要確認のうえ削除候補） |
-| `05_locked` ✅ | 共通アイドル衣装（SCR） | `shino-hajime_common-scr-01` | `05_common-scr`（`04_headparts`を詰めるなら`04_common-scr`） |
 
 ### 移行対象外（今回の計画に含めない）
 
@@ -162,3 +201,5 @@ public/data/costumes.json                                              ← webp�
 - `sakuma-rei` の新フォルダ番号を、現状の位置ベース（`02` / `11` のまま）にするか、作業順に詰める（`01` / `02`）かの最終判断。
 - `himemiya-tori/02_caelum`（空フォルダ、`presets.json` に定義済みだが `costumes.json` 未登録）をどう扱うか。画像が用意でき次第、そのまま移行して使う想定。
 - `shino-hajime/04_headparts`（空フォルダ、`presets.json` / `costumes.json` ともに未登録の孤立フォルダ）を移行するか、削除候補として保留するか。
+- `shino-hajime/05_locked`（共通アイドル衣装SCR）の新フォルダ番号。試着室位置が未確認のため、実際の試着室画面を確認してから番号を確定する。
+- `hibiki-wataru` / `himemiya-tori` の新フォルダ番号（7章で「仮」としているすべての行）。試着室画面での実際の表示位置は未確認のため、移行時に確認してから確定する。
