@@ -1940,6 +1940,569 @@
           "has_body_images": true
         }
       }
+    },
+    "suou-tsukasa": {
+      "idol_slug": "suou-tsukasa",
+      "output_dir": "suou-tsukasa",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "suou-tsukasa_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "suou-tsukasa_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_knights": {
+          "id": "suou-tsukasa_knights-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "tsukinaga-reo": {
+      "idol_slug": "tsukinaga-reo",
+      "output_dir": "tsukinaga-reo",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "tsukinaga-reo_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "tsukinaga-reo_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_knights": {
+          "id": "tsukinaga-reo_knights-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "sena-izumi": {
+      "idol_slug": "sena-izumi",
+      "output_dir": "sena-izumi",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "sena-izumi_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "sena-izumi_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_knights": {
+          "id": "sena-izumi_knights-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "sakuma-ritsu": {
+      "idol_slug": "sakuma-ritsu",
+      "output_dir": "sakuma-ritsu",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "sakuma-ritsu_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "sakuma-ritsu_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_knights": {
+          "id": "sakuma-ritsu_knights-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "narukami-arashi": {
+      "idol_slug": "narukami-arashi",
+      "output_dir": "narukami-arashi",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "narukami-arashi_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "narukami-arashi_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_knights": {
+          "id": "narukami-arashi_knights-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "sakasaki-natsume": {
+      "idol_slug": "sakasaki-natsume",
+      "output_dir": "sakasaki-natsume",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "sakasaki-natsume_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "sakasaki-natsume_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_switch": {
+          "id": "sakasaki-natsume_switch-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "aoba-tsumugi": {
+      "idol_slug": "aoba-tsumugi",
+      "output_dir": "aoba-tsumugi",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "aoba-tsumugi_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "aoba-tsumugi_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_switch": {
+          "id": "aoba-tsumugi_switch-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "harukawa-sora": {
+      "idol_slug": "harukawa-sora",
+      "output_dir": "harukawa-sora",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "harukawa-sora_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "harukawa-sora_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_switch": {
+          "id": "harukawa-sora_switch-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "mikejima-madara": {
+      "idol_slug": "mikejima-madara",
+      "output_dir": "mikejima-madara",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "mikejima-madara_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "mikejima-madara_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_mam": {
+          "id": "mikejima-madara_mam-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "esu": {
+      "idol_slug": "esu",
+      "output_dir": "esu",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "esu_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "esu_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_AnniversaryChance": {
+          "id": "esu_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "kanna": {
+      "idol_slug": "kanna",
+      "output_dir": "kanna",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "kanna_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "kanna_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_AnniversaryChance": {
+          "id": "kanna_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "yume": {
+      "idol_slug": "yume",
+      "output_dir": "yume",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "yume_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "yume_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_AnniversaryChance": {
+          "id": "yume_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "raika": {
+      "idol_slug": "raika",
+      "output_dir": "raika",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "raika_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "raika_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_AnniversaryChance": {
+          "id": "raika_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "sagami-jin": {
+      "idol_slug": "sagami-jin",
+      "output_dir": "sagami-jin",
+      "items": {
+        "01_Rain-Bows": {
+          "id": "sagami-jin_rain-bows-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_uta-no-ojisan": {
+          "id": "sagami-jin_uta-no-ojisan-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
+    },
+    "kunugi-akiomi": {
+      "idol_slug": "kunugi-akiomi",
+      "output_dir": "kunugi-akiomi",
+      "items": {
+        "01_Rain-Bows": {
+          "id": "kunugi-akiomi_rain-bows-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_uta-no-ojisan": {
+          "id": "kunugi-akiomi_uta-no-ojisan-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
     }
   }
 }
