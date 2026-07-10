@@ -142,42 +142,6 @@
       "idol_slug": "shino-hajime",
       "output_dir": "shino-hajime",
       "items": {
-        "01_common": {
-          "_comment": "実名 共通アイドル衣装。選択中カードは1行目2枚目。自動検出だと下の行のMVバッジまで枠が広がるため manual_crop。",
-          "id": "shino-hajime_common-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 755,
-            "y": 290,
-            "width": 195,
-            "height": 195
-          },
-          "has_body_images": true
-        },
-        "02_unit": {
-          "_comment": "実名 Ra*bits衣装。選択中カードは1行目3枚目で自動検出が隣のカードに誤爆するため manual_crop。",
-          "id": "shino-hajime_rabits-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 925,
-            "y": 290,
-            "width": 195,
-            "height": 195
-          },
-          "has_body_images": true
-        },
-        "03_geisyunHisho": {
-          "_comment": "実名 迎春飛翔。選択中カードは1行目1枚目で共通 search_area の左外のため manual_crop 前提。",
-          "id": "shino-hajime_geishun-hisho-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 585,
-            "y": 290,
-            "width": 195,
-            "height": 195
-          },
-          "has_body_images": true
-        },
         "05_locked": {
           "_comment": "実名 共通アイドル衣装（SCR）。未解放詳細ポップアップの手動crop（wataru/toriの05と同レイアウト）。",
           "id": "shino-hajime_common-scr-01",
@@ -1342,6 +1306,630 @@
         },
         "03_crazy-b": {
           "id": "shiina-niki_crazy-b-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "sakuma-rei": {
+      "idol_slug": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "sakuma-rei_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "sakuma-rei_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_undead": {
+          "id": "sakuma-rei_undead-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "hakaze-kaoru": {
+      "idol_slug": "hakaze-kaoru",
+      "output_dir": "hakaze-kaoru",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "hakaze-kaoru_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "hakaze-kaoru_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_undead": {
+          "id": "hakaze-kaoru_undead-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "oogami-koga": {
+      "idol_slug": "oogami-koga",
+      "output_dir": "oogami-koga",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "oogami-koga_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "oogami-koga_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_undead": {
+          "id": "oogami-koga_undead-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "otogari-adonis": {
+      "idol_slug": "otogari-adonis",
+      "output_dir": "otogari-adonis",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "otogari-adonis_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "otogari-adonis_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_undead": {
+          "id": "otogari-adonis_undead-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "nito-nazuna": {
+      "idol_slug": "nito-nazuna",
+      "output_dir": "nito-nazuna",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "nito-nazuna_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "nito-nazuna_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_rabits": {
+          "id": "nito-nazuna_rabits-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "mashiro-tomoya": {
+      "idol_slug": "mashiro-tomoya",
+      "output_dir": "mashiro-tomoya",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "mashiro-tomoya_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "mashiro-tomoya_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_rabits": {
+          "id": "mashiro-tomoya_rabits-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "tenma-mitsuru": {
+      "idol_slug": "tenma-mitsuru",
+      "output_dir": "tenma-mitsuru",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "tenma-mitsuru_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "tenma-mitsuru_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_rabits": {
+          "id": "tenma-mitsuru_rabits-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "shino-hajime": {
+      "idol_slug": "shino-hajime",
+      "output_dir": "shino-hajime",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "shino-hajime_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "shino-hajime_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_rabits": {
+          "id": "shino-hajime_rabits-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "hasumi-keito": {
+      "idol_slug": "hasumi-keito",
+      "output_dir": "hasumi-keito",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "hasumi-keito_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "hasumi-keito_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_akatsuki": {
+          "id": "hasumi-keito_akatsuki-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "taki-ibuki": {
+      "idol_slug": "taki-ibuki",
+      "output_dir": "taki-ibuki",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "taki-ibuki_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "taki-ibuki_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_AnniversaryChance": {
+          "id": "taki-ibuki_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "kojika-juisu": {
+      "idol_slug": "kojika-juisu",
+      "output_dir": "kojika-juisu",
+      "items": {
+        "01_common": {
+          "id": "kojika-juisu_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_mellow-dear-us": {
+          "id": "kojika-juisu_mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_commonSCR": {
+          "id": "kojika-juisu_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
+    },
+    "madoka-nozomi": {
+      "idol_slug": "madoka-nozomi",
+      "output_dir": "madoka-nozomi",
+      "items": {
+        "01_common": {
+          "id": "madoka-nozomi_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_mellow-dear-us": {
+          "id": "madoka-nozomi_mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_commonSCR": {
+          "id": "madoka-nozomi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
+    },
+    "kuon-mashu": {
+      "idol_slug": "kuon-mashu",
+      "output_dir": "kuon-mashu",
+      "items": {
+        "01_common": {
+          "id": "kuon-mashu_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_mellow-dear-us": {
+          "id": "kuon-mashu_mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_commonSCR": {
+          "id": "kuon-mashu_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
+    },
+    "tsuzura-chitose": {
+      "idol_slug": "tsuzura-chitose",
+      "output_dir": "tsuzura-chitose",
+      "items": {
+        "01_common": {
+          "id": "tsuzura-chitose_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_mellow-dear-us": {
+          "id": "tsuzura-chitose_mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_commonSCR": {
+          "id": "tsuzura-chitose_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        }
+      }
+    },
+    "kiryuu-kurou": {
+      "idol_slug": "kiryuu-kurou",
+      "output_dir": "kiryuu-kurou",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "kiryuu-kurou_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "kiryuu-kurou_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_akatsuki": {
+          "id": "kiryuu-kurou_akatsuki-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
+    },
+    "kanzaki-souma": {
+      "idol_slug": "kanzaki-souma",
+      "output_dir": "kanzaki-souma",
+      "items": {
+        "01_geishun-hisho": {
+          "id": "kanzaki-souma_geishun-hisho-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "02_common": {
+          "id": "kanzaki-souma_common-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "03_akatsuki": {
+          "id": "kanzaki-souma_akatsuki-01",
           "icon_mode": "manual_crop",
           "icon_crop": {
             "x": 925,

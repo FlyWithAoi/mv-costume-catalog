@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-10",
+  "updated_at": "2026-07-11",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -1737,6 +1737,773 @@
       "tags": [],
       "note_public": "",
       "updated_at": "2026-07-10"
+    },
+    {
+      "id": "sakuma-rei_geishun-hisho-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_geishun-hisho-01_icon.webp",
+        "front": "sakuma-rei_geishun-hisho-01_front.webp",
+        "back": "sakuma-rei_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "sakuma-rei_common-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_common-01_icon.webp",
+        "front": "sakuma-rei_common-01_front.webp",
+        "back": "sakuma-rei_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "sakuma-rei_undead-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "UNDEAD衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_undead-01_icon.webp",
+        "front": "sakuma-rei_undead-01_front.webp",
+        "back": "sakuma-rei_undead-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hakaze-kaoru_geishun-hisho-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_geishun-hisho-01_icon.webp",
+        "front": "hakaze-kaoru_geishun-hisho-01_front.webp",
+        "back": "hakaze-kaoru_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hakaze-kaoru_common-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_common-01_icon.webp",
+        "front": "hakaze-kaoru_common-01_front.webp",
+        "back": "hakaze-kaoru_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hakaze-kaoru_undead-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "UNDEAD衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_undead-01_icon.webp",
+        "front": "hakaze-kaoru_undead-01_front.webp",
+        "back": "hakaze-kaoru_undead-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "oogami-koga_geishun-hisho-01",
+      "idol_slug": "oogami-koga",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oogami-koga_geishun-hisho-01_icon.webp",
+        "front": "oogami-koga_geishun-hisho-01_front.webp",
+        "back": "oogami-koga_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "oogami-koga_common-01",
+      "idol_slug": "oogami-koga",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oogami-koga_common-01_icon.webp",
+        "front": "oogami-koga_common-01_front.webp",
+        "back": "oogami-koga_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "oogami-koga_undead-01",
+      "idol_slug": "oogami-koga",
+      "costume_name": "UNDEAD衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oogami-koga_undead-01_icon.webp",
+        "front": "oogami-koga_undead-01_front.webp",
+        "back": "oogami-koga_undead-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "otogari-adonis_geishun-hisho-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_geishun-hisho-01_icon.webp",
+        "front": "otogari-adonis_geishun-hisho-01_front.webp",
+        "back": "otogari-adonis_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "otogari-adonis_common-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_common-01_icon.webp",
+        "front": "otogari-adonis_common-01_front.webp",
+        "back": "otogari-adonis_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "otogari-adonis_undead-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "UNDEAD衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_undead-01_icon.webp",
+        "front": "otogari-adonis_undead-01_front.webp",
+        "back": "otogari-adonis_undead-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "nito-nazuna_geishun-hisho-01",
+      "idol_slug": "nito-nazuna",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nito-nazuna_geishun-hisho-01_icon.webp",
+        "front": "nito-nazuna_geishun-hisho-01_front.webp",
+        "back": "nito-nazuna_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "nito-nazuna_common-01",
+      "idol_slug": "nito-nazuna",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nito-nazuna_common-01_icon.webp",
+        "front": "nito-nazuna_common-01_front.webp",
+        "back": "nito-nazuna_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "nito-nazuna_rabits-01",
+      "idol_slug": "nito-nazuna",
+      "costume_name": "Ra*bits衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nito-nazuna_rabits-01_icon.webp",
+        "front": "nito-nazuna_rabits-01_front.webp",
+        "back": "nito-nazuna_rabits-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "mashiro-tomoya_geishun-hisho-01",
+      "idol_slug": "mashiro-tomoya",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mashiro-tomoya_geishun-hisho-01_icon.webp",
+        "front": "mashiro-tomoya_geishun-hisho-01_front.webp",
+        "back": "mashiro-tomoya_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "mashiro-tomoya_common-01",
+      "idol_slug": "mashiro-tomoya",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mashiro-tomoya_common-01_icon.webp",
+        "front": "mashiro-tomoya_common-01_front.webp",
+        "back": "mashiro-tomoya_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "mashiro-tomoya_rabits-01",
+      "idol_slug": "mashiro-tomoya",
+      "costume_name": "Ra*bits衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mashiro-tomoya_rabits-01_icon.webp",
+        "front": "mashiro-tomoya_rabits-01_front.webp",
+        "back": "mashiro-tomoya_rabits-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenma-mitsuru_geishun-hisho-01",
+      "idol_slug": "tenma-mitsuru",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenma-mitsuru_geishun-hisho-01_icon.webp",
+        "front": "tenma-mitsuru_geishun-hisho-01_front.webp",
+        "back": "tenma-mitsuru_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenma-mitsuru_common-01",
+      "idol_slug": "tenma-mitsuru",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenma-mitsuru_common-01_icon.webp",
+        "front": "tenma-mitsuru_common-01_front.webp",
+        "back": "tenma-mitsuru_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenma-mitsuru_rabits-01",
+      "idol_slug": "tenma-mitsuru",
+      "costume_name": "Ra*bits衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenma-mitsuru_rabits-01_icon.webp",
+        "front": "tenma-mitsuru_rabits-01_front.webp",
+        "back": "tenma-mitsuru_rabits-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hasumi-keito_geishun-hisho-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_geishun-hisho-01_icon.webp",
+        "front": "hasumi-keito_geishun-hisho-01_front.webp",
+        "back": "hasumi-keito_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hasumi-keito_common-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_common-01_icon.webp",
+        "front": "hasumi-keito_common-01_front.webp",
+        "back": "hasumi-keito_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "hasumi-keito_akatsuki-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_akatsuki-01_icon.webp",
+        "front": "hasumi-keito_akatsuki-01_front.webp",
+        "back": "hasumi-keito_akatsuki-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "taki-ibuki_geishun-hisho-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_geishun-hisho-01_icon.webp",
+        "front": "taki-ibuki_geishun-hisho-01_front.webp",
+        "back": "taki-ibuki_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "taki-ibuki_common-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_common-01_icon.webp",
+        "front": "taki-ibuki_common-01_front.webp",
+        "back": "taki-ibuki_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "taki-ibuki_anniversary-chance-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_anniversary-chance-01_icon.webp",
+        "front": "taki-ibuki_anniversary-chance-01_front.webp",
+        "back": "taki-ibuki_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "アニバーサリーキャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kojika-juisu_common-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_common-01_icon.webp",
+        "front": "kojika-juisu_common-01_front.webp",
+        "back": "kojika-juisu_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kojika-juisu_mellow-dear-us-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_mellow-dear-us-01_icon.webp",
+        "front": "kojika-juisu_mellow-dear-us-01_front.webp",
+        "back": "kojika-juisu_mellow-dear-us-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kojika-juisu_common-scr-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kojika-juisu_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "madoka-nozomi_common-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_common-01_icon.webp",
+        "front": "madoka-nozomi_common-01_front.webp",
+        "back": "madoka-nozomi_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "madoka-nozomi_mellow-dear-us-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_mellow-dear-us-01_icon.webp",
+        "front": "madoka-nozomi_mellow-dear-us-01_front.webp",
+        "back": "madoka-nozomi_mellow-dear-us-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "madoka-nozomi_common-scr-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "madoka-nozomi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kuon-mashu_common-01",
+      "idol_slug": "kuon-mashu",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kuon-mashu_common-01_icon.webp",
+        "front": "kuon-mashu_common-01_front.webp",
+        "back": "kuon-mashu_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kuon-mashu_mellow-dear-us-01",
+      "idol_slug": "kuon-mashu",
+      "costume_name": "MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kuon-mashu_mellow-dear-us-01_icon.webp",
+        "front": "kuon-mashu_mellow-dear-us-01_front.webp",
+        "back": "kuon-mashu_mellow-dear-us-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kuon-mashu_common-scr-01",
+      "idol_slug": "kuon-mashu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kuon-mashu_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tsuzura-chitose_common-01",
+      "idol_slug": "tsuzura-chitose",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsuzura-chitose_common-01_icon.webp",
+        "front": "tsuzura-chitose_common-01_front.webp",
+        "back": "tsuzura-chitose_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tsuzura-chitose_mellow-dear-us-01",
+      "idol_slug": "tsuzura-chitose",
+      "costume_name": "MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsuzura-chitose_mellow-dear-us-01_icon.webp",
+        "front": "tsuzura-chitose_mellow-dear-us-01_front.webp",
+        "back": "tsuzura-chitose_mellow-dear-us-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tsuzura-chitose_common-scr-01",
+      "idol_slug": "tsuzura-chitose",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsuzura-chitose_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kiryuu-kurou_geishun-hisho-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_geishun-hisho-01_icon.webp",
+        "front": "kiryuu-kurou_geishun-hisho-01_front.webp",
+        "back": "kiryuu-kurou_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kiryuu-kurou_common-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_common-01_icon.webp",
+        "front": "kiryuu-kurou_common-01_front.webp",
+        "back": "kiryuu-kurou_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kiryuu-kurou_akatsuki-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_akatsuki-01_icon.webp",
+        "front": "kiryuu-kurou_akatsuki-01_front.webp",
+        "back": "kiryuu-kurou_akatsuki-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kanzaki-souma_geishun-hisho-01",
+      "idol_slug": "kanzaki-souma",
+      "costume_name": "迎春飛翔",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanzaki-souma_geishun-hisho-01_icon.webp",
+        "front": "kanzaki-souma_geishun-hisho-01_front.webp",
+        "back": "kanzaki-souma_geishun-hisho-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "配布衣装",
+        "迎春"
+      ],
+      "note_public": "新年キャンペーン配布衣装。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kanzaki-souma_common-01",
+      "idol_slug": "kanzaki-souma",
+      "costume_name": "共通アイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanzaki-souma_common-01_icon.webp",
+        "front": "kanzaki-souma_common-01_front.webp",
+        "back": "kanzaki-souma_common-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kanzaki-souma_akatsuki-01",
+      "idol_slug": "kanzaki-souma",
+      "costume_name": "紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanzaki-souma_akatsuki-01_icon.webp",
+        "front": "kanzaki-souma_akatsuki-01_front.webp",
+        "back": "kanzaki-souma_akatsuki-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
     }
   ]
 }
