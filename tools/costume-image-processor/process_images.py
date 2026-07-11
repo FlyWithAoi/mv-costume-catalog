@@ -280,7 +280,7 @@ def main():
     icon_results = []  # (collection/folder, method) アイコンの検出結果
 
     for coll_name, coll in collections.items():
-        input_root = INPUT_ROOT_BASE / coll_name
+        input_root = INPUT_ROOT_BASE / coll.get("input_dir", coll_name)
         output_dir = OUTPUT_DIR_BASE / coll.get("output_dir", coll.get("idol_slug", coll_name))
         items = coll.get("items", {})
 

@@ -3616,6 +3616,577 @@
       "tags": [],
       "note_public": "未購入のため参考画像なし。",
       "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_bloom-idol-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランクA未解放到達で解放。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_fusion-unit-trickstar-fine-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "FUSION UNIT（Trickstar×fine）衣装",
+      "costume_group": "cross",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_resort-live-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "リゾートライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_resort-live-01_icon.webp",
+        "front": "tenshouin-eichi_resort-live-01_front.webp",
+        "back": "tenshouin-eichi_resort-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_ss-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "『SS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_ss-kouhaku-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_starry-night-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "スターリーナイト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_starry-night-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-chance-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-chance-01_icon.webp",
+        "front": "tenshouin-eichi_anniversary-chance-01_front.webp",
+        "back": "tenshouin-eichi_anniversary-chance-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-777-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-777-01_icon.webp",
+        "front": "tenshouin-eichi_anniversary-777-01_front.webp",
+        "back": "tenshouin-eichi_anniversary-777-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_black-stage-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_starlight-6th-live-tshirt-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_ghostic-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ゴースティック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_ghostic-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_halloween-candle-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_halloween-candle-01_icon.webp",
+        "front": "tenshouin-eichi_halloween-candle-01_front.webp",
+        "back": "tenshouin-eichi_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_newyear-rise-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_starlight-parade-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_fair-waltz-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "フェアなワルツ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_fair-waltz-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_newyear-rise-cape-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_newyear-rise-cape-01_icon.webp",
+        "front": "tenshouin-eichi_newyear-rise-cape-01_front.webp",
+        "back": "tenshouin-eichi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_training-wear-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_training-wear-01_icon.webp",
+        "front": "tenshouin-eichi_training-wear-01_front.webp",
+        "back": "tenshouin-eichi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_old-fine-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "旧fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_old-fine-01_icon.webp",
+        "front": "tenshouin-eichi_old-fine-01_front.webp",
+        "back": "tenshouin-eichi_old-fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_fine-o-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "『fine-O』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_fine-o-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_bloom-idol-scr-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランクA+未解放到達で解放。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-love-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-love-01_icon.webp",
+        "front": "tenshouin-eichi_anniversary-love-01_front.webp",
+        "back": "tenshouin-eichi_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_night-killers-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ナイトキラーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_night-killers-01_icon.webp",
+        "front": "tenshouin-eichi_night-killers-01_front.webp",
+        "back": "tenshouin-eichi_night-killers-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_atlantis-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "『ATLANTIS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_atlantis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_album-trip-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_kenran-yugi-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "絢爛遊戯",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_kenran-yugi-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_newyear-rise-hakugin-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_newyear-rise-hakugin-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "tenshouin-eichi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "tenshouin-eichi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-challenge-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_twilight-idol-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランクS未解放到達で解放。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_happy-charm-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ハッピーチャーム衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_happy-charm-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-challenge-scr-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-challenge-scr-01_icon.webp",
+        "front": "tenshouin-eichi_anniversary-challenge-scr-01_front.webp",
+        "back": "tenshouin-eichi_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "tenshouin-eichi_sanctuary-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "サンクチュアリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_sanctuary-01_icon.webp",
+        "front": "tenshouin-eichi_sanctuary-01_front.webp",
+        "back": "tenshouin-eichi_sanctuary-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-12"
     }
   ]
 }

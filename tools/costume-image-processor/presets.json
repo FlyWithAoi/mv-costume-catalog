@@ -2731,6 +2731,365 @@
           "has_body_images": false
         }
       }
+    },
+    "tenshouin-eichi-slots-17-48": {
+      "idol_slug": "tenshouin-eichi",
+      "input_dir": "tenshouin-eichi",
+      "output_dir": "tenshouin-eichi",
+      "items": {
+        "17_bloom-idol": {
+          "id": "tenshouin-eichi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "18_fusion-unit-trickstar-fine": {
+          "id": "tenshouin-eichi_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "19_resort-live": {
+          "id": "tenshouin-eichi_resort-live-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 620,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "20_ss": {
+          "id": "tenshouin-eichi_ss-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "21_ss-kouhaku": {
+          "id": "tenshouin-eichi_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "22_starry-night": {
+          "id": "tenshouin-eichi_starry-night-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "23_anniversary-chance": {
+          "id": "tenshouin-eichi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1265,
+            "y": 620,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "24_anniversary-777": {
+          "id": "tenshouin-eichi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1435,
+            "y": 620,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "25_black-stage": {
+          "id": "tenshouin-eichi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "tenshouin-eichi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "27_ghostic": {
+          "id": "tenshouin-eichi_ghostic-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "28_halloween-candle": {
+          "id": "tenshouin-eichi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 565,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "29_newyear-rise": {
+          "id": "tenshouin-eichi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "30_starlight-parade": {
+          "id": "tenshouin-eichi_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "31_fair-waltz": {
+          "id": "tenshouin-eichi_fair-waltz-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "32_newyear-rise-cape": {
+          "id": "tenshouin-eichi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1265,
+            "y": 508,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "33_training-wear": {
+          "id": "tenshouin-eichi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1435,
+            "y": 456,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "34_old-fine": {
+          "id": "tenshouin-eichi_old-fine-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1605,
+            "y": 376,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "35_fine-o": {
+          "id": "tenshouin-eichi_fine-o-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "36_bloom-idol-scr": {
+          "id": "tenshouin-eichi_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "37_anniversary-love": {
+          "id": "tenshouin-eichi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 494,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "38_night-killers": {
+          "id": "tenshouin-eichi_night-killers-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 376,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "39_atlantis": {
+          "id": "tenshouin-eichi_atlantis-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "40_album-trip": {
+          "id": "tenshouin-eichi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "41_kenran-yugi": {
+          "id": "tenshouin-eichi_kenran-yugi-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "42_newyear-rise-hakugin": {
+          "id": "tenshouin-eichi_newyear-rise-hakugin-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "43_scramble-gakuen-boys-uniform": {
+          "id": "tenshouin-eichi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1605,
+            "y": 420,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "44_anniversary-challenge": {
+          "id": "tenshouin-eichi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "45_twilight-idol": {
+          "id": "tenshouin-eichi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "46_happy-charm": {
+          "id": "tenshouin-eichi_happy-charm-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "47_anniversary-challenge-scr": {
+          "id": "tenshouin-eichi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 755,
+            "y": 444,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "48_sanctuary": {
+          "id": "tenshouin-eichi_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 925,
+            "y": 492,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        }
+      }
     }
   }
 }
