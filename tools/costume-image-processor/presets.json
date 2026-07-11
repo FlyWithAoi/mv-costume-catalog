@@ -222,6 +222,162 @@
             "height": 195
           },
           "has_body_images": true
+        },
+        "04_common-scr": {
+          "_comment": "実名 共通アイドル衣装（SCR）。未解放詳細ポップアップの手動crop（既存SCR勢と同レイアウト）。",
+          "id": "tenshouin-eichi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "05_uta-no-oniisan": {
+          "_comment": "実名 うたのおにいさん衣装。選択中カードは1段目5枚目。",
+          "id": "tenshouin-eichi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "06_tempest": {
+          "_comment": "実名 テンペスト衣装。カード未所持ポップアップ。",
+          "id": "tenshouin-eichi_tempest-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "_comment": "実名 星色のアニバーサリースーツ。ダイヤショップ未購入ポップアップ。",
+          "id": "tenshouin-eichi_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "08_spy": {
+          "_comment": "実名 スパイ衣装。カード未所持ポップアップ。",
+          "id": "tenshouin-eichi_spy-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "09_magnolia": {
+          "_comment": "実名 マグノリア衣装。選択中カードは1段目9枚目（右端）。",
+          "id": "tenshouin-eichi_magnolia-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1945,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "10_halloween-bat": {
+          "_comment": "実名 ハロウィンバット。選択中カードは2段目1枚目。",
+          "id": "tenshouin-eichi_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "11_tenshi-anniversary-rock": {
+          "_comment": "実名 天使のアニバーサリーロック。ダイヤショップ未購入ポップアップ。",
+          "id": "tenshouin-eichi_tenshi-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "12_primavera": {
+          "_comment": "実名 プリマヴェーラ衣装。カード未所持ポップアップ。",
+          "id": "tenshouin-eichi_primavera-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "13_esmg-graphic-tshirt": {
+          "_comment": "実名 ESMGグラフィックTシャツ。ダイヤショップ未購入ポップアップ。",
+          "id": "tenshouin-eichi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "14_pilot-suit": {
+          "_comment": "実名 パイロットスーツ。選択中カードは2段目5枚目。",
+          "id": "tenshouin-eichi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "15_ring-a-bell": {
+          "_comment": "実名 Ring.A.Bell衣装。カード未所持ポップアップ。",
+          "id": "tenshouin-eichi_ring-a-bell-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "16_tougenkyou-guuzouken": {
+          "_comment": "実名 桃源郷偶像拳衣装。選択中カードは2段目7枚目。",
+          "id": "tenshouin-eichi_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
         }
       }
     },

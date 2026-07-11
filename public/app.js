@@ -23,6 +23,7 @@ const GROUP_LABELS = {
   solo: "個別衣装",
   anniversary: "周年衣装",
   shop: "ショップ衣装",
+  exchange: "交換・ショップ衣装",
   campaign: "記念・キャンペーン衣装",
   other: "その他",
 };

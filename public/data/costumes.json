@@ -315,6 +315,240 @@
       "updated_at": "2026-07-10"
     },
     {
+      "id": "tenshouin-eichi_common-scr-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_uta-no-oniisan-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_uta-no-oniisan-01_icon.webp",
+        "front": "tenshouin-eichi_uta-no-oniisan-01_front.webp",
+        "back": "tenshouin-eichi_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_tempest-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "テンペスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_tempest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_hoshiiro-anniversary-suit-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_spy-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "スパイ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_spy-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_magnolia-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "マグノリア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_magnolia-01_icon.webp",
+        "front": "tenshouin-eichi_magnolia-01_front.webp",
+        "back": "tenshouin-eichi_magnolia-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_halloween-bat-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_halloween-bat-01_icon.webp",
+        "front": "tenshouin-eichi_halloween-bat-01_front.webp",
+        "back": "tenshouin-eichi_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_tenshi-anniversary-rock-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "天使のアニバーサリーロック",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_tenshi-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_primavera-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "プリマヴェーラ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_primavera-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_esmg-graphic-tshirt-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_pilot-suit-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_pilot-suit-01_icon.webp",
+        "front": "tenshouin-eichi_pilot-suit-01_front.webp",
+        "back": "tenshouin-eichi_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_ring-a-bell-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "Ring.A.Bell衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_ring-a-bell-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-11"
+    },
+    {
+      "id": "tenshouin-eichi_tougenkyou-guuzouken-01",
+      "idol_slug": "tenshouin-eichi",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_tougenkyou-guuzouken-01_icon.webp",
+        "front": "tenshouin-eichi_tougenkyou-guuzouken-01_front.webp",
+        "back": "tenshouin-eichi_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-11"
+    },
+    {
       "id": "hibiki-wataru_geishun-hisho-01",
       "idol_slug": "hibiki-wataru",
       "costume_name": "迎春飛翔",
