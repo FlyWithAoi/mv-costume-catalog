@@ -1899,6 +1899,78 @@
             "height": 300
           },
           "has_body_images": false
+        },
+        "04_bloom-idol": {
+          "_comment": "実名 ブルームアイドル衣装。未解放（ランクA）詳細ポップアップの手動crop（共通SCR勢と同レイアウト）。",
+          "id": "kojika-juisu_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "05_bloom-idol-scr": {
+          "_comment": "実名 ブルームアイドル衣装（SCR）。未解放（ランクA+）詳細ポップアップの手動crop。",
+          "id": "kojika-juisu_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
+        },
+        "06_mellow-dear-us-hoodie": {
+          "_comment": "実名 MELLOW DEAR USフーディ。選択中カードは1段目6枚目。",
+          "id": "kojika-juisu_mellow-dear-us-hoodie-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "07_anniversary-chance": {
+          "_comment": "実名 アニバーサリーChance。選択中カードは1段目7枚目。",
+          "id": "kojika-juisu_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "08_anniversary-777": {
+          "_comment": "実名 アニバーサリー777。選択中カードは1段目8枚目。",
+          "id": "kojika-juisu_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
+        },
+        "09_newyear-rise": {
+          "_comment": "実名 ニューイヤーライズ。選択中カードは1段目9枚目（右端）。",
+          "id": "kojika-juisu_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1945,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          },
+          "has_body_images": true
         }
       }
     },

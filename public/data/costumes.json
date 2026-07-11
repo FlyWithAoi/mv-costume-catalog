@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-11",
+  "updated_at": "2026-07-12",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -370,7 +370,7 @@
       "id": "tenshouin-eichi_hoshiiro-anniversary-suit-01",
       "idol_slug": "tenshouin-eichi",
       "costume_name": "星色のアニバーサリースーツ",
-      "costume_group": "exchange",
+      "costume_group": "campaign",
       "unlock_status": "not_purchased",
       "requestable": false,
       "images": {
@@ -379,10 +379,13 @@
         "back": null
       },
       "tags": [
-        "ダイヤショップ"
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
       ],
       "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-11"
+      "updated_at": "2026-07-12"
     },
     {
       "id": "tenshouin-eichi_spy-01",
@@ -443,7 +446,7 @@
       "id": "tenshouin-eichi_tenshi-anniversary-rock-01",
       "idol_slug": "tenshouin-eichi",
       "costume_name": "天使のアニバーサリーロック",
-      "costume_group": "exchange",
+      "costume_group": "campaign",
       "unlock_status": "not_purchased",
       "requestable": false,
       "images": {
@@ -452,10 +455,13 @@
         "back": null
       },
       "tags": [
-        "ダイヤショップ"
+        "ダイヤショップ",
+        "6周年",
+        "アニバーサリー",
+        "FUSIONIC STARS!!"
       ],
       "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-11"
+      "updated_at": "2026-07-12"
     },
     {
       "id": "tenshouin-eichi_primavera-01",
@@ -2490,6 +2496,122 @@
       "tags": [],
       "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
       "updated_at": "2026-07-11"
+    },
+    {
+      "id": "kojika-juisu_bloom-idol-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kojika-juisu_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "kojika-juisu_bloom-idol-scr-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kojika-juisu_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "kojika-juisu_mellow-dear-us-hoodie-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "MELLOW DEAR USフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_mellow-dear-us-hoodie-01_icon.webp",
+        "front": "kojika-juisu_mellow-dear-us-hoodie-01_front.webp",
+        "back": "kojika-juisu_mellow-dear-us-hoodie-01_back.webp"
+      },
+      "tags": [
+        "MELLOW DEAR US",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "kojika-juisu_anniversary-chance-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_anniversary-chance-01_icon.webp",
+        "front": "kojika-juisu_anniversary-chance-01_front.webp",
+        "back": "kojika-juisu_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "kojika-juisu_anniversary-777-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_anniversary-777-01_icon.webp",
+        "front": "kojika-juisu_anniversary-777-01_front.webp",
+        "back": "kojika-juisu_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "kojika-juisu_newyear-rise-01",
+      "idol_slug": "kojika-juisu",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kojika-juisu_newyear-rise-01_icon.webp",
+        "front": "kojika-juisu_newyear-rise-01_front.webp",
+        "back": "kojika-juisu_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
     },
     {
       "id": "madoka-nozomi_common-01",
