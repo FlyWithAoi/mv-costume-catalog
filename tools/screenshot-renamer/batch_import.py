@@ -75,6 +75,13 @@ def cmd_apply(args):
         _print_issues(errors, warnings)
         print("\nエラーがあるため apply できません。")
         return 1
+    applied = [p for p in plan if p.already_applied]
+    if applied:
+        for p in applied:
+            print(f"[適用済み] slot {p.slot:02d}: {p.dest_dir}")
+        print("\n適用済みのスロットがあるため apply しません（上書き禁止）。")
+        print("presets / costumes の生成には gen-presets / gen-costumes を使ってください。")
+        return 1
     incomplete = core.find_incomplete_logs(ctx)
     if incomplete:
         print("[警告] 途中失敗した過去の apply ログがあります:")

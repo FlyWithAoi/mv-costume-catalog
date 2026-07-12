@@ -67,9 +67,12 @@ class BatchImportWindow:
                                    state="disabled", bg="#4a7", fg="white")
         self.btn_presets = tk.Button(btns, text="presets差分...", command=self.show_presets_diff,
                                      state="disabled")
+        self.btn_webp = tk.Button(btns, text="WebP生成（この分のみ）", command=self.run_webp,
+                                  state="disabled")
         self.btn_costumes = tk.Button(btns, text="costumes差分...", command=self.show_costumes_diff,
                                       state="disabled")
-        for b in (self.btn_dry, self.btn_apply, self.btn_presets, self.btn_costumes):
+        for b in (self.btn_dry, self.btn_apply, self.btn_presets,
+                  self.btn_webp, self.btn_costumes):
             b.pack(side="left", padx=4)
 
         self.status_var = tk.StringVar(value="manifest を選択してください。")
@@ -180,14 +183,22 @@ class BatchImportWindow:
                 tk.Label(cell, text=role, bg=bg).pack()
 
         self._show_issues()
-        ok = not self.errors and bool(self.plan)
-        self.btn_apply.configure(state="normal" if ok else "disabled")
-        for b in (self.btn_dry, self.btn_presets, self.btn_costumes):
+        applied = [p for p in self.plan if p.already_applied]
+        can_apply = not self.errors and bool(self.plan) and not applied
+        self.btn_apply.configure(state="normal" if can_apply else "disabled")
+        for b in (self.btn_dry, self.btn_presets, self.btn_webp, self.btn_costumes):
             b.configure(state="normal" if self.plan else "disabled")
+        if can_apply:
+            note = "  — apply 可能"
+        elif applied and not self.errors:
+            note = f"  — 適用済み{len(applied)}件（再applyは不可。presets/WebP/costumesへ進めます）"
+        elif self.errors:
+            note = "  — エラーを解消するまで apply できません"
+        else:
+            note = ""
         self.status_var.set(
             f"衣装 {len(self.plan)}件 / エラー {len(self.errors)}件 / 警告 {len(self.warnings)}件"
-            + ("  — apply 可能" if ok else "  — エラーを解消するまで apply できません"
-               if self.errors else ""))
+            + note)
 
     def _make_thumb(self, src):
         if not (HAS_PIL and src and src.is_file()):
@@ -212,8 +223,34 @@ class BatchImportWindow:
                                    self.plan, self.ctx)
         self._show_text_window("dry-run", text)
 
+    def run_webp(self):
+        """このmanifestのcollectionだけを対象にWebPを生成する。"""
+        import subprocess
+        coll = core.default_collection_name(self.manifest)
+        script = self.project_root / "tools" / "costume-image-processor" / "process_images.py"
+        if not messagebox.askyesno(
+                "WebP生成",
+                f"collection '{coll}' のみを対象にWebPを生成します。\n"
+                "（他のcollectionは再生成しません）\n\n実行しますか？", parent=self.win):
+            return
+        try:
+            result = subprocess.run(
+                [sys.executable, str(script), "--collection", coll],
+                capture_output=True, text=True, encoding="utf-8", errors="replace",
+                cwd=str(self.project_root), timeout=600)
+            output = (result.stdout or "") + ("\n" + result.stderr if result.stderr else "")
+        except Exception as e:
+            messagebox.showerror("WebP生成失敗", str(e), parent=self.win)
+            return
+        self._show_text_window(f"WebP生成結果: {coll}", output)
+
     def do_apply(self):
         if self.errors:
+            return
+        if any(p.already_applied for p in self.plan):
+            messagebox.showinfo("適用済み",
+                                "適用済みのスロットがあるため apply しません（上書き禁止）。",
+                                parent=self.win)
             return
         n = sum(len(p.copies) for p in self.plan)
         if not messagebox.askyesno(

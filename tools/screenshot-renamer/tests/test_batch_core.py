@@ -502,6 +502,103 @@ class ProcessImagesGuardTest(unittest.TestCase):
         self.assertFalse(pi.is_under(out / ".." / ".." / "x", out))
 
 
+class AppliedStateTest(unittest.TestCase):
+    """apply後の再検証で『適用済み』として gen 系に進めることを検証する。"""
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.root = make_project(self.tmp)
+        self.inbox = self.root / "_private" / "inbox" / "test-idol"
+        for name in ("s1.png", "f1.png", "b1.png", "s2.png"):
+            make_png(self.inbox / name)
+        m = base_manifest()
+        m.pop("_path", None)
+        self.manifest_path = Path(self.tmp) / "manifest.json"
+        self.manifest_path.write_text(
+            json.dumps(m, ensure_ascii=False), encoding="utf-8")
+        import batch_import
+        self.cli = batch_import
+        self.ctx = core.BatchContext(self.root)
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def run_cli(self, *argv):
+        return self.cli.main(["--root", str(self.root), *argv])
+
+    def _apply(self):
+        rc = self.run_cli("apply", str(self.manifest_path), "--yes")
+        self.assertEqual(rc, 0)
+
+    def test_no_collision_before_apply(self):
+        m = core.load_manifest(self.manifest_path)
+        errors, warnings, plan = core.validate_manifest(m, self.ctx)
+        self.assertEqual(errors, [])
+        self.assertFalse(any(p.already_applied for p in plan))
+
+    def test_applied_state_after_apply(self):
+        self._apply()
+        m = core.load_manifest(self.manifest_path)
+        errors, warnings, plan = core.validate_manifest(m, core.BatchContext(self.root))
+        self.assertEqual(errors, [])
+        self.assertTrue(all(p.already_applied for p in plan))
+        self.assertTrue(any("適用済み" in w for w in warnings))
+
+    def test_gen_presets_after_apply(self):
+        self._apply()
+        rc = self.run_cli("gen-presets", str(self.manifest_path), "--write", "--yes")
+        self.assertEqual(rc, 0)
+        p = json.loads((self.root / "tools/costume-image-processor/presets.json")
+                       .read_text(encoding="utf-8"))
+        self.assertIn("test-idol-slots-01-02", p["collections"])
+
+    def test_gen_costumes_preview_after_apply(self):
+        self._apply()
+        rc = self.run_cli("gen-costumes", str(self.manifest_path))
+        self.assertEqual(rc, 0)  # プレビューはWebP未生成でも可
+
+    def test_second_apply_rejected(self):
+        self._apply()
+        rc = self.run_cli("apply", str(self.manifest_path), "--yes")
+        self.assertEqual(rc, 1)
+        # rawは1回目のまま（上書きなし）
+        raw = self.root / "_private" / "raw_screenshots" / "test-idol"
+        self.assertEqual((raw / "01_owned-a" / "select.png").read_bytes(), PNG_1PX)
+
+    def test_tampered_raw_is_error(self):
+        self._apply()
+        target = (self.root / "_private" / "raw_screenshots" / "test-idol"
+                  / "01_owned-a" / "front.png")
+        target.write_bytes(b"tampered")
+        m = core.load_manifest(self.manifest_path)
+        errors, _, _ = core.validate_manifest(m, core.BatchContext(self.root))
+        self.assertTrue(any("内容がこのmanifestと一致しません" in e for e in errors))
+
+    def test_applied_without_log_is_error(self):
+        self._apply()
+        for f in (self.root / "_private" / "import_logs").glob("*.json"):
+            f.unlink()
+        m = core.load_manifest(self.manifest_path)
+        errors, _, _ = core.validate_manifest(m, core.BatchContext(self.root))
+        self.assertTrue(any("applyログに記録がありません" in e for e in errors))
+
+    def test_other_manifest_same_raw_target_is_error(self):
+        self._apply()
+        # 同じ slot/slug（=同じrawフォルダ）を別のソースファイルで指す別manifest
+        make_png(self.inbox / "alt1.png")
+        make_png(self.inbox / "alt2.png")
+        make_png(self.inbox / "alt3.png")
+        m2 = base_manifest()
+        m2["items"][0]["select_file"] = "alt1.png"
+        m2["items"][0]["front_file"] = "alt2.png"
+        m2["items"][0]["back_file"] = "alt3.png"
+        # ダミーPNGは全て同一バイトなので、内容を変えて不一致にする
+        (self.inbox / "alt1.png").write_bytes(PNG_1PX + b"x")
+        errors, _, _ = core.validate_manifest(m2, core.BatchContext(self.root))
+        self.assertTrue(any("既存rawフォルダと衝突" in e or "一致しません" in e
+                            for e in errors))
+
+
 class GuiSmokeTest(unittest.TestCase):
     """GUIの基本動作（起動・検証表示・エラー時のボタン無効化）。
 

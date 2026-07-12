@@ -147,6 +147,21 @@ python tools/screenshot-renamer/batch_gui.py
 4. 「rawへコピー (apply)」→ 最終確認 → コピー実行（エラーがあるとボタンが無効）
 5. 「presets差分...」「costumes差分...」で差分プレビューを確認してから書き込み
 
+### apply後の再検証（適用済み判定）
+
+apply が完了した後に同じ manifest で validate / gen-presets / gen-costumes を実行した場合、
+raw フォルダが「ファイル名・数・内容ともに manifest の apply 結果と一致し、
+completed の apply ログに記録がある」ときは**衝突ではなく「適用済み」**として扱われ、
+そのまま presets / WebP / costumes の工程へ進めます。
+
+- 適用済みスロットへの**二度目の apply は拒否**されます（上書き禁止は従来どおり）
+- 同名 raw の内容が manifest と一致しない場合は従来どおり衝突エラーです
+- 内容は一致するが apply ログがない場合もエラーになります（出所不明のrawを黙って採用しない）
+
+GUI もこの判定に対応しており、「manifest選択 → dry-run → rawへコピー →
+presets差分・書き込み → WebP生成（この分のみ）→ costumes差分・書き込み」まで
+GUI のボタン操作だけで完走できます。
+
 ### エラー時の対処
 
 - **検証エラー**: manifest を修正して再読込（validate）。エラーが残る限り apply できません。

@@ -18,6 +18,7 @@ AI等が作成した確定済み manifest.json を読み込み、
 
 import copy
 import difflib
+import filecmp
 import json
 import re
 import shutil
@@ -208,6 +209,9 @@ class PlanItem:
         self.sources = {}  # role -> Path（指定されたものだけ）
         self.copies = []   # (src Path, dst Path)
         self.warnings = []
+        # rawが既にこのmanifestのapply結果と一致している場合 True
+        # （gen-presets / gen-costumes は続行可、二度目のapplyは拒否）
+        self.already_applied = False
 
     def resolve_sources(self, inbox_dir):
         """ソースファイルを検証しつつ解決する。エラーメッセージのリストを返す。
@@ -331,6 +335,7 @@ def validate_manifest(manifest, ctx):
     used_files = {}   # 解決済みパス -> "slot17/select" のような使用元
     seen_ids = set()
     seen_slugs = set()
+    _log_dsts = None  # completedログのコピー先集合（適用済み判定用・遅延読み込み）
     collection_name = default_collection_name(manifest)
     existing_coll = ctx.presets.get("collections", {}).get(collection_name, {})
     existing_coll_items = existing_coll.get("items", {})
@@ -426,14 +431,32 @@ def validate_manifest(manifest, ctx):
             else:
                 used_files[key] = f"slot {pi.slot}/{role}"
 
-        # 既存rawフォルダとの衝突
+        # 既存rawフォルダとの衝突 / 適用済み判定
+        # 「このmanifestのapply結果と完全一致（ファイル名・数・内容）かつ
+        #  completedのapplyログに記録がある」場合のみ『適用済み』として続行可。
+        # それ以外の既存rawはすべて衝突エラー（上書き防止は従来どおり）。
         if pi.dest_dir.exists():
-            conflicts = [dst.name for _, dst in pi.copies if dst.exists()]
-            if conflicts:
-                errors.append(f"slot {pi.slot}: 既存rawフォルダと衝突します: "
-                              f"{pi.dest_dir}（既存: {', '.join(conflicts)}）")
-            else:
+            existing_files = sorted(p.name for p in pi.dest_dir.iterdir() if p.is_file())
+            expected_files = sorted(dst.name for _, dst in pi.copies)
+            if not existing_files:
                 warnings.append(f"slot {pi.slot}: コピー先フォルダは既にありますが空です: {pi.dest_dir}")
+            elif existing_files == expected_files and all(
+                    src.is_file() and dst.is_file()
+                    and filecmp.cmp(src, dst, shallow=False)
+                    for src, dst in pi.copies):
+                if _log_dsts is None:
+                    _log_dsts = completed_log_dsts(ctx)
+                if all(str(dst.resolve()) in _log_dsts for _, dst in pi.copies):
+                    pi.already_applied = True
+                    warnings.append(f"slot {pi.slot}: 適用済みです"
+                                    f"（rawはこのmanifestのapply結果と一致。再applyは不可）")
+                else:
+                    errors.append(f"slot {pi.slot}: rawの内容はmanifestと一致しますが、"
+                                  f"completedのapplyログに記録がありません: {pi.dest_dir}")
+            else:
+                errors.append(f"slot {pi.slot}: 既存rawフォルダと衝突します"
+                              f"（内容がこのmanifestと一致しません）: {pi.dest_dir}"
+                              f"（既存: {', '.join(existing_files)}）")
         # 同じ idol の別フォルダ名で同じ slot 番号が既に使われていないか
         idol_raw = ctx.raw_root / idol_slug if idol_slug else None
         if idol_raw and idol_raw.is_dir():
@@ -549,6 +572,26 @@ def apply_plan(manifest, plan, ctx):
         write_log()
         raise
     return copied, log_path
+
+
+def completed_log_dsts(ctx):
+    """completed な applyログに記録された全コピー先パス（resolve済み文字列）を返す。"""
+    dsts = set()
+    if not ctx.log_dir.is_dir():
+        return dsts
+    for f in ctx.log_dir.glob("*.json"):
+        try:
+            with open(f, encoding="utf-8") as fh:
+                log = json.load(fh)
+        except (OSError, json.JSONDecodeError):
+            continue
+        if log.get("status") == "completed":
+            for c in log.get("copied", []):
+                try:
+                    dsts.add(str(Path(c["dst"]).resolve()))
+                except (KeyError, OSError):
+                    continue
+    return dsts
 
 
 def find_incomplete_logs(ctx):
