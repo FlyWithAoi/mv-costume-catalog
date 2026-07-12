@@ -60,6 +60,15 @@ def load_presets():
         return json.load(f)
 
 
+def is_under(child, base):
+    """child(resolve後) が base 配下にあるか。パス脱出の二重防御に使う。"""
+    try:
+        Path(child).resolve().relative_to(Path(base).resolve())
+        return True
+    except ValueError:
+        return False
+
+
 def clamp_crop_box(box, img_w, img_h):
     """crop座標(x,y,width,height)を画像の範囲内に収めて (left,top,right,bottom) を返す。"""
     x, y, w, h = box["x"], box["y"], box["width"], box["height"]
@@ -255,7 +264,40 @@ def main():
         action="store_true",
         help="切り抜き範囲・探索範囲を枠で描いた確認画像を debug/ に出力する",
     )
+    parser.add_argument(
+        "--collection",
+        action="append",
+        default=None,
+        metavar="NAME",
+        help="処理対象の collection を限定する（複数指定可）",
+    )
+    parser.add_argument(
+        "--item",
+        action="append",
+        default=None,
+        metavar="FOLDER",
+        help="処理対象の衣装フォルダ名を限定する（複数指定可、例: 17_bloom-idol）",
+    )
+    parser.add_argument(
+        "--icons-only",
+        action="store_true",
+        help="アイコン（select.png由来）だけ生成し、front/backは再生成しない",
+    )
+    parser.add_argument(
+        "--body-only",
+        action="store_true",
+        help="front/back だけ生成し、アイコンは再生成しない",
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="出力先WebPが既にあるものはスキップする",
+    )
     args = parser.parse_args()
+
+    if args.icons_only and args.body_only:
+        print("[エラー] --icons-only と --body-only は同時に指定できません。")
+        sys.exit(1)
 
     print("=" * 60)
     print("MV衣装カタログ Phase 2: 画像加工スクリプト" + ("  [DEBUGモード]" if args.debug else ""))
@@ -275,6 +317,14 @@ def main():
         print("[エラー] presets.json の collections が空です。")
         sys.exit(1)
 
+    if args.collection:
+        unknown = [c for c in args.collection if c not in collections]
+        if unknown:
+            print(f"[エラー] presets.json にない collection が指定されました: {unknown}")
+            print(f"         利用可能: {sorted(collections)}")
+            sys.exit(1)
+        collections = {k: v for k, v in collections.items() if k in args.collection}
+
     generated = []   # 生成できたファイル
     skipped = []     # スキップ（理由つき）
     icon_results = []  # (collection/folder, method) アイコンの検出結果
@@ -282,6 +332,13 @@ def main():
     for coll_name, coll in collections.items():
         input_root = INPUT_ROOT_BASE / coll.get("input_dir", coll_name)
         output_dir = OUTPUT_DIR_BASE / coll.get("output_dir", coll.get("idol_slug", coll_name))
+        # 二重防御: presets.json の値が不正でも、規定のルート外は読み書きしない
+        if not is_under(input_root, INPUT_ROOT_BASE):
+            print(f"[エラー] {coll_name}: input_dir が {INPUT_ROOT_BASE} の外を指しています: {input_root}")
+            sys.exit(1)
+        if not is_under(output_dir, OUTPUT_DIR_BASE):
+            print(f"[エラー] {coll_name}: output_dir が {OUTPUT_DIR_BASE} の外を指しています: {output_dir}")
+            sys.exit(1)
         items = coll.get("items", {})
 
         print(f"===== コレクション: {coll_name} -> {output_dir.name}/ =====")
@@ -297,8 +354,18 @@ def main():
             continue
         print()
 
+        if args.item:
+            items = {k: v for k, v in items.items() if k in args.item}
+            if not items:
+                print(f"  (--item に一致する衣装がありません)")
+                print()
+                continue
+
         for folder_name, entry in items.items():
             folder = input_root / folder_name
+            if not is_under(folder, input_root):
+                print(f"[エラー] {coll_name}/{folder_name}: 衣装フォルダ名が入力ルートの外を指しています")
+                sys.exit(1)
             cid = entry["id"]
             label = f"{coll_name}/{folder_name}"
             print(f"--- {label} ({cid}) ---")
@@ -312,7 +379,12 @@ def main():
 
             # 1. アイコン（select.png）
             select_src = folder / "select.png"
-            if select_src.exists():
+            if args.body_only:
+                print("  (--body-only のためアイコンをスキップ)")
+            elif (args.skip_existing and not args.debug
+                    and (output_dir / f"{cid}_icon.webp").exists()):
+                print(f"  (icon は既存のためスキップ: {cid}_icon.webp)")
+            elif select_src.exists():
                 try:
                     if args.debug:
                         prefix = f"{coll_name}_{folder_name}"
@@ -335,9 +407,15 @@ def main():
                 skipped.append(msg)
 
             # 2. front / back
-            if entry.get("has_body_images"):
+            if args.icons_only:
+                print("  (--icons-only のため front/back をスキップ)")
+            elif entry.get("has_body_images"):
                 for kind in ("front", "back"):
                     body_src = folder / f"{kind}.png"
+                    if (args.skip_existing and not args.debug
+                            and (output_dir / f"{cid}_{kind}.webp").exists()):
+                        print(f"  ({kind} は既存のためスキップ: {cid}_{kind}.webp)")
+                        continue
                     if body_src.exists():
                         try:
                             if args.debug:

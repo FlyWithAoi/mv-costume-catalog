@@ -89,6 +89,8 @@ class RenamerApp:
                   command=self.open_dest_folder, width=20).pack(side="left", padx=6)
         tk.Button(btn_frame, text="選択をクリア", command=self.clear_slots,
                   width=14).pack(side="left", padx=6)
+        tk.Button(btn_frame, text="バッチ取り込み...", command=self.open_batch_mode,
+                  width=16).pack(side="left", padx=6)
 
         row += 1
         tk.Label(frame, text="結果:").grid(row=row, column=0, sticky="nw")
@@ -214,6 +216,15 @@ class RenamerApp:
                 results.append(f"- {slot}.png のコピーに失敗: {e}")
         results.append(f"- 保存先: {dest_dir}")
         self.log(results)
+
+    def open_batch_mode(self):
+        """manifest.json ベースのバッチ取り込みモードを開く。"""
+        try:
+            import batch_gui
+        except ImportError as e:
+            messagebox.showerror("エラー", f"batch_gui を読み込めませんでした:\n{e}")
+            return
+        batch_gui.BatchImportWindow(tk.Toplevel(self.root))
 
     def open_dest_folder(self):
         dest_dir = self.get_dest_dir()
