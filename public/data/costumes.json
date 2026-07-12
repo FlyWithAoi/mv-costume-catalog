@@ -4187,6 +4187,288 @@
       ],
       "note_public": null,
       "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_bloom-idol-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "madoka-nozomi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_bloom-idol-scr-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "madoka-nozomi_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_mellow-dear-us-hoodie-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "MELLOW DEAR USフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_mellow-dear-us-hoodie-01_icon.webp",
+        "front": "madoka-nozomi_mellow-dear-us-hoodie-01_front.webp",
+        "back": "madoka-nozomi_mellow-dear-us-hoodie-01_back.webp"
+      },
+      "tags": [
+        "MELLOW DEAR US",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_anniversary-chance-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_anniversary-chance-01_icon.webp",
+        "front": "madoka-nozomi_anniversary-chance-01_front.webp",
+        "back": "madoka-nozomi_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_anniversary-777-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_anniversary-777-01_icon.webp",
+        "front": "madoka-nozomi_anniversary-777-01_front.webp",
+        "back": "madoka-nozomi_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_newyear-rise-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_newyear-rise-01_icon.webp",
+        "front": "madoka-nozomi_newyear-rise-01_front.webp",
+        "back": "madoka-nozomi_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_newyear-rise-cape-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_newyear-rise-cape-01_icon.webp",
+        "front": "madoka-nozomi_newyear-rise-cape-01_front.webp",
+        "back": "madoka-nozomi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_training-wear-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_training-wear-01_icon.webp",
+        "front": "madoka-nozomi_training-wear-01_front.webp",
+        "back": "madoka-nozomi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "madoka-nozomi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "madoka-nozomi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_bubble-gum-dance-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "BUBBLE GUM DANCE衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_bubble-gum-dance-01_icon.webp",
+        "front": "madoka-nozomi_bubble-gum-dance-01_front.webp",
+        "back": "madoka-nozomi_bubble-gum-dance-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_shining-star-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_shining-star-01_icon.webp",
+        "front": "madoka-nozomi_shining-star-01_front.webp",
+        "back": "madoka-nozomi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_starlight-10th-live-tshirt-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "madoka-nozomi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_anniversary-agent-red-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_anniversary-agent-red-01_icon.webp",
+        "front": "madoka-nozomi_anniversary-agent-red-01_front.webp",
+        "back": "madoka-nozomi_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_caelum-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_caelum-01_icon.webp",
+        "front": "madoka-nozomi_caelum-01_front.webp",
+        "back": "madoka-nozomi_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
+    },
+    {
+      "id": "madoka-nozomi_terra-01",
+      "idol_slug": "madoka-nozomi",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_terra-01_icon.webp",
+        "front": "madoka-nozomi_terra-01_front.webp",
+        "back": "madoka-nozomi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-12"
     }
   ]
 }
