@@ -3540,6 +3540,167 @@
           }
         }
       }
+    },
+    "tsuzura-chitose-slots-04-17": {
+      "idol_slug": "tsuzura-chitose",
+      "input_dir": "tsuzura-chitose",
+      "output_dir": "tsuzura-chitose",
+      "items": {
+        "04_bloom-idol": {
+          "id": "tsuzura-chitose_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_bloom-idol-scr": {
+          "id": "tsuzura-chitose_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_mellow-dear-us-hoodie": {
+          "id": "tsuzura-chitose_mellow-dear-us-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_anniversary-chance": {
+          "id": "tsuzura-chitose_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_anniversary-777": {
+          "id": "tsuzura-chitose_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_newyear-rise": {
+          "id": "tsuzura-chitose_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_newyear-rise-cape": {
+          "id": "tsuzura-chitose_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_training-wear": {
+          "id": "tsuzura-chitose_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_scramble-gakuen-boys-uniform": {
+          "id": "tsuzura-chitose_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_bubble-gum-dance": {
+          "id": "tsuzura-chitose_bubble-gum-dance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_shining-star": {
+          "id": "tsuzura-chitose_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_starlight-10th-live-tshirt": {
+          "id": "tsuzura-chitose_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_anniversary-agent-red": {
+          "id": "tsuzura-chitose_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_terra": {
+          "id": "tsuzura-chitose_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
