@@ -5950,6 +5950,717 @@
           }
         }
       }
+    },
+    "fushimi-yuzuru-slots-04-67": {
+      "idol_slug": "fushimi-yuzuru",
+      "input_dir": "fushimi-yuzuru",
+      "output_dir": "fushimi-yuzuru",
+      "items": {
+        "04_common-scr": {
+          "id": "fushimi-yuzuru_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "fushimi-yuzuru_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_tempest": {
+          "id": "fushimi-yuzuru_tempest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "fushimi-yuzuru_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_magnolia": {
+          "id": "fushimi-yuzuru_magnolia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-bat": {
+          "id": "fushimi-yuzuru_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_aka-no-ushi": {
+          "id": "fushimi-yuzuru_aka-no-ushi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_tenshi-anniversary-rock": {
+          "id": "fushimi-yuzuru_tenshi-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_primavera": {
+          "id": "fushimi-yuzuru_primavera-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "fushimi-yuzuru_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "fushimi-yuzuru_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_tougenkyou-guuzouken": {
+          "id": "fushimi-yuzuru_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_bloom-idol": {
+          "id": "fushimi-yuzuru_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_fusion-unit-trickstar-fine": {
+          "id": "fushimi-yuzuru_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_deep-blue-valet": {
+          "id": "fushimi-yuzuru_deep-blue-valet-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_resort-live": {
+          "id": "fushimi-yuzuru_resort-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss": {
+          "id": "fushimi-yuzuru_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kouhaku": {
+          "id": "fushimi-yuzuru_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "fushimi-yuzuru_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_anniversary-777": {
+          "id": "fushimi-yuzuru_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "fushimi-yuzuru_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "fushimi-yuzuru_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_ghostic": {
+          "id": "fushimi-yuzuru_ghostic-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "fushimi-yuzuru_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_flambe": {
+          "id": "fushimi-yuzuru_flambe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise": {
+          "id": "fushimi-yuzuru_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_starlight-parade": {
+          "id": "fushimi-yuzuru_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "fushimi-yuzuru_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 436,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_graduation": {
+          "id": "fushimi-yuzuru_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_training-wear": {
+          "id": "fushimi-yuzuru_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 437,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "fushimi-yuzuru_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "fushimi-yuzuru_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 450,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_asagiri-no-minamo": {
+          "id": "fushimi-yuzuru_asagiri-no-minamo-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 389,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_atlantis": {
+          "id": "fushimi-yuzuru_atlantis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_album-trip": {
+          "id": "fushimi-yuzuru_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_newyear-rise-hakugin": {
+          "id": "fushimi-yuzuru_newyear-rise-hakugin-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "fushimi-yuzuru_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 532,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_anniversary-challenge": {
+          "id": "fushimi-yuzuru_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_twilight-idol": {
+          "id": "fushimi-yuzuru_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_intelligence": {
+          "id": "fushimi-yuzuru_intelligence-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 430,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "fushimi-yuzuru_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 399,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_mayoigo-ballad": {
+          "id": "fushimi-yuzuru_mayoigo-ballad-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 352,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_sanctuary": {
+          "id": "fushimi-yuzuru_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 371,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_halloween-wing": {
+          "id": "fushimi-yuzuru_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_fairy-tale": {
+          "id": "fushimi-yuzuru_fairy-tale-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_chokkeishu": {
+          "id": "fushimi-yuzuru_chokkeishu-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 314,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_starlight-9th-live-tshirt": {
+          "id": "fushimi-yuzuru_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_newyear-rise-first-love": {
+          "id": "fushimi-yuzuru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_colorful-music": {
+          "id": "fushimi-yuzuru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_fine-hoodie": {
+          "id": "fushimi-yuzuru_fine-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 305,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_twilight-idol-scr": {
+          "id": "fushimi-yuzuru_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_graceful-punishment": {
+          "id": "fushimi-yuzuru_graceful-punishment-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_route": {
+          "id": "fushimi-yuzuru_route-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_jinbei-goldfish": {
+          "id": "fushimi-yuzuru_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_caelum": {
+          "id": "fushimi-yuzuru_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_halloween-wing-angel": {
+          "id": "fushimi-yuzuru_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_terra": {
+          "id": "fushimi-yuzuru_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_musica": {
+          "id": "fushimi-yuzuru_musica-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_shining-star": {
+          "id": "fushimi-yuzuru_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 476,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_starlight-10th-live-tshirt": {
+          "id": "fushimi-yuzuru_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_anniversary-agent-red": {
+          "id": "fushimi-yuzuru_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 646,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_mare": {
+          "id": "fushimi-yuzuru_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 646,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_lure-ruler": {
+          "id": "fushimi-yuzuru_lure-ruler-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 646,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_jinbei-fireworks": {
+          "id": "fushimi-yuzuru_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 646,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

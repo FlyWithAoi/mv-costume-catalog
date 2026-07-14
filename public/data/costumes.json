@@ -8878,6 +8878,1171 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_common-scr-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_uta-no-oniisan-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_uta-no-oniisan-01_icon.webp",
+        "front": "fushimi-yuzuru_uta-no-oniisan-01_front.webp",
+        "back": "fushimi-yuzuru_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_tempest-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "テンペスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_tempest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_hoshiiro-anniversary-suit-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_magnolia-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "マグノリア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_magnolia-01_icon.webp",
+        "front": "fushimi-yuzuru_magnolia-01_front.webp",
+        "back": "fushimi-yuzuru_magnolia-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_halloween-bat-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_halloween-bat-01_icon.webp",
+        "front": "fushimi-yuzuru_halloween-bat-01_front.webp",
+        "back": "fushimi-yuzuru_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_aka-no-ushi-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "赤の丑衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_aka-no-ushi-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_tenshi-anniversary-rock-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "天使のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_tenshi-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "6周年",
+        "アニバーサリー",
+        "FUSIONIC STARS!!"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_primavera-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "プリマヴェーラ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_primavera-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_esmg-graphic-tshirt-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_pilot-suit-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_pilot-suit-01_icon.webp",
+        "front": "fushimi-yuzuru_pilot-suit-01_front.webp",
+        "back": "fushimi-yuzuru_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_tougenkyou-guuzouken-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_tougenkyou-guuzouken-01_icon.webp",
+        "front": "fushimi-yuzuru_tougenkyou-guuzouken-01_front.webp",
+        "back": "fushimi-yuzuru_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_bloom-idol-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_fusion-unit-trickstar-fine-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "FUSION UNIT（Trickstar×fine）衣装",
+      "costume_group": "cross",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_deep-blue-valet-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ディープブルー・ヴァレット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_deep-blue-valet-01_icon.webp",
+        "front": "fushimi-yuzuru_deep-blue-valet-01_front.webp",
+        "back": "fushimi-yuzuru_deep-blue-valet-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_resort-live-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "リゾートライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_resort-live-01_icon.webp",
+        "front": "fushimi-yuzuru_resort-live-01_front.webp",
+        "back": "fushimi-yuzuru_resort-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_ss-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "『SS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_ss-kouhaku-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-chance-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-chance-01_icon.webp",
+        "front": "fushimi-yuzuru_anniversary-chance-01_front.webp",
+        "back": "fushimi-yuzuru_anniversary-chance-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-777-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-777-01_icon.webp",
+        "front": "fushimi-yuzuru_anniversary-777-01_front.webp",
+        "back": "fushimi-yuzuru_anniversary-777-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_black-stage-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_black-stage-01_icon.webp",
+        "front": "fushimi-yuzuru_black-stage-01_front.webp",
+        "back": "fushimi-yuzuru_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_starlight-6th-live-tshirt-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_ghostic-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ゴースティック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_ghostic-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_halloween-candle-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_halloween-candle-01_icon.webp",
+        "front": "fushimi-yuzuru_halloween-candle-01_front.webp",
+        "back": "fushimi-yuzuru_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_flambe-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Flambé！衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_flambe-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_newyear-rise-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_starlight-parade-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_newyear-rise-cape-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_newyear-rise-cape-01_icon.webp",
+        "front": "fushimi-yuzuru_newyear-rise-cape-01_front.webp",
+        "back": "fushimi-yuzuru_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_graduation-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_training-wear-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_training-wear-01_icon.webp",
+        "front": "fushimi-yuzuru_training-wear-01_front.webp",
+        "back": "fushimi-yuzuru_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_bloom-idol-scr-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-love-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-love-01_icon.webp",
+        "front": "fushimi-yuzuru_anniversary-love-01_front.webp",
+        "back": "fushimi-yuzuru_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_asagiri-no-minamo-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "朝霧の水面",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_asagiri-no-minamo-01_icon.webp",
+        "front": "fushimi-yuzuru_asagiri-no-minamo-01_front.webp",
+        "back": "fushimi-yuzuru_asagiri-no-minamo-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_atlantis-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "『ATLANTIS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_atlantis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_album-trip-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_newyear-rise-hakugin-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_newyear-rise-hakugin-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "fushimi-yuzuru_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "fushimi-yuzuru_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-challenge-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_twilight-idol-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_intelligence-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "インテリジェンス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_intelligence-01_icon.webp",
+        "front": "fushimi-yuzuru_intelligence-01_front.webp",
+        "back": "fushimi-yuzuru_intelligence-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-challenge-scr-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-challenge-scr-01_icon.webp",
+        "front": "fushimi-yuzuru_anniversary-challenge-scr-01_front.webp",
+        "back": "fushimi-yuzuru_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_mayoigo-ballad-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "迷い子バラッド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_mayoigo-ballad-01_icon.webp",
+        "front": "fushimi-yuzuru_mayoigo-ballad-01_front.webp",
+        "back": "fushimi-yuzuru_mayoigo-ballad-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_sanctuary-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "サンクチュアリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_sanctuary-01_icon.webp",
+        "front": "fushimi-yuzuru_sanctuary-01_front.webp",
+        "back": "fushimi-yuzuru_sanctuary-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_halloween-wing-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_halloween-wing-01_icon.webp",
+        "front": "fushimi-yuzuru_halloween-wing-01_front.webp",
+        "back": "fushimi-yuzuru_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_fairy-tale-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "フェアリーテイル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_fairy-tale-01_icon.webp",
+        "front": "fushimi-yuzuru_fairy-tale-01_front.webp",
+        "back": "fushimi-yuzuru_fairy-tale-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_chokkeishu-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "直系衆衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_chokkeishu-01_icon.webp",
+        "front": "fushimi-yuzuru_chokkeishu-01_front.webp",
+        "back": "fushimi-yuzuru_chokkeishu-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_starlight-9th-live-tshirt-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "fushimi-yuzuru_starlight-9th-live-tshirt-01_front.webp",
+        "back": "fushimi-yuzuru_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_newyear-rise-first-love-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_newyear-rise-first-love-01_icon.webp",
+        "front": "fushimi-yuzuru_newyear-rise-first-love-01_front.webp",
+        "back": "fushimi-yuzuru_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_colorful-music-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_colorful-music-01_icon.webp",
+        "front": "fushimi-yuzuru_colorful-music-01_front.webp",
+        "back": "fushimi-yuzuru_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_fine-hoodie-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "fineフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_fine-hoodie-01_icon.webp",
+        "front": "fushimi-yuzuru_fine-hoodie-01_front.webp",
+        "back": "fushimi-yuzuru_fine-hoodie-01_back.webp"
+      },
+      "tags": [
+        "fine",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_twilight-idol-scr-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_graceful-punishment-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Graceful Punishment衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_graceful-punishment-01_icon.webp",
+        "front": "fushimi-yuzuru_graceful-punishment-01_front.webp",
+        "back": "fushimi-yuzuru_graceful-punishment-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_route-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ROUTE",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_route-01_icon.webp",
+        "front": "fushimi-yuzuru_route-01_front.webp",
+        "back": "fushimi-yuzuru_route-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_jinbei-goldfish-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_jinbei-goldfish-01_icon.webp",
+        "front": "fushimi-yuzuru_jinbei-goldfish-01_front.webp",
+        "back": "fushimi-yuzuru_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_caelum-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_caelum-01_icon.webp",
+        "front": "fushimi-yuzuru_caelum-01_front.webp",
+        "back": "fushimi-yuzuru_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_halloween-wing-angel-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_halloween-wing-angel-01_icon.webp",
+        "front": "fushimi-yuzuru_halloween-wing-angel-01_front.webp",
+        "back": "fushimi-yuzuru_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_terra-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_terra-01_icon.webp",
+        "front": "fushimi-yuzuru_terra-01_front.webp",
+        "back": "fushimi-yuzuru_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_musica-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Musica衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_musica-01_icon.webp",
+        "front": "fushimi-yuzuru_musica-01_front.webp",
+        "back": "fushimi-yuzuru_musica-01_back.webp"
+      },
+      "tags": [
+        "fine"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_shining-star-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_shining-star-01_icon.webp",
+        "front": "fushimi-yuzuru_shining-star-01_front.webp",
+        "back": "fushimi-yuzuru_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_starlight-10th-live-tshirt-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "fushimi-yuzuru_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_anniversary-agent-red-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_anniversary-agent-red-01_icon.webp",
+        "front": "fushimi-yuzuru_anniversary-agent-red-01_front.webp",
+        "back": "fushimi-yuzuru_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_mare-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_mare-01_icon.webp",
+        "front": "fushimi-yuzuru_mare-01_front.webp",
+        "back": "fushimi-yuzuru_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_lure-ruler-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "ルアー・ルーラー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_lure-ruler-01_icon.webp",
+        "front": "fushimi-yuzuru_lure-ruler-01_front.webp",
+        "back": "fushimi-yuzuru_lure-ruler-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "fushimi-yuzuru_jinbei-fireworks-01",
+      "idol_slug": "fushimi-yuzuru",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "fushimi-yuzuru_jinbei-fireworks-01_icon.webp",
+        "front": "fushimi-yuzuru_jinbei-fireworks-01_front.webp",
+        "back": "fushimi-yuzuru_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
     }
   ]
 }
