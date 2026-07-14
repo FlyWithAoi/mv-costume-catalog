@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-14",
+  "updated_at": "2026-07-15",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -7017,6 +7017,592 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-14"
+    },
+    {
+      "id": "raika_anniversary-777-01",
+      "idol_slug": "raika",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_anniversary-777-01_icon.webp",
+        "front": "raika_anniversary-777-01_front.webp",
+        "back": "raika_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_newyear-rise-01",
+      "idol_slug": "raika",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_newyear-rise-01_icon.webp",
+        "front": "raika_newyear-rise-01_front.webp",
+        "back": "raika_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_newyear-rise-cape-01",
+      "idol_slug": "raika",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_newyear-rise-cape-01_icon.webp",
+        "front": "raika_newyear-rise-cape-01_front.webp",
+        "back": "raika_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_training-wear-01",
+      "idol_slug": "raika",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_training-wear-01_icon.webp",
+        "front": "raika_training-wear-01_front.webp",
+        "back": "raika_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "raika",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "raika_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "raika_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_anniversary-challenge-01",
+      "idol_slug": "raika",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "raika_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_anniversary-challenge-scr-01",
+      "idol_slug": "raika",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_anniversary-challenge-scr-01_icon.webp",
+        "front": "raika_anniversary-challenge-scr-01_front.webp",
+        "back": "raika_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_black-stage-01",
+      "idol_slug": "raika",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_black-stage-01_icon.webp",
+        "front": "raika_black-stage-01_front.webp",
+        "back": "raika_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_halloween-wing-01",
+      "idol_slug": "raika",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_halloween-wing-01_icon.webp",
+        "front": "raika_halloween-wing-01_front.webp",
+        "back": "raika_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_special-for-princess-01",
+      "idol_slug": "raika",
+      "costume_name": "Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_special-for-princess-01_icon.webp",
+        "front": "raika_special-for-princess-01_front.webp",
+        "back": "raika_special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_common-scr-01",
+      "idol_slug": "raika",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "raika_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_bloom-idol-01",
+      "idol_slug": "raika",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "raika_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_bloom-idol-scr-01",
+      "idol_slug": "raika",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "raika_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_twilight-idol-01",
+      "idol_slug": "raika",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "raika_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_snow-white-01",
+      "idol_slug": "raika",
+      "costume_name": "スノーホワイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_snow-white-01_icon.webp",
+        "front": "raika_snow-white-01_front.webp",
+        "back": "raika_snow-white-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_newyear-rise-first-love-01",
+      "idol_slug": "raika",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_newyear-rise-first-love-01_icon.webp",
+        "front": "raika_newyear-rise-first-love-01_front.webp",
+        "back": "raika_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_prehnite-check-01",
+      "idol_slug": "raika",
+      "costume_name": "プレナイトチェック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_prehnite-check-01_icon.webp",
+        "front": "raika_prehnite-check-01_front.webp",
+        "back": "raika_prehnite-check-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_colorful-music-01",
+      "idol_slug": "raika",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_colorful-music-01_icon.webp",
+        "front": "raika_colorful-music-01_front.webp",
+        "back": "raika_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_special-for-princess-hoodie-01",
+      "idol_slug": "raika",
+      "costume_name": "Special for Princess!フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_special-for-princess-hoodie-01_icon.webp",
+        "front": "raika_special-for-princess-hoodie-01_front.webp",
+        "back": "raika_special-for-princess-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_twilight-idol-scr-01",
+      "idol_slug": "raika",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "raika_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_jinbei-goldfish-01",
+      "idol_slug": "raika",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_jinbei-goldfish-01_icon.webp",
+        "front": "raika_jinbei-goldfish-01_front.webp",
+        "back": "raika_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_caelum-01",
+      "idol_slug": "raika",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_caelum-01_icon.webp",
+        "front": "raika_caelum-01_front.webp",
+        "back": "raika_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_magical-uni-01",
+      "idol_slug": "raika",
+      "costume_name": "マジカルユニ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_magical-uni-01_icon.webp",
+        "front": "raika_magical-uni-01_front.webp",
+        "back": "raika_magical-uni-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_halloween-wing-angel-01",
+      "idol_slug": "raika",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_halloween-wing-angel-01_icon.webp",
+        "front": "raika_halloween-wing-angel-01_front.webp",
+        "back": "raika_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_terra-01",
+      "idol_slug": "raika",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_terra-01_icon.webp",
+        "front": "raika_terra-01_front.webp",
+        "back": "raika_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_fight-is-only-fate-01",
+      "idol_slug": "raika",
+      "costume_name": "Fight Is Only Fate衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_fight-is-only-fate-01_icon.webp",
+        "front": "raika_fight-is-only-fate-01_front.webp",
+        "back": "raika_fight-is-only-fate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_shining-star-01",
+      "idol_slug": "raika",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_shining-star-01_icon.webp",
+        "front": "raika_shining-star-01_front.webp",
+        "back": "raika_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_paints-01",
+      "idol_slug": "raika",
+      "costume_name": "Paints",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_paints-01_icon.webp",
+        "front": "raika_paints-01_front.webp",
+        "back": "raika_paints-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_starlight-10th-live-tshirt-01",
+      "idol_slug": "raika",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "raika_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_anniversary-agent-green-01",
+      "idol_slug": "raika",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_anniversary-agent-green-01_icon.webp",
+        "front": "raika_anniversary-agent-green-01_front.webp",
+        "back": "raika_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_mm-special-for-princess-01",
+      "idol_slug": "raika",
+      "costume_name": "MM Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_mm-special-for-princess-01_icon.webp",
+        "front": "raika_mm-special-for-princess-01_front.webp",
+        "back": "raika_mm-special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "raika_jinbei-fireworks-01",
+      "idol_slug": "raika",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "raika_jinbei-fireworks-01_icon.webp",
+        "front": "raika_jinbei-fireworks-01_front.webp",
+        "back": "raika_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
     }
   ]
 }

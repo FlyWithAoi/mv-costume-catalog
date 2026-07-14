@@ -4822,6 +4822,365 @@
           }
         }
       }
+    },
+    "raika-slots-04-35": {
+      "idol_slug": "raika",
+      "input_dir": "raika",
+      "output_dir": "raika",
+      "items": {
+        "04_anniversary-777": {
+          "id": "raika_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_newyear-rise": {
+          "id": "raika_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_newyear-rise-cape": {
+          "id": "raika_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_training-wear": {
+          "id": "raika_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_scramble-gakuen-boys-uniform": {
+          "id": "raika_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_anniversary-challenge": {
+          "id": "raika_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_anniversary-challenge-scr": {
+          "id": "raika_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-stage": {
+          "id": "raika_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_halloween-wing": {
+          "id": "raika_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_special-for-princess": {
+          "id": "raika_special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_common-scr": {
+          "id": "raika_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_bloom-idol": {
+          "id": "raika_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol-scr": {
+          "id": "raika_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_twilight-idol": {
+          "id": "raika_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_snow-white": {
+          "id": "raika_snow-white-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_newyear-rise-first-love": {
+          "id": "raika_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_prehnite-check": {
+          "id": "raika_prehnite-check-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_colorful-music": {
+          "id": "raika_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_special-for-princess-hoodie": {
+          "id": "raika_special-for-princess-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_twilight-idol-scr": {
+          "id": "raika_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_jinbei-goldfish": {
+          "id": "raika_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_caelum": {
+          "id": "raika_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_magical-uni": {
+          "id": "raika_magical-uni-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-wing-angel": {
+          "id": "raika_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_terra": {
+          "id": "raika_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_fight-is-only-fate": {
+          "id": "raika_fight-is-only-fate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_shining-star": {
+          "id": "raika_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_paints": {
+          "id": "raika_paints-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_starlight-10th-live-tshirt": {
+          "id": "raika_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_anniversary-agent-green": {
+          "id": "raika_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_mm-special-for-princess": {
+          "id": "raika_mm-special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_jinbei-fireworks": {
+          "id": "raika_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
