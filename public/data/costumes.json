@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-13",
+  "updated_at": "2026-07-14",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -5770,6 +5770,630 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-13"
+    },
+    {
+      "id": "kanna_anniversary-777-01",
+      "idol_slug": "kanna",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_anniversary-777-01_icon.webp",
+        "front": "kanna_anniversary-777-01_front.webp",
+        "back": "kanna_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_newyear-rise-01",
+      "idol_slug": "kanna",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_newyear-rise-01_icon.webp",
+        "front": "kanna_newyear-rise-01_front.webp",
+        "back": "kanna_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_newyear-rise-cape-01",
+      "idol_slug": "kanna",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_newyear-rise-cape-01_icon.webp",
+        "front": "kanna_newyear-rise-cape-01_front.webp",
+        "back": "kanna_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_training-wear-01",
+      "idol_slug": "kanna",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_training-wear-01_icon.webp",
+        "front": "kanna_training-wear-01_front.webp",
+        "back": "kanna_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "kanna",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "kanna_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "kanna_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_anniversary-challenge-01",
+      "idol_slug": "kanna",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_anniversary-challenge-scr-01",
+      "idol_slug": "kanna",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_anniversary-challenge-scr-01_icon.webp",
+        "front": "kanna_anniversary-challenge-scr-01_front.webp",
+        "back": "kanna_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_black-stage-01",
+      "idol_slug": "kanna",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_halloween-wing-01",
+      "idol_slug": "kanna",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_halloween-wing-01_icon.webp",
+        "front": "kanna_halloween-wing-01_front.webp",
+        "back": "kanna_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_special-for-princess-01",
+      "idol_slug": "kanna",
+      "costume_name": "Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_special-for-princess-01_icon.webp",
+        "front": "kanna_special-for-princess-01_front.webp",
+        "back": "kanna_special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_common-scr-01",
+      "idol_slug": "kanna",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_bloom-idol-01",
+      "idol_slug": "kanna",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_bloom-idol-scr-01",
+      "idol_slug": "kanna",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_twilight-idol-01",
+      "idol_slug": "kanna",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_snow-white-01",
+      "idol_slug": "kanna",
+      "costume_name": "スノーホワイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_snow-white-01_icon.webp",
+        "front": "kanna_snow-white-01_front.webp",
+        "back": "kanna_snow-white-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_newyear-rise-first-love-01",
+      "idol_slug": "kanna",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_newyear-rise-first-love-01_icon.webp",
+        "front": "kanna_newyear-rise-first-love-01_front.webp",
+        "back": "kanna_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_colorful-music-01",
+      "idol_slug": "kanna",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_colorful-music-01_icon.webp",
+        "front": "kanna_colorful-music-01_front.webp",
+        "back": "kanna_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_glimmer-01",
+      "idol_slug": "kanna",
+      "costume_name": "Glimmer",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_glimmer-01_icon.webp",
+        "front": "kanna_glimmer-01_front.webp",
+        "back": "kanna_glimmer-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_special-for-princess-hoodie-01",
+      "idol_slug": "kanna",
+      "costume_name": "Special for Princess!フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_special-for-princess-hoodie-01_icon.webp",
+        "front": "kanna_special-for-princess-hoodie-01_front.webp",
+        "back": "kanna_special-for-princess-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_twilight-idol-scr-01",
+      "idol_slug": "kanna",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_jinbei-goldfish-01",
+      "idol_slug": "kanna",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_jinbei-goldfish-01_icon.webp",
+        "front": "kanna_jinbei-goldfish-01_front.webp",
+        "back": "kanna_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_caelum-01",
+      "idol_slug": "kanna",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_caelum-01_icon.webp",
+        "front": "kanna_caelum-01_front.webp",
+        "back": "kanna_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_magical-uni-01",
+      "idol_slug": "kanna",
+      "costume_name": "マジカルユニ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_magical-uni-01_icon.webp",
+        "front": "kanna_magical-uni-01_front.webp",
+        "back": "kanna_magical-uni-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_halloween-wing-angel-01",
+      "idol_slug": "kanna",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_halloween-wing-angel-01_icon.webp",
+        "front": "kanna_halloween-wing-angel-01_front.webp",
+        "back": "kanna_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_sore-wa-zanzou-no-shoushitsuten-01",
+      "idol_slug": "kanna",
+      "costume_name": "それは残像の消失点衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_sore-wa-zanzou-no-shoushitsuten-01_icon.webp",
+        "front": "kanna_sore-wa-zanzou-no-shoushitsuten-01_front.webp",
+        "back": "kanna_sore-wa-zanzou-no-shoushitsuten-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_kumamarusu-q-01",
+      "idol_slug": "kanna",
+      "costume_name": "クママルスQ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_kumamarusu-q-01_icon.webp",
+        "front": "kanna_kumamarusu-q-01_front.webp",
+        "back": "kanna_kumamarusu-q-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_kumamarusu-q-bear-paws-01",
+      "idol_slug": "kanna",
+      "costume_name": "クママルスQ衣装（クマの手）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_kumamarusu-q-bear-paws-01_icon.webp",
+        "front": "kanna_kumamarusu-q-bear-paws-01_front.webp",
+        "back": "kanna_kumamarusu-q-bear-paws-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_terra-01",
+      "idol_slug": "kanna",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_terra-01_icon.webp",
+        "front": "kanna_terra-01_front.webp",
+        "back": "kanna_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_shining-star-01",
+      "idol_slug": "kanna",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_shining-star-01_icon.webp",
+        "front": "kanna_shining-star-01_front.webp",
+        "back": "kanna_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_starlight-10th-live-tshirt-01",
+      "idol_slug": "kanna",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_anniversary-agent-green-01",
+      "idol_slug": "kanna",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_anniversary-agent-green-01_icon.webp",
+        "front": "kanna_anniversary-agent-green-01_front.webp",
+        "back": "kanna_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_eye-fitting-01",
+      "idol_slug": "kanna",
+      "costume_name": "アイフィッチング衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kanna_eye-fitting-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_mm-special-for-princess-01",
+      "idol_slug": "kanna",
+      "costume_name": "MM Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_mm-special-for-princess-01_icon.webp",
+        "front": "kanna_mm-special-for-princess-01_front.webp",
+        "back": "kanna_mm-special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "kanna_jinbei-fireworks-01",
+      "idol_slug": "kanna",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kanna_jinbei-fireworks-01_icon.webp",
+        "front": "kanna_jinbei-fireworks-01_front.webp",
+        "back": "kanna_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
     }
   ]
 }

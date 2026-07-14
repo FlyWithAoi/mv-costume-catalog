@@ -4060,6 +4060,387 @@
           }
         }
       }
+    },
+    "kanna-slots-04-37": {
+      "idol_slug": "kanna",
+      "input_dir": "kanna",
+      "output_dir": "kanna",
+      "items": {
+        "04_anniversary-777": {
+          "id": "kanna_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_newyear-rise": {
+          "id": "kanna_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_newyear-rise-cape": {
+          "id": "kanna_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_training-wear": {
+          "id": "kanna_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_scramble-gakuen-boys-uniform": {
+          "id": "kanna_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_anniversary-challenge": {
+          "id": "kanna_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_anniversary-challenge-scr": {
+          "id": "kanna_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-stage": {
+          "id": "kanna_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_halloween-wing": {
+          "id": "kanna_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_special-for-princess": {
+          "id": "kanna_special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_common-scr": {
+          "id": "kanna_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_bloom-idol": {
+          "id": "kanna_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol-scr": {
+          "id": "kanna_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_twilight-idol": {
+          "id": "kanna_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_snow-white": {
+          "id": "kanna_snow-white-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_newyear-rise-first-love": {
+          "id": "kanna_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_colorful-music": {
+          "id": "kanna_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_glimmer": {
+          "id": "kanna_glimmer-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_special-for-princess-hoodie": {
+          "id": "kanna_special-for-princess-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_twilight-idol-scr": {
+          "id": "kanna_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_jinbei-goldfish": {
+          "id": "kanna_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_caelum": {
+          "id": "kanna_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_magical-uni": {
+          "id": "kanna_magical-uni-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-wing-angel": {
+          "id": "kanna_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_sore-wa-zanzou-no-shoushitsuten": {
+          "id": "kanna_sore-wa-zanzou-no-shoushitsuten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_kumamarusu-q": {
+          "id": "kanna_kumamarusu-q-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_kumamarusu-q-bear-paws": {
+          "id": "kanna_kumamarusu-q-bear-paws-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_terra": {
+          "id": "kanna_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_shining-star": {
+          "id": "kanna_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_starlight-10th-live-tshirt": {
+          "id": "kanna_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-agent-green": {
+          "id": "kanna_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_eye-fitting": {
+          "id": "kanna_eye-fitting-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_mm-special-for-princess": {
+          "id": "kanna_mm-special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_jinbei-fireworks": {
+          "id": "kanna_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
