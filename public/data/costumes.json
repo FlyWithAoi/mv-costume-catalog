@@ -6394,6 +6394,629 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_anniversary-777-01",
+      "idol_slug": "yume",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_anniversary-777-01_icon.webp",
+        "front": "yume_anniversary-777-01_front.webp",
+        "back": "yume_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_newyear-rise-01",
+      "idol_slug": "yume",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_newyear-rise-01_icon.webp",
+        "front": "yume_newyear-rise-01_front.webp",
+        "back": "yume_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_newyear-rise-cape-01",
+      "idol_slug": "yume",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_newyear-rise-cape-01_icon.webp",
+        "front": "yume_newyear-rise-cape-01_front.webp",
+        "back": "yume_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_training-wear-01",
+      "idol_slug": "yume",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_training-wear-01_icon.webp",
+        "front": "yume_training-wear-01_front.webp",
+        "back": "yume_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "yume",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "yume_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "yume_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_anniversary-challenge-01",
+      "idol_slug": "yume",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yume_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_anniversary-challenge-scr-01",
+      "idol_slug": "yume",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_anniversary-challenge-scr-01_icon.webp",
+        "front": "yume_anniversary-challenge-scr-01_front.webp",
+        "back": "yume_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_black-stage-01",
+      "idol_slug": "yume",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_black-stage-01_icon.webp",
+        "front": "yume_black-stage-01_front.webp",
+        "back": "yume_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_amethyst-dream-01",
+      "idol_slug": "yume",
+      "costume_name": "アメジストドリーム",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_amethyst-dream-01_icon.webp",
+        "front": "yume_amethyst-dream-01_front.webp",
+        "back": "yume_amethyst-dream-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_halloween-wing-01",
+      "idol_slug": "yume",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_halloween-wing-01_icon.webp",
+        "front": "yume_halloween-wing-01_front.webp",
+        "back": "yume_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_special-for-princess-01",
+      "idol_slug": "yume",
+      "costume_name": "Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_special-for-princess-01_icon.webp",
+        "front": "yume_special-for-princess-01_front.webp",
+        "back": "yume_special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_common-scr-01",
+      "idol_slug": "yume",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yume_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_bloom-idol-01",
+      "idol_slug": "yume",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yume_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_bloom-idol-scr-01",
+      "idol_slug": "yume",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yume_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_twilight-idol-01",
+      "idol_slug": "yume",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yume_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_snow-white-01",
+      "idol_slug": "yume",
+      "costume_name": "スノーホワイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_snow-white-01_icon.webp",
+        "front": "yume_snow-white-01_front.webp",
+        "back": "yume_snow-white-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_newyear-rise-first-love-01",
+      "idol_slug": "yume",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_newyear-rise-first-love-01_icon.webp",
+        "front": "yume_newyear-rise-first-love-01_front.webp",
+        "back": "yume_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_colorful-music-01",
+      "idol_slug": "yume",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_colorful-music-01_icon.webp",
+        "front": "yume_colorful-music-01_front.webp",
+        "back": "yume_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_blue-angel-dinner-party-01",
+      "idol_slug": "yume",
+      "costume_name": "蒼天使の晩餐会衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_blue-angel-dinner-party-01_icon.webp",
+        "front": "yume_blue-angel-dinner-party-01_front.webp",
+        "back": "yume_blue-angel-dinner-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_special-for-princess-hoodie-01",
+      "idol_slug": "yume",
+      "costume_name": "Special for Princess!フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_special-for-princess-hoodie-01_icon.webp",
+        "front": "yume_special-for-princess-hoodie-01_front.webp",
+        "back": "yume_special-for-princess-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_twilight-idol-scr-01",
+      "idol_slug": "yume",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yume_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_little-peace-legend-01",
+      "idol_slug": "yume",
+      "costume_name": "ちびっこピース伝説衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_little-peace-legend-01_icon.webp",
+        "front": "yume_little-peace-legend-01_front.webp",
+        "back": "yume_little-peace-legend-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_jinbei-goldfish-01",
+      "idol_slug": "yume",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_jinbei-goldfish-01_icon.webp",
+        "front": "yume_jinbei-goldfish-01_front.webp",
+        "back": "yume_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_iridescent-light-01",
+      "idol_slug": "yume",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yume_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_caelum-01",
+      "idol_slug": "yume",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_caelum-01_icon.webp",
+        "front": "yume_caelum-01_front.webp",
+        "back": "yume_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_magical-uni-01",
+      "idol_slug": "yume",
+      "costume_name": "マジカルユニ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_magical-uni-01_icon.webp",
+        "front": "yume_magical-uni-01_front.webp",
+        "back": "yume_magical-uni-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_halloween-wing-angel-01",
+      "idol_slug": "yume",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_halloween-wing-angel-01_icon.webp",
+        "front": "yume_halloween-wing-angel-01_front.webp",
+        "back": "yume_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_terra-01",
+      "idol_slug": "yume",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_terra-01_icon.webp",
+        "front": "yume_terra-01_front.webp",
+        "back": "yume_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_poison-ribbon-01",
+      "idol_slug": "yume",
+      "costume_name": "Poison Ribbon",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_poison-ribbon-01_icon.webp",
+        "front": "yume_poison-ribbon-01_front.webp",
+        "back": "yume_poison-ribbon-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_shining-star-01",
+      "idol_slug": "yume",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_shining-star-01_icon.webp",
+        "front": "yume_shining-star-01_front.webp",
+        "back": "yume_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_starlight-10th-live-tshirt-01",
+      "idol_slug": "yume",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yume_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_anniversary-agent-green-01",
+      "idol_slug": "yume",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_anniversary-agent-green-01_icon.webp",
+        "front": "yume_anniversary-agent-green-01_front.webp",
+        "back": "yume_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_mm-special-for-princess-01",
+      "idol_slug": "yume",
+      "costume_name": "MM Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_mm-special-for-princess-01_icon.webp",
+        "front": "yume_mm-special-for-princess-01_front.webp",
+        "back": "yume_mm-special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
+    },
+    {
+      "id": "yume_jinbei-fireworks-01",
+      "idol_slug": "yume",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yume_jinbei-fireworks-01_icon.webp",
+        "front": "yume_jinbei-fireworks-01_front.webp",
+        "back": "yume_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-14"
     }
   ]
 }

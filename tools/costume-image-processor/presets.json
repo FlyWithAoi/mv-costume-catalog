@@ -4441,6 +4441,387 @@
           }
         }
       }
+    },
+    "yume-slots-04-37": {
+      "idol_slug": "yume",
+      "input_dir": "yume",
+      "output_dir": "yume",
+      "items": {
+        "04_anniversary-777": {
+          "id": "yume_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_newyear-rise": {
+          "id": "yume_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_newyear-rise-cape": {
+          "id": "yume_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_training-wear": {
+          "id": "yume_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_scramble-gakuen-boys-uniform": {
+          "id": "yume_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_anniversary-challenge": {
+          "id": "yume_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_anniversary-challenge-scr": {
+          "id": "yume_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-stage": {
+          "id": "yume_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_amethyst-dream": {
+          "id": "yume_amethyst-dream-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_halloween-wing": {
+          "id": "yume_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_special-for-princess": {
+          "id": "yume_special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_common-scr": {
+          "id": "yume_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "yume_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bloom-idol-scr": {
+          "id": "yume_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_twilight-idol": {
+          "id": "yume_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_snow-white": {
+          "id": "yume_snow-white-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_newyear-rise-first-love": {
+          "id": "yume_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_colorful-music": {
+          "id": "yume_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_blue-angel-dinner-party": {
+          "id": "yume_blue-angel-dinner-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_special-for-princess-hoodie": {
+          "id": "yume_special-for-princess-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_twilight-idol-scr": {
+          "id": "yume_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_little-peace-legend": {
+          "id": "yume_little-peace-legend-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_jinbei-goldfish": {
+          "id": "yume_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_iridescent-light": {
+          "id": "yume_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_caelum": {
+          "id": "yume_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_magical-uni": {
+          "id": "yume_magical-uni-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_halloween-wing-angel": {
+          "id": "yume_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_terra": {
+          "id": "yume_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_poison-ribbon": {
+          "id": "yume_poison-ribbon-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_shining-star": {
+          "id": "yume_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_starlight-10th-live-tshirt": {
+          "id": "yume_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-agent-green": {
+          "id": "yume_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_mm-special-for-princess": {
+          "id": "yume_mm-special-for-princess-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_jinbei-fireworks": {
+          "id": "yume_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
