@@ -5181,6 +5181,200 @@
           }
         }
       }
+    },
+    "sagami-jin-slots-03-19": {
+      "idol_slug": "sagami-jin",
+      "input_dir": "sagami-jin",
+      "output_dir": "sagami-jin",
+      "items": {
+        "03_model-anniversary-rock": {
+          "id": "sagami-jin_model-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "04_esmg-graphic-tshirt": {
+          "id": "sagami-jin_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_ss-kohaku": {
+          "id": "sagami-jin_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_anniversary-chance": {
+          "id": "sagami-jin_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_anniversary-777": {
+          "id": "sagami-jin_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_newyear-rise": {
+          "id": "sagami-jin_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_newyear-rise-cape": {
+          "id": "sagami-jin_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_training-wear": {
+          "id": "sagami-jin_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_anniversary-live": {
+          "id": "sagami-jin_anniversary-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_newyear-rise-silver": {
+          "id": "sagami-jin_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_scramble-gakuen-boys-uniform": {
+          "id": "sagami-jin_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_anniversary-challenge": {
+          "id": "sagami-jin_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_anniversary-challenge-scr": {
+          "id": "sagami-jin_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_newyear-rise-first-love": {
+          "id": "sagami-jin_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_jin-and-akiomi-hoodie": {
+          "id": "sagami-jin_jin-and-akiomi-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_jinbei-goldfish": {
+          "id": "sagami-jin_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_anniversary-agent-red": {
+          "id": "sagami-jin_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

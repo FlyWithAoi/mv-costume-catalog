@@ -7603,6 +7603,332 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_model-anniversary-rock-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "模範のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_model-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "6周年",
+        "アニバーサリー",
+        "FUSIONIC STARS!!"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_esmg-graphic-tshirt-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_ss-kohaku-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-chance-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-777-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_anniversary-777-01_icon.webp",
+        "front": "sagami-jin_anniversary-777-01_front.webp",
+        "back": "sagami-jin_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_newyear-rise-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_newyear-rise-01_icon.webp",
+        "front": "sagami-jin_newyear-rise-01_front.webp",
+        "back": "sagami-jin_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_newyear-rise-cape-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_newyear-rise-cape-01_icon.webp",
+        "front": "sagami-jin_newyear-rise-cape-01_front.webp",
+        "back": "sagami-jin_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_training-wear-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_training-wear-01_icon.webp",
+        "front": "sagami-jin_training-wear-01_front.webp",
+        "back": "sagami-jin_training-wear-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-live-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリーライブ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_anniversary-live-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_newyear-rise-silver-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "sagami-jin_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "sagami-jin_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-challenge-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sagami-jin_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-challenge-scr-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_anniversary-challenge-scr-01_icon.webp",
+        "front": "sagami-jin_anniversary-challenge-scr-01_front.webp",
+        "back": "sagami-jin_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_newyear-rise-first-love-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_newyear-rise-first-love-01_icon.webp",
+        "front": "sagami-jin_newyear-rise-first-love-01_front.webp",
+        "back": "sagami-jin_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_jin-and-akiomi-hoodie-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "Jin&Akiomiフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_jin-and-akiomi-hoodie-01_icon.webp",
+        "front": "sagami-jin_jin-and-akiomi-hoodie-01_front.webp",
+        "back": "sagami-jin_jin-and-akiomi-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Jin & Akiomi",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_jinbei-goldfish-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_jinbei-goldfish-01_icon.webp",
+        "front": "sagami-jin_jinbei-goldfish-01_front.webp",
+        "back": "sagami-jin_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "sagami-jin_anniversary-agent-red-01",
+      "idol_slug": "sagami-jin",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sagami-jin_anniversary-agent-red-01_icon.webp",
+        "front": "sagami-jin_anniversary-agent-red-01_front.webp",
+        "back": "sagami-jin_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
     }
   ]
 }
