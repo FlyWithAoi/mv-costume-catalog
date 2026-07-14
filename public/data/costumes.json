@@ -5181,6 +5181,595 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_anniversary-777-01",
+      "idol_slug": "esu",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_anniversary-777-01_icon.webp",
+        "front": "esu_anniversary-777-01_front.webp",
+        "back": "esu_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_newyear-rise-01",
+      "idol_slug": "esu",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_newyear-rise-01_icon.webp",
+        "front": "esu_newyear-rise-01_front.webp",
+        "back": "esu_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_newyear-rise-cape-01",
+      "idol_slug": "esu",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_newyear-rise-cape-01_icon.webp",
+        "front": "esu_newyear-rise-cape-01_front.webp",
+        "back": "esu_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_training-wear-01",
+      "idol_slug": "esu",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_training-wear-01_icon.webp",
+        "front": "esu_training-wear-01_front.webp",
+        "back": "esu_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "esu",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "esu_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "esu_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_anniversary-challenge-01",
+      "idol_slug": "esu",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "esu_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_bouken-blue-01",
+      "idol_slug": "esu",
+      "costume_name": "BOUKEN BLUE",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "esu_bouken-blue-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_anniversary-challenge-scr-01",
+      "idol_slug": "esu",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_anniversary-challenge-scr-01_icon.webp",
+        "front": "esu_anniversary-challenge-scr-01_front.webp",
+        "back": "esu_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_black-stage-01",
+      "idol_slug": "esu",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "esu_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_halloween-wing-01",
+      "idol_slug": "esu",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_halloween-wing-01_icon.webp",
+        "front": "esu_halloween-wing-01_front.webp",
+        "back": "esu_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_special-for-princess-01",
+      "idol_slug": "esu",
+      "costume_name": "Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_special-for-princess-01_icon.webp",
+        "front": "esu_special-for-princess-01_front.webp",
+        "back": "esu_special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_common-scr-01",
+      "idol_slug": "esu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "esu_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_bloom-idol-01",
+      "idol_slug": "esu",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "esu_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_bloom-idol-scr-01",
+      "idol_slug": "esu",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "esu_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_twilight-idol-01",
+      "idol_slug": "esu",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "esu_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_snow-white-01",
+      "idol_slug": "esu",
+      "costume_name": "スノーホワイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_snow-white-01_icon.webp",
+        "front": "esu_snow-white-01_front.webp",
+        "back": "esu_snow-white-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_newyear-rise-first-love-01",
+      "idol_slug": "esu",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_newyear-rise-first-love-01_icon.webp",
+        "front": "esu_newyear-rise-first-love-01_front.webp",
+        "back": "esu_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_colorful-music-01",
+      "idol_slug": "esu",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_colorful-music-01_icon.webp",
+        "front": "esu_colorful-music-01_front.webp",
+        "back": "esu_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_special-for-princess-hoodie-01",
+      "idol_slug": "esu",
+      "costume_name": "Special for Princess!フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_special-for-princess-hoodie-01_icon.webp",
+        "front": "esu_special-for-princess-hoodie-01_front.webp",
+        "back": "esu_special-for-princess-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_twilight-idol-scr-01",
+      "idol_slug": "esu",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "esu_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_jinbei-goldfish-01",
+      "idol_slug": "esu",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_jinbei-goldfish-01_icon.webp",
+        "front": "esu_jinbei-goldfish-01_front.webp",
+        "back": "esu_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_caelum-01",
+      "idol_slug": "esu",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_caelum-01_icon.webp",
+        "front": "esu_caelum-01_front.webp",
+        "back": "esu_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_ai-s-01",
+      "idol_slug": "esu",
+      "costume_name": "Ai☆S!!衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_ai-s-01_icon.webp",
+        "front": "esu_ai-s-01_front.webp",
+        "back": "esu_ai-s-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_magical-uni-01",
+      "idol_slug": "esu",
+      "costume_name": "マジカルユニ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_magical-uni-01_icon.webp",
+        "front": "esu_magical-uni-01_front.webp",
+        "back": "esu_magical-uni-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_halloween-wing-angel-01",
+      "idol_slug": "esu",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_halloween-wing-angel-01_icon.webp",
+        "front": "esu_halloween-wing-angel-01_front.webp",
+        "back": "esu_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_silver-world-01",
+      "idol_slug": "esu",
+      "costume_name": "銀世界衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "esu_silver-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_terra-01",
+      "idol_slug": "esu",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_terra-01_icon.webp",
+        "front": "esu_terra-01_front.webp",
+        "back": "esu_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_shining-star-01",
+      "idol_slug": "esu",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_shining-star-01_icon.webp",
+        "front": "esu_shining-star-01_front.webp",
+        "back": "esu_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_starlight-10th-live-tshirt-01",
+      "idol_slug": "esu",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "esu_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_anniversary-agent-green-01",
+      "idol_slug": "esu",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_anniversary-agent-green-01_icon.webp",
+        "front": "esu_anniversary-agent-green-01_front.webp",
+        "back": "esu_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_mm-special-for-princess-01",
+      "idol_slug": "esu",
+      "costume_name": "MM Special for Princess!衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_mm-special-for-princess-01_icon.webp",
+        "front": "esu_mm-special-for-princess-01_front.webp",
+        "back": "esu_mm-special-for-princess-01_back.webp"
+      },
+      "tags": [
+        "Special for Princess!"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
+    },
+    {
+      "id": "esu_jinbei-fireworks-01",
+      "idol_slug": "esu",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "esu_jinbei-fireworks-01_icon.webp",
+        "front": "esu_jinbei-fireworks-01_front.webp",
+        "back": "esu_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-13"
     }
   ]
 }
