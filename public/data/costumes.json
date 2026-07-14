@@ -8255,6 +8255,629 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_anniversary-777-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_anniversary-777-01_icon.webp",
+        "front": "taki-ibuki_anniversary-777-01_front.webp",
+        "back": "taki-ibuki_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_newyear-rise-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_newyear-rise-01_icon.webp",
+        "front": "taki-ibuki_newyear-rise-01_front.webp",
+        "back": "taki-ibuki_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_newyear-rise-cape-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_newyear-rise-cape-01_icon.webp",
+        "front": "taki-ibuki_newyear-rise-cape-01_front.webp",
+        "back": "taki-ibuki_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_training-wear-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_training-wear-01_icon.webp",
+        "front": "taki-ibuki_training-wear-01_front.webp",
+        "back": "taki-ibuki_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "taki-ibuki_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "taki-ibuki_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_anniversary-challenge-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_anniversary-challenge-scr-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_anniversary-challenge-scr-01_icon.webp",
+        "front": "taki-ibuki_anniversary-challenge-scr-01_front.webp",
+        "back": "taki-ibuki_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_black-stage-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_black-stage-01_icon.webp",
+        "front": "taki-ibuki_black-stage-01_front.webp",
+        "back": "taki-ibuki_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_black-stage-scr-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_black-stage-scr-01_icon.webp",
+        "front": "taki-ibuki_black-stage-scr-01_front.webp",
+        "back": "taki-ibuki_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_halloween-wing-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_halloween-wing-01_icon.webp",
+        "front": "taki-ibuki_halloween-wing-01_front.webp",
+        "back": "taki-ibuki_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_shoso-no-kagetsuden-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "翔装の華月伝衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_shoso-no-kagetsuden-01_icon.webp",
+        "front": "taki-ibuki_shoso-no-kagetsuden-01_front.webp",
+        "back": "taki-ibuki_shoso-no-kagetsuden-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_newyear-rise-first-love-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_newyear-rise-first-love-01_icon.webp",
+        "front": "taki-ibuki_newyear-rise-first-love-01_front.webp",
+        "back": "taki-ibuki_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_akatsuki-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_akatsuki-01_icon.webp",
+        "front": "taki-ibuki_akatsuki-01_front.webp",
+        "back": "taki-ibuki_akatsuki-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_common-scr-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_bloom-idol-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_bloom-idol-scr-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_twilight-idol-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_colorful-music-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_colorful-music-01_icon.webp",
+        "front": "taki-ibuki_colorful-music-01_front.webp",
+        "back": "taki-ibuki_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_akatsuki-hoodie-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "紅月フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_akatsuki-hoodie-01_icon.webp",
+        "front": "taki-ibuki_akatsuki-hoodie-01_front.webp",
+        "back": "taki-ibuki_akatsuki-hoodie-01_back.webp"
+      },
+      "tags": [
+        "紅月",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_twilight-idol-scr-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_yoake-echo-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "夜明けECHO",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_yoake-echo-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_jinbei-goldfish-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_jinbei-goldfish-01_icon.webp",
+        "front": "taki-ibuki_jinbei-goldfish-01_front.webp",
+        "back": "taki-ibuki_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_iridescent-light-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_iridescent-light-01_icon.webp",
+        "front": "taki-ibuki_iridescent-light-01_front.webp",
+        "back": "taki-ibuki_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_caelum-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_caelum-01_icon.webp",
+        "front": "taki-ibuki_caelum-01_front.webp",
+        "back": "taki-ibuki_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_battalion-butterfly-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "バタリオン・バタフライ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_battalion-butterfly-01_icon.webp",
+        "front": "taki-ibuki_battalion-butterfly-01_front.webp",
+        "back": "taki-ibuki_battalion-butterfly-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_halloween-wing-angel-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_halloween-wing-angel-01_icon.webp",
+        "front": "taki-ibuki_halloween-wing-angel-01_front.webp",
+        "back": "taki-ibuki_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_terra-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_terra-01_icon.webp",
+        "front": "taki-ibuki_terra-01_front.webp",
+        "back": "taki-ibuki_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_fight-is-only-fate-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "Fight Is Only Fate衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_fight-is-only-fate-01_icon.webp",
+        "front": "taki-ibuki_fight-is-only-fate-01_front.webp",
+        "back": "taki-ibuki_fight-is-only-fate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_shining-star-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_shining-star-01_icon.webp",
+        "front": "taki-ibuki_shining-star-01_front.webp",
+        "back": "taki-ibuki_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_starlight-10th-live-tshirt-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "taki-ibuki_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_anniversary-agent-red-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_anniversary-agent-red-01_icon.webp",
+        "front": "taki-ibuki_anniversary-agent-red-01_front.webp",
+        "back": "taki-ibuki_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_mm-akatsuki-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "MM 紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_mm-akatsuki-01_icon.webp",
+        "front": "taki-ibuki_mm-akatsuki-01_front.webp",
+        "back": "taki-ibuki_mm-akatsuki-01_back.webp"
+      },
+      "tags": [
+        "紅月"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_mare-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_mare-01_icon.webp",
+        "front": "taki-ibuki_mare-01_front.webp",
+        "back": "taki-ibuki_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
+    },
+    {
+      "id": "taki-ibuki_jinbei-fireworks-01",
+      "idol_slug": "taki-ibuki",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "taki-ibuki_jinbei-fireworks-01_icon.webp",
+        "front": "taki-ibuki_jinbei-fireworks-01_front.webp",
+        "back": "taki-ibuki_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-15"
     }
   ]
 }

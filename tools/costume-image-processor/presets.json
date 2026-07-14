@@ -5569,6 +5569,387 @@
           }
         }
       }
+    },
+    "taki-ibuki-slots-04-37": {
+      "idol_slug": "taki-ibuki",
+      "input_dir": "taki-ibuki",
+      "output_dir": "taki-ibuki",
+      "items": {
+        "04_anniversary-777": {
+          "id": "taki-ibuki_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_newyear-rise": {
+          "id": "taki-ibuki_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_newyear-rise-cape": {
+          "id": "taki-ibuki_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_training-wear": {
+          "id": "taki-ibuki_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_scramble-gakuen-boys-uniform": {
+          "id": "taki-ibuki_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 290,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_anniversary-challenge": {
+          "id": "taki-ibuki_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_anniversary-challenge-scr": {
+          "id": "taki-ibuki_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-stage": {
+          "id": "taki-ibuki_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_black-stage-scr": {
+          "id": "taki-ibuki_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_halloween-wing": {
+          "id": "taki-ibuki_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_shoso-no-kagetsuden": {
+          "id": "taki-ibuki_shoso-no-kagetsuden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_newyear-rise-first-love": {
+          "id": "taki-ibuki_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_akatsuki": {
+          "id": "taki-ibuki_akatsuki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_common-scr": {
+          "id": "taki-ibuki_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_bloom-idol": {
+          "id": "taki-ibuki_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_bloom-idol-scr": {
+          "id": "taki-ibuki_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_twilight-idol": {
+          "id": "taki-ibuki_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_colorful-music": {
+          "id": "taki-ibuki_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_akatsuki-hoodie": {
+          "id": "taki-ibuki_akatsuki-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_twilight-idol-scr": {
+          "id": "taki-ibuki_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_yoake-echo": {
+          "id": "taki-ibuki_yoake-echo-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_jinbei-goldfish": {
+          "id": "taki-ibuki_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_iridescent-light": {
+          "id": "taki-ibuki_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_caelum": {
+          "id": "taki-ibuki_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_battalion-butterfly": {
+          "id": "taki-ibuki_battalion-butterfly-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_halloween-wing-angel": {
+          "id": "taki-ibuki_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_terra": {
+          "id": "taki-ibuki_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_fight-is-only-fate": {
+          "id": "taki-ibuki_fight-is-only-fate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_shining-star": {
+          "id": "taki-ibuki_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_starlight-10th-live-tshirt": {
+          "id": "taki-ibuki_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-agent-red": {
+          "id": "taki-ibuki_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_mm-akatsuki": {
+          "id": "taki-ibuki_mm-akatsuki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_mare": {
+          "id": "taki-ibuki_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_jinbei-fireworks": {
+          "id": "taki-ibuki_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 640,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
