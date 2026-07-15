@@ -6661,6 +6661,684 @@
           }
         }
       }
+    },
+    "aoi-hinata-slots-04-64": {
+      "idol_slug": "aoi-hinata",
+      "input_dir": "aoi-hinata",
+      "output_dir": "aoi-hinata",
+      "items": {
+        "04_common-scr": {
+          "id": "aoi-hinata_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "aoi-hinata_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "aoi-hinata_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_setsubunsai": {
+          "id": "aoi-hinata_setsubunsai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_assassin-rabbit": {
+          "id": "aoi-hinata_assassin-rabbit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_sweets-box": {
+          "id": "aoi-hinata_sweets-box-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_volcano-island": {
+          "id": "aoi-hinata_volcano-island-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_futaba-anniversary-rock": {
+          "id": "aoi-hinata_futaba-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "aoi-hinata_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_puppet-suit": {
+          "id": "aoi-hinata_puppet-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_night-club": {
+          "id": "aoi-hinata_night-club-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_bloom-idol": {
+          "id": "aoi-hinata_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_cd-second": {
+          "id": "aoi-hinata_cd-second-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_ss-kouhaku": {
+          "id": "aoi-hinata_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_mix-spooky": {
+          "id": "aoi-hinata_mix-spooky-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_love-letter": {
+          "id": "aoi-hinata_love-letter-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_fusion-unit-crazyb-2wink": {
+          "id": "aoi-hinata_fusion-unit-crazyb-2wink-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_puffy-bunny": {
+          "id": "aoi-hinata_puffy-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "aoi-hinata_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "aoi-hinata_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "aoi-hinata_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_tell-your-world": {
+          "id": "aoi-hinata_tell-your-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_halloween-candle": {
+          "id": "aoi-hinata_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_starlight-7th-live-tshirt": {
+          "id": "aoi-hinata_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_newyear-rise": {
+          "id": "aoi-hinata_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise-cape": {
+          "id": "aoi-hinata_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 490,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_big-ocean": {
+          "id": "aoi-hinata_big-ocean-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_training-wear": {
+          "id": "aoi-hinata_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 356,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_bloom-idol-scr": {
+          "id": "aoi-hinata_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_anniversary-love": {
+          "id": "aoi-hinata_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 435,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_2x2": {
+          "id": "aoi-hinata_2x2-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_album-trip": {
+          "id": "aoi-hinata_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_newyear-rise-silver": {
+          "id": "aoi-hinata_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_seek-sig": {
+          "id": "aoi-hinata_seek-sig-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_scramble-gakuen-boys-uniform": {
+          "id": "aoi-hinata_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 632,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_anniversary-challenge": {
+          "id": "aoi-hinata_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_twilight-idol": {
+          "id": "aoi-hinata_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_evil-telephone": {
+          "id": "aoi-hinata_evil-telephone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_amaneiro": {
+          "id": "aoi-hinata_amaneiro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_anniversary-challenge-scr": {
+          "id": "aoi-hinata_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 436,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_halloween-wing": {
+          "id": "aoi-hinata_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 480,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_sandstorm": {
+          "id": "aoi-hinata_sandstorm-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 428,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_live-party": {
+          "id": "aoi-hinata_live-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_starlight-9th-live-tshirt": {
+          "id": "aoi-hinata_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_newyear-rise-first-love": {
+          "id": "aoi-hinata_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_link": {
+          "id": "aoi-hinata_link-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_colorful-music": {
+          "id": "aoi-hinata_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_2wink-hoodie": {
+          "id": "aoi-hinata_2wink-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_boku-no-work-point": {
+          "id": "aoi-hinata_boku-no-work-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "aoi-hinata_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_yau-crisis": {
+          "id": "aoi-hinata_yau-crisis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_wink-wing": {
+          "id": "aoi-hinata_wink-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_jinbei-goldfish": {
+          "id": "aoi-hinata_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_caelum": {
+          "id": "aoi-hinata_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_halloween-wing-angel": {
+          "id": "aoi-hinata_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_terra": {
+          "id": "aoi-hinata_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_shining-star": {
+          "id": "aoi-hinata_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_starlight-10th": {
+          "id": "aoi-hinata_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_anniversary-agent-red": {
+          "id": "aoi-hinata_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_whirlpool": {
+          "id": "aoi-hinata_whirlpool-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_jinbei-fireworks": {
+          "id": "aoi-hinata_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-15",
+  "updated_at": "2026-07-16",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -10043,6 +10043,1109 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "aoi-hinata_common-scr-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_uta-no-oniisan-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_uta-no-oniisan-01_icon.webp",
+        "front": "aoi-hinata_uta-no-oniisan-01_front.webp",
+        "back": "aoi-hinata_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_sorairo-anniversary-suit-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_sorairo-anniversary-suit-01_icon.webp",
+        "front": "aoi-hinata_sorairo-anniversary-suit-01_front.webp",
+        "back": "aoi-hinata_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_setsubunsai-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "節分祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_setsubunsai-01_icon.webp",
+        "front": "aoi-hinata_setsubunsai-01_front.webp",
+        "back": "aoi-hinata_setsubunsai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_assassin-rabbit-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アサシンラビット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_assassin-rabbit-01_icon.webp",
+        "front": "aoi-hinata_assassin-rabbit-01_front.webp",
+        "back": "aoi-hinata_assassin-rabbit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_sweets-box-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "スイーツボックス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_sweets-box-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_volcano-island-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ボルケーノアイランド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_volcano-island-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_futaba-anniversary-rock-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "双葉のアニバーサリーロック",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_futaba-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_esmg-graphic-tshirt-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_puppet-suit-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "パペットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_puppet-suit-01_icon.webp",
+        "front": "aoi-hinata_puppet-suit-01_front.webp",
+        "back": "aoi-hinata_puppet-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_night-club-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_night-club-01_icon.webp",
+        "front": "aoi-hinata_night-club-01_front.webp",
+        "back": "aoi-hinata_night-club-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_bloom-idol-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_cd-second-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "CD第二弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_cd-second-01_icon.webp",
+        "front": "aoi-hinata_cd-second-01_front.webp",
+        "back": "aoi-hinata_cd-second-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_ss-kouhaku-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_mix-spooky-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "MIXスプーキー",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_mix-spooky-01_icon.webp",
+        "front": "aoi-hinata_mix-spooky-01_front.webp",
+        "back": "aoi-hinata_mix-spooky-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_love-letter-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ラブレター衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_love-letter-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_puffy-bunny-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Puffy☆Bunny衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_puffy-bunny-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-chance-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-777-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_anniversary-777-01_icon.webp",
+        "front": "aoi-hinata_anniversary-777-01_front.webp",
+        "back": "aoi-hinata_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_black-stage-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_black-stage-01_icon.webp",
+        "front": "aoi-hinata_black-stage-01_front.webp",
+        "back": "aoi-hinata_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_tell-your-world-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Tell Your World衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_tell-your-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_halloween-candle-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_halloween-candle-01_icon.webp",
+        "front": "aoi-hinata_halloween-candle-01_front.webp",
+        "back": "aoi-hinata_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_starlight-7th-live-tshirt-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "aoi-hinata_starlight-7th-live-tshirt-01_front.webp",
+        "back": "aoi-hinata_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_newyear-rise-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_newyear-rise-cape-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_newyear-rise-cape-01_icon.webp",
+        "front": "aoi-hinata_newyear-rise-cape-01_front.webp",
+        "back": "aoi-hinata_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_big-ocean-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Big Ocean衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_big-ocean-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_training-wear-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_training-wear-01_icon.webp",
+        "front": "aoi-hinata_training-wear-01_front.webp",
+        "back": "aoi-hinata_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_bloom-idol-scr-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-love-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_anniversary-love-01_icon.webp",
+        "front": "aoi-hinata_anniversary-love-01_front.webp",
+        "back": "aoi-hinata_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_2x2-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "2×2衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_2x2-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_album-trip-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_newyear-rise-silver-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_seek-sig-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "SEEK SIG",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_seek-sig-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "aoi-hinata_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "aoi-hinata_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-challenge-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_twilight-idol-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_evil-telephone-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "イービルTELEPHONE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_evil-telephone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_amaneiro-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "天音色衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_amaneiro-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-challenge-scr-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_anniversary-challenge-scr-01_icon.webp",
+        "front": "aoi-hinata_anniversary-challenge-scr-01_front.webp",
+        "back": "aoi-hinata_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_halloween-wing-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_halloween-wing-01_icon.webp",
+        "front": "aoi-hinata_halloween-wing-01_front.webp",
+        "back": "aoi-hinata_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_sandstorm-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "サンドストーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_sandstorm-01_icon.webp",
+        "front": "aoi-hinata_sandstorm-01_front.webp",
+        "back": "aoi-hinata_sandstorm-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_live-party-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ライブパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_live-party-01_icon.webp",
+        "front": "aoi-hinata_live-party-01_front.webp",
+        "back": "aoi-hinata_live-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_starlight-9th-live-tshirt-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "aoi-hinata_starlight-9th-live-tshirt-01_front.webp",
+        "back": "aoi-hinata_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_newyear-rise-first-love-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_newyear-rise-first-love-01_icon.webp",
+        "front": "aoi-hinata_newyear-rise-first-love-01_front.webp",
+        "back": "aoi-hinata_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_link-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "LINK衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_link-01_icon.webp",
+        "front": "aoi-hinata_link-01_front.webp",
+        "back": "aoi-hinata_link-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_colorful-music-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_colorful-music-01_icon.webp",
+        "front": "aoi-hinata_colorful-music-01_front.webp",
+        "back": "aoi-hinata_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_2wink-hoodie-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "2winkフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_2wink-hoodie-01_icon.webp",
+        "front": "aoi-hinata_2wink-hoodie-01_front.webp",
+        "back": "aoi-hinata_2wink-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_boku-no-work-point-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "僕のワーク・ポイント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_boku-no-work-point-01_icon.webp",
+        "front": "aoi-hinata_boku-no-work-point-01_front.webp",
+        "back": "aoi-hinata_boku-no-work-point-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_twilight-idol-scr-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_yau-crisis-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "夜雨クライシス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_yau-crisis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_wink-wing-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "うぃんくウィング衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_wink-wing-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_jinbei-goldfish-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_jinbei-goldfish-01_icon.webp",
+        "front": "aoi-hinata_jinbei-goldfish-01_front.webp",
+        "back": "aoi-hinata_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+    "id": "aoi-hinata_caelum-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Caelum",
+    "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_caelum-01_icon.webp",
+        "front": "aoi-hinata_caelum-01_front.webp",
+        "back": "aoi-hinata_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_halloween-wing-angel-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_halloween-wing-angel-01_icon.webp",
+        "front": "aoi-hinata_halloween-wing-angel-01_front.webp",
+        "back": "aoi-hinata_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_terra-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_terra-01_icon.webp",
+        "front": "aoi-hinata_terra-01_front.webp",
+        "back": "aoi-hinata_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_shining-star-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_shining-star-01_icon.webp",
+        "front": "aoi-hinata_shining-star-01_front.webp",
+        "back": "aoi-hinata_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_starlight-10th-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_anniversary-agent-red-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_anniversary-agent-red-01_icon.webp",
+        "front": "aoi-hinata_anniversary-agent-red-01_front.webp",
+        "back": "aoi-hinata_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_whirlpool-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "ワールプール衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-hinata_whirlpool-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-16"
+    },
+    {
+      "id": "aoi-hinata_jinbei-fireworks-01",
+      "idol_slug": "aoi-hinata",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-hinata_jinbei-fireworks-01_icon.webp",
+        "front": "aoi-hinata_jinbei-fireworks-01_front.webp",
+        "back": "aoi-hinata_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-16"
     }
   ]
 }
