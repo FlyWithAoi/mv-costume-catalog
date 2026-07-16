@@ -7339,6 +7339,706 @@
           }
         }
       }
+    },
+    "itsuki-shu-slots-04-66": {
+      "idol_slug": "itsuki-shu",
+      "input_dir": "itsuki-shu",
+      "output_dir": "itsuki-shu",
+      "items": {
+        "04_common-scr": {
+          "id": "itsuki-shu_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "itsuki-shu_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "itsuki-shu_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_neverland": {
+          "id": "itsuki-shu_neverland-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_steampunk": {
+          "id": "itsuki-shu_steampunk-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-bat": {
+          "id": "itsuki-shu_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_scarlet-emperor": {
+          "id": "itsuki-shu_scarlet-emperor-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_kihin-anniversary-rock": {
+          "id": "itsuki-shu_kihin-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "itsuki-shu_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "itsuki-shu_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_fusion-unit-alkaloid-valkyrie": {
+          "id": "itsuki-shu_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_bloom-idol": {
+          "id": "itsuki-shu_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_return-festival": {
+          "id": "itsuki-shu_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_ss-kouhaku": {
+          "id": "itsuki-shu_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_astrea-workshop": {
+          "id": "itsuki-shu_astrea-workshop-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_antique-kitan": {
+          "id": "itsuki-shu_antique-kitan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_hermitage": {
+          "id": "itsuki-shu_hermitage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "itsuki-shu_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-777": {
+          "id": "itsuki-shu_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_black-stage": {
+          "id": "itsuki-shu_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_yukyo-seishun-ka": {
+          "id": "itsuki-shu_yukyo-seishun-ka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_halloween-candle": {
+          "id": "itsuki-shu_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_blend-plus": {
+          "id": "itsuki-shu_blend-plus-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_starlight-7th-live-tshirt": {
+          "id": "itsuki-shu_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_newyear-rise": {
+          "id": "itsuki-shu_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_machina": {
+          "id": "itsuki-shu_machina-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_newyear-rise-cape": {
+          "id": "itsuki-shu_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 347,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_training-wear": {
+          "id": "itsuki-shu_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 347,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_five-eccentrics-stage": {
+          "id": "itsuki-shu_five-eccentrics-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 347,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_altered": {
+          "id": "itsuki-shu_altered-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "itsuki-shu_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "itsuki-shu_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 347,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_shinsekai": {
+          "id": "itsuki-shu_shinsekai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 347,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_raison-detre": {
+          "id": "itsuki-shu_raison-detre-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_album-trip": {
+          "id": "itsuki-shu_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_newyear-rise-silver": {
+          "id": "itsuki-shu_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_douce-melodie": {
+          "id": "itsuki-shu_douce-melodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "itsuki-shu_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "itsuki-shu_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "itsuki-shu_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "itsuki-shu_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_vanquish": {
+          "id": "itsuki-shu_vanquish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "itsuki-shu_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_halloween-costume": {
+          "id": "itsuki-shu_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_starlight-9th-live-tshirt": {
+          "id": "itsuki-shu_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_newyear-rise-first-love": {
+          "id": "itsuki-shu_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_hoshi-no-meido": {
+          "id": "itsuki-shu_hoshi-no-meido-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_colorful-music": {
+          "id": "itsuki-shu_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_valkyrie-hoodie": {
+          "id": "itsuki-shu_valkyrie-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "itsuki-shu_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_jinbei-goldfish": {
+          "id": "itsuki-shu_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_iridescent-light": {
+          "id": "itsuki-shu_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_caelum": {
+          "id": "itsuki-shu_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_its-knot-lov": {
+          "id": "itsuki-shu_its-knot-lov-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_halloween-wing-angel": {
+          "id": "itsuki-shu_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_rewinds": {
+          "id": "itsuki-shu_rewinds-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_terra": {
+          "id": "itsuki-shu_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_shining-star": {
+          "id": "itsuki-shu_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_starlight-10th-live-tshirt": {
+          "id": "itsuki-shu_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_anniversary-agent-red": {
+          "id": "itsuki-shu_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_mare": {
+          "id": "itsuki-shu_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_moeru-kuroyuri": {
+          "id": "itsuki-shu_moeru-kuroyuri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_jinbei-fireworks": {
+          "id": "itsuki-shu_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

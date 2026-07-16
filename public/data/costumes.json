@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-16",
+  "updated_at": "2026-07-17",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -10999,10 +10999,10 @@
       "updated_at": "2026-07-16"
     },
     {
-    "id": "aoi-hinata_caelum-01",
+      "id": "aoi-hinata_caelum-01",
       "idol_slug": "aoi-hinata",
       "costume_name": "Caelum",
-    "costume_group": "exchange",
+      "costume_group": "exchange",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
@@ -11146,6 +11146,1164 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-16"
+    },
+    {
+      "id": "itsuki-shu_common-scr-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_common-scr-01_icon.webp",
+        "front": "itsuki-shu_common-scr-01_front.webp",
+        "back": "itsuki-shu_common-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_uta-no-oniisan-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_uta-no-oniisan-01_icon.webp",
+        "front": "itsuki-shu_uta-no-oniisan-01_front.webp",
+        "back": "itsuki-shu_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_sorairo-anniversary-suit-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_sorairo-anniversary-suit-01_icon.webp",
+        "front": "itsuki-shu_sorairo-anniversary-suit-01_front.webp",
+        "back": "itsuki-shu_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_neverland-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ネヴァーランド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_neverland-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_steampunk-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "スチームパンク衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_steampunk-01_icon.webp",
+        "front": "itsuki-shu_steampunk-01_front.webp",
+        "back": "itsuki-shu_steampunk-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_halloween-bat-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_halloween-bat-01_icon.webp",
+        "front": "itsuki-shu_halloween-bat-01_front.webp",
+        "back": "itsuki-shu_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_scarlet-emperor-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "スカーレットエンペラー",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_scarlet-emperor-01_icon.webp",
+        "front": "itsuki-shu_scarlet-emperor-01_front.webp",
+        "back": "itsuki-shu_scarlet-emperor-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_kihin-anniversary-rock-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "気品のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_kihin-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_pilot-suit-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_pilot-suit-01_icon.webp",
+        "front": "itsuki-shu_pilot-suit-01_front.webp",
+        "back": "itsuki-shu_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_esmg-graphic-tshirt-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_fusion-unit-alkaloid-valkyrie-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "FUSION UNIT(ALKALOID×Valkyrie)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_fusion-unit-alkaloid-valkyrie-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_bloom-idol-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_return-festival-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "返礼祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_return-festival-01_icon.webp",
+        "front": "itsuki-shu_return-festival-01_front.webp",
+        "back": "itsuki-shu_return-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_ss-kouhaku-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_astrea-workshop-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アストレアの工房衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_astrea-workshop-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_antique-kitan-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "骨董綺譚衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_antique-kitan-01_icon.webp",
+        "front": "itsuki-shu_antique-kitan-01_front.webp",
+        "back": "itsuki-shu_antique-kitan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_hermitage-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "エルミタージュ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_hermitage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-chance-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-777-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_anniversary-777-01_icon.webp",
+        "front": "itsuki-shu_anniversary-777-01_front.webp",
+        "back": "itsuki-shu_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_black-stage-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_black-stage-01_icon.webp",
+        "front": "itsuki-shu_black-stage-01_front.webp",
+        "back": "itsuki-shu_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_yukyo-seishun-ka-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "勇侠青春謳衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_yukyo-seishun-ka-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_halloween-candle-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_halloween-candle-01_icon.webp",
+        "front": "itsuki-shu_halloween-candle-01_front.webp",
+        "back": "itsuki-shu_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_blend-plus-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "BLEND+衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_blend-plus-01_icon.webp",
+        "front": "itsuki-shu_blend-plus-01_front.webp",
+        "back": "itsuki-shu_blend-plus-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_starlight-7th-live-tshirt-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "itsuki-shu_starlight-7th-live-tshirt-01_front.webp",
+        "back": "itsuki-shu_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_newyear-rise-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_machina-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "マキナ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_machina-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_newyear-rise-cape-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_newyear-rise-cape-01_icon.webp",
+        "front": "itsuki-shu_newyear-rise-cape-01_front.webp",
+        "back": "itsuki-shu_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_training-wear-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_training-wear-01_icon.webp",
+        "front": "itsuki-shu_training-wear-01_front.webp",
+        "back": "itsuki-shu_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_five-eccentrics-stage-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "五奇人ステージ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_five-eccentrics-stage-01_icon.webp",
+        "front": "itsuki-shu_five-eccentrics-stage-01_front.webp",
+        "back": "itsuki-shu_five-eccentrics-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_altered-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "『オルタード』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_altered-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_bloom-idol-scr-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-love-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_anniversary-love-01_icon.webp",
+        "front": "itsuki-shu_anniversary-love-01_front.webp",
+        "back": "itsuki-shu_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_shinsekai-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "シンセカイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_shinsekai-01_icon.webp",
+        "front": "itsuki-shu_shinsekai-01_front.webp",
+        "back": "itsuki-shu_shinsekai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_raison-detre-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "レゾンデートル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_raison-detre-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_album-trip-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_album-trip-01_icon.webp",
+        "front": "itsuki-shu_album-trip-01_front.webp",
+        "back": "itsuki-shu_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_newyear-rise-silver-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_douce-melodie-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "douce mélodie",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_douce-melodie-01_icon.webp",
+        "front": "itsuki-shu_douce-melodie-01_front.webp",
+        "back": "itsuki-shu_douce-melodie-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "itsuki-shu_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "itsuki-shu_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-challenge-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_twilight-idol-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-challenge-scr-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_anniversary-challenge-scr-01_icon.webp",
+        "front": "itsuki-shu_anniversary-challenge-scr-01_front.webp",
+        "back": "itsuki-shu_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_vanquish-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "VANQUISH衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_vanquish-01_icon.webp",
+        "front": "itsuki-shu_vanquish-01_front.webp",
+        "back": "itsuki-shu_vanquish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_halloween-wing-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_halloween-wing-01_icon.webp",
+        "front": "itsuki-shu_halloween-wing-01_front.webp",
+        "back": "itsuki-shu_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_halloween-costume-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_halloween-costume-01_icon.webp",
+        "front": "itsuki-shu_halloween-costume-01_front.webp",
+        "back": "itsuki-shu_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_starlight-9th-live-tshirt-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "itsuki-shu_starlight-9th-live-tshirt-01_front.webp",
+        "back": "itsuki-shu_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_newyear-rise-first-love-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_newyear-rise-first-love-01_icon.webp",
+        "front": "itsuki-shu_newyear-rise-first-love-01_front.webp",
+        "back": "itsuki-shu_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_hoshi-no-meido-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "星の鳴動衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_hoshi-no-meido-01_icon.webp",
+        "front": "itsuki-shu_hoshi-no-meido-01_front.webp",
+        "back": "itsuki-shu_hoshi-no-meido-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_colorful-music-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_colorful-music-01_icon.webp",
+        "front": "itsuki-shu_colorful-music-01_front.webp",
+        "back": "itsuki-shu_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_valkyrie-hoodie-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Valkyrieフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_valkyrie-hoodie-01_icon.webp",
+        "front": "itsuki-shu_valkyrie-hoodie-01_front.webp",
+        "back": "itsuki-shu_valkyrie-hoodie-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_twilight-idol-scr-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_jinbei-goldfish-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_jinbei-goldfish-01_icon.webp",
+        "front": "itsuki-shu_jinbei-goldfish-01_front.webp",
+        "back": "itsuki-shu_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_iridescent-light-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_iridescent-light-01_icon.webp",
+        "front": "itsuki-shu_iridescent-light-01_front.webp",
+        "back": "itsuki-shu_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_caelum-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_caelum-01_icon.webp",
+        "front": "itsuki-shu_caelum-01_front.webp",
+        "back": "itsuki-shu_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_its-knot-lov-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "It's (k)not lov?衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_its-knot-lov-01_icon.webp",
+        "front": "itsuki-shu_its-knot-lov-01_front.webp",
+        "back": "itsuki-shu_its-knot-lov-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_halloween-wing-angel-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_halloween-wing-angel-01_icon.webp",
+        "front": "itsuki-shu_halloween-wing-angel-01_front.webp",
+        "back": "itsuki-shu_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_rewinds-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Rewinds衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_rewinds-01_icon.webp",
+        "front": "itsuki-shu_rewinds-01_front.webp",
+        "back": "itsuki-shu_rewinds-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_terra-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_terra-01_icon.webp",
+        "front": "itsuki-shu_terra-01_front.webp",
+        "back": "itsuki-shu_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_shining-star-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_shining-star-01_icon.webp",
+        "front": "itsuki-shu_shining-star-01_front.webp",
+        "back": "itsuki-shu_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_starlight-10th-live-tshirt-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "itsuki-shu_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_anniversary-agent-red-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_anniversary-agent-red-01_icon.webp",
+        "front": "itsuki-shu_anniversary-agent-red-01_front.webp",
+        "back": "itsuki-shu_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_mare-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_mare-01_icon.webp",
+        "front": "itsuki-shu_mare-01_front.webp",
+        "back": "itsuki-shu_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_moeru-kuroyuri-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "燃える黒百合",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_moeru-kuroyuri-01_icon.webp",
+        "front": "itsuki-shu_moeru-kuroyuri-01_front.webp",
+        "back": "itsuki-shu_moeru-kuroyuri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "itsuki-shu_jinbei-fireworks-01",
+      "idol_slug": "itsuki-shu",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "itsuki-shu_jinbei-fireworks-01_icon.webp",
+        "front": "itsuki-shu_jinbei-fireworks-01_front.webp",
+        "back": "itsuki-shu_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
     }
   ]
 }
