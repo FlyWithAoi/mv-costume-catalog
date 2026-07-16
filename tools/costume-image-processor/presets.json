@@ -8039,6 +8039,684 @@
           }
         }
       }
+    },
+    "kagehira-mika-slots-04-64": {
+      "idol_slug": "kagehira-mika",
+      "input_dir": "kagehira-mika",
+      "output_dir": "kagehira-mika",
+      "items": {
+        "04_common-scr": {
+          "id": "kagehira-mika_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_dark-romance": {
+          "id": "kagehira-mika_dark-romance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_uta-no-oniisan": {
+          "id": "kagehira-mika_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_sorairo-anniversary-suit": {
+          "id": "kagehira-mika_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_neverland": {
+          "id": "kagehira-mika_neverland-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_steampunk": {
+          "id": "kagehira-mika_steampunk-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "kagehira-mika_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_kihin-anniversary-rock": {
+          "id": "kagehira-mika_kihin-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "kagehira-mika_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "kagehira-mika_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_fusion-unit-alkaloid-valkyrie": {
+          "id": "kagehira-mika_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_bloom-idol": {
+          "id": "kagehira-mika_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_keiji-dance": {
+          "id": "kagehira-mika_keiji-dance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_return-festival": {
+          "id": "kagehira-mika_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_ss-kouhaku": {
+          "id": "kagehira-mika_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_antique-kitan": {
+          "id": "kagehira-mika_antique-kitan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_hermitage": {
+          "id": "kagehira-mika_hermitage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_puffy-bunny": {
+          "id": "kagehira-mika_puffy-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "kagehira-mika_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "kagehira-mika_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "kagehira-mika_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_yukyo-seishun-ka": {
+          "id": "kagehira-mika_yukyo-seishun-ka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_halloween-candle": {
+          "id": "kagehira-mika_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_starlight-7th-live-tshirt": {
+          "id": "kagehira-mika_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_charme": {
+          "id": "kagehira-mika_charme-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise": {
+          "id": "kagehira-mika_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_machina": {
+          "id": "kagehira-mika_machina-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "kagehira-mika_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_graduation": {
+          "id": "kagehira-mika_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_training-wear": {
+          "id": "kagehira-mika_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "kagehira-mika_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "kagehira-mika_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_shinsekai": {
+          "id": "kagehira-mika_shinsekai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_raison-detre": {
+          "id": "kagehira-mika_raison-detre-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_album-trip": {
+          "id": "kagehira-mika_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_ogon-ten": {
+          "id": "kagehira-mika_ogon-ten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_newyear-rise-silver": {
+          "id": "kagehira-mika_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "kagehira-mika_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "kagehira-mika_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "kagehira-mika_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "kagehira-mika_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_halloween-wing": {
+          "id": "kagehira-mika_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 517,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-costume": {
+          "id": "kagehira-mika_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_starlight-9th-live-tshirt": {
+          "id": "kagehira-mika_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_newyear-rise-first-love": {
+          "id": "kagehira-mika_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_hoshi-no-meido": {
+          "id": "kagehira-mika_hoshi-no-meido-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_colorful-music": {
+          "id": "kagehira-mika_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_valkyrie-hoodie": {
+          "id": "kagehira-mika_valkyrie-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_twilight-idol-scr": {
+          "id": "kagehira-mika_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_kouya-no-tsubasa": {
+          "id": "kagehira-mika_kouya-no-tsubasa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_graceful-punishment": {
+          "id": "kagehira-mika_graceful-punishment-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_jinbei-goldfish": {
+          "id": "kagehira-mika_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_caelum": {
+          "id": "kagehira-mika_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_halloween-wing-angel": {
+          "id": "kagehira-mika_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_rewinds": {
+          "id": "kagehira-mika_rewinds-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_terra": {
+          "id": "kagehira-mika_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_orgel": {
+          "id": "kagehira-mika_orgel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_shining-star": {
+          "id": "kagehira-mika_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_starlight-10th-live-tshirt": {
+          "id": "kagehira-mika_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_anniversary-agent-red": {
+          "id": "kagehira-mika_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 478,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_jinbei-fireworks": {
+          "id": "kagehira-mika_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 648,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

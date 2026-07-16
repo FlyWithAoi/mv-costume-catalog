@@ -12304,6 +12304,1128 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_common-scr-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_dark-romance-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ダークロマンス",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_dark-romance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_uta-no-oniisan-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_uta-no-oniisan-01_icon.webp",
+        "front": "kagehira-mika_uta-no-oniisan-01_front.webp",
+        "back": "kagehira-mika_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_sorairo-anniversary-suit-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_sorairo-anniversary-suit-01_icon.webp",
+        "front": "kagehira-mika_sorairo-anniversary-suit-01_front.webp",
+        "back": "kagehira-mika_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_neverland-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ネヴァーランド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_neverland-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_steampunk-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "スチームパンク衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_steampunk-01_icon.webp",
+        "front": "kagehira-mika_steampunk-01_front.webp",
+        "back": "kagehira-mika_steampunk-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_halloween-bat-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_halloween-bat-01_icon.webp",
+        "front": "kagehira-mika_halloween-bat-01_front.webp",
+        "back": "kagehira-mika_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_kihin-anniversary-rock-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "気品のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_kihin-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_esmg-graphic-tshirt-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_pilot-suit-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_pilot-suit-01_icon.webp",
+        "front": "kagehira-mika_pilot-suit-01_front.webp",
+        "back": "kagehira-mika_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_fusion-unit-alkaloid-valkyrie-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "FUSION UNIT(ALKALOID×Valkyrie)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_fusion-unit-alkaloid-valkyrie-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_bloom-idol-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_keiji-dance-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "刑事DANCE衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_keiji-dance-01_icon.webp",
+        "front": "kagehira-mika_keiji-dance-01_front.webp",
+        "back": "kagehira-mika_keiji-dance-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_return-festival-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "返礼祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_return-festival-01_icon.webp",
+        "front": "kagehira-mika_return-festival-01_front.webp",
+        "back": "kagehira-mika_return-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_ss-kouhaku-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_antique-kitan-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "骨董綺譚衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_antique-kitan-01_icon.webp",
+        "front": "kagehira-mika_antique-kitan-01_front.webp",
+        "back": "kagehira-mika_antique-kitan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_hermitage-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "エルミタージュ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_hermitage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_puffy-bunny-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Puffy☆Bunny衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_puffy-bunny-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-chance-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-777-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_anniversary-777-01_icon.webp",
+        "front": "kagehira-mika_anniversary-777-01_front.webp",
+        "back": "kagehira-mika_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_black-stage-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_black-stage-01_icon.webp",
+        "front": "kagehira-mika_black-stage-01_front.webp",
+        "back": "kagehira-mika_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_yukyo-seishun-ka-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "勇侠青春謳衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_yukyo-seishun-ka-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_halloween-candle-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_halloween-candle-01_icon.webp",
+        "front": "kagehira-mika_halloween-candle-01_front.webp",
+        "back": "kagehira-mika_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_starlight-7th-live-tshirt-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "kagehira-mika_starlight-7th-live-tshirt-01_front.webp",
+        "back": "kagehira-mika_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_charme-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "シャルム",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_charme-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_newyear-rise-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_machina-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "マキナ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_machina-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_newyear-rise-cape-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_newyear-rise-cape-01_icon.webp",
+        "front": "kagehira-mika_newyear-rise-cape-01_front.webp",
+        "back": "kagehira-mika_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_graduation-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_graduation-01_icon.webp",
+        "front": "kagehira-mika_graduation-01_front.webp",
+        "back": "kagehira-mika_graduation-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_training-wear-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_training-wear-01_icon.webp",
+        "front": "kagehira-mika_training-wear-01_front.webp",
+        "back": "kagehira-mika_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_bloom-idol-scr-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-love-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_anniversary-love-01_icon.webp",
+        "front": "kagehira-mika_anniversary-love-01_front.webp",
+        "back": "kagehira-mika_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_shinsekai-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "シンセカイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_shinsekai-01_icon.webp",
+        "front": "kagehira-mika_shinsekai-01_front.webp",
+        "back": "kagehira-mika_shinsekai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_raison-detre-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "レゾンデートル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_raison-detre-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_album-trip-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_album-trip-01_icon.webp",
+        "front": "kagehira-mika_album-trip-01_front.webp",
+        "back": "kagehira-mika_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_ogon-ten-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "黄金天衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_ogon-ten-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_newyear-rise-silver-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "kagehira-mika_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "kagehira-mika_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-challenge-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_twilight-idol-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-challenge-scr-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_anniversary-challenge-scr-01_icon.webp",
+        "front": "kagehira-mika_anniversary-challenge-scr-01_front.webp",
+        "back": "kagehira-mika_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_halloween-wing-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_halloween-wing-01_icon.webp",
+        "front": "kagehira-mika_halloween-wing-01_front.webp",
+        "back": "kagehira-mika_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_halloween-costume-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_halloween-costume-01_icon.webp",
+        "front": "kagehira-mika_halloween-costume-01_front.webp",
+        "back": "kagehira-mika_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_starlight-9th-live-tshirt-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "kagehira-mika_starlight-9th-live-tshirt-01_front.webp",
+        "back": "kagehira-mika_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_newyear-rise-first-love-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_newyear-rise-first-love-01_icon.webp",
+        "front": "kagehira-mika_newyear-rise-first-love-01_front.webp",
+        "back": "kagehira-mika_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_hoshi-no-meido-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "星の鳴動衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_hoshi-no-meido-01_icon.webp",
+        "front": "kagehira-mika_hoshi-no-meido-01_front.webp",
+        "back": "kagehira-mika_hoshi-no-meido-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_colorful-music-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_colorful-music-01_icon.webp",
+        "front": "kagehira-mika_colorful-music-01_front.webp",
+        "back": "kagehira-mika_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_valkyrie-hoodie-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Valkyrieフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_valkyrie-hoodie-01_icon.webp",
+        "front": "kagehira-mika_valkyrie-hoodie-01_front.webp",
+        "back": "kagehira-mika_valkyrie-hoodie-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_twilight-idol-scr-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_kouya-no-tsubasa-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "荒地の翅衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_kouya-no-tsubasa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_graceful-punishment-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Graceful Punishment衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_graceful-punishment-01_icon.webp",
+        "front": "kagehira-mika_graceful-punishment-01_front.webp",
+        "back": "kagehira-mika_graceful-punishment-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_jinbei-goldfish-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_jinbei-goldfish-01_icon.webp",
+        "front": "kagehira-mika_jinbei-goldfish-01_front.webp",
+        "back": "kagehira-mika_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_caelum-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_caelum-01_icon.webp",
+        "front": "kagehira-mika_caelum-01_front.webp",
+        "back": "kagehira-mika_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_halloween-wing-angel-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_halloween-wing-angel-01_icon.webp",
+        "front": "kagehira-mika_halloween-wing-angel-01_front.webp",
+        "back": "kagehira-mika_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_rewinds-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Rewinds衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_rewinds-01_icon.webp",
+        "front": "kagehira-mika_rewinds-01_front.webp",
+        "back": "kagehira-mika_rewinds-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_terra-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_terra-01_icon.webp",
+        "front": "kagehira-mika_terra-01_front.webp",
+        "back": "kagehira-mika_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_orgel-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "オルゴール衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_orgel-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_shining-star-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_shining-star-01_icon.webp",
+        "front": "kagehira-mika_shining-star-01_front.webp",
+        "back": "kagehira-mika_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_starlight-10th-live-tshirt-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kagehira-mika_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_anniversary-agent-red-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_anniversary-agent-red-01_icon.webp",
+        "front": "kagehira-mika_anniversary-agent-red-01_front.webp",
+        "back": "kagehira-mika_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "kagehira-mika_jinbei-fireworks-01",
+      "idol_slug": "kagehira-mika",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kagehira-mika_jinbei-fireworks-01_icon.webp",
+        "front": "kagehira-mika_jinbei-fireworks-01_front.webp",
+        "back": "kagehira-mika_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
     }
   ]
 }
