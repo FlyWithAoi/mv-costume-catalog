@@ -13426,6 +13426,1198 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_common-scr-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_uta-no-oniisan-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_uta-no-oniisan-01_icon.webp",
+        "front": "sakasaki-natsume_uta-no-oniisan-01_front.webp",
+        "back": "sakasaki-natsume_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_atoz-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "AtoZ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_atoz-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_new-color-anniversary-suit-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_new-color-anniversary-suit-01_icon.webp",
+        "front": "sakasaki-natsume_new-color-anniversary-suit-01_front.webp",
+        "back": "sakasaki-natsume_new-color-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_jinro-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ジンロウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_jinro-01_icon.webp",
+        "front": "sakasaki-natsume_jinro-01_front.webp",
+        "back": "sakasaki-natsume_jinro-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_seireisai-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "星霊祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_seireisai-01_icon.webp",
+        "front": "sakasaki-natsume_seireisai-01_front.webp",
+        "back": "sakasaki-natsume_seireisai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_halloween-bat-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_halloween-bat-01_icon.webp",
+        "front": "sakasaki-natsume_halloween-bat-01_front.webp",
+        "back": "sakasaki-natsume_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_senko-anniversary-rock-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "閃光のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_senko-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_gentoki-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "幻灯機衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_gentoki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_esmg-graphic-tshirt-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_pilot-suit-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_pilot-suit-01_icon.webp",
+        "front": "sakasaki-natsume_pilot-suit-01_front.webp",
+        "back": "sakasaki-natsume_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_fortune-magic-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "フォーチュンマジック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_fortune-magic-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_fusion-unit-switch-eden-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_fusion-unit-switch-eden-01_icon.webp",
+        "front": "sakasaki-natsume_fusion-unit-switch-eden-01_front.webp",
+        "back": "sakasaki-natsume_fusion-unit-switch-eden-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_next-door-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_next-door-01_icon.webp",
+        "front": "sakasaki-natsume_next-door-01_front.webp",
+        "back": "sakasaki-natsume_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_bloom-idol-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_cd-third-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_cd-third-01_icon.webp",
+        "front": "sakasaki-natsume_cd-third-01_front.webp",
+        "back": "sakasaki-natsume_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_ss-kouhaku-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_twilights-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "トライライツ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_twilights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-chance-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-777-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-777-01_icon.webp",
+        "front": "sakasaki-natsume_anniversary-777-01_front.webp",
+        "back": "sakasaki-natsume_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_black-stage-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_cruise-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "クルーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_cruise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_starlight-6th-live-tshirt-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_tell-your-world-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Tell Your World衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_tell-your-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_halloween-candle-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_halloween-candle-01_icon.webp",
+        "front": "sakasaki-natsume_halloween-candle-01_front.webp",
+        "back": "sakasaki-natsume_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_new-color-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "NEW COLOR衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_new-color-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_newyear-rise-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_newyear-rise-01_icon.webp",
+        "front": "sakasaki-natsume_newyear-rise-01_front.webp",
+        "back": "sakasaki-natsume_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_newyear-rise-cape-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_newyear-rise-cape-01_icon.webp",
+        "front": "sakasaki-natsume_newyear-rise-cape-01_front.webp",
+        "back": "sakasaki-natsume_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_graduation-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_training-wear-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_training-wear-01_icon.webp",
+        "front": "sakasaki-natsume_training-wear-01_front.webp",
+        "back": "sakasaki-natsume_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_five-eccentrics-stage-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "五奇人ステージ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_five-eccentrics-stage-01_icon.webp",
+        "front": "sakasaki-natsume_five-eccentrics-stage-01_front.webp",
+        "back": "sakasaki-natsume_five-eccentrics-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_altered-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "『オルタード』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_altered-01_icon.webp",
+        "front": "sakasaki-natsume_altered-01_front.webp",
+        "back": "sakasaki-natsume_altered-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_bloom-idol-scr-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-love-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-love-01_icon.webp",
+        "front": "sakasaki-natsume_anniversary-love-01_front.webp",
+        "back": "sakasaki-natsume_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_shinsekai-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "シンセカイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_shinsekai-01_icon.webp",
+        "front": "sakasaki-natsume_shinsekai-01_front.webp",
+        "back": "sakasaki-natsume_shinsekai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_light-wind-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ライト・ウィンド",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_light-wind-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_newyear-rise-silver-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_candy-house-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "キャンディーハウス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_candy-house-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "sakasaki-natsume_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "sakasaki-natsume_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_album-trip-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-challenge-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_twilight-idol-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_evil-telephone-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "イービルTELEPHONE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_evil-telephone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-challenge-scr-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-challenge-scr-01_icon.webp",
+        "front": "sakasaki-natsume_anniversary-challenge-scr-01_front.webp",
+        "back": "sakasaki-natsume_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": null,
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_halloween-wing-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_halloween-wing-01_icon.webp",
+        "front": "sakasaki-natsume_halloween-wing-01_front.webp",
+        "back": "sakasaki-natsume_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_wink-killer-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ウィンクキラー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_wink-killer-01_icon.webp",
+        "front": "sakasaki-natsume_wink-killer-01_front.webp",
+        "back": "sakasaki-natsume_wink-killer-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_easter-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "イースター衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_easter-01_icon.webp",
+        "front": "sakasaki-natsume_easter-01_front.webp",
+        "back": "sakasaki-natsume_easter-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_starlight-9th-live-tshirt-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "sakasaki-natsume_starlight-9th-live-tshirt-01_front.webp",
+        "back": "sakasaki-natsume_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_newyear-rise-first-love-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_newyear-rise-first-love-01_icon.webp",
+        "front": "sakasaki-natsume_newyear-rise-first-love-01_front.webp",
+        "back": "sakasaki-natsume_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_astro-fes-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ASTRO FES衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_astro-fes-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_colorful-music-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_colorful-music-01_icon.webp",
+        "front": "sakasaki-natsume_colorful-music-01_front.webp",
+        "back": "sakasaki-natsume_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_wish-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Wish衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_wish-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_switch-hoodie-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Switchフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_switch-hoodie-01_icon.webp",
+        "front": "sakasaki-natsume_switch-hoodie-01_front.webp",
+        "back": "sakasaki-natsume_switch-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_twilight-idol-scr-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_world-switching-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "World Switching衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_world-switching-01_icon.webp",
+        "front": "sakasaki-natsume_world-switching-01_front.webp",
+        "back": "sakasaki-natsume_world-switching-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_jinbei-goldfish-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_jinbei-goldfish-01_icon.webp",
+        "front": "sakasaki-natsume_jinbei-goldfish-01_front.webp",
+        "back": "sakasaki-natsume_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_caelum-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_caelum-01_icon.webp",
+        "front": "sakasaki-natsume_caelum-01_front.webp",
+        "back": "sakasaki-natsume_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_halloween-wing-angel-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_halloween-wing-angel-01_icon.webp",
+        "front": "sakasaki-natsume_halloween-wing-angel-01_front.webp",
+        "back": "sakasaki-natsume_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_sore-wa-zanzou-no-shoushitsuten-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "それは残像の消失点衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_sore-wa-zanzou-no-shoushitsuten-01_icon.webp",
+        "front": "sakasaki-natsume_sore-wa-zanzou-no-shoushitsuten-01_front.webp",
+        "back": "sakasaki-natsume_sore-wa-zanzou-no-shoushitsuten-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_terra-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_terra-01_icon.webp",
+        "front": "sakasaki-natsume_terra-01_front.webp",
+        "back": "sakasaki-natsume_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_shining-star-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_shining-star-01_icon.webp",
+        "front": "sakasaki-natsume_shining-star-01_front.webp",
+        "back": "sakasaki-natsume_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_starlight-10th-live-tshirt-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_anniversary-agent-red-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_anniversary-agent-red-01_icon.webp",
+        "front": "sakasaki-natsume_anniversary-agent-red-01_front.webp",
+        "back": "sakasaki-natsume_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_geshi-yakaze-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "夏至夜風衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakasaki-natsume_geshi-yakaze-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-17"
+    },
+    {
+      "id": "sakasaki-natsume_jinbei-fireworks-01",
+      "idol_slug": "sakasaki-natsume",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_jinbei-fireworks-01_icon.webp",
+        "front": "sakasaki-natsume_jinbei-fireworks-01_front.webp",
+        "back": "sakasaki-natsume_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-17"
     }
   ]
 }

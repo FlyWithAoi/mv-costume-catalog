@@ -8717,6 +8717,728 @@
           }
         }
       }
+    },
+    "sakasaki-natsume-slots-04-68": {
+      "idol_slug": "sakasaki-natsume",
+      "input_dir": "sakasaki-natsume",
+      "output_dir": "sakasaki-natsume",
+      "items": {
+        "04_common-scr": {
+          "id": "sakasaki-natsume_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "sakasaki-natsume_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_atoz": {
+          "id": "sakasaki-natsume_atoz-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_new-color-anniversary-suit": {
+          "id": "sakasaki-natsume_new-color-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_jinro": {
+          "id": "sakasaki-natsume_jinro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_seireisai": {
+          "id": "sakasaki-natsume_seireisai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "sakasaki-natsume_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_senko-anniversary-rock": {
+          "id": "sakasaki-natsume_senko-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_gentoki": {
+          "id": "sakasaki-natsume_gentoki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "sakasaki-natsume_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "sakasaki-natsume_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fortune-magic": {
+          "id": "sakasaki-natsume_fortune-magic-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_fusion-unit-switch-eden": {
+          "id": "sakasaki-natsume_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_next-door": {
+          "id": "sakasaki-natsume_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_bloom-idol": {
+          "id": "sakasaki-natsume_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_cd-third": {
+          "id": "sakasaki-natsume_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss-kouhaku": {
+          "id": "sakasaki-natsume_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_twilights": {
+          "id": "sakasaki-natsume_twilights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "sakasaki-natsume_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "sakasaki-natsume_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "sakasaki-natsume_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_cruise": {
+          "id": "sakasaki-natsume_cruise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "sakasaki-natsume_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_tell-your-world": {
+          "id": "sakasaki-natsume_tell-your-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_halloween-candle": {
+          "id": "sakasaki-natsume_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_new-color": {
+          "id": "sakasaki-natsume_new-color-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_newyear-rise": {
+          "id": "sakasaki-natsume_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "sakasaki-natsume_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_graduation": {
+          "id": "sakasaki-natsume_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_training-wear": {
+          "id": "sakasaki-natsume_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_five-eccentrics-stage": {
+          "id": "sakasaki-natsume_five-eccentrics-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_altered": {
+          "id": "sakasaki-natsume_altered-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_bloom-idol-scr": {
+          "id": "sakasaki-natsume_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_anniversary-love": {
+          "id": "sakasaki-natsume_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_shinsekai": {
+          "id": "sakasaki-natsume_shinsekai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_light-wind": {
+          "id": "sakasaki-natsume_light-wind-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_newyear-rise-silver": {
+          "id": "sakasaki-natsume_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_candy-house": {
+          "id": "sakasaki-natsume_candy-house-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_scramble-gakuen-boys-uniform": {
+          "id": "sakasaki-natsume_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_album-trip": {
+          "id": "sakasaki-natsume_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "sakasaki-natsume_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "sakasaki-natsume_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_evil-telephone": {
+          "id": "sakasaki-natsume_evil-telephone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_anniversary-challenge-scr": {
+          "id": "sakasaki-natsume_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_halloween-wing": {
+          "id": "sakasaki-natsume_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_wink-killer": {
+          "id": "sakasaki-natsume_wink-killer-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_easter": {
+          "id": "sakasaki-natsume_easter-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_starlight-9th-live-tshirt": {
+          "id": "sakasaki-natsume_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "sakasaki-natsume_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_astro-fes": {
+          "id": "sakasaki-natsume_astro-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_colorful-music": {
+          "id": "sakasaki-natsume_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_wish": {
+          "id": "sakasaki-natsume_wish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_switch-hoodie": {
+          "id": "sakasaki-natsume_switch-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "sakasaki-natsume_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_world-switching": {
+          "id": "sakasaki-natsume_world-switching-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_jinbei-goldfish": {
+          "id": "sakasaki-natsume_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_caelum": {
+          "id": "sakasaki-natsume_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_halloween-wing-angel": {
+          "id": "sakasaki-natsume_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_sore-wa-zanzou-no-shoushitsuten": {
+          "id": "sakasaki-natsume_sore-wa-zanzou-no-shoushitsuten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_terra": {
+          "id": "sakasaki-natsume_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_shining-star": {
+          "id": "sakasaki-natsume_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_starlight-10th-live-tshirt": {
+          "id": "sakasaki-natsume_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-red": {
+          "id": "sakasaki-natsume_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_geshi-yakaze": {
+          "id": "sakasaki-natsume_geshi-yakaze-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_jinbei-fireworks": {
+          "id": "sakasaki-natsume_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
