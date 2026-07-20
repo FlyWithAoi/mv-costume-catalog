@@ -27,6 +27,15 @@ from pathlib import Path
 
 SCHEMA_VERSION = 1
 
+# manifest で正式に受理するトップレベルキー。
+MANIFEST_TOP_LEVEL_KEYS = {
+    "schema_version", "idol_slug", "start_slot", "end_slot", "items",
+    "collection", "input_dir", "output_dir", "inbox_dir",
+}
+
+# load_manifest が読込元の記録用に付与する内部キー（manifest 自体のキーではない）。
+MANIFEST_INTERNAL_KEYS = {"_path"}
+
 # 未所持ポップアップ型の固定crop（presets.json 内の既存locked勢と同じ値）
 LOCKED_POPUP_CROP = {"x": 770, "y": 340, "width": 320, "height": 300}
 
@@ -242,6 +251,13 @@ def validate_manifest(manifest, ctx):
     plan = []
 
     # --- トップレベル ---
+    unknown_keys = sorted(
+        set(manifest) - MANIFEST_TOP_LEVEL_KEYS - MANIFEST_INTERNAL_KEYS)
+    for key in unknown_keys:
+        errors.append(f"未知のmanifestキーです: {key}")
+    if unknown_keys:
+        return errors, warnings, plan
+
     if manifest.get("schema_version") != SCHEMA_VERSION:
         errors.append(f"schema_version は {SCHEMA_VERSION} を指定してください")
     idol_slug = manifest.get("idol_slug")

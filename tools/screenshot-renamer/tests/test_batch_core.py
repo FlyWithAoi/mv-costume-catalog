@@ -104,7 +104,36 @@ class BatchCoreTest(unittest.TestCase):
         self.assertEqual(len(plan[0].copies), 3)
         self.assertEqual(len(plan[1].copies), 1)
 
+    def test_all_accepted_top_level_keys_are_valid(self):
+        m = base_manifest(
+            collection="test-coll", input_dir="test-idol",
+            output_dir="test-idol", inbox_dir="test-idol")
+        errors, _, plan = self.validate(m)
+        self.assertEqual(errors, [])
+        self.assertEqual(len(plan), 2)
+
+    def test_optional_top_level_keys_may_be_omitted(self):
+        m = base_manifest()
+        for key in ("collection", "input_dir", "output_dir", "inbox_dir"):
+            m.pop(key, None)
+        errors, _, plan = self.validate(m)
+        self.assertEqual(errors, [])
+        self.assertEqual(len(plan), 2)
+
     # --- 異常系 ---
+    def test_unknown_inbox_key_is_error_before_plan_generation(self):
+        m = base_manifest(inbox="test-idol")
+        errors, _, plan = self.validate(m)
+        self.assertTrue(any("inbox" in e for e in errors))
+        self.assertEqual(plan, [])
+
+    def test_all_unknown_top_level_keys_are_reported(self):
+        m = base_manifest(inbox="test-idol", typo_key=True)
+        errors, _, plan = self.validate(m)
+        self.assertTrue(any("inbox" in e for e in errors))
+        self.assertTrue(any("typo_key" in e for e in errors))
+        self.assertEqual(plan, [])
+
     def test_back_missing_for_owned(self):
         m = base_manifest()
         m["items"][0]["back_file"] = None
@@ -483,6 +512,24 @@ class CliWriteGateTest(unittest.TestCase):
         self.assertEqual(rc, 0)
         doc = json.loads((self.root / "public/data/costumes.json").read_text(encoding="utf-8"))
         self.assertEqual(len(doc["costumes"]), 3)
+
+    def test_unknown_key_blocks_apply(self):
+        manifest = json.loads(self.manifest_path.read_text(encoding="utf-8"))
+        manifest["inbox"] = "test-idol"
+        self.manifest_path.write_text(
+            json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+        rc = self.run_cli("apply", str(self.manifest_path), "--yes")
+        self.assertEqual(rc, 1)
+        raw = self.root / "_private" / "raw_screenshots" / "test-idol"
+        self.assertFalse(raw.exists())
+
+    def test_unknown_key_fails_dry_run(self):
+        manifest = json.loads(self.manifest_path.read_text(encoding="utf-8"))
+        manifest["inbox"] = "test-idol"
+        self.manifest_path.write_text(
+            json.dumps(manifest, ensure_ascii=False), encoding="utf-8")
+        rc = self.run_cli("dry-run", str(self.manifest_path))
+        self.assertEqual(rc, 1)
 
 
 class ProcessImagesGuardTest(unittest.TestCase):
