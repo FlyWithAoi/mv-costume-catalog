@@ -19275,6 +19275,1182 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_common-scr-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_bigbang-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "BIGBANG衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_bigbang-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_uta-no-oniisan-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_uta-no-oniisan-01_icon.webp",
+        "front": "akehoshi-subaru_uta-no-oniisan-01_front.webp",
+        "back": "akehoshi-subaru_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_hoshiiro-anniversary-suit-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_shining-trickstar-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "光るTrickstar衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_shining-trickstar-01_icon.webp",
+        "front": "akehoshi-subaru_shining-trickstar-01_front.webp",
+        "back": "akehoshi-subaru_shining-trickstar-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_halloween-party-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_halloween-party-01_icon.webp",
+        "front": "akehoshi-subaru_halloween-party-01_front.webp",
+        "back": "akehoshi-subaru_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_halloween-bat-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_halloween-bat-01_icon.webp",
+        "front": "akehoshi-subaru_halloween-bat-01_front.webp",
+        "back": "akehoshi-subaru_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_four-star-anniversary-rock-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "四つ星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_four-star-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_spring-bed-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "スプリングベッド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_spring-bed-01_icon.webp",
+        "front": "akehoshi-subaru_spring-bed-01_front.webp",
+        "back": "akehoshi-subaru_spring-bed-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_esmg-graphic-tshirt-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_pilot-suit-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_pilot-suit-01_icon.webp",
+        "front": "akehoshi-subaru_pilot-suit-01_front.webp",
+        "back": "akehoshi-subaru_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_kira-kira-star-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "綺羅☆KIRA☆星",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_kira-kira-star-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_tougenkyou-guuzouken-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_tougenkyou-guuzouken-01_icon.webp",
+        "front": "akehoshi-subaru_tougenkyou-guuzouken-01_front.webp",
+        "back": "akehoshi-subaru_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_bloom-idol-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_fusion-unit-trickstar-fine-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "FUSION UNIT(Trickstar×fine)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_cd-third-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_cd-third-01_icon.webp",
+        "front": "akehoshi-subaru_cd-third-01_front.webp",
+        "back": "akehoshi-subaru_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_ss-kohaku-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_four-seasons-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "フォーシーズンズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_four-seasons-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-chance-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-chance-01_icon.webp",
+        "front": "akehoshi-subaru_anniversary-chance-01_front.webp",
+        "back": "akehoshi-subaru_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-777-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-777-01_icon.webp",
+        "front": "akehoshi-subaru_anniversary-777-01_front.webp",
+        "back": "akehoshi-subaru_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_black-stage-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_black-stage-01_icon.webp",
+        "front": "akehoshi-subaru_black-stage-01_front.webp",
+        "back": "akehoshi-subaru_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_black-stage-scr-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_black-stage-scr-01_icon.webp",
+        "front": "akehoshi-subaru_black-stage-scr-01_front.webp",
+        "back": "akehoshi-subaru_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_vs-game-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "VS GAME衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_vs-game-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_animals-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニマルズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_animals-01_icon.webp",
+        "front": "akehoshi-subaru_animals-01_front.webp",
+        "back": "akehoshi-subaru_animals-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_starlight-6th-live-tshirt-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_halloween-candle-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_halloween-candle-01_icon.webp",
+        "front": "akehoshi-subaru_halloween-candle-01_front.webp",
+        "back": "akehoshi-subaru_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_replay-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "(RE)PLAY衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_replay-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_flambe-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Flambé！衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_flambe-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_newyear-rise-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_newyear-rise-cape-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_newyear-rise-cape-01_icon.webp",
+        "front": "akehoshi-subaru_newyear-rise-cape-01_front.webp",
+        "back": "akehoshi-subaru_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_graduation-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_training-wear-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_training-wear-01_icon.webp",
+        "front": "akehoshi-subaru_training-wear-01_front.webp",
+        "back": "akehoshi-subaru_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_bloom-idol-scr-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-love-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-love-01_icon.webp",
+        "front": "akehoshi-subaru_anniversary-love-01_front.webp",
+        "back": "akehoshi-subaru_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_satellite-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "サテライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_satellite-01_icon.webp",
+        "front": "akehoshi-subaru_satellite-01_front.webp",
+        "back": "akehoshi-subaru_satellite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_wishes-in-flowers-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "wishes in flowers",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_wishes-in-flowers-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_xday-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Xday衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_xday-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_newyear-rise-silver-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_album-trip-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "akehoshi-subaru_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "akehoshi-subaru_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-challenge-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_twilight-idol-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_happy-charm-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハッピーチャーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_happy-charm-01_icon.webp",
+        "front": "akehoshi-subaru_happy-charm-01_front.webp",
+        "back": "akehoshi-subaru_happy-charm-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-challenge-scr-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-challenge-scr-01_icon.webp",
+        "front": "akehoshi-subaru_anniversary-challenge-scr-01_front.webp",
+        "back": "akehoshi-subaru_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_halloween-wing-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_halloween-wing-01_icon.webp",
+        "front": "akehoshi-subaru_halloween-wing-01_front.webp",
+        "back": "akehoshi-subaru_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_freedom-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "FREEDOM衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_freedom-01_icon.webp",
+        "front": "akehoshi-subaru_freedom-01_front.webp",
+        "back": "akehoshi-subaru_freedom-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_daikagura-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "大神楽衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_daikagura-01_icon.webp",
+        "front": "akehoshi-subaru_daikagura-01_front.webp",
+        "back": "akehoshi-subaru_daikagura-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_starlight-8th-live-tshirt-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "akehoshi-subaru_starlight-8th-live-tshirt-01_front.webp",
+        "back": "akehoshi-subaru_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_newyear-rise-first-love-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_newyear-rise-first-love-01_icon.webp",
+        "front": "akehoshi-subaru_newyear-rise-first-love-01_front.webp",
+        "back": "akehoshi-subaru_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_colorful-music-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_colorful-music-01_icon.webp",
+        "front": "akehoshi-subaru_colorful-music-01_front.webp",
+        "back": "akehoshi-subaru_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_trickstar-hoodie-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Trickstarフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_trickstar-hoodie-01_icon.webp",
+        "front": "akehoshi-subaru_trickstar-hoodie-01_front.webp",
+        "back": "akehoshi-subaru_trickstar-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_happy-anniversary-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "HAPPY ANNIVERSARY衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_happy-anniversary-01_icon.webp",
+        "front": "akehoshi-subaru_happy-anniversary-01_front.webp",
+        "back": "akehoshi-subaru_happy-anniversary-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_twilight-idol-scr-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_natsukoi-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ナツコイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_natsukoi-01_icon.webp",
+        "front": "akehoshi-subaru_natsukoi-01_front.webp",
+        "back": "akehoshi-subaru_natsukoi-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_jinbei-goldfish-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_jinbei-goldfish-01_icon.webp",
+        "front": "akehoshi-subaru_jinbei-goldfish-01_front.webp",
+        "back": "akehoshi-subaru_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_caelum-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_caelum-01_icon.webp",
+        "front": "akehoshi-subaru_caelum-01_front.webp",
+        "back": "akehoshi-subaru_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_ai-s-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Ai☆S!!衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_ai-s-01_icon.webp",
+        "front": "akehoshi-subaru_ai-s-01_front.webp",
+        "back": "akehoshi-subaru_ai-s-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_halloween-wing-angel-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_halloween-wing-angel-01_icon.webp",
+        "front": "akehoshi-subaru_halloween-wing-angel-01_front.webp",
+        "back": "akehoshi-subaru_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_terra-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_terra-01_icon.webp",
+        "front": "akehoshi-subaru_terra-01_front.webp",
+        "back": "akehoshi-subaru_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_shining-star-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_shining-star-01_icon.webp",
+        "front": "akehoshi-subaru_shining-star-01_front.webp",
+        "back": "akehoshi-subaru_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_starlight-10th-live-tshirt-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "akehoshi-subaru_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_anniversary-agent-green-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_anniversary-agent-green-01_icon.webp",
+        "front": "akehoshi-subaru_anniversary-agent-green-01_front.webp",
+        "back": "akehoshi-subaru_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_mm-trickstar-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "MM Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_mm-trickstar-01_icon.webp",
+        "front": "akehoshi-subaru_mm-trickstar-01_front.webp",
+        "back": "akehoshi-subaru_mm-trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "akehoshi-subaru_jinbei-fireworks-01",
+      "idol_slug": "akehoshi-subaru",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "akehoshi-subaru_jinbei-fireworks-01_icon.webp",
+        "front": "akehoshi-subaru_jinbei-fireworks-01_front.webp",
+        "back": "akehoshi-subaru_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }

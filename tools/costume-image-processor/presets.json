@@ -12261,6 +12261,717 @@
           }
         }
       }
+    },
+    "akehoshi-subaru-slots-04-67": {
+      "idol_slug": "akehoshi-subaru",
+      "input_dir": "akehoshi-subaru",
+      "output_dir": "akehoshi-subaru",
+      "items": {
+        "04_common-scr": {
+          "id": "akehoshi-subaru_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_bigbang": {
+          "id": "akehoshi-subaru_bigbang-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_uta-no-oniisan": {
+          "id": "akehoshi-subaru_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "akehoshi-subaru_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_shining-trickstar": {
+          "id": "akehoshi-subaru_shining-trickstar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-party": {
+          "id": "akehoshi-subaru_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "akehoshi-subaru_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_four-star-anniversary-rock": {
+          "id": "akehoshi-subaru_four-star-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_spring-bed": {
+          "id": "akehoshi-subaru_spring-bed-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "akehoshi-subaru_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "akehoshi-subaru_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_kira-kira-star": {
+          "id": "akehoshi-subaru_kira-kira-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_tougenkyou-guuzouken": {
+          "id": "akehoshi-subaru_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_bloom-idol": {
+          "id": "akehoshi-subaru_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_fusion-unit-trickstar-fine": {
+          "id": "akehoshi-subaru_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_cd-third": {
+          "id": "akehoshi-subaru_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss-kohaku": {
+          "id": "akehoshi-subaru_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_four-seasons": {
+          "id": "akehoshi-subaru_four-seasons-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "akehoshi-subaru_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_anniversary-777": {
+          "id": "akehoshi-subaru_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "akehoshi-subaru_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_black-stage-scr": {
+          "id": "akehoshi-subaru_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_vs-game": {
+          "id": "akehoshi-subaru_vs-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_animals": {
+          "id": "akehoshi-subaru_animals-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_starlight-6th-live-tshirt": {
+          "id": "akehoshi-subaru_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_halloween-candle": {
+          "id": "akehoshi-subaru_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_replay": {
+          "id": "akehoshi-subaru_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_flambe": {
+          "id": "akehoshi-subaru_flambe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_newyear-rise": {
+          "id": "akehoshi-subaru_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "akehoshi-subaru_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_graduation": {
+          "id": "akehoshi-subaru_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_training-wear": {
+          "id": "akehoshi-subaru_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_bloom-idol-scr": {
+          "id": "akehoshi-subaru_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_anniversary-love": {
+          "id": "akehoshi-subaru_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_satellite": {
+          "id": "akehoshi-subaru_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_wishes-in-flowers": {
+          "id": "akehoshi-subaru_wishes-in-flowers-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_xday": {
+          "id": "akehoshi-subaru_xday-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_newyear-rise-silver": {
+          "id": "akehoshi-subaru_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_album-trip": {
+          "id": "akehoshi-subaru_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_scramble-gakuen-boys-uniform": {
+          "id": "akehoshi-subaru_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "akehoshi-subaru_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "akehoshi-subaru_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_happy-charm": {
+          "id": "akehoshi-subaru_happy-charm-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_anniversary-challenge-scr": {
+          "id": "akehoshi-subaru_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_halloween-wing": {
+          "id": "akehoshi-subaru_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_freedom": {
+          "id": "akehoshi-subaru_freedom-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_daikagura": {
+          "id": "akehoshi-subaru_daikagura-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_starlight-8th-live-tshirt": {
+          "id": "akehoshi-subaru_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "akehoshi-subaru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_colorful-music": {
+          "id": "akehoshi-subaru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_trickstar-hoodie": {
+          "id": "akehoshi-subaru_trickstar-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_happy-anniversary": {
+          "id": "akehoshi-subaru_happy-anniversary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "akehoshi-subaru_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_natsukoi": {
+          "id": "akehoshi-subaru_natsukoi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_jinbei-goldfish": {
+          "id": "akehoshi-subaru_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_caelum": {
+          "id": "akehoshi-subaru_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_ai-s": {
+          "id": "akehoshi-subaru_ai-s-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_halloween-wing-angel": {
+          "id": "akehoshi-subaru_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_terra": {
+          "id": "akehoshi-subaru_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_shining-star": {
+          "id": "akehoshi-subaru_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_starlight-10th-live-tshirt": {
+          "id": "akehoshi-subaru_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_anniversary-agent-green": {
+          "id": "akehoshi-subaru_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_mm-trickstar": {
+          "id": "akehoshi-subaru_mm-trickstar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_jinbei-fireworks": {
+          "id": "akehoshi-subaru_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
