@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-17",
+  "updated_at": "2026-07-24",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -14618,6 +14618,1290 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-17"
+    },
+    {
+      "id": "aoba-tsumugi_common-scr-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_uta-no-oniisan-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_uta-no-oniisan-01_icon.webp",
+        "front": "aoba-tsumugi_uta-no-oniisan-01_front.webp",
+        "back": "aoba-tsumugi_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_new-color-anniversary-suit-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_new-color-anniversary-suit-01_icon.webp",
+        "front": "aoba-tsumugi_new-color-anniversary-suit-01_front.webp",
+        "back": "aoba-tsumugi_new-color-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_seireisai-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "星霊祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_seireisai-01_icon.webp",
+        "front": "aoba-tsumugi_seireisai-01_front.webp",
+        "back": "aoba-tsumugi_seireisai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_halloween-bat-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_halloween-bat-01_icon.webp",
+        "front": "aoba-tsumugi_halloween-bat-01_front.webp",
+        "back": "aoba-tsumugi_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_happy-sky-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ハッピースカイ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_happy-sky-01_icon.webp",
+        "front": "aoba-tsumugi_happy-sky-01_front.webp",
+        "back": "aoba-tsumugi_happy-sky-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_senko-anniversary-rock-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "閃光のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_senko-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_gentoki-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "幻灯機衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_gentoki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_esmg-graphic-tshirt-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_pilot-suit-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_pilot-suit-01_icon.webp",
+        "front": "aoba-tsumugi_pilot-suit-01_front.webp",
+        "back": "aoba-tsumugi_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_tsutsuji-moyuru-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ツツジ燃ゆる衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_tsutsuji-moyuru-01_icon.webp",
+        "front": "aoba-tsumugi_tsutsuji-moyuru-01_front.webp",
+        "back": "aoba-tsumugi_tsutsuji-moyuru-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_fusion-unit-switch-eden-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_fusion-unit-switch-eden-01_icon.webp",
+        "front": "aoba-tsumugi_fusion-unit-switch-eden-01_front.webp",
+        "back": "aoba-tsumugi_fusion-unit-switch-eden-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_next-door-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_next-door-01_icon.webp",
+        "front": "aoba-tsumugi_next-door-01_front.webp",
+        "back": "aoba-tsumugi_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_bloom-idol-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_cd-third-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_cd-third-01_icon.webp",
+        "front": "aoba-tsumugi_cd-third-01_front.webp",
+        "back": "aoba-tsumugi_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_ss-kouhaku-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_twilights-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "トライライツ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_twilights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-chance-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-777-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-777-01_icon.webp",
+        "front": "aoba-tsumugi_anniversary-777-01_front.webp",
+        "back": "aoba-tsumugi_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_black-stage-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_cruise-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "クルーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_cruise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_starlight-6th-live-tshirt-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_tell-your-world-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Tell Your World衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_tell-your-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_halloween-candle-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_halloween-candle-01_icon.webp",
+        "front": "aoba-tsumugi_halloween-candle-01_front.webp",
+        "back": "aoba-tsumugi_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_blend-plus-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "BLEND+衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_blend-plus-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_new-color-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "NEW COLOR衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_new-color-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_newyear-rise-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_newyear-rise-01_icon.webp",
+        "front": "aoba-tsumugi_newyear-rise-01_front.webp",
+        "back": "aoba-tsumugi_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_newyear-rise-cape-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_newyear-rise-cape-01_icon.webp",
+        "front": "aoba-tsumugi_newyear-rise-cape-01_front.webp",
+        "back": "aoba-tsumugi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_training-wear-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_training-wear-01_icon.webp",
+        "front": "aoba-tsumugi_training-wear-01_front.webp",
+        "back": "aoba-tsumugi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_fine-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_fine-01_icon.webp",
+        "front": "aoba-tsumugi_fine-01_front.webp",
+        "back": "aoba-tsumugi_fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_fine-o-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "『fine-O』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_fine-o-01_icon.webp",
+        "front": "aoba-tsumugi_fine-o-01_front.webp",
+        "back": "aoba-tsumugi_fine-o-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_bloom-idol-scr-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-love-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-love-01_icon.webp",
+        "front": "aoba-tsumugi_anniversary-love-01_front.webp",
+        "back": "aoba-tsumugi_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_shinsekai-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "シンセカイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_shinsekai-01_icon.webp",
+        "front": "aoba-tsumugi_shinsekai-01_front.webp",
+        "back": "aoba-tsumugi_shinsekai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_madoromi-no-yoru-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "微睡みの夜",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_madoromi-no-yoru-01_icon.webp",
+        "front": "aoba-tsumugi_madoromi-no-yoru-01_front.webp",
+        "back": "aoba-tsumugi_madoromi-no-yoru-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_newyear-rise-silver-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_candy-house-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "キャンディーハウス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_candy-house-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "aoba-tsumugi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "aoba-tsumugi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_album-trip-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_album-trip-01_icon.webp",
+        "front": "aoba-tsumugi_album-trip-01_front.webp",
+        "back": "aoba-tsumugi_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-challenge-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_twilight-idol-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-challenge-scr-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-challenge-scr-01_icon.webp",
+        "front": "aoba-tsumugi_anniversary-challenge-scr-01_front.webp",
+        "back": "aoba-tsumugi_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_mayoigo-ballad-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "迷い子バラッド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_mayoigo-ballad-01_icon.webp",
+        "front": "aoba-tsumugi_mayoigo-ballad-01_front.webp",
+        "back": "aoba-tsumugi_mayoigo-ballad-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_halloween-wing-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_halloween-wing-01_icon.webp",
+        "front": "aoba-tsumugi_halloween-wing-01_front.webp",
+        "back": "aoba-tsumugi_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_easter-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "イースター衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_easter-01_icon.webp",
+        "front": "aoba-tsumugi_easter-01_front.webp",
+        "back": "aoba-tsumugi_easter-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_starlight-9th-live-tshirt-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "aoba-tsumugi_starlight-9th-live-tshirt-01_front.webp",
+        "back": "aoba-tsumugi_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_newyear-rise-first-love-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_newyear-rise-first-love-01_icon.webp",
+        "front": "aoba-tsumugi_newyear-rise-first-love-01_front.webp",
+        "back": "aoba-tsumugi_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_colorful-music-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_colorful-music-01_icon.webp",
+        "front": "aoba-tsumugi_colorful-music-01_front.webp",
+        "back": "aoba-tsumugi_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_wish-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Wish衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_wish-01_icon.webp",
+        "front": "aoba-tsumugi_wish-01_front.webp",
+        "back": "aoba-tsumugi_wish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_common-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "共通アイドル衣装（短髪）",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_common-short-hair-01_icon.webp",
+        "front": "aoba-tsumugi_common-short-hair-01_front.webp",
+        "back": "aoba-tsumugi_common-short-hair-01_back.webp"
+      },
+      "tags": [
+        "短髪"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_switch-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Switch衣装（短髪）",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_switch-short-hair-01_icon.webp",
+        "front": "aoba-tsumugi_switch-short-hair-01_front.webp",
+        "back": "aoba-tsumugi_switch-short-hair-01_back.webp"
+      },
+      "tags": [
+        "短髪"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_common-scr-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "共通アイドル衣装（SCR、短髪）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_common-scr-short-hair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR",
+        "短髪"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_bloom-idol-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ブルームアイドル衣装（短髪）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_bloom-idol-short-hair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "短髪"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_bloom-idol-scr-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ブルームアイドル衣装（SCR、短髪）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_bloom-idol-scr-short-hair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR",
+        "短髪"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_twilight-idol-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "トワイライトアイドル衣装（短髪）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_twilight-idol-short-hair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "短髪"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_switch-hoodie-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Switchフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_switch-hoodie-01_icon.webp",
+        "front": "aoba-tsumugi_switch-hoodie-01_front.webp",
+        "back": "aoba-tsumugi_switch-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_twilight-idol-scr-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_world-switching-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "World Switching衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_world-switching-01_icon.webp",
+        "front": "aoba-tsumugi_world-switching-01_front.webp",
+        "back": "aoba-tsumugi_world-switching-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_genwaku-modulation-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "眩惑モジュレーション衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_genwaku-modulation-01_icon.webp",
+        "front": "aoba-tsumugi_genwaku-modulation-01_front.webp",
+        "back": "aoba-tsumugi_genwaku-modulation-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_deep-into-you-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Deep into you衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_deep-into-you-01_icon.webp",
+        "front": "aoba-tsumugi_deep-into-you-01_front.webp",
+        "back": "aoba-tsumugi_deep-into-you-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_jinbei-goldfish-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_jinbei-goldfish-01_icon.webp",
+        "front": "aoba-tsumugi_jinbei-goldfish-01_front.webp",
+        "back": "aoba-tsumugi_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_iridescent-light-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_iridescent-light-01_icon.webp",
+        "front": "aoba-tsumugi_iridescent-light-01_front.webp",
+        "back": "aoba-tsumugi_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_caelum-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_caelum-01_icon.webp",
+        "front": "aoba-tsumugi_caelum-01_front.webp",
+        "back": "aoba-tsumugi_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_halloween-wing-angel-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_halloween-wing-angel-01_icon.webp",
+        "front": "aoba-tsumugi_halloween-wing-angel-01_front.webp",
+        "back": "aoba-tsumugi_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_terra-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_terra-01_icon.webp",
+        "front": "aoba-tsumugi_terra-01_front.webp",
+        "back": "aoba-tsumugi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_shining-star-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_shining-star-01_icon.webp",
+        "front": "aoba-tsumugi_shining-star-01_front.webp",
+        "back": "aoba-tsumugi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_starlight-10th-live-tshirt-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_anniversary-agent-green-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_anniversary-agent-green-01_icon.webp",
+        "front": "aoba-tsumugi_anniversary-agent-green-01_front.webp",
+        "back": "aoba-tsumugi_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_reinvent-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "Reinvent",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_reinvent-01_icon.webp",
+        "front": "aoba-tsumugi_reinvent-01_front.webp",
+        "back": "aoba-tsumugi_reinvent-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "aoba-tsumugi_jinbei-fireworks-01",
+      "idol_slug": "aoba-tsumugi",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_jinbei-fireworks-01_icon.webp",
+        "front": "aoba-tsumugi_jinbei-fireworks-01_front.webp",
+        "back": "aoba-tsumugi_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }

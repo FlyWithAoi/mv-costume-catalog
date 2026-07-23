@@ -9439,6 +9439,783 @@
           }
         }
       }
+    },
+    "aoba-tsumugi-slots-04-73": {
+      "idol_slug": "aoba-tsumugi",
+      "input_dir": "aoba-tsumugi",
+      "output_dir": "aoba-tsumugi",
+      "items": {
+        "04_common-scr": {
+          "id": "aoba-tsumugi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "aoba-tsumugi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_new-color-anniversary-suit": {
+          "id": "aoba-tsumugi_new-color-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_seireisai": {
+          "id": "aoba-tsumugi_seireisai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_halloween-bat": {
+          "id": "aoba-tsumugi_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_happy-sky": {
+          "id": "aoba-tsumugi_happy-sky-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_senko-anniversary-rock": {
+          "id": "aoba-tsumugi_senko-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_gentoki": {
+          "id": "aoba-tsumugi_gentoki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "aoba-tsumugi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "aoba-tsumugi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_tsutsuji-moyuru": {
+          "id": "aoba-tsumugi_tsutsuji-moyuru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-switch-eden": {
+          "id": "aoba-tsumugi_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_next-door": {
+          "id": "aoba-tsumugi_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_bloom-idol": {
+          "id": "aoba-tsumugi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_cd-third": {
+          "id": "aoba-tsumugi_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_ss-kouhaku": {
+          "id": "aoba-tsumugi_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_twilights": {
+          "id": "aoba-tsumugi_twilights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "aoba-tsumugi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-777": {
+          "id": "aoba-tsumugi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_black-stage": {
+          "id": "aoba-tsumugi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_cruise": {
+          "id": "aoba-tsumugi_cruise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "aoba-tsumugi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_tell-your-world": {
+          "id": "aoba-tsumugi_tell-your-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "aoba-tsumugi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_blend-plus": {
+          "id": "aoba-tsumugi_blend-plus-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_new-color": {
+          "id": "aoba-tsumugi_new-color-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_newyear-rise": {
+          "id": "aoba-tsumugi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "aoba-tsumugi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_training-wear": {
+          "id": "aoba-tsumugi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_fine": {
+          "id": "aoba-tsumugi_fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_fine-o": {
+          "id": "aoba-tsumugi_fine-o-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "aoba-tsumugi_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_anniversary-love": {
+          "id": "aoba-tsumugi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_shinsekai": {
+          "id": "aoba-tsumugi_shinsekai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_madoromi-no-yoru": {
+          "id": "aoba-tsumugi_madoromi-no-yoru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_newyear-rise-silver": {
+          "id": "aoba-tsumugi_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_candy-house": {
+          "id": "aoba-tsumugi_candy-house-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "aoba-tsumugi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_album-trip": {
+          "id": "aoba-tsumugi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_anniversary-challenge": {
+          "id": "aoba-tsumugi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_twilight-idol": {
+          "id": "aoba-tsumugi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "aoba-tsumugi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_mayoigo-ballad": {
+          "id": "aoba-tsumugi_mayoigo-ballad-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_halloween-wing": {
+          "id": "aoba-tsumugi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_easter": {
+          "id": "aoba-tsumugi_easter-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_starlight-9th-live-tshirt": {
+          "id": "aoba-tsumugi_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_newyear-rise-first-love": {
+          "id": "aoba-tsumugi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_colorful-music": {
+          "id": "aoba-tsumugi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_wish": {
+          "id": "aoba-tsumugi_wish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_common-short-hair": {
+          "id": "aoba-tsumugi_common-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_switch-short-hair": {
+          "id": "aoba-tsumugi_switch-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_common-scr-short-hair": {
+          "id": "aoba-tsumugi_common-scr-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_bloom-idol-short-hair": {
+          "id": "aoba-tsumugi_bloom-idol-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_bloom-idol-scr-short-hair": {
+          "id": "aoba-tsumugi_bloom-idol-scr-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_twilight-idol-short-hair": {
+          "id": "aoba-tsumugi_twilight-idol-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_switch-hoodie": {
+          "id": "aoba-tsumugi_switch-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_twilight-idol-scr": {
+          "id": "aoba-tsumugi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_world-switching": {
+          "id": "aoba-tsumugi_world-switching-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_genwaku-modulation": {
+          "id": "aoba-tsumugi_genwaku-modulation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_deep-into-you": {
+          "id": "aoba-tsumugi_deep-into-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_jinbei-goldfish": {
+          "id": "aoba-tsumugi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_iridescent-light": {
+          "id": "aoba-tsumugi_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 754,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_caelum": {
+          "id": "aoba-tsumugi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_halloween-wing-angel": {
+          "id": "aoba-tsumugi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "68_terra": {
+          "id": "aoba-tsumugi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "69_shining-star": {
+          "id": "aoba-tsumugi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "70_starlight-10th-live-tshirt": {
+          "id": "aoba-tsumugi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "71_anniversary-agent-green": {
+          "id": "aoba-tsumugi_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "72_reinvent": {
+          "id": "aoba-tsumugi_reinvent-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "73_jinbei-fireworks": {
+          "id": "aoba-tsumugi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
