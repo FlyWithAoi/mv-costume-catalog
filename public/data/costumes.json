@@ -15902,6 +15902,1125 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_common-scr-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_uta-no-oniisan-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_uta-no-oniisan-01_icon.webp",
+        "front": "harukawa-sora_uta-no-oniisan-01_front.webp",
+        "back": "harukawa-sora_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_new-color-anniversary-suit-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_new-color-anniversary-suit-01_icon.webp",
+        "front": "harukawa-sora_new-color-anniversary-suit-01_front.webp",
+        "back": "harukawa-sora_new-color-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_touzoku-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "盗賊衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_touzoku-01_icon.webp",
+        "front": "harukawa-sora_touzoku-01_front.webp",
+        "back": "harukawa-sora_touzoku-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_seireisai-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "星霊祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_seireisai-01_icon.webp",
+        "front": "harukawa-sora_seireisai-01_front.webp",
+        "back": "harukawa-sora_seireisai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_halloween-bat-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_halloween-bat-01_icon.webp",
+        "front": "harukawa-sora_halloween-bat-01_front.webp",
+        "back": "harukawa-sora_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_branco-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Branco衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_branco-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_senko-anniversary-rock-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "閃光のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_senko-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_gentoki-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "幻灯機衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_gentoki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_esmg-graphic-tshirt-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_pilot-suit-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_pilot-suit-01_icon.webp",
+        "front": "harukawa-sora_pilot-suit-01_front.webp",
+        "back": "harukawa-sora_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_fusion-unit-switch-eden-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_fusion-unit-switch-eden-01_icon.webp",
+        "front": "harukawa-sora_fusion-unit-switch-eden-01_front.webp",
+        "back": "harukawa-sora_fusion-unit-switch-eden-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_miracle-marble-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ミラクルマーブル",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_miracle-marble-01_icon.webp",
+        "front": "harukawa-sora_miracle-marble-01_front.webp",
+        "back": "harukawa-sora_miracle-marble-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_next-door-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_next-door-01_icon.webp",
+        "front": "harukawa-sora_next-door-01_front.webp",
+        "back": "harukawa-sora_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_bloom-idol-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_cd-third-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_cd-third-01_icon.webp",
+        "front": "harukawa-sora_cd-third-01_front.webp",
+        "back": "harukawa-sora_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_ss-kouhaku-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_twilights-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "トライライツ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_twilights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-chance-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-777-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_anniversary-777-01_icon.webp",
+        "front": "harukawa-sora_anniversary-777-01_front.webp",
+        "back": "harukawa-sora_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_black-stage-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_black-stage-01_icon.webp",
+        "front": "harukawa-sora_black-stage-01_front.webp",
+        "back": "harukawa-sora_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_cruise-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "クルーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_cruise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_starlight-6th-live-tshirt-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_tell-your-world-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Tell Your World衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_tell-your-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_mofu-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "MOFU",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_mofu-01_icon.webp",
+        "front": "harukawa-sora_mofu-01_front.webp",
+        "back": "harukawa-sora_mofu-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_halloween-candle-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_halloween-candle-01_icon.webp",
+        "front": "harukawa-sora_halloween-candle-01_front.webp",
+        "back": "harukawa-sora_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_newyear-rise-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_newyear-rise-01_icon.webp",
+        "front": "harukawa-sora_newyear-rise-01_front.webp",
+        "back": "harukawa-sora_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_newyear-rise-cape-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_newyear-rise-cape-01_icon.webp",
+        "front": "harukawa-sora_newyear-rise-cape-01_front.webp",
+        "back": "harukawa-sora_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_training-wear-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_training-wear-01_icon.webp",
+        "front": "harukawa-sora_training-wear-01_front.webp",
+        "back": "harukawa-sora_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_bloom-idol-scr-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-love-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_anniversary-love-01_icon.webp",
+        "front": "harukawa-sora_anniversary-love-01_front.webp",
+        "back": "harukawa-sora_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_santan-summer-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "サンタンSUMMER衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_santan-summer-01_icon.webp",
+        "front": "harukawa-sora_santan-summer-01_front.webp",
+        "back": "harukawa-sora_santan-summer-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_shinsekai-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "シンセカイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_shinsekai-01_icon.webp",
+        "front": "harukawa-sora_shinsekai-01_front.webp",
+        "back": "harukawa-sora_shinsekai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_newyear-rise-silver-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_candy-house-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "キャンディーハウス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_candy-house-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "harukawa-sora_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "harukawa-sora_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_album-trip-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_album-trip-01_icon.webp",
+        "front": "harukawa-sora_album-trip-01_front.webp",
+        "back": "harukawa-sora_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-challenge-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_twilight-idol-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-challenge-scr-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_anniversary-challenge-scr-01_icon.webp",
+        "front": "harukawa-sora_anniversary-challenge-scr-01_front.webp",
+        "back": "harukawa-sora_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_halloween-wing-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_halloween-wing-01_icon.webp",
+        "front": "harukawa-sora_halloween-wing-01_front.webp",
+        "back": "harukawa-sora_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_illuminate-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "イルミネイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_illuminate-01_icon.webp",
+        "front": "harukawa-sora_illuminate-01_front.webp",
+        "back": "harukawa-sora_illuminate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_easter-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "イースター衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_easter-01_icon.webp",
+        "front": "harukawa-sora_easter-01_front.webp",
+        "back": "harukawa-sora_easter-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_starlight-9th-live-tshirt-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "harukawa-sora_starlight-9th-live-tshirt-01_front.webp",
+        "back": "harukawa-sora_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_newyear-rise-first-love-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_newyear-rise-first-love-01_icon.webp",
+        "front": "harukawa-sora_newyear-rise-first-love-01_front.webp",
+        "back": "harukawa-sora_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_pikapika-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "PIKAPIKA衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_pikapika-01_icon.webp",
+        "front": "harukawa-sora_pikapika-01_front.webp",
+        "back": "harukawa-sora_pikapika-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_colorful-music-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_colorful-music-01_icon.webp",
+        "front": "harukawa-sora_colorful-music-01_front.webp",
+        "back": "harukawa-sora_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_wish-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Wish衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_wish-01_icon.webp",
+        "front": "harukawa-sora_wish-01_front.webp",
+        "back": "harukawa-sora_wish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_switch-hoodie-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Switchフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_switch-hoodie-01_icon.webp",
+        "front": "harukawa-sora_switch-hoodie-01_front.webp",
+        "back": "harukawa-sora_switch-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_boku-no-weak-point-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "僕のウィーク・ポイント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_boku-no-weak-point-01_icon.webp",
+        "front": "harukawa-sora_boku-no-weak-point-01_front.webp",
+        "back": "harukawa-sora_boku-no-weak-point-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_twilight-idol-scr-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_world-switching-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "World Switching衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_world-switching-01_icon.webp",
+        "front": "harukawa-sora_world-switching-01_front.webp",
+        "back": "harukawa-sora_world-switching-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_jinbei-goldfish-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_jinbei-goldfish-01_icon.webp",
+        "front": "harukawa-sora_jinbei-goldfish-01_front.webp",
+        "back": "harukawa-sora_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_caelum-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_caelum-01_icon.webp",
+        "front": "harukawa-sora_caelum-01_front.webp",
+        "back": "harukawa-sora_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_free-step-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Free Step",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_free-step-01_icon.webp",
+        "front": "harukawa-sora_free-step-01_front.webp",
+        "back": "harukawa-sora_free-step-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_halloween-wing-angel-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_halloween-wing-angel-01_icon.webp",
+        "front": "harukawa-sora_halloween-wing-angel-01_front.webp",
+        "back": "harukawa-sora_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_terra-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_terra-01_icon.webp",
+        "front": "harukawa-sora_terra-01_front.webp",
+        "back": "harukawa-sora_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_shining-star-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_shining-star-01_icon.webp",
+        "front": "harukawa-sora_shining-star-01_front.webp",
+        "back": "harukawa-sora_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_starlight-10th-live-tshirt-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_anniversary-agent-red-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_anniversary-agent-red-01_icon.webp",
+        "front": "harukawa-sora_anniversary-agent-red-01_front.webp",
+        "back": "harukawa-sora_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "harukawa-sora_jinbei-fireworks-01",
+      "idol_slug": "harukawa-sora",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_jinbei-fireworks-01_icon.webp",
+        "front": "harukawa-sora_jinbei-fireworks-01_front.webp",
+        "back": "harukawa-sora_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }
