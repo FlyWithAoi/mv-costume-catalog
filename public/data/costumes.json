@@ -18118,6 +18118,1163 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_common-scr-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_bigbang-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "BIGBANG衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_bigbang-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_uta-no-oniisan-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_uta-no-oniisan-01_icon.webp",
+        "front": "hidaka-hokuto_uta-no-oniisan-01_front.webp",
+        "back": "hidaka-hokuto_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_hoshiiro-anniversary-suit-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_innocent-rose-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "イノセントローズ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_innocent-rose-01_icon.webp",
+        "front": "hidaka-hokuto_innocent-rose-01_front.webp",
+        "back": "hidaka-hokuto_innocent-rose-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_halloween-party-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_halloween-party-01_icon.webp",
+        "front": "hidaka-hokuto_halloween-party-01_front.webp",
+        "back": "hidaka-hokuto_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_halloween-night-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ハロウィンナイト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_halloween-night-01_icon.webp",
+        "front": "hidaka-hokuto_halloween-night-01_front.webp",
+        "back": "hidaka-hokuto_halloween-night-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_four-star-anniversary-rock-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "四つ星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_four-star-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_pilot-suit-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_pilot-suit-01_icon.webp",
+        "front": "hidaka-hokuto_pilot-suit-01_front.webp",
+        "back": "hidaka-hokuto_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_esmg-graphic-tshirt-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_moon-capital-spectacle-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "月都スペクタクル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_moon-capital-spectacle-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_tougenkyou-guuzouken-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_tougenkyou-guuzouken-01_icon.webp",
+        "front": "hidaka-hokuto_tougenkyou-guuzouken-01_front.webp",
+        "back": "hidaka-hokuto_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_bloom-idol-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_saiyuuki-gokuu-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "西遊記悟空衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_saiyuuki-gokuu-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_fusion-unit-trickstar-fine-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "FUSION UNIT(Trickstar×fine)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_cd-third-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_cd-third-01_icon.webp",
+        "front": "hidaka-hokuto_cd-third-01_front.webp",
+        "back": "hidaka-hokuto_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_ss-kohaku-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_four-seasons-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "フォーシーズンズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_four-seasons-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-chance-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-chance-01_icon.webp",
+        "front": "hidaka-hokuto_anniversary-chance-01_front.webp",
+        "back": "hidaka-hokuto_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-777-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-777-01_icon.webp",
+        "front": "hidaka-hokuto_anniversary-777-01_front.webp",
+        "back": "hidaka-hokuto_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_black-stage-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_vs-game-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "VS GAME衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_vs-game-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_starlight-6th-live-tshirt-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_chill-yellow-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Chill Yellow衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_chill-yellow-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_halloween-candle-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_halloween-candle-01_icon.webp",
+        "front": "hidaka-hokuto_halloween-candle-01_front.webp",
+        "back": "hidaka-hokuto_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_replay-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "(RE)PLAY衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_replay-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_newyear-rise-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_newyear-rise-cape-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_newyear-rise-cape-01_icon.webp",
+        "front": "hidaka-hokuto_newyear-rise-cape-01_front.webp",
+        "back": "hidaka-hokuto_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_graduation-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_training-wear-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_training-wear-01_icon.webp",
+        "front": "hidaka-hokuto_training-wear-01_front.webp",
+        "back": "hidaka-hokuto_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_bloom-idol-scr-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-love-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-love-01_icon.webp",
+        "front": "hidaka-hokuto_anniversary-love-01_front.webp",
+        "back": "hidaka-hokuto_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_satellite-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "サテライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_satellite-01_icon.webp",
+        "front": "hidaka-hokuto_satellite-01_front.webp",
+        "back": "hidaka-hokuto_satellite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_xday-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Xday衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_xday-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_newyear-rise-silver-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_album-trip-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_faraway-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Faraway",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_faraway-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "hidaka-hokuto_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "hidaka-hokuto_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-challenge-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_twilight-idol-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_evil-telephone-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "イービルTELEPHONE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_evil-telephone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-challenge-scr-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-challenge-scr-01_icon.webp",
+        "front": "hidaka-hokuto_anniversary-challenge-scr-01_front.webp",
+        "back": "hidaka-hokuto_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_brilliance-prince-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ブリリアンスプリンス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_brilliance-prince-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_halloween-wing-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_halloween-wing-01_icon.webp",
+        "front": "hidaka-hokuto_halloween-wing-01_front.webp",
+        "back": "hidaka-hokuto_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_freedom-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "FREEDOM衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_freedom-01_icon.webp",
+        "front": "hidaka-hokuto_freedom-01_front.webp",
+        "back": "hidaka-hokuto_freedom-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_daikagura-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "大神楽衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_daikagura-01_icon.webp",
+        "front": "hidaka-hokuto_daikagura-01_front.webp",
+        "back": "hidaka-hokuto_daikagura-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_starlight-8th-live-tshirt-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "hidaka-hokuto_starlight-8th-live-tshirt-01_front.webp",
+        "back": "hidaka-hokuto_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_newyear-rise-first-love-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_newyear-rise-first-love-01_icon.webp",
+        "front": "hidaka-hokuto_newyear-rise-first-love-01_front.webp",
+        "back": "hidaka-hokuto_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_colorful-music-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_colorful-music-01_icon.webp",
+        "front": "hidaka-hokuto_colorful-music-01_front.webp",
+        "back": "hidaka-hokuto_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_trickstar-hoodie-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Trickstarフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_trickstar-hoodie-01_icon.webp",
+        "front": "hidaka-hokuto_trickstar-hoodie-01_front.webp",
+        "back": "hidaka-hokuto_trickstar-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_happy-anniversary-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "HAPPY ANNIVERSARY衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_happy-anniversary-01_icon.webp",
+        "front": "hidaka-hokuto_happy-anniversary-01_front.webp",
+        "back": "hidaka-hokuto_happy-anniversary-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_twilight-idol-scr-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_jinbei-goldfish-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_jinbei-goldfish-01_icon.webp",
+        "front": "hidaka-hokuto_jinbei-goldfish-01_front.webp",
+        "back": "hidaka-hokuto_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_iridescent-light-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_caelum-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_caelum-01_icon.webp",
+        "front": "hidaka-hokuto_caelum-01_front.webp",
+        "back": "hidaka-hokuto_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_halloween-wing-angel-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_halloween-wing-angel-01_icon.webp",
+        "front": "hidaka-hokuto_halloween-wing-angel-01_front.webp",
+        "back": "hidaka-hokuto_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_terra-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_terra-01_icon.webp",
+        "front": "hidaka-hokuto_terra-01_front.webp",
+        "back": "hidaka-hokuto_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_beyond-the-bloom-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "ブルームのその先へ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_beyond-the-bloom-01_icon.webp",
+        "front": "hidaka-hokuto_beyond-the-bloom-01_front.webp",
+        "back": "hidaka-hokuto_beyond-the-bloom-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_shining-star-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_shining-star-01_icon.webp",
+        "front": "hidaka-hokuto_shining-star-01_front.webp",
+        "back": "hidaka-hokuto_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_starlight-10th-live-tshirt-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hidaka-hokuto_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_anniversary-agent-red-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_anniversary-agent-red-01_icon.webp",
+        "front": "hidaka-hokuto_anniversary-agent-red-01_front.webp",
+        "back": "hidaka-hokuto_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_mm-trickstar-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "MM Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_mm-trickstar-01_icon.webp",
+        "front": "hidaka-hokuto_mm-trickstar-01_front.webp",
+        "back": "hidaka-hokuto_mm-trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "hidaka-hokuto_jinbei-fireworks-01",
+      "idol_slug": "hidaka-hokuto",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hidaka-hokuto_jinbei-fireworks-01_icon.webp",
+        "front": "hidaka-hokuto_jinbei-fireworks-01_front.webp",
+        "back": "hidaka-hokuto_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }

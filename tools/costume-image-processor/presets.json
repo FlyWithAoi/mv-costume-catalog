@@ -11561,6 +11561,706 @@
           }
         }
       }
+    },
+    "hidaka-hokuto-slots-04-66": {
+      "idol_slug": "hidaka-hokuto",
+      "input_dir": "hidaka-hokuto",
+      "output_dir": "hidaka-hokuto",
+      "items": {
+        "04_common-scr": {
+          "id": "hidaka-hokuto_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_bigbang": {
+          "id": "hidaka-hokuto_bigbang-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_uta-no-oniisan": {
+          "id": "hidaka-hokuto_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "hidaka-hokuto_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_innocent-rose": {
+          "id": "hidaka-hokuto_innocent-rose-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-party": {
+          "id": "hidaka-hokuto_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-night": {
+          "id": "hidaka-hokuto_halloween-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_four-star-anniversary-rock": {
+          "id": "hidaka-hokuto_four-star-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "hidaka-hokuto_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "hidaka-hokuto_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_moon-capital-spectacle": {
+          "id": "hidaka-hokuto_moon-capital-spectacle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_tougenkyou-guuzouken": {
+          "id": "hidaka-hokuto_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_bloom-idol": {
+          "id": "hidaka-hokuto_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_saiyuuki-gokuu": {
+          "id": "hidaka-hokuto_saiyuuki-gokuu-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_fusion-unit-trickstar-fine": {
+          "id": "hidaka-hokuto_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_cd-third": {
+          "id": "hidaka-hokuto_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss-kohaku": {
+          "id": "hidaka-hokuto_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_four-seasons": {
+          "id": "hidaka-hokuto_four-seasons-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "hidaka-hokuto_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_anniversary-777": {
+          "id": "hidaka-hokuto_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "hidaka-hokuto_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_vs-game": {
+          "id": "hidaka-hokuto_vs-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "hidaka-hokuto_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_chill-yellow": {
+          "id": "hidaka-hokuto_chill-yellow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_halloween-candle": {
+          "id": "hidaka-hokuto_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_replay": {
+          "id": "hidaka-hokuto_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_newyear-rise": {
+          "id": "hidaka-hokuto_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "hidaka-hokuto_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_graduation": {
+          "id": "hidaka-hokuto_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_training-wear": {
+          "id": "hidaka-hokuto_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "hidaka-hokuto_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "hidaka-hokuto_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_satellite": {
+          "id": "hidaka-hokuto_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_xday": {
+          "id": "hidaka-hokuto_xday-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "hidaka-hokuto_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_album-trip": {
+          "id": "hidaka-hokuto_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_faraway": {
+          "id": "hidaka-hokuto_faraway-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "hidaka-hokuto_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "hidaka-hokuto_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "hidaka-hokuto_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_evil-telephone": {
+          "id": "hidaka-hokuto_evil-telephone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "hidaka-hokuto_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_brilliance-prince": {
+          "id": "hidaka-hokuto_brilliance-prince-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_halloween-wing": {
+          "id": "hidaka-hokuto_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_freedom": {
+          "id": "hidaka-hokuto_freedom-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_daikagura": {
+          "id": "hidaka-hokuto_daikagura-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_starlight-8th-live-tshirt": {
+          "id": "hidaka-hokuto_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_newyear-rise-first-love": {
+          "id": "hidaka-hokuto_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_colorful-music": {
+          "id": "hidaka-hokuto_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_trickstar-hoodie": {
+          "id": "hidaka-hokuto_trickstar-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_happy-anniversary": {
+          "id": "hidaka-hokuto_happy-anniversary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_twilight-idol-scr": {
+          "id": "hidaka-hokuto_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_jinbei-goldfish": {
+          "id": "hidaka-hokuto_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_iridescent-light": {
+          "id": "hidaka-hokuto_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_caelum": {
+          "id": "hidaka-hokuto_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_halloween-wing-angel": {
+          "id": "hidaka-hokuto_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_terra": {
+          "id": "hidaka-hokuto_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_beyond-the-bloom": {
+          "id": "hidaka-hokuto_beyond-the-bloom-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_shining-star": {
+          "id": "hidaka-hokuto_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_starlight-10th-live-tshirt": {
+          "id": "hidaka-hokuto_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_anniversary-agent-red": {
+          "id": "hidaka-hokuto_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_mm-trickstar": {
+          "id": "hidaka-hokuto_mm-trickstar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_jinbei-fireworks": {
+          "id": "hidaka-hokuto_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
