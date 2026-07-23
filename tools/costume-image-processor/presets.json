@@ -10894,6 +10894,673 @@
           }
         }
       }
+    },
+    "mikejima-madara-slots-04-63": {
+      "idol_slug": "mikejima-madara",
+      "input_dir": "mikejima-madara",
+      "output_dir": "mikejima-madara",
+      "items": {
+        "04_common-scr": {
+          "id": "mikejima-madara_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "mikejima-madara_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_new-color-anniversary-suit": {
+          "id": "mikejima-madara_new-color-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_double-face": {
+          "id": "mikejima-madara_double-face-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_kurofune": {
+          "id": "mikejima-madara_kurofune-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-bat": {
+          "id": "mikejima-madara_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_anyaku-anniversary-rock": {
+          "id": "mikejima-madara_anyaku-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_omatsuribayashi": {
+          "id": "mikejima-madara_omatsuribayashi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "mikejima-madara_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "mikejima-madara_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_gozen-jiai": {
+          "id": "mikejima-madara_gozen-jiai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-rabits-df": {
+          "id": "mikejima-madara_fusion-unit-rabits-df-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "mikejima-madara_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_cd-third": {
+          "id": "mikejima-madara_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_ss-kohaku": {
+          "id": "mikejima-madara_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_antique-kitan": {
+          "id": "mikejima-madara_antique-kitan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_shikisai-hyakka": {
+          "id": "mikejima-madara_shikisai-hyakka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_shunshou-ikkoku": {
+          "id": "mikejima-madara_shunshou-ikkoku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "mikejima-madara_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "mikejima-madara_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "mikejima-madara_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "mikejima-madara_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_butoukai": {
+          "id": "mikejima-madara_butoukai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "mikejima-madara_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_new-color": {
+          "id": "mikejima-madara_new-color-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise": {
+          "id": "mikejima-madara_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_newyear-rise-cape": {
+          "id": "mikejima-madara_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_yoru-ni-kakeru": {
+          "id": "mikejima-madara_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_training-wear": {
+          "id": "mikejima-madara_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "mikejima-madara_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "mikejima-madara_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_last-mission": {
+          "id": "mikejima-madara_last-mission-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_secret-service": {
+          "id": "mikejima-madara_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 468,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_album-trip": {
+          "id": "mikejima-madara_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "mikejima-madara_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_bud": {
+          "id": "mikejima-madara_bud-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "mikejima-madara_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_anniversary-challenge": {
+          "id": "mikejima-madara_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_twilight-idol": {
+          "id": "mikejima-madara_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_anniversary-challenge-scr": {
+          "id": "mikejima-madara_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 626,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_mayoigo-ballad": {
+          "id": "mikejima-madara_mayoigo-ballad-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 629,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_dominant": {
+          "id": "mikejima-madara_dominant-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "mikejima-madara_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_looping-halloween": {
+          "id": "mikejima-madara_looping-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_benkei": {
+          "id": "mikejima-madara_benkei-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_starlight-8th-live-tshirt": {
+          "id": "mikejima-madara_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_newyear-rise-first-love": {
+          "id": "mikejima-madara_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_colorful-music": {
+          "id": "mikejima-madara_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_mam-hoodie": {
+          "id": "mikejima-madara_mam-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "mikejima-madara_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_love-and-peace-legend": {
+          "id": "mikejima-madara_love-and-peace-legend-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_jinbei-goldfish": {
+          "id": "mikejima-madara_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_caelum": {
+          "id": "mikejima-madara_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_halloween-wing-angel": {
+          "id": "mikejima-madara_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_terra": {
+          "id": "mikejima-madara_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_orbit": {
+          "id": "mikejima-madara_orbit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_shining-star": {
+          "id": "mikejima-madara_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_starlight-10th-live-tshirt": {
+          "id": "mikejima-madara_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_anniversary-agent-red": {
+          "id": "mikejima-madara_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_jinbei-fireworks": {
+          "id": "mikejima-madara_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

@@ -17021,6 +17021,1103 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_common-scr-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_uta-no-oniisan-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_uta-no-oniisan-01_icon.webp",
+        "front": "mikejima-madara_uta-no-oniisan-01_front.webp",
+        "back": "mikejima-madara_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_new-color-anniversary-suit-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_new-color-anniversary-suit-01_icon.webp",
+        "front": "mikejima-madara_new-color-anniversary-suit-01_front.webp",
+        "back": "mikejima-madara_new-color-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_double-face-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "Double Face衣装",
+      "costume_group": "unit",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_double-face-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_kurofune-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "黒船衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_kurofune-01_icon.webp",
+        "front": "mikejima-madara_kurofune-01_front.webp",
+        "back": "mikejima-madara_kurofune-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_halloween-bat-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_halloween-bat-01_icon.webp",
+        "front": "mikejima-madara_halloween-bat-01_front.webp",
+        "back": "mikejima-madara_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anyaku-anniversary-rock-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "暗躍のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_anyaku-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_omatsuribayashi-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "御祭囃子",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_omatsuribayashi-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_esmg-graphic-tshirt-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_pilot-suit-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_pilot-suit-01_icon.webp",
+        "front": "mikejima-madara_pilot-suit-01_front.webp",
+        "back": "mikejima-madara_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_gozen-jiai-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "御前試合衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_gozen-jiai-01_icon.webp",
+        "front": "mikejima-madara_gozen-jiai-01_front.webp",
+        "back": "mikejima-madara_gozen-jiai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_fusion-unit-rabits-df-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "FUSION UNIT(Ra*bits×DF)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_fusion-unit-rabits-df-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_bloom-idol-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_cd-third-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_cd-third-01_icon.webp",
+        "front": "mikejima-madara_cd-third-01_front.webp",
+        "back": "mikejima-madara_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_ss-kohaku-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_antique-kitan-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "骨董綺譚衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_antique-kitan-01_icon.webp",
+        "front": "mikejima-madara_antique-kitan-01_front.webp",
+        "back": "mikejima-madara_antique-kitan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_shikisai-hyakka-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "色彩百花衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_shikisai-hyakka-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_shunshou-ikkoku-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "春宵一刻衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_shunshou-ikkoku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-chance-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-777-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_anniversary-777-01_icon.webp",
+        "front": "mikejima-madara_anniversary-777-01_front.webp",
+        "back": "mikejima-madara_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_black-stage-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_black-stage-01_icon.webp",
+        "front": "mikejima-madara_black-stage-01_front.webp",
+        "back": "mikejima-madara_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_starlight-6th-live-tshirt-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_butoukai-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "舞闘会衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_butoukai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_halloween-candle-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_halloween-candle-01_icon.webp",
+        "front": "mikejima-madara_halloween-candle-01_front.webp",
+        "back": "mikejima-madara_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_new-color-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "NEW COLOR衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_new-color-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_newyear-rise-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_newyear-rise-01_icon.webp",
+        "front": "mikejima-madara_newyear-rise-01_front.webp",
+        "back": "mikejima-madara_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_newyear-rise-cape-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_newyear-rise-cape-01_icon.webp",
+        "front": "mikejima-madara_newyear-rise-cape-01_front.webp",
+        "back": "mikejima-madara_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_yoru-ni-kakeru-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "夜に駆ける衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_yoru-ni-kakeru-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_training-wear-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_training-wear-01_icon.webp",
+        "front": "mikejima-madara_training-wear-01_front.webp",
+        "back": "mikejima-madara_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_bloom-idol-scr-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-love-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_anniversary-love-01_icon.webp",
+        "front": "mikejima-madara_anniversary-love-01_front.webp",
+        "back": "mikejima-madara_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_last-mission-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ラストミッション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_last-mission-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_secret-service-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "シークレットサービス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_secret-service-01_icon.webp",
+        "front": "mikejima-madara_secret-service-01_front.webp",
+        "back": "mikejima-madara_secret-service-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_album-trip-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_newyear-rise-silver-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_bud-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "bud",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_bud-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "mikejima-madara_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "mikejima-madara_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-challenge-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_twilight-idol-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-challenge-scr-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_anniversary-challenge-scr-01_icon.webp",
+        "front": "mikejima-madara_anniversary-challenge-scr-01_front.webp",
+        "back": "mikejima-madara_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_mayoigo-ballad-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "迷い子バラッド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_mayoigo-ballad-01_icon.webp",
+        "front": "mikejima-madara_mayoigo-ballad-01_front.webp",
+        "back": "mikejima-madara_mayoigo-ballad-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_dominant-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ドミナント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_dominant-01_icon.webp",
+        "front": "mikejima-madara_dominant-01_front.webp",
+        "back": "mikejima-madara_dominant-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_halloween-wing-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_halloween-wing-01_icon.webp",
+        "front": "mikejima-madara_halloween-wing-01_front.webp",
+        "back": "mikejima-madara_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_looping-halloween-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ルーピンハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_looping-halloween-01_icon.webp",
+        "front": "mikejima-madara_looping-halloween-01_front.webp",
+        "back": "mikejima-madara_looping-halloween-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_benkei-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "弁慶衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_benkei-01_icon.webp",
+        "front": "mikejima-madara_benkei-01_front.webp",
+        "back": "mikejima-madara_benkei-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_starlight-8th-live-tshirt-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "mikejima-madara_starlight-8th-live-tshirt-01_front.webp",
+        "back": "mikejima-madara_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_newyear-rise-first-love-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_newyear-rise-first-love-01_icon.webp",
+        "front": "mikejima-madara_newyear-rise-first-love-01_front.webp",
+        "back": "mikejima-madara_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_colorful-music-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_colorful-music-01_icon.webp",
+        "front": "mikejima-madara_colorful-music-01_front.webp",
+        "back": "mikejima-madara_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_mam-hoodie-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "MaMフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_mam-hoodie-01_icon.webp",
+        "front": "mikejima-madara_mam-hoodie-01_front.webp",
+        "back": "mikejima-madara_mam-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_twilight-idol-scr-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_love-and-peace-legend-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "らびゅ＆ピース伝説衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_love-and-peace-legend-01_icon.webp",
+        "front": "mikejima-madara_love-and-peace-legend-01_front.webp",
+        "back": "mikejima-madara_love-and-peace-legend-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_jinbei-goldfish-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_jinbei-goldfish-01_icon.webp",
+        "front": "mikejima-madara_jinbei-goldfish-01_front.webp",
+        "back": "mikejima-madara_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_caelum-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_caelum-01_icon.webp",
+        "front": "mikejima-madara_caelum-01_front.webp",
+        "back": "mikejima-madara_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_halloween-wing-angel-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_halloween-wing-angel-01_icon.webp",
+        "front": "mikejima-madara_halloween-wing-angel-01_front.webp",
+        "back": "mikejima-madara_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_terra-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_terra-01_icon.webp",
+        "front": "mikejima-madara_terra-01_front.webp",
+        "back": "mikejima-madara_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_orbit-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "Orbit衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_orbit-01_icon.webp",
+        "front": "mikejima-madara_orbit-01_front.webp",
+        "back": "mikejima-madara_orbit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_shining-star-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_shining-star-01_icon.webp",
+        "front": "mikejima-madara_shining-star-01_front.webp",
+        "back": "mikejima-madara_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_starlight-10th-live-tshirt-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "mikejima-madara_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_anniversary-agent-red-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_anniversary-agent-red-01_icon.webp",
+        "front": "mikejima-madara_anniversary-agent-red-01_front.webp",
+        "back": "mikejima-madara_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "mikejima-madara_jinbei-fireworks-01",
+      "idol_slug": "mikejima-madara",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_jinbei-fireworks-01_icon.webp",
+        "front": "mikejima-madara_jinbei-fireworks-01_front.webp",
+        "back": "mikejima-madara_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }
