@@ -17751,6 +17751,750 @@
           }
         }
       }
+    },
+    "tomoe-hiyori-slots-04-70": {
+      "idol_slug": "tomoe-hiyori",
+      "input_dir": "tomoe-hiyori",
+      "output_dir": "tomoe-hiyori",
+      "items": {
+        "04_common-scr": {
+          "id": "tomoe-hiyori_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "tomoe-hiyori_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_yellow-anniversary-suit": {
+          "id": "tomoe-hiyori_yellow-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_conquest": {
+          "id": "tomoe-hiyori_conquest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_wonder-game": {
+          "id": "tomoe-hiyori_wonder-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-bat": {
+          "id": "tomoe-hiyori_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_black-wing-anniversary-rock": {
+          "id": "tomoe-hiyori_black-wing-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_excellent-sunny": {
+          "id": "tomoe-hiyori_excellent-sunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 451,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "tomoe-hiyori_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "tomoe-hiyori_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_fusion-unit-switch-eden": {
+          "id": "tomoe-hiyori_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_moon-capital-spectacle": {
+          "id": "tomoe-hiyori_moon-capital-spectacle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_solid": {
+          "id": "tomoe-hiyori_solid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bloom-idol": {
+          "id": "tomoe-hiyori_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_bogie-time": {
+          "id": "tomoe-hiyori_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_cd-fourth": {
+          "id": "tomoe-hiyori_cd-fourth-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss": {
+          "id": "tomoe-hiyori_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kohaku": {
+          "id": "tomoe-hiyori_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_kimagure-city-rider": {
+          "id": "tomoe-hiyori_kimagure-city-rider-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_anniversary-chance": {
+          "id": "tomoe-hiyori_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_anniversary-777": {
+          "id": "tomoe-hiyori_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_black-stage": {
+          "id": "tomoe-hiyori_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_eve": {
+          "id": "tomoe-hiyori_eve-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-candle": {
+          "id": "tomoe-hiyori_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_replay": {
+          "id": "tomoe-hiyori_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_starlight-7th-live-tshirt": {
+          "id": "tomoe-hiyori_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_newyear-rise": {
+          "id": "tomoe-hiyori_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_blessed-rose": {
+          "id": "tomoe-hiyori_blessed-rose-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_chocolat-fes": {
+          "id": "tomoe-hiyori_chocolat-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "tomoe-hiyori_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 447,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_training-wear": {
+          "id": "tomoe-hiyori_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_old-fine": {
+          "id": "tomoe-hiyori_old-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 443,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_fine-o": {
+          "id": "tomoe-hiyori_fine-o-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 451,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_bloom-idol-scr": {
+          "id": "tomoe-hiyori_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_anniversary-love": {
+          "id": "tomoe-hiyori_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_secret-service": {
+          "id": "tomoe-hiyori_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "40_white-bear": {
+          "id": "tomoe-hiyori_white-bear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_newyear-rise-silver": {
+          "id": "tomoe-hiyori_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_absolute": {
+          "id": "tomoe-hiyori_absolute-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_scramble-gakuen-boys-uniform": {
+          "id": "tomoe-hiyori_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "tomoe-hiyori_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "tomoe-hiyori_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_album-trip": {
+          "id": "tomoe-hiyori_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_anniversary-challenge-scr": {
+          "id": "tomoe-hiyori_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_halloween-wing": {
+          "id": "tomoe-hiyori_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_summer-live": {
+          "id": "tomoe-hiyori_summer-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 281,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_starlight-9th-live-tshirt": {
+          "id": "tomoe-hiyori_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 281,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_newyear-rise-first-love": {
+          "id": "tomoe-hiyori_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_keibo-no-hana": {
+          "id": "tomoe-hiyori_keibo-no-hana-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_colorful-music": {
+          "id": "tomoe-hiyori_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 281,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_ouroboros": {
+          "id": "tomoe-hiyori_ouroboros-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_mode-d": {
+          "id": "tomoe-hiyori_mode-d-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 451,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_eden-party": {
+          "id": "tomoe-hiyori_eden-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "tomoe-hiyori_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_deep-into-you": {
+          "id": "tomoe-hiyori_deep-into-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 447,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_jinbei-goldfish": {
+          "id": "tomoe-hiyori_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_caelum": {
+          "id": "tomoe-hiyori_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 463,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_verite": {
+          "id": "tomoe-hiyori_verite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "tomoe-hiyori_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_terra": {
+          "id": "tomoe-hiyori_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_fold": {
+          "id": "tomoe-hiyori_fold-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_shining-star": {
+          "id": "tomoe-hiyori_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_starlight-10th-live-tshirt": {
+          "id": "tomoe-hiyori_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_anniversary-agent-red": {
+          "id": "tomoe-hiyori_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "68_mare": {
+          "id": "tomoe-hiyori_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "69_golden-dream": {
+          "id": "tomoe-hiyori_golden-dream-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "70_jinbei-fireworks": {
+          "id": "tomoe-hiyori_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
