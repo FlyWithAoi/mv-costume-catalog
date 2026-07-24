@@ -14350,6 +14350,673 @@
           }
         }
       }
+    },
+    "amagi-hiiro-slots-04-63": {
+      "idol_slug": "amagi-hiiro",
+      "input_dir": "amagi-hiiro",
+      "output_dir": "amagi-hiiro",
+      "items": {
+        "04_common-scr": {
+          "id": "amagi-hiiro_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "amagi-hiiro_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "amagi-hiiro_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_feather-touch": {
+          "id": "amagi-hiiro_feather-touch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-bat": {
+          "id": "amagi-hiiro_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_white-lily": {
+          "id": "amagi-hiiro_white-lily-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_soldier-anniversary-rock": {
+          "id": "amagi-hiiro_soldier-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_esmg-graphic-tshirt": {
+          "id": "amagi-hiiro_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "amagi-hiiro_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_motor-show": {
+          "id": "amagi-hiiro_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_kyousou-akeno-koromo": {
+          "id": "amagi-hiiro_kyousou-akeno-koromo-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-alkaloid-valkyrie": {
+          "id": "amagi-hiiro_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "amagi-hiiro_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ss-kohaku": {
+          "id": "amagi-hiiro_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_phantom-airship": {
+          "id": "amagi-hiiro_phantom-airship-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_puffy-bunny": {
+          "id": "amagi-hiiro_puffy-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_anniversary-chance": {
+          "id": "amagi-hiiro_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_anniversary-777": {
+          "id": "amagi-hiiro_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_black-stage": {
+          "id": "amagi-hiiro_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_keito-juku": {
+          "id": "amagi-hiiro_keito-juku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_starlight-6th-live-tshirt": {
+          "id": "amagi-hiiro_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_trump": {
+          "id": "amagi-hiiro_trump-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_halloween-candle": {
+          "id": "amagi-hiiro_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_newyear-rise": {
+          "id": "amagi-hiiro_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_newyear-rise-cape": {
+          "id": "amagi-hiiro_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_yoru-ni-kakeru": {
+          "id": "amagi-hiiro_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_training-wear": {
+          "id": "amagi-hiiro_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_mode-noir": {
+          "id": "amagi-hiiro_mode-noir-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_bloom-idol-scr": {
+          "id": "amagi-hiiro_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_anniversary-love": {
+          "id": "amagi-hiiro_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_satellite": {
+          "id": "amagi-hiiro_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_holistic-halloween": {
+          "id": "amagi-hiiro_holistic-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_album-trip": {
+          "id": "amagi-hiiro_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_newyear-rise-silver": {
+          "id": "amagi-hiiro_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_scramble-gakuen-boys-uniform": {
+          "id": "amagi-hiiro_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_matrix": {
+          "id": "amagi-hiiro_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_anniversary-challenge": {
+          "id": "amagi-hiiro_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_twilight-idol": {
+          "id": "amagi-hiiro_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_sparkle": {
+          "id": "amagi-hiiro_sparkle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_anniversary-challenge-scr": {
+          "id": "amagi-hiiro_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_halloween-wing": {
+          "id": "amagi-hiiro_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_starlight-8th-live-tshirt": {
+          "id": "amagi-hiiro_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_newyear-rise-first-love": {
+          "id": "amagi-hiiro_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_devoted-to-you": {
+          "id": "amagi-hiiro_devoted-to-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_colorful-music": {
+          "id": "amagi-hiiro_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_tears": {
+          "id": "amagi-hiiro_tears-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_alkaloid-hoodie": {
+          "id": "amagi-hiiro_alkaloid-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_twilight-idol-scr": {
+          "id": "amagi-hiiro_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_jinbei-goldfish": {
+          "id": "amagi-hiiro_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_caelum": {
+          "id": "amagi-hiiro_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_ai-s": {
+          "id": "amagi-hiiro_ai-s-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_halloween-wing-angel": {
+          "id": "amagi-hiiro_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_ichinen-tsuuten": {
+          "id": "amagi-hiiro_ichinen-tsuuten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_terra": {
+          "id": "amagi-hiiro_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_kotonoha": {
+          "id": "amagi-hiiro_kotonoha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_shining-star": {
+          "id": "amagi-hiiro_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_starlight-10th-live-tshirt": {
+          "id": "amagi-hiiro_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_anniversary-agent-green": {
+          "id": "amagi-hiiro_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_mare": {
+          "id": "amagi-hiiro_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_jinbei-fireworks": {
+          "id": "amagi-hiiro_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
