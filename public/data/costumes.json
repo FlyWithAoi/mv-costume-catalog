@@ -20451,6 +20451,1163 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_common-scr-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_bigbang-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "BIGBANG衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_bigbang-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_uta-no-oniisan-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_uta-no-oniisan-01_icon.webp",
+        "front": "yuuki-makoto_uta-no-oniisan-01_front.webp",
+        "back": "yuuki-makoto_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_hoshiiro-anniversary-suit-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_halloween-party-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_halloween-party-01_icon.webp",
+        "front": "yuuki-makoto_halloween-party-01_front.webp",
+        "back": "yuuki-makoto_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_halloween-bat-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_halloween-bat-01_icon.webp",
+        "front": "yuuki-makoto_halloween-bat-01_front.webp",
+        "back": "yuuki-makoto_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_xxveil-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "XXVeil衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_xxveil-01_icon.webp",
+        "front": "yuuki-makoto_xxveil-01_front.webp",
+        "back": "yuuki-makoto_xxveil-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_four-star-anniversary-rock-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "四つ星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_four-star-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_esmg-graphic-tshirt-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_pilot-suit-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_pilot-suit-01_icon.webp",
+        "front": "yuuki-makoto_pilot-suit-01_front.webp",
+        "back": "yuuki-makoto_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_holiday-town-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ホリデイタウン",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_holiday-town-01_icon.webp",
+        "front": "yuuki-makoto_holiday-town-01_front.webp",
+        "back": "yuuki-makoto_holiday-town-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_tougenkyou-guuzouken-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_tougenkyou-guuzouken-01_icon.webp",
+        "front": "yuuki-makoto_tougenkyou-guuzouken-01_front.webp",
+        "back": "yuuki-makoto_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_bloom-idol-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_fusion-unit-trickstar-fine-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "FUSION UNIT(Trickstar×fine)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_cd-third-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_cd-third-01_icon.webp",
+        "front": "yuuki-makoto_cd-third-01_front.webp",
+        "back": "yuuki-makoto_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_ss-kohaku-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_four-seasons-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "フォーシーズンズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_four-seasons-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-chance-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-chance-01_icon.webp",
+        "front": "yuuki-makoto_anniversary-chance-01_front.webp",
+        "back": "yuuki-makoto_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-777-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-777-01_icon.webp",
+        "front": "yuuki-makoto_anniversary-777-01_front.webp",
+        "back": "yuuki-makoto_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_black-stage-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_vs-game-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "VS GAME衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_vs-game-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_starlight-6th-live-tshirt-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_portrait-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "PORTRAIT衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_portrait-01_icon.webp",
+        "front": "yuuki-makoto_portrait-01_front.webp",
+        "back": "yuuki-makoto_portrait-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_halloween-candle-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_halloween-candle-01_icon.webp",
+        "front": "yuuki-makoto_halloween-candle-01_front.webp",
+        "back": "yuuki-makoto_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_replay-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "(RE)PLAY衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_replay-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_newyear-rise-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_newyear-rise-cape-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_newyear-rise-cape-01_icon.webp",
+        "front": "yuuki-makoto_newyear-rise-cape-01_front.webp",
+        "back": "yuuki-makoto_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_graduation-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_training-wear-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_training-wear-01_icon.webp",
+        "front": "yuuki-makoto_training-wear-01_front.webp",
+        "back": "yuuki-makoto_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_bloom-idol-scr-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-love-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-love-01_icon.webp",
+        "front": "yuuki-makoto_anniversary-love-01_front.webp",
+        "back": "yuuki-makoto_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_satellite-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "サテライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_satellite-01_icon.webp",
+        "front": "yuuki-makoto_satellite-01_front.webp",
+        "back": "yuuki-makoto_satellite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_luster-piece-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ラスターピース",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_luster-piece-01_icon.webp",
+        "front": "yuuki-makoto_luster-piece-01_front.webp",
+        "back": "yuuki-makoto_luster-piece-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_xday-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Xday衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_xday-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_newyear-rise-silver-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_album-trip-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "yuuki-makoto_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "yuuki-makoto_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-challenge-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_twilight-idol-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-challenge-scr-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-challenge-scr-01_icon.webp",
+        "front": "yuuki-makoto_anniversary-challenge-scr-01_front.webp",
+        "back": "yuuki-makoto_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_halloween-wing-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_halloween-wing-01_icon.webp",
+        "front": "yuuki-makoto_halloween-wing-01_front.webp",
+        "back": "yuuki-makoto_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_freedom-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "FREEDOM衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_freedom-01_icon.webp",
+        "front": "yuuki-makoto_freedom-01_front.webp",
+        "back": "yuuki-makoto_freedom-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_daikagura-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "大神楽衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_daikagura-01_icon.webp",
+        "front": "yuuki-makoto_daikagura-01_front.webp",
+        "back": "yuuki-makoto_daikagura-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_starlight-8th-live-tshirt-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "yuuki-makoto_starlight-8th-live-tshirt-01_front.webp",
+        "back": "yuuki-makoto_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_newyear-rise-first-love-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_newyear-rise-first-love-01_icon.webp",
+        "front": "yuuki-makoto_newyear-rise-first-love-01_front.webp",
+        "back": "yuuki-makoto_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_colorful-music-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_colorful-music-01_icon.webp",
+        "front": "yuuki-makoto_colorful-music-01_front.webp",
+        "back": "yuuki-makoto_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_zennou-ace-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "全能ACE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_zennou-ace-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_trickstar-hoodie-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Trickstarフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_trickstar-hoodie-01_icon.webp",
+        "front": "yuuki-makoto_trickstar-hoodie-01_front.webp",
+        "back": "yuuki-makoto_trickstar-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_happy-anniversary-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "HAPPY ANNIVERSARY衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_happy-anniversary-01_icon.webp",
+        "front": "yuuki-makoto_happy-anniversary-01_front.webp",
+        "back": "yuuki-makoto_happy-anniversary-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_twilight-idol-scr-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_deep-into-you-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Deep into you衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_deep-into-you-01_icon.webp",
+        "front": "yuuki-makoto_deep-into-you-01_front.webp",
+        "back": "yuuki-makoto_deep-into-you-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_jinbei-goldfish-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_jinbei-goldfish-01_icon.webp",
+        "front": "yuuki-makoto_jinbei-goldfish-01_front.webp",
+        "back": "yuuki-makoto_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_iridescent-light-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_iridescent-light-01_icon.webp",
+        "front": "yuuki-makoto_iridescent-light-01_front.webp",
+        "back": "yuuki-makoto_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_caelum-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_caelum-01_icon.webp",
+        "front": "yuuki-makoto_caelum-01_front.webp",
+        "back": "yuuki-makoto_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_halloween-wing-angel-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_halloween-wing-angel-01_icon.webp",
+        "front": "yuuki-makoto_halloween-wing-angel-01_front.webp",
+        "back": "yuuki-makoto_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_kuma-kuma-res-q-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "クマクマレスQ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_kuma-kuma-res-q-01_icon.webp",
+        "front": "yuuki-makoto_kuma-kuma-res-q-01_front.webp",
+        "back": "yuuki-makoto_kuma-kuma-res-q-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_kuma-kuma-res-q-bear-paw-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "クマクマレスQ衣装（クマの手）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_kuma-kuma-res-q-bear-paw-01_icon.webp",
+        "front": "yuuki-makoto_kuma-kuma-res-q-bear-paw-01_front.webp",
+        "back": "yuuki-makoto_kuma-kuma-res-q-bear-paw-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_terra-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_terra-01_icon.webp",
+        "front": "yuuki-makoto_terra-01_front.webp",
+        "back": "yuuki-makoto_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_shining-star-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_shining-star-01_icon.webp",
+        "front": "yuuki-makoto_shining-star-01_front.webp",
+        "back": "yuuki-makoto_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_starlight-10th-live-tshirt-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "yuuki-makoto_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_anniversary-agent-red-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_anniversary-agent-red-01_icon.webp",
+        "front": "yuuki-makoto_anniversary-agent-red-01_front.webp",
+        "back": "yuuki-makoto_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_mm-trickstar-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "MM Trickstar衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_mm-trickstar-01_icon.webp",
+        "front": "yuuki-makoto_mm-trickstar-01_front.webp",
+        "back": "yuuki-makoto_mm-trickstar-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "yuuki-makoto_jinbei-fireworks-01",
+      "idol_slug": "yuuki-makoto",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_jinbei-fireworks-01_icon.webp",
+        "front": "yuuki-makoto_jinbei-fireworks-01_front.webp",
+        "back": "yuuki-makoto_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }

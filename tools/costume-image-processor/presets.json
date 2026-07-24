@@ -12972,6 +12972,706 @@
           }
         }
       }
+    },
+    "yuuki-makoto-slots-04-66": {
+      "idol_slug": "yuuki-makoto",
+      "input_dir": "yuuki-makoto",
+      "output_dir": "yuuki-makoto",
+      "items": {
+        "04_common-scr": {
+          "id": "yuuki-makoto_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_bigbang": {
+          "id": "yuuki-makoto_bigbang-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_uta-no-oniisan": {
+          "id": "yuuki-makoto_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "yuuki-makoto_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-party": {
+          "id": "yuuki-makoto_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_halloween-bat": {
+          "id": "yuuki-makoto_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_xxveil": {
+          "id": "yuuki-makoto_xxveil-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_four-star-anniversary-rock": {
+          "id": "yuuki-makoto_four-star-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "yuuki-makoto_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "yuuki-makoto_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_holiday-town": {
+          "id": "yuuki-makoto_holiday-town-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_tougenkyou-guuzouken": {
+          "id": "yuuki-makoto_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_bloom-idol": {
+          "id": "yuuki-makoto_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_fusion-unit-trickstar-fine": {
+          "id": "yuuki-makoto_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_cd-third": {
+          "id": "yuuki-makoto_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_ss-kohaku": {
+          "id": "yuuki-makoto_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_four-seasons": {
+          "id": "yuuki-makoto_four-seasons-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "yuuki-makoto_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_anniversary-777": {
+          "id": "yuuki-makoto_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_black-stage": {
+          "id": "yuuki-makoto_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_vs-game": {
+          "id": "yuuki-makoto_vs-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "yuuki-makoto_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_portrait": {
+          "id": "yuuki-makoto_portrait-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-candle": {
+          "id": "yuuki-makoto_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_replay": {
+          "id": "yuuki-makoto_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise": {
+          "id": "yuuki-makoto_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_newyear-rise-cape": {
+          "id": "yuuki-makoto_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_graduation": {
+          "id": "yuuki-makoto_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_training-wear": {
+          "id": "yuuki-makoto_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "yuuki-makoto_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "yuuki-makoto_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_satellite": {
+          "id": "yuuki-makoto_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_luster-piece": {
+          "id": "yuuki-makoto_luster-piece-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_xday": {
+          "id": "yuuki-makoto_xday-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "yuuki-makoto_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_album-trip": {
+          "id": "yuuki-makoto_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "yuuki-makoto_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_anniversary-challenge": {
+          "id": "yuuki-makoto_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_twilight-idol": {
+          "id": "yuuki-makoto_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_anniversary-challenge-scr": {
+          "id": "yuuki-makoto_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_halloween-wing": {
+          "id": "yuuki-makoto_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_freedom": {
+          "id": "yuuki-makoto_freedom-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_daikagura": {
+          "id": "yuuki-makoto_daikagura-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_starlight-8th-live-tshirt": {
+          "id": "yuuki-makoto_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_newyear-rise-first-love": {
+          "id": "yuuki-makoto_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_colorful-music": {
+          "id": "yuuki-makoto_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_zennou-ace": {
+          "id": "yuuki-makoto_zennou-ace-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_trickstar-hoodie": {
+          "id": "yuuki-makoto_trickstar-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_happy-anniversary": {
+          "id": "yuuki-makoto_happy-anniversary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "yuuki-makoto_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_deep-into-you": {
+          "id": "yuuki-makoto_deep-into-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_jinbei-goldfish": {
+          "id": "yuuki-makoto_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_iridescent-light": {
+          "id": "yuuki-makoto_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_caelum": {
+          "id": "yuuki-makoto_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_halloween-wing-angel": {
+          "id": "yuuki-makoto_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_kuma-kuma-res-q": {
+          "id": "yuuki-makoto_kuma-kuma-res-q-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_kuma-kuma-res-q-bear-paw": {
+          "id": "yuuki-makoto_kuma-kuma-res-q-bear-paw-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_terra": {
+          "id": "yuuki-makoto_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_shining-star": {
+          "id": "yuuki-makoto_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_starlight-10th-live-tshirt": {
+          "id": "yuuki-makoto_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_anniversary-agent-red": {
+          "id": "yuuki-makoto_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_mm-trickstar": {
+          "id": "yuuki-makoto_mm-trickstar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_jinbei-fireworks": {
+          "id": "yuuki-makoto_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
