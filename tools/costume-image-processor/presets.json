@@ -15684,6 +15684,695 @@
           }
         }
       }
+    },
+    "ayase-mayoi-slots-04-65": {
+      "idol_slug": "ayase-mayoi",
+      "input_dir": "ayase-mayoi",
+      "output_dir": "ayase-mayoi",
+      "items": {
+        "04_common-scr": {
+          "id": "ayase-mayoi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "ayase-mayoi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "ayase-mayoi_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_dead-end-land": {
+          "id": "ayase-mayoi_dead-end-land-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 286,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_feather-touch": {
+          "id": "ayase-mayoi_feather-touch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_halloween-bat": {
+          "id": "ayase-mayoi_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_soldier-anniversary-rock": {
+          "id": "ayase-mayoi_soldier-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_esmg-graphic-tshirt": {
+          "id": "ayase-mayoi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "ayase-mayoi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_motor-show": {
+          "id": "ayase-mayoi_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1096,
+            "y": 458,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_stardust": {
+          "id": "ayase-mayoi_stardust-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-alkaloid-valkyrie": {
+          "id": "ayase-mayoi_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "ayase-mayoi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_la-mort": {
+          "id": "ayase-mayoi_la-mort-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_ss-kohaku": {
+          "id": "ayase-mayoi_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_phantom-airship": {
+          "id": "ayase-mayoi_phantom-airship-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_anniversary-chance": {
+          "id": "ayase-mayoi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_anniversary-777": {
+          "id": "ayase-mayoi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_black-stage": {
+          "id": "ayase-mayoi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1096,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_black-stage-scr": {
+          "id": "ayase-mayoi_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_under-strike": {
+          "id": "ayase-mayoi_under-strike-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "ayase-mayoi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_trump": {
+          "id": "ayase-mayoi_trump-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "ayase-mayoi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_newyear-rise": {
+          "id": "ayase-mayoi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise-cape": {
+          "id": "ayase-mayoi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 452,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_graduation": {
+          "id": "ayase-mayoi_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_yoru-ni-kakeru": {
+          "id": "ayase-mayoi_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_training-wear": {
+          "id": "ayase-mayoi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 460,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "ayase-mayoi_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "ayase-mayoi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 467,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_satellite": {
+          "id": "ayase-mayoi_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1778,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_gensou-yakou": {
+          "id": "ayase-mayoi_gensou-yakou-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_holistic-halloween": {
+          "id": "ayase-mayoi_holistic-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_album-trip": {
+          "id": "ayase-mayoi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_newyear-rise-silver": {
+          "id": "ayase-mayoi_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "ayase-mayoi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 629,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_matrix": {
+          "id": "ayase-mayoi_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "ayase-mayoi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "ayase-mayoi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_sparkle": {
+          "id": "ayase-mayoi_sparkle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1778,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "ayase-mayoi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 626,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "ayase-mayoi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 584,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_starlight-8th-live-tshirt": {
+          "id": "ayase-mayoi_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_newyear-rise-first-love": {
+          "id": "ayase-mayoi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_keibo-no-hana": {
+          "id": "ayase-mayoi_keibo-no-hana-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_colorful-music": {
+          "id": "ayase-mayoi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_alkaloid-hoodie": {
+          "id": "ayase-mayoi_alkaloid-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1437,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_twilight-idol-scr": {
+          "id": "ayase-mayoi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_natsukoi": {
+          "id": "ayase-mayoi_natsukoi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1778,
+            "y": 312,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_jinbei-goldfish": {
+          "id": "ayase-mayoi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_iridescent-light": {
+          "id": "ayase-mayoi_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_caelum": {
+          "id": "ayase-mayoi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_its-knot-lov": {
+          "id": "ayase-mayoi_its-knot-lov-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_halloween-wing-angel": {
+          "id": "ayase-mayoi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1096,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_terra": {
+          "id": "ayase-mayoi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_kotonoha": {
+          "id": "ayase-mayoi_kotonoha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1437,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_shining-star": {
+          "id": "ayase-mayoi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 482,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_starlight-10th-live-tshirt": {
+          "id": "ayase-mayoi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_anniversary-agent-green": {
+          "id": "ayase-mayoi_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_mare": {
+          "id": "ayase-mayoi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 653,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_jinbei-fireworks": {
+          "id": "ayase-mayoi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 652,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

@@ -24932,6 +24932,1149 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_common-scr-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_uta-no-oniisan-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_uta-no-oniisan-01_icon.webp",
+        "front": "ayase-mayoi_uta-no-oniisan-01_front.webp",
+        "back": "ayase-mayoi_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_hoshiiro-anniversary-suit-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_dead-end-land-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "デッドエンドランド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_dead-end-land-01_icon.webp",
+        "front": "ayase-mayoi_dead-end-land-01_front.webp",
+        "back": "ayase-mayoi_dead-end-land-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_feather-touch-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "フェザータッチ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_feather-touch-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_halloween-bat-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_halloween-bat-01_icon.webp",
+        "front": "ayase-mayoi_halloween-bat-01_front.webp",
+        "back": "ayase-mayoi_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_soldier-anniversary-rock-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "兵隊のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_soldier-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_esmg-graphic-tshirt-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_pilot-suit-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_pilot-suit-01_icon.webp",
+        "front": "ayase-mayoi_pilot-suit-01_front.webp",
+        "back": "ayase-mayoi_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_motor-show-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_motor-show-01_icon.webp",
+        "front": "ayase-mayoi_motor-show-01_front.webp",
+        "back": "ayase-mayoi_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_stardust-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "スタアードダスク",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_stardust-01_icon.webp",
+        "front": "ayase-mayoi_stardust-01_front.webp",
+        "back": "ayase-mayoi_stardust-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_fusion-unit-alkaloid-valkyrie-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "FUSION UNIT(ALKALOID×Valkyrie)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_fusion-unit-alkaloid-valkyrie-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_bloom-idol-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_la-mort-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "La Mort衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_la-mort-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_ss-kohaku-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_phantom-airship-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "幻影飛行船衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_phantom-airship-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-chance-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-chance-01_icon.webp",
+        "front": "ayase-mayoi_anniversary-chance-01_front.webp",
+        "back": "ayase-mayoi_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-777-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-777-01_icon.webp",
+        "front": "ayase-mayoi_anniversary-777-01_front.webp",
+        "back": "ayase-mayoi_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_black-stage-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_black-stage-01_icon.webp",
+        "front": "ayase-mayoi_black-stage-01_front.webp",
+        "back": "ayase-mayoi_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_black-stage-scr-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_black-stage-scr-01_icon.webp",
+        "front": "ayase-mayoi_black-stage-scr-01_front.webp",
+        "back": "ayase-mayoi_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_under-strike-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アンダーストライク",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_under-strike-01_icon.webp",
+        "front": "ayase-mayoi_under-strike-01_front.webp",
+        "back": "ayase-mayoi_under-strike-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_starlight-6th-live-tshirt-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_trump-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "トランプ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_trump-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_halloween-candle-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_halloween-candle-01_icon.webp",
+        "front": "ayase-mayoi_halloween-candle-01_front.webp",
+        "back": "ayase-mayoi_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_newyear-rise-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_newyear-rise-cape-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_newyear-rise-cape-01_icon.webp",
+        "front": "ayase-mayoi_newyear-rise-cape-01_front.webp",
+        "back": "ayase-mayoi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_graduation-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_graduation-01_icon.webp",
+        "front": "ayase-mayoi_graduation-01_front.webp",
+        "back": "ayase-mayoi_graduation-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_yoru-ni-kakeru-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "夜に駆ける衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_yoru-ni-kakeru-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_training-wear-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_training-wear-01_icon.webp",
+        "front": "ayase-mayoi_training-wear-01_front.webp",
+        "back": "ayase-mayoi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_bloom-idol-scr-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-love-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-love-01_icon.webp",
+        "front": "ayase-mayoi_anniversary-love-01_front.webp",
+        "back": "ayase-mayoi_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_satellite-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "サテライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_satellite-01_icon.webp",
+        "front": "ayase-mayoi_satellite-01_front.webp",
+        "back": "ayase-mayoi_satellite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_gensou-yakou-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "幻想夜光衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_gensou-yakou-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_holistic-halloween-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ホリスティックハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_holistic-halloween-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_album-trip-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_newyear-rise-silver-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "ayase-mayoi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "ayase-mayoi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_matrix-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_matrix-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-challenge-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_twilight-idol-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_sparkle-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "スパークル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_sparkle-01_icon.webp",
+        "front": "ayase-mayoi_sparkle-01_front.webp",
+        "back": "ayase-mayoi_sparkle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-challenge-scr-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-challenge-scr-01_icon.webp",
+        "front": "ayase-mayoi_anniversary-challenge-scr-01_front.webp",
+        "back": "ayase-mayoi_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_halloween-wing-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_halloween-wing-01_icon.webp",
+        "front": "ayase-mayoi_halloween-wing-01_front.webp",
+        "back": "ayase-mayoi_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_starlight-8th-live-tshirt-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "ayase-mayoi_starlight-8th-live-tshirt-01_front.webp",
+        "back": "ayase-mayoi_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_newyear-rise-first-love-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_newyear-rise-first-love-01_icon.webp",
+        "front": "ayase-mayoi_newyear-rise-first-love-01_front.webp",
+        "back": "ayase-mayoi_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_keibo-no-hana-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "傾慕の華衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_keibo-no-hana-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_colorful-music-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_colorful-music-01_icon.webp",
+        "front": "ayase-mayoi_colorful-music-01_front.webp",
+        "back": "ayase-mayoi_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_alkaloid-hoodie-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ALKALOIDフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_alkaloid-hoodie-01_icon.webp",
+        "front": "ayase-mayoi_alkaloid-hoodie-01_front.webp",
+        "back": "ayase-mayoi_alkaloid-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_twilight-idol-scr-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_natsukoi-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ナツコイ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_natsukoi-01_icon.webp",
+        "front": "ayase-mayoi_natsukoi-01_front.webp",
+        "back": "ayase-mayoi_natsukoi-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_jinbei-goldfish-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_jinbei-goldfish-01_icon.webp",
+        "front": "ayase-mayoi_jinbei-goldfish-01_front.webp",
+        "back": "ayase-mayoi_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_iridescent-light-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_caelum-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_caelum-01_icon.webp",
+        "front": "ayase-mayoi_caelum-01_front.webp",
+        "back": "ayase-mayoi_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_its-knot-lov-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "It's (k)not lov?衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_its-knot-lov-01_icon.webp",
+        "front": "ayase-mayoi_its-knot-lov-01_front.webp",
+        "back": "ayase-mayoi_its-knot-lov-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_halloween-wing-angel-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_halloween-wing-angel-01_icon.webp",
+        "front": "ayase-mayoi_halloween-wing-angel-01_front.webp",
+        "back": "ayase-mayoi_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_terra-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_terra-01_icon.webp",
+        "front": "ayase-mayoi_terra-01_front.webp",
+        "back": "ayase-mayoi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_kotonoha-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "コトノハ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_kotonoha-01_icon.webp",
+        "front": "ayase-mayoi_kotonoha-01_front.webp",
+        "back": "ayase-mayoi_kotonoha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_shining-star-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_shining-star-01_icon.webp",
+        "front": "ayase-mayoi_shining-star-01_front.webp",
+        "back": "ayase-mayoi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_starlight-10th-live-tshirt-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ayase-mayoi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_anniversary-agent-green-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_anniversary-agent-green-01_icon.webp",
+        "front": "ayase-mayoi_anniversary-agent-green-01_front.webp",
+        "back": "ayase-mayoi_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_mare-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_mare-01_icon.webp",
+        "front": "ayase-mayoi_mare-01_front.webp",
+        "back": "ayase-mayoi_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ayase-mayoi_jinbei-fireworks-01",
+      "idol_slug": "ayase-mayoi",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ayase-mayoi_jinbei-fireworks-01_icon.webp",
+        "front": "ayase-mayoi_jinbei-fireworks-01_front.webp",
+        "back": "ayase-mayoi_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }
