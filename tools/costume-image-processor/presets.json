@@ -16373,6 +16373,651 @@
           }
         }
       }
+    },
+    "kazehaya-tatsumi-slots-04-61": {
+      "idol_slug": "kazehaya-tatsumi",
+      "input_dir": "kazehaya-tatsumi",
+      "output_dir": "kazehaya-tatsumi",
+      "items": {
+        "04_common-scr": {
+          "id": "kazehaya-tatsumi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "kazehaya-tatsumi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_blessing-black": {
+          "id": "kazehaya-tatsumi_blessing-black-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "kazehaya-tatsumi_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_feather-touch": {
+          "id": "kazehaya-tatsumi_feather-touch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_halloween-bat": {
+          "id": "kazehaya-tatsumi_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_soldier-anniversary-rock": {
+          "id": "kazehaya-tatsumi_soldier-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_esmg-graphic-tshirt": {
+          "id": "kazehaya-tatsumi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "kazehaya-tatsumi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_motor-show": {
+          "id": "kazehaya-tatsumi_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_moon-capital-spectacle": {
+          "id": "kazehaya-tatsumi_moon-capital-spectacle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-alkaloid-valkyrie": {
+          "id": "kazehaya-tatsumi_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "kazehaya-tatsumi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ss-kohaku": {
+          "id": "kazehaya-tatsumi_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_phantom-airship": {
+          "id": "kazehaya-tatsumi_phantom-airship-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_anniversary-chance": {
+          "id": "kazehaya-tatsumi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_anniversary-777": {
+          "id": "kazehaya-tatsumi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_black-stage": {
+          "id": "kazehaya-tatsumi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_starlight-6th-live-tshirt": {
+          "id": "kazehaya-tatsumi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_trump": {
+          "id": "kazehaya-tatsumi_trump-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_halloween-candle": {
+          "id": "kazehaya-tatsumi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_newyear-rise": {
+          "id": "kazehaya-tatsumi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_chaleur-t": {
+          "id": "kazehaya-tatsumi_chaleur-t-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_newyear-rise-cape": {
+          "id": "kazehaya-tatsumi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_yoru-ni-kakeru": {
+          "id": "kazehaya-tatsumi_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_training-wear": {
+          "id": "kazehaya-tatsumi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 463,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_bloom-idol-scr": {
+          "id": "kazehaya-tatsumi_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_anniversary-love": {
+          "id": "kazehaya-tatsumi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_satellite": {
+          "id": "kazehaya-tatsumi_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_holistic-halloween": {
+          "id": "kazehaya-tatsumi_holistic-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_album-trip": {
+          "id": "kazehaya-tatsumi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_newyear-rise-silver": {
+          "id": "kazehaya-tatsumi_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_housouge": {
+          "id": "kazehaya-tatsumi_housouge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_scramble-gakuen-boys-uniform": {
+          "id": "kazehaya-tatsumi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 633,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_matrix": {
+          "id": "kazehaya-tatsumi_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_anniversary-challenge": {
+          "id": "kazehaya-tatsumi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_twilight-idol": {
+          "id": "kazehaya-tatsumi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_hana-hitoteki": {
+          "id": "kazehaya-tatsumi_hana-hitoteki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_sparkle": {
+          "id": "kazehaya-tatsumi_sparkle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_anniversary-challenge-scr": {
+          "id": "kazehaya-tatsumi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 463,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_halloween-wing": {
+          "id": "kazehaya-tatsumi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_starlight-8th-live-tshirt": {
+          "id": "kazehaya-tatsumi_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_newyear-rise-first-love": {
+          "id": "kazehaya-tatsumi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_colorful-music": {
+          "id": "kazehaya-tatsumi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_alkaloid-hoodie": {
+          "id": "kazehaya-tatsumi_alkaloid-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_twilight-idol-scr": {
+          "id": "kazehaya-tatsumi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_jinbei-goldfish": {
+          "id": "kazehaya-tatsumi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_caelum": {
+          "id": "kazehaya-tatsumi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_halloween-wing-angel": {
+          "id": "kazehaya-tatsumi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_sore-wa-zanzou-no-shoushitsuten": {
+          "id": "kazehaya-tatsumi_sore-wa-zanzou-no-shoushitsuten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_phalaenopsis": {
+          "id": "kazehaya-tatsumi_phalaenopsis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_terra": {
+          "id": "kazehaya-tatsumi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_kotonoha": {
+          "id": "kazehaya-tatsumi_kotonoha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_shining-star": {
+          "id": "kazehaya-tatsumi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_starlight-10th-live-tshirt": {
+          "id": "kazehaya-tatsumi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_anniversary-agent-green": {
+          "id": "kazehaya-tatsumi_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_mare": {
+          "id": "kazehaya-tatsumi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_jinbei-fireworks": {
+          "id": "kazehaya-tatsumi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

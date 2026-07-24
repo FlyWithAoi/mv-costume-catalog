@@ -26075,6 +26075,1072 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_common-scr-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_uta-no-oniisan-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_uta-no-oniisan-01_icon.webp",
+        "front": "kazehaya-tatsumi_uta-no-oniisan-01_front.webp",
+        "back": "kazehaya-tatsumi_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_blessing-black-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ブレッシングブラック",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_blessing-black-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_hoshiiro-anniversary-suit-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_feather-touch-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "フェザータッチ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_feather-touch-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_halloween-bat-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_halloween-bat-01_icon.webp",
+        "front": "kazehaya-tatsumi_halloween-bat-01_front.webp",
+        "back": "kazehaya-tatsumi_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_soldier-anniversary-rock-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "兵隊のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_soldier-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_esmg-graphic-tshirt-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_pilot-suit-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_pilot-suit-01_icon.webp",
+        "front": "kazehaya-tatsumi_pilot-suit-01_front.webp",
+        "back": "kazehaya-tatsumi_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_motor-show-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_motor-show-01_icon.webp",
+        "front": "kazehaya-tatsumi_motor-show-01_front.webp",
+        "back": "kazehaya-tatsumi_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_moon-capital-spectacle-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "月都スペクタクル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_moon-capital-spectacle-01_icon.webp",
+        "front": "kazehaya-tatsumi_moon-capital-spectacle-01_front.webp",
+        "back": "kazehaya-tatsumi_moon-capital-spectacle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_fusion-unit-alkaloid-valkyrie-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "FUSION UNIT(ALKALOID×Valkyrie)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_fusion-unit-alkaloid-valkyrie-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_bloom-idol-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_ss-kohaku-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_phantom-airship-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "幻影飛行船衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_phantom-airship-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-chance-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-chance-01_icon.webp",
+        "front": "kazehaya-tatsumi_anniversary-chance-01_front.webp",
+        "back": "kazehaya-tatsumi_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-777-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-777-01_icon.webp",
+        "front": "kazehaya-tatsumi_anniversary-777-01_front.webp",
+        "back": "kazehaya-tatsumi_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_black-stage-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_starlight-6th-live-tshirt-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_trump-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "トランプ衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_trump-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_halloween-candle-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_halloween-candle-01_icon.webp",
+        "front": "kazehaya-tatsumi_halloween-candle-01_front.webp",
+        "back": "kazehaya-tatsumi_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_newyear-rise-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_chaleur-t-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Chaleur:T",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_chaleur-t-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_newyear-rise-cape-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_newyear-rise-cape-01_icon.webp",
+        "front": "kazehaya-tatsumi_newyear-rise-cape-01_front.webp",
+        "back": "kazehaya-tatsumi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_yoru-ni-kakeru-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "夜に駆ける衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_yoru-ni-kakeru-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_training-wear-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_training-wear-01_icon.webp",
+        "front": "kazehaya-tatsumi_training-wear-01_front.webp",
+        "back": "kazehaya-tatsumi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_bloom-idol-scr-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-love-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-love-01_icon.webp",
+        "front": "kazehaya-tatsumi_anniversary-love-01_front.webp",
+        "back": "kazehaya-tatsumi_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_satellite-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "サテライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_satellite-01_icon.webp",
+        "front": "kazehaya-tatsumi_satellite-01_front.webp",
+        "back": "kazehaya-tatsumi_satellite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_holistic-halloween-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ホリスティックハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_holistic-halloween-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_album-trip-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_newyear-rise-silver-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_housouge-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "宝相華衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_housouge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "kazehaya-tatsumi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "kazehaya-tatsumi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_matrix-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_matrix-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-challenge-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_twilight-idol-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_hana-hitoteki-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "華一滴衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_hana-hitoteki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_sparkle-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "スパークル衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_sparkle-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-challenge-scr-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-challenge-scr-01_icon.webp",
+        "front": "kazehaya-tatsumi_anniversary-challenge-scr-01_front.webp",
+        "back": "kazehaya-tatsumi_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_halloween-wing-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_halloween-wing-01_icon.webp",
+        "front": "kazehaya-tatsumi_halloween-wing-01_front.webp",
+        "back": "kazehaya-tatsumi_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_starlight-8th-live-tshirt-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "kazehaya-tatsumi_starlight-8th-live-tshirt-01_front.webp",
+        "back": "kazehaya-tatsumi_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_newyear-rise-first-love-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_newyear-rise-first-love-01_icon.webp",
+        "front": "kazehaya-tatsumi_newyear-rise-first-love-01_front.webp",
+        "back": "kazehaya-tatsumi_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_colorful-music-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_colorful-music-01_icon.webp",
+        "front": "kazehaya-tatsumi_colorful-music-01_front.webp",
+        "back": "kazehaya-tatsumi_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_alkaloid-hoodie-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ALKALOIDフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_alkaloid-hoodie-01_icon.webp",
+        "front": "kazehaya-tatsumi_alkaloid-hoodie-01_front.webp",
+        "back": "kazehaya-tatsumi_alkaloid-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_twilight-idol-scr-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_jinbei-goldfish-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_jinbei-goldfish-01_icon.webp",
+        "front": "kazehaya-tatsumi_jinbei-goldfish-01_front.webp",
+        "back": "kazehaya-tatsumi_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_caelum-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_caelum-01_icon.webp",
+        "front": "kazehaya-tatsumi_caelum-01_front.webp",
+        "back": "kazehaya-tatsumi_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_halloween-wing-angel-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_halloween-wing-angel-01_icon.webp",
+        "front": "kazehaya-tatsumi_halloween-wing-angel-01_front.webp",
+        "back": "kazehaya-tatsumi_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_sore-wa-zanzou-no-shoushitsuten-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "それは残像の消失点衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_sore-wa-zanzou-no-shoushitsuten-01_icon.webp",
+        "front": "kazehaya-tatsumi_sore-wa-zanzou-no-shoushitsuten-01_front.webp",
+        "back": "kazehaya-tatsumi_sore-wa-zanzou-no-shoushitsuten-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_phalaenopsis-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Phalaenopsis",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_phalaenopsis-01_icon.webp",
+        "front": "kazehaya-tatsumi_phalaenopsis-01_front.webp",
+        "back": "kazehaya-tatsumi_phalaenopsis-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_terra-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_terra-01_icon.webp",
+        "front": "kazehaya-tatsumi_terra-01_front.webp",
+        "back": "kazehaya-tatsumi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_kotonoha-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "コトノハ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_kotonoha-01_icon.webp",
+        "front": "kazehaya-tatsumi_kotonoha-01_front.webp",
+        "back": "kazehaya-tatsumi_kotonoha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_shining-star-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_shining-star-01_icon.webp",
+        "front": "kazehaya-tatsumi_shining-star-01_front.webp",
+        "back": "kazehaya-tatsumi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_starlight-10th-live-tshirt-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kazehaya-tatsumi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_anniversary-agent-green-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_anniversary-agent-green-01_icon.webp",
+        "front": "kazehaya-tatsumi_anniversary-agent-green-01_front.webp",
+        "back": "kazehaya-tatsumi_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_mare-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_mare-01_icon.webp",
+        "front": "kazehaya-tatsumi_mare-01_front.webp",
+        "back": "kazehaya-tatsumi_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
+    },
+    {
+      "id": "kazehaya-tatsumi_jinbei-fireworks-01",
+      "idol_slug": "kazehaya-tatsumi",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kazehaya-tatsumi_jinbei-fireworks-01_icon.webp",
+        "front": "kazehaya-tatsumi_jinbei-fireworks-01_front.webp",
+        "back": "kazehaya-tatsumi_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-24"
     }
   ]
 }
