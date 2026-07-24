@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-24",
+  "updated_at": "2026-07-25",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -27141,6 +27141,1208 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-24"
+    },
+    {
+      "id": "ran-nagisa_common-scr-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_uta-no-oniisan-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_uta-no-oniisan-01_icon.webp",
+        "front": "ran-nagisa_uta-no-oniisan-01_front.webp",
+        "back": "ran-nagisa_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_sorairo-anniversary-suit-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_sorairo-anniversary-suit-01_icon.webp",
+        "front": "ran-nagisa_sorairo-anniversary-suit-01_front.webp",
+        "back": "ran-nagisa_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_conquest-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "コンクエスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_conquest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_wilderness-flower-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "荒野の花衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_wilderness-flower-01_icon.webp",
+        "front": "ran-nagisa_wilderness-flower-01_front.webp",
+        "back": "ran-nagisa_wilderness-flower-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_under-game-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アンダーゲーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_under-game-01_icon.webp",
+        "front": "ran-nagisa_under-game-01_front.webp",
+        "back": "ran-nagisa_under-game-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_halloween-bat-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_halloween-bat-01_icon.webp",
+        "front": "ran-nagisa_halloween-bat-01_front.webp",
+        "back": "ran-nagisa_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_black-wing-anniversary-rock-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "黒翼のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_black-wing-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_esmg-graphic-tshirt-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_pilot-suit-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_pilot-suit-01_icon.webp",
+        "front": "ran-nagisa_pilot-suit-01_front.webp",
+        "back": "ran-nagisa_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_fusion-unit-switch-eden-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_fusion-unit-switch-eden-01_icon.webp",
+        "front": "ran-nagisa_fusion-unit-switch-eden-01_front.webp",
+        "back": "ran-nagisa_fusion-unit-switch-eden-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_solid-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ソリッド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_solid-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_bloom-idol-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_bogie-time-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ボギータイム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_bogie-time-01_icon.webp",
+        "front": "ran-nagisa_bogie-time-01_front.webp",
+        "back": "ran-nagisa_bogie-time-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_la-mort-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "La Mort衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_la-mort-01_icon.webp",
+        "front": "ran-nagisa_la-mort-01_front.webp",
+        "back": "ran-nagisa_la-mort-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_cd-fourth-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "CD第四弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_cd-fourth-01_icon.webp",
+        "front": "ran-nagisa_cd-fourth-01_front.webp",
+        "back": "ran-nagisa_cd-fourth-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_ss-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "『SS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_ss-kohaku-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_time-boundary-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "時の境界",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_time-boundary-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-chance-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-777-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_anniversary-777-01_icon.webp",
+        "front": "ran-nagisa_anniversary-777-01_front.webp",
+        "back": "ran-nagisa_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_black-stage-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_black-stage-01_icon.webp",
+        "front": "ran-nagisa_black-stage-01_front.webp",
+        "back": "ran-nagisa_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_halloween-candle-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_halloween-candle-01_icon.webp",
+        "front": "ran-nagisa_halloween-candle-01_front.webp",
+        "back": "ran-nagisa_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_secret-sky-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "シークレットスカイ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_secret-sky-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_replay-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "(RE)PLAY衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_replay-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_starlight-7th-live-tshirt-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "ran-nagisa_starlight-7th-live-tshirt-01_front.webp",
+        "back": "ran-nagisa_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_adam-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Adam衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_adam-01_icon.webp",
+        "front": "ran-nagisa_adam-01_front.webp",
+        "back": "ran-nagisa_adam-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_newyear-rise-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_chocolat-fes-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ショコラフェス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_chocolat-fes-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_newyear-rise-cape-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_newyear-rise-cape-01_icon.webp",
+        "front": "ran-nagisa_newyear-rise-cape-01_front.webp",
+        "back": "ran-nagisa_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_training-wear-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_training-wear-01_icon.webp",
+        "front": "ran-nagisa_training-wear-01_front.webp",
+        "back": "ran-nagisa_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_old-fine-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "旧fine衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_old-fine-01_icon.webp",
+        "front": "ran-nagisa_old-fine-01_front.webp",
+        "back": "ran-nagisa_old-fine-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_fine-o-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "『fine-O』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_fine-o-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_bloom-idol-scr-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-love-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_anniversary-love-01_icon.webp",
+        "front": "ran-nagisa_anniversary-love-01_front.webp",
+        "back": "ran-nagisa_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_secret-service-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "シークレットサービス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_secret-service-01_icon.webp",
+        "front": "ran-nagisa_secret-service-01_front.webp",
+        "back": "ran-nagisa_secret-service-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_kimi-no-yorishiro-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "君の依代衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_kimi-no-yorishiro-01_icon.webp",
+        "front": "ran-nagisa_kimi-no-yorishiro-01_front.webp",
+        "back": "ran-nagisa_kimi-no-yorishiro-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_newyear-rise-silver-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_absolute-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アブソリュート衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_absolute-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "ran-nagisa_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "ran-nagisa_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-challenge-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_twilight-idol-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_album-trip-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-challenge-scr-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_anniversary-challenge-scr-01_icon.webp",
+        "front": "ran-nagisa_anniversary-challenge-scr-01_front.webp",
+        "back": "ran-nagisa_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_halloween-wing-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_halloween-wing-01_icon.webp",
+        "front": "ran-nagisa_halloween-wing-01_front.webp",
+        "back": "ran-nagisa_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_summer-live-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "サマーライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_summer-live-01_icon.webp",
+        "front": "ran-nagisa_summer-live-01_front.webp",
+        "back": "ran-nagisa_summer-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_starlight-9th-live-tshirt-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "ran-nagisa_starlight-9th-live-tshirt-01_front.webp",
+        "back": "ran-nagisa_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_tenka-no-haru-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "天下の春衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_tenka-no-haru-01_icon.webp",
+        "front": "ran-nagisa_tenka-no-haru-01_front.webp",
+        "back": "ran-nagisa_tenka-no-haru-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_newyear-rise-first-love-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_newyear-rise-first-love-01_icon.webp",
+        "front": "ran-nagisa_newyear-rise-first-love-01_front.webp",
+        "back": "ran-nagisa_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_colorful-music-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_colorful-music-01_icon.webp",
+        "front": "ran-nagisa_colorful-music-01_front.webp",
+        "back": "ran-nagisa_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_ouroboros-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ウロボロス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_ouroboros-01_icon.webp",
+        "front": "ran-nagisa_ouroboros-01_front.webp",
+        "back": "ran-nagisa_ouroboros-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_eden-hoodie-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Edenフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_eden-hoodie-01_icon.webp",
+        "front": "ran-nagisa_eden-hoodie-01_front.webp",
+        "back": "ran-nagisa_eden-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_twilight-idol-scr-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_graceful-punishment-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Graceful Punishment衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_graceful-punishment-01_icon.webp",
+        "front": "ran-nagisa_graceful-punishment-01_front.webp",
+        "back": "ran-nagisa_graceful-punishment-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_mythos-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Mythos衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_mythos-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_jinbei-goldfish-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_jinbei-goldfish-01_icon.webp",
+        "front": "ran-nagisa_jinbei-goldfish-01_front.webp",
+        "back": "ran-nagisa_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_caelum-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_caelum-01_icon.webp",
+        "front": "ran-nagisa_caelum-01_front.webp",
+        "back": "ran-nagisa_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_verite-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ヴェリテ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_verite-01_icon.webp",
+        "front": "ran-nagisa_verite-01_front.webp",
+        "back": "ran-nagisa_verite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_halloween-wing-angel-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_halloween-wing-angel-01_icon.webp",
+        "front": "ran-nagisa_halloween-wing-angel-01_front.webp",
+        "back": "ran-nagisa_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_terra-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_terra-01_icon.webp",
+        "front": "ran-nagisa_terra-01_front.webp",
+        "back": "ran-nagisa_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_shining-star-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_shining-star-01_icon.webp",
+        "front": "ran-nagisa_shining-star-01_front.webp",
+        "back": "ran-nagisa_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_starlight-10th-live-tshirt-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "ran-nagisa_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_anniversary-agent-green-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_anniversary-agent-green-01_icon.webp",
+        "front": "ran-nagisa_anniversary-agent-green-01_front.webp",
+        "back": "ran-nagisa_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_mare-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_mare-01_icon.webp",
+        "front": "ran-nagisa_mare-01_front.webp",
+        "back": "ran-nagisa_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_golden-dream-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "Golden Dream衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_golden-dream-01_icon.webp",
+        "front": "ran-nagisa_golden-dream-01_front.webp",
+        "back": "ran-nagisa_golden-dream-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "ran-nagisa_jinbei-fireworks-01",
+      "idol_slug": "ran-nagisa",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "ran-nagisa_jinbei-fireworks-01_icon.webp",
+        "front": "ran-nagisa_jinbei-fireworks-01_front.webp",
+        "back": "ran-nagisa_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
     }
   ]
 }

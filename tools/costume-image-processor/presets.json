@@ -17018,6 +17018,739 @@
           }
         }
       }
+    },
+    "ran-nagisa-slots-04-69": {
+      "idol_slug": "ran-nagisa",
+      "input_dir": "ran-nagisa",
+      "output_dir": "ran-nagisa",
+      "items": {
+        "04_common-scr": {
+          "id": "ran-nagisa_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "ran-nagisa_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "ran-nagisa_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_conquest": {
+          "id": "ran-nagisa_conquest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_wilderness-flower": {
+          "id": "ran-nagisa_wilderness-flower-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_under-game": {
+          "id": "ran-nagisa_under-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "ran-nagisa_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-wing-anniversary-rock": {
+          "id": "ran-nagisa_black-wing-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "ran-nagisa_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "ran-nagisa_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_fusion-unit-switch-eden": {
+          "id": "ran-nagisa_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_solid": {
+          "id": "ran-nagisa_solid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "ran-nagisa_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bogie-time": {
+          "id": "ran-nagisa_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_la-mort": {
+          "id": "ran-nagisa_la-mort-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_cd-fourth": {
+          "id": "ran-nagisa_cd-fourth-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss": {
+          "id": "ran-nagisa_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kohaku": {
+          "id": "ran-nagisa_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_time-boundary": {
+          "id": "ran-nagisa_time-boundary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-chance": {
+          "id": "ran-nagisa_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_anniversary-777": {
+          "id": "ran-nagisa_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_black-stage": {
+          "id": "ran-nagisa_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_halloween-candle": {
+          "id": "ran-nagisa_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_secret-sky": {
+          "id": "ran-nagisa_secret-sky-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_replay": {
+          "id": "ran-nagisa_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_starlight-7th-live-tshirt": {
+          "id": "ran-nagisa_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_adam": {
+          "id": "ran-nagisa_adam-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 447,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise": {
+          "id": "ran-nagisa_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_chocolat-fes": {
+          "id": "ran-nagisa_chocolat-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "ran-nagisa_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_training-wear": {
+          "id": "ran-nagisa_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_old-fine": {
+          "id": "ran-nagisa_old-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 447,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_fine-o": {
+          "id": "ran-nagisa_fine-o-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_bloom-idol-scr": {
+          "id": "ran-nagisa_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_anniversary-love": {
+          "id": "ran-nagisa_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_secret-service": {
+          "id": "ran-nagisa_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 629,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "40_kimi-no-yorishiro": {
+          "id": "ran-nagisa_kimi-no-yorishiro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_newyear-rise-silver": {
+          "id": "ran-nagisa_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_absolute": {
+          "id": "ran-nagisa_absolute-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_scramble-gakuen-boys-uniform": {
+          "id": "ran-nagisa_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 617,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "ran-nagisa_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "ran-nagisa_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_album-trip": {
+          "id": "ran-nagisa_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_anniversary-challenge-scr": {
+          "id": "ran-nagisa_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_halloween-wing": {
+          "id": "ran-nagisa_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_summer-live": {
+          "id": "ran-nagisa_summer-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_starlight-9th-live-tshirt": {
+          "id": "ran-nagisa_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_tenka-no-haru": {
+          "id": "ran-nagisa_tenka-no-haru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "ran-nagisa_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_colorful-music": {
+          "id": "ran-nagisa_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_ouroboros": {
+          "id": "ran-nagisa_ouroboros-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_eden-hoodie": {
+          "id": "ran-nagisa_eden-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "ran-nagisa_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_graceful-punishment": {
+          "id": "ran-nagisa_graceful-punishment-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_mythos": {
+          "id": "ran-nagisa_mythos-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_jinbei-goldfish": {
+          "id": "ran-nagisa_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_caelum": {
+          "id": "ran-nagisa_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_verite": {
+          "id": "ran-nagisa_verite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "ran-nagisa_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_terra": {
+          "id": "ran-nagisa_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_shining-star": {
+          "id": "ran-nagisa_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 645,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_starlight-10th-live-tshirt": {
+          "id": "ran-nagisa_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-green": {
+          "id": "ran-nagisa_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_mare": {
+          "id": "ran-nagisa_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "68_golden-dream": {
+          "id": "ran-nagisa_golden-dream-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "69_jinbei-fireworks": {
+          "id": "ran-nagisa_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 651,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
