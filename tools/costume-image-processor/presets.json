@@ -15017,6 +15017,673 @@
           }
         }
       }
+    },
+    "shiratori-aira-slots-04-63": {
+      "idol_slug": "shiratori-aira",
+      "input_dir": "shiratori-aira",
+      "output_dir": "shiratori-aira",
+      "items": {
+        "04_common-scr": {
+          "id": "shiratori-aira_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "shiratori-aira_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "shiratori-aira_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_feather-touch": {
+          "id": "shiratori-aira_feather-touch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-bat": {
+          "id": "shiratori-aira_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_branco": {
+          "id": "shiratori-aira_branco-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_soldier-anniversary-rock": {
+          "id": "shiratori-aira_soldier-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_esmg-graphic-tshirt": {
+          "id": "shiratori-aira_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_pilot-suit": {
+          "id": "shiratori-aira_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_motor-show": {
+          "id": "shiratori-aira_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_love-idol": {
+          "id": "shiratori-aira_love-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-alkaloid-valkyrie": {
+          "id": "shiratori-aira_fusion-unit-alkaloid-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "shiratori-aira_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ss-kohaku": {
+          "id": "shiratori-aira_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_phantom-airship": {
+          "id": "shiratori-aira_phantom-airship-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_anniversary-chance": {
+          "id": "shiratori-aira_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_anniversary-777": {
+          "id": "shiratori-aira_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_black-stage": {
+          "id": "shiratori-aira_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_starlight-6th-live-tshirt": {
+          "id": "shiratori-aira_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_trump": {
+          "id": "shiratori-aira_trump-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_halloween-candle": {
+          "id": "shiratori-aira_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_newyear-rise": {
+          "id": "shiratori-aira_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_ranun-fumble": {
+          "id": "shiratori-aira_ranun-fumble-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_newyear-rise-cape": {
+          "id": "shiratori-aira_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_yoru-ni-kakeru": {
+          "id": "shiratori-aira_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_training-wear": {
+          "id": "shiratori-aira_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_bloom-idol-scr": {
+          "id": "shiratori-aira_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_anniversary-love": {
+          "id": "shiratori-aira_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_pure-method": {
+          "id": "shiratori-aira_pure-method-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_satellite": {
+          "id": "shiratori-aira_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_holistic-halloween": {
+          "id": "shiratori-aira_holistic-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_album-trip": {
+          "id": "shiratori-aira_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_newyear-rise-silver": {
+          "id": "shiratori-aira_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_scramble-gakuen-boys-uniform": {
+          "id": "shiratori-aira_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_matrix": {
+          "id": "shiratori-aira_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_anniversary-challenge": {
+          "id": "shiratori-aira_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_twilight-idol": {
+          "id": "shiratori-aira_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_sparkle": {
+          "id": "shiratori-aira_sparkle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge-scr": {
+          "id": "shiratori-aira_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_halloween-wing": {
+          "id": "shiratori-aira_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1607,
+            "y": 615,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_starlight-8th-live-tshirt": {
+          "id": "shiratori-aira_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 631,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_newyear-rise-first-love": {
+          "id": "shiratori-aira_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_colorful-music": {
+          "id": "shiratori-aira_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_zennou-ace": {
+          "id": "shiratori-aira_zennou-ace-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_alkaloid-hoodie": {
+          "id": "shiratori-aira_alkaloid-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_boku-no-weak-point": {
+          "id": "shiratori-aira_boku-no-weak-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_twilight-idol-scr": {
+          "id": "shiratori-aira_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_jinbei-goldfish": {
+          "id": "shiratori-aira_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_iridescent-light": {
+          "id": "shiratori-aira_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1607,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_caelum": {
+          "id": "shiratori-aira_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_iridescent-light-scr": {
+          "id": "shiratori-aira_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 311,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_halloween-wing-angel": {
+          "id": "shiratori-aira_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_terra": {
+          "id": "shiratori-aira_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_kotonoha": {
+          "id": "shiratori-aira_kotonoha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_shining-star": {
+          "id": "shiratori-aira_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_starlight-10th-live-tshirt": {
+          "id": "shiratori-aira_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_anniversary-agent-red": {
+          "id": "shiratori-aira_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_mare": {
+          "id": "shiratori-aira_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1607,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_jinbei-fireworks": {
+          "id": "shiratori-aira_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_prim-hour": {
+          "id": "shiratori-aira_prim-hour-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 481,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
