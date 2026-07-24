@@ -13672,6 +13672,684 @@
           }
         }
       }
+    },
+    "isara-mao-slots-04-64": {
+      "idol_slug": "isara-mao",
+      "input_dir": "isara-mao",
+      "output_dir": "isara-mao",
+      "items": {
+        "04_uta-no-oniisan": {
+          "id": "isara-mao_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_hoshiiro-anniversary-suit": {
+          "id": "isara-mao_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_overground": {
+          "id": "isara-mao_overground-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_halloween-party": {
+          "id": "isara-mao_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_halloween-bat": {
+          "id": "isara-mao_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_four-star-anniversary-rock": {
+          "id": "isara-mao_four-star-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_esmg-graphic-tshirt": {
+          "id": "isara-mao_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_pilot-suit": {
+          "id": "isara-mao_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_ring-a-bell": {
+          "id": "isara-mao_ring-a-bell-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_tougenkyou-guuzouken": {
+          "id": "isara-mao_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_bloom-idol": {
+          "id": "isara-mao_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_fusion-unit-trickstar-fine": {
+          "id": "isara-mao_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_cd-third": {
+          "id": "isara-mao_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_ss-kohaku": {
+          "id": "isara-mao_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_four-seasons": {
+          "id": "isara-mao_four-seasons-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_anniversary-chance": {
+          "id": "isara-mao_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_anniversary-777": {
+          "id": "isara-mao_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_black-stage": {
+          "id": "isara-mao_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_vs-game": {
+          "id": "isara-mao_vs-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_starlight-6th-live-tshirt": {
+          "id": "isara-mao_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_sensation-rock": {
+          "id": "isara-mao_sensation-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_halloween-candle": {
+          "id": "isara-mao_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_replay": {
+          "id": "isara-mao_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_newyear-rise": {
+          "id": "isara-mao_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_newyear-rise-cape": {
+          "id": "isara-mao_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_graduation": {
+          "id": "isara-mao_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_training-wear": {
+          "id": "isara-mao_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_bloom-idol-scr": {
+          "id": "isara-mao_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_anniversary-love": {
+          "id": "isara-mao_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_manga-kai": {
+          "id": "isara-mao_manga-kai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_satellite": {
+          "id": "isara-mao_satellite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 562,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_xday": {
+          "id": "isara-mao_xday-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_newyear-rise-silver": {
+          "id": "isara-mao_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_album-trip": {
+          "id": "isara-mao_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_scramble-gakuen-boys-uniform": {
+          "id": "isara-mao_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_anniversary-challenge": {
+          "id": "isara-mao_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_twilight-idol": {
+          "id": "isara-mao_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_anniversary-challenge-scr": {
+          "id": "isara-mao_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_halloween-wing": {
+          "id": "isara-mao_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_freedom": {
+          "id": "isara-mao_freedom-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_daikagura": {
+          "id": "isara-mao_daikagura-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_starlight-8th-live-tshirt": {
+          "id": "isara-mao_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_newyear-rise-first-love": {
+          "id": "isara-mao_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_colorful-music": {
+          "id": "isara-mao_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_mode-d": {
+          "id": "isara-mao_mode-d-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_trickstar-hoodie": {
+          "id": "isara-mao_trickstar-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_happy-anniversary": {
+          "id": "isara-mao_happy-anniversary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_twilight-idol-scr": {
+          "id": "isara-mao_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_mange-solidarity": {
+          "id": "isara-mao_mange-solidarity-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 287,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_jinbei-goldfish": {
+          "id": "isara-mao_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_caelum": {
+          "id": "isara-mao_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_select": {
+          "id": "isara-mao_select-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_halloween-wing-angel": {
+          "id": "isara-mao_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_terra": {
+          "id": "isara-mao_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_after-the-prologue": {
+          "id": "isara-mao_after-the-prologue-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_shining-star": {
+          "id": "isara-mao_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_starlight-10th-live-tshirt": {
+          "id": "isara-mao_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_anniversary-agent-green": {
+          "id": "isara-mao_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_mare": {
+          "id": "isara-mao_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_mm-trickstar": {
+          "id": "isara-mao_mm-trickstar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_jinbei-fireworks": {
+          "id": "isara-mao_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
