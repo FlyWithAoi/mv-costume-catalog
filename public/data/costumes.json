@@ -33143,6 +33143,849 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_common-scr-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_uta-no-oniisan-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_uta-no-oniisan-01_icon.webp",
+        "front": "kiryuu-kurou_uta-no-oniisan-01_front.webp",
+        "back": "kiryuu-kurou_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_choshoku-anniversary-suit-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "調色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_choshoku-anniversary-suit-01_icon.webp",
+        "front": "kiryuu-kurou_choshoku-anniversary-suit-01_front.webp",
+        "back": "kiryuu-kurou_choshoku-anniversary-suit-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_tsubaki-train-live-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "椿列車ライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_tsubaki-train-live-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_halloween-bat-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_halloween-bat-01_icon.webp",
+        "front": "kiryuu-kurou_halloween-bat-01_front.webp",
+        "back": "kiryuu-kurou_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_black-ox-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "黒の丑衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_black-ox-01_icon.webp",
+        "front": "kiryuu-kurou_black-ox-01_front.webp",
+        "back": "kiryuu-kurou_black-ox-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_traditional-anniversary-rock-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "伝統のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_traditional-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_tenka-fubu-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "天下布武衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_tenka-fubu-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_esmg-graphic-tshirt-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_pilot-suit-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_pilot-suit-01_icon.webp",
+        "front": "kiryuu-kurou_pilot-suit-01_front.webp",
+        "back": "kiryuu-kurou_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_ring-a-bell-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "Ring.A.Bell衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_ring-a-bell-01_icon.webp",
+        "front": "kiryuu-kurou_ring-a-bell-01_front.webp",
+        "back": "kiryuu-kurou_ring-a-bell-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_gozen-jiai-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "御前試合衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_gozen-jiai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_bloom-idol-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_scarlet-halloween-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "スカーレットハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_scarlet-halloween-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_fusion-unit-undead-akatsuki-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_icon.webp",
+        "front": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_front.webp",
+        "back": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_cd-third-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_cd-third-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_ss-kouhaku-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_ss-kouhaku-01_icon.webp",
+        "front": "kiryuu-kurou_ss-kouhaku-01_front.webp",
+        "back": "kiryuu-kurou_ss-kouhaku-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_seirenka-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "清蓮花",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_seirenka-01_icon.webp",
+        "front": "kiryuu-kurou_seirenka-01_front.webp",
+        "back": "kiryuu-kurou_seirenka-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_anniversary-chance-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_anniversary-chance-01_icon.webp",
+        "front": "kiryuu-kurou_anniversary-chance-01_front.webp",
+        "back": "kiryuu-kurou_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_anniversary-777-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_anniversary-777-01_icon.webp",
+        "front": "kiryuu-kurou_anniversary-777-01_front.webp",
+        "back": "kiryuu-kurou_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_black-stage-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_sankochou-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "三光鳥衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_sankochou-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_yukyo-seishun-ka-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "勇侠青春謳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_yukyo-seishun-ka-01_icon.webp",
+        "front": "kiryuu-kurou_yukyo-seishun-ka-01_front.webp",
+        "back": "kiryuu-kurou_yukyo-seishun-ka-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_halloween-candle-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_halloween-candle-01_icon.webp",
+        "front": "kiryuu-kurou_halloween-candle-01_front.webp",
+        "back": "kiryuu-kurou_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_secret-jewel-merchant-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "秘密の宝石商衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_secret-jewel-merchant-01_icon.webp",
+        "front": "kiryuu-kurou_secret-jewel-merchant-01_front.webp",
+        "back": "kiryuu-kurou_secret-jewel-merchant-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_starlight-7th-live-tshirt-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "kiryuu-kurou_starlight-7th-live-tshirt-01_front.webp",
+        "back": "kiryuu-kurou_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_newyear-rise-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_newyear-rise-cape-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_newyear-rise-cape-01_icon.webp",
+        "front": "kiryuu-kurou_newyear-rise-cape-01_front.webp",
+        "back": "kiryuu-kurou_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_training-wear-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_training-wear-01_icon.webp",
+        "front": "kiryuu-kurou_training-wear-01_front.webp",
+        "back": "kiryuu-kurou_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_bloom-idol-scr-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_anniversary-love-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_anniversary-love-01_icon.webp",
+        "front": "kiryuu-kurou_anniversary-love-01_front.webp",
+        "back": "kiryuu-kurou_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_colorful-music-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_colorful-music-01_icon.webp",
+        "front": "kiryuu-kurou_colorful-music-01_front.webp",
+        "back": "kiryuu-kurou_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_akatsuki-hoodie-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "紅月フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_akatsuki-hoodie-01_icon.webp",
+        "front": "kiryuu-kurou_akatsuki-hoodie-01_front.webp",
+        "back": "kiryuu-kurou_akatsuki-hoodie-01_back.webp"
+      },
+      "tags": [
+        "紅月",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_twilight-idol-scr-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_oni-yasha-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "鬼夜叉衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_oni-yasha-01_icon.webp",
+        "front": "kiryuu-kurou_oni-yasha-01_front.webp",
+        "back": "kiryuu-kurou_oni-yasha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_jinbei-goldfish-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_jinbei-goldfish-01_icon.webp",
+        "front": "kiryuu-kurou_jinbei-goldfish-01_front.webp",
+        "back": "kiryuu-kurou_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_caelum-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_caelum-01_icon.webp",
+        "front": "kiryuu-kurou_caelum-01_front.webp",
+        "back": "kiryuu-kurou_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_battalion-butterfly-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "バタリオン・バタフライ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_battalion-butterfly-01_icon.webp",
+        "front": "kiryuu-kurou_battalion-butterfly-01_front.webp",
+        "back": "kiryuu-kurou_battalion-butterfly-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_halloween-wing-angel-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_halloween-wing-angel-01_icon.webp",
+        "front": "kiryuu-kurou_halloween-wing-angel-01_front.webp",
+        "back": "kiryuu-kurou_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_terra-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_terra-01_icon.webp",
+        "front": "kiryuu-kurou_terra-01_front.webp",
+        "back": "kiryuu-kurou_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_fight-is-only-fate-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "Fight Is Only Fate衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_fight-is-only-fate-01_icon.webp",
+        "front": "kiryuu-kurou_fight-is-only-fate-01_front.webp",
+        "back": "kiryuu-kurou_fight-is-only-fate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_shining-star-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_shining-star-01_icon.webp",
+        "front": "kiryuu-kurou_shining-star-01_front.webp",
+        "back": "kiryuu-kurou_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_starlight-10th-live-tshirt-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "kiryuu-kurou_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_anniversary-agent-red-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_anniversary-agent-red-01_icon.webp",
+        "front": "kiryuu-kurou_anniversary-agent-red-01_front.webp",
+        "back": "kiryuu-kurou_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_mm-akatsuki-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "MM 紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_mm-akatsuki-01_icon.webp",
+        "front": "kiryuu-kurou_mm-akatsuki-01_front.webp",
+        "back": "kiryuu-kurou_mm-akatsuki-01_back.webp"
+      },
+      "tags": [
+        "紅月"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "kiryuu-kurou_jinbei-fireworks-01",
+      "idol_slug": "kiryuu-kurou",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kiryuu-kurou_jinbei-fireworks-01_icon.webp",
+        "front": "kiryuu-kurou_jinbei-fireworks-01_front.webp",
+        "back": "kiryuu-kurou_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
     }
   ]
 }
