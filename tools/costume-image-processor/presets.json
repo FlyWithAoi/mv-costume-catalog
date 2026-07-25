@@ -18495,6 +18495,717 @@
           }
         }
       }
+    },
+    "saegusa-ibara-slots-04-67": {
+      "idol_slug": "saegusa-ibara",
+      "input_dir": "saegusa-ibara",
+      "output_dir": "saegusa-ibara",
+      "items": {
+        "04_common-scr": {
+          "id": "saegusa-ibara_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "saegusa-ibara_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_dark-night-short": {
+          "id": "saegusa-ibara_dark-night-short-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_rainbow-anniversary-suit": {
+          "id": "saegusa-ibara_rainbow-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_conquest": {
+          "id": "saegusa-ibara_conquest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_wonder-game": {
+          "id": "saegusa-ibara_wonder-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "saegusa-ibara_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-wing-anniversary-rock": {
+          "id": "saegusa-ibara_black-wing-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "saegusa-ibara_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "saegusa-ibara_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_fusion-unit-switch-eden": {
+          "id": "saegusa-ibara_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_zensen-no-banken": {
+          "id": "saegusa-ibara_zensen-no-banken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_solid": {
+          "id": "saegusa-ibara_solid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bloom-idol": {
+          "id": "saegusa-ibara_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_bogie-time": {
+          "id": "saegusa-ibara_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_cd-fourth": {
+          "id": "saegusa-ibara_cd-fourth-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss": {
+          "id": "saegusa-ibara_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kohaku": {
+          "id": "saegusa-ibara_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "saegusa-ibara_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "saegusa-ibara_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "saegusa-ibara_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_smart-waltz": {
+          "id": "saegusa-ibara_smart-waltz-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_halloween-candle": {
+          "id": "saegusa-ibara_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_replay": {
+          "id": "saegusa-ibara_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_starlight-7th-live-tshirt": {
+          "id": "saegusa-ibara_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_flambe": {
+          "id": "saegusa-ibara_flambe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_adam": {
+          "id": "saegusa-ibara_adam-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise": {
+          "id": "saegusa-ibara_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_chocolat-fes": {
+          "id": "saegusa-ibara_chocolat-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "saegusa-ibara_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_training-wear": {
+          "id": "saegusa-ibara_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "saegusa-ibara_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_anniversary-love": {
+          "id": "saegusa-ibara_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_secret-service": {
+          "id": "saegusa-ibara_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 633,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "saegusa-ibara_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_absolute": {
+          "id": "saegusa-ibara_absolute-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "saegusa-ibara_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_anniversary-challenge": {
+          "id": "saegusa-ibara_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_twilight-idol": {
+          "id": "saegusa-ibara_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_album-trip": {
+          "id": "saegusa-ibara_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_perplex": {
+          "id": "saegusa-ibara_perplex-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "saegusa-ibara_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 631,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "saegusa-ibara_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 469,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_summer-live": {
+          "id": "saegusa-ibara_summer-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 629,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_starlight-9th-live-tshirt": {
+          "id": "saegusa-ibara_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_newyear-rise-first-love": {
+          "id": "saegusa-ibara_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_colorful-music": {
+          "id": "saegusa-ibara_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_ouroboros": {
+          "id": "saegusa-ibara_ouroboros-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 637,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_eden-party": {
+          "id": "saegusa-ibara_eden-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "saegusa-ibara_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_jinbei-goldfish": {
+          "id": "saegusa-ibara_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_iridescent-light": {
+          "id": "saegusa-ibara_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_caelum": {
+          "id": "saegusa-ibara_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_verite": {
+          "id": "saegusa-ibara_verite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_halloween-wing-angel": {
+          "id": "saegusa-ibara_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_terra": {
+          "id": "saegusa-ibara_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_fight-is-only-fate": {
+          "id": "saegusa-ibara_fight-is-only-fate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_day-to-day": {
+          "id": "saegusa-ibara_day-to-day-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_shining-star": {
+          "id": "saegusa-ibara_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_starlight-10th-live-tshirt": {
+          "id": "saegusa-ibara_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_anniversary-agent-red": {
+          "id": "saegusa-ibara_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_mare": {
+          "id": "saegusa-ibara_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_golden-dream": {
+          "id": "saegusa-ibara_golden-dream-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_jinbei-fireworks": {
+          "id": "saegusa-ibara_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
