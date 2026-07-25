@@ -21874,6 +21874,684 @@
           }
         }
       }
+    },
+    "amagi-rinne-slots-04-64": {
+      "idol_slug": "amagi-rinne",
+      "input_dir": "amagi-rinne",
+      "output_dir": "amagi-rinne",
+      "items": {
+        "04_common-scr": {
+          "id": "amagi-rinne_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "amagi-rinne_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 276,
+            "width": 183,
+            "height": 176
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "amagi-rinne_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 276,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_hot-limit": {
+          "id": "amagi-rinne_hot-limit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-bat": {
+          "id": "amagi-rinne_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 276,
+            "width": 184,
+            "height": 176
+          }
+        },
+        "09_lucky-chain": {
+          "id": "amagi-rinne_lucky-chain-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 276,
+            "width": 183,
+            "height": 176
+          }
+        },
+        "10_shigeki-anniversary-rock": {
+          "id": "amagi-rinne_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_pilot-suit": {
+          "id": "amagi-rinne_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 447,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "amagi-rinne_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_ariadone": {
+          "id": "amagi-rinne_ariadone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_nightclub": {
+          "id": "amagi-rinne_nightclub-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 447,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "15_bloom-idol": {
+          "id": "amagi-rinne_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_ss-kouhaku": {
+          "id": "amagi-rinne_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_byakko-mai": {
+          "id": "amagi-rinne_byakko-mai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_fusion-unit-crazyb-2wink": {
+          "id": "amagi-rinne_fusion-unit-crazyb-2wink-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_anniversary-chance": {
+          "id": "amagi-rinne_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_anniversary-777": {
+          "id": "amagi-rinne_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 617,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "21_black-stage": {
+          "id": "amagi-rinne_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 617,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "22_usa": {
+          "id": "amagi-rinne_usa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_yokaze-machi": {
+          "id": "amagi-rinne_yokaze-machi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 617,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "24_spider": {
+          "id": "amagi-rinne_spider-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_halloween-candle": {
+          "id": "amagi-rinne_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 617,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "26_starlight-7th-live-tshirt": {
+          "id": "amagi-rinne_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 617,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "27_flambe": {
+          "id": "amagi-rinne_flambe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_newyear-rise": {
+          "id": "amagi-rinne_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_newyear-rise-cape": {
+          "id": "amagi-rinne_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 450,
+            "width": 184,
+            "height": 174
+          }
+        },
+        "30_training-wear": {
+          "id": "amagi-rinne_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 452,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "31_bloom-idol-scr": {
+          "id": "amagi-rinne_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_anniversary-love": {
+          "id": "amagi-rinne_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 442,
+            "width": 183,
+            "height": 174
+          }
+        },
+        "33_number-eight": {
+          "id": "amagi-rinne_number-eight-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_album-trip": {
+          "id": "amagi-rinne_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_tsukigakure-no-utage": {
+          "id": "amagi-rinne_tsukigakure-no-utage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_newyear-rise-silver": {
+          "id": "amagi-rinne_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_scramble-gakuen-boys-uniform": {
+          "id": "amagi-rinne_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 624,
+            "width": 183,
+            "height": 176
+          }
+        },
+        "38_matrix": {
+          "id": "amagi-rinne_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_anniversary-challenge": {
+          "id": "amagi-rinne_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_twilight-idol": {
+          "id": "amagi-rinne_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_anniversary-challenge-scr": {
+          "id": "amagi-rinne_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 447,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "42_shunsairei": {
+          "id": "amagi-rinne_shunsairei-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 451,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "43_sudden-death": {
+          "id": "amagi-rinne_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 433,
+            "width": 183,
+            "height": 172
+          }
+        },
+        "44_halloween-wing": {
+          "id": "amagi-rinne_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 445,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "45_egoist": {
+          "id": "amagi-rinne_egoist-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_starlight-8th-live-tshirt": {
+          "id": "amagi-rinne_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 621,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "47_newyear-rise-first-love": {
+          "id": "amagi-rinne_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 616,
+            "width": 184,
+            "height": 174
+          }
+        },
+        "48_colorful-music": {
+          "id": "amagi-rinne_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 613,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "49_crazy-b-hoodie": {
+          "id": "amagi-rinne_crazy-b-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 300,
+            "width": 184,
+            "height": 173
+          }
+        },
+        "50_twilight-idol-scr": {
+          "id": "amagi-rinne_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_pairing": {
+          "id": "amagi-rinne_pairing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 300,
+            "width": 184,
+            "height": 176
+          }
+        },
+        "52_jinbei-goldfish": {
+          "id": "amagi-rinne_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 300,
+            "width": 183,
+            "height": 171
+          }
+        },
+        "53_iridescent-light": {
+          "id": "amagi-rinne_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 300,
+            "width": 184,
+            "height": 173
+          }
+        },
+        "54_caelum": {
+          "id": "amagi-rinne_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 300,
+            "width": 183,
+            "height": 176
+          }
+        },
+        "55_ai-dollar": {
+          "id": "amagi-rinne_ai-dollar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 471,
+            "width": 183,
+            "height": 174
+          }
+        },
+        "56_royal-flush": {
+          "id": "amagi-rinne_royal-flush-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 471,
+            "width": 184,
+            "height": 171
+          }
+        },
+        "57_halloween-wing-angel": {
+          "id": "amagi-rinne_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 471,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "58_terra": {
+          "id": "amagi-rinne_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 471,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "59_shining-star": {
+          "id": "amagi-rinne_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 471,
+            "width": 183,
+            "height": 172
+          }
+        },
+        "60_starlight-10th-live-tshirt": {
+          "id": "amagi-rinne_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_anniversary-agent-red": {
+          "id": "amagi-rinne_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 471,
+            "width": 183,
+            "height": 175
+          }
+        },
+        "62_mm-crazy-b": {
+          "id": "amagi-rinne_mm-crazy-b-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 471,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "63_mare": {
+          "id": "amagi-rinne_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 471,
+            "width": 183,
+            "height": 174
+          }
+        },
+        "64_jinbei-fireworks": {
+          "id": "amagi-rinne_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 641,
+            "width": 183,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }

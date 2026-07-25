@@ -35149,6 +35149,1105 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_common-scr-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_uta-no-oniisan-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_uta-no-oniisan-01_icon.webp",
+        "front": "amagi-rinne_uta-no-oniisan-01_front.webp",
+        "back": "amagi-rinne_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_sorairo-anniversary-suit-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_sorairo-anniversary-suit-01_icon.webp",
+        "front": "amagi-rinne_sorairo-anniversary-suit-01_front.webp",
+        "back": "amagi-rinne_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_hot-limit-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ホットリミット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_hot-limit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_halloween-bat-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_halloween-bat-01_icon.webp",
+        "front": "amagi-rinne_halloween-bat-01_front.webp",
+        "back": "amagi-rinne_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_lucky-chain-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ラッキーチェイン",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_lucky-chain-01_icon.webp",
+        "front": "amagi-rinne_lucky-chain-01_front.webp",
+        "back": "amagi-rinne_lucky-chain-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_shigeki-anniversary-rock-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_pilot-suit-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_pilot-suit-01_icon.webp",
+        "front": "amagi-rinne_pilot-suit-01_front.webp",
+        "back": "amagi-rinne_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_esmg-graphic-tshirt-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_ariadone-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アリアドネ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_ariadone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_nightclub-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_nightclub-01_icon.webp",
+        "front": "amagi-rinne_nightclub-01_front.webp",
+        "back": "amagi-rinne_nightclub-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_bloom-idol-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_ss-kouhaku-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_byakko-mai-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "白虎舞衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_byakko-mai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-chance-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-777-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_anniversary-777-01_icon.webp",
+        "front": "amagi-rinne_anniversary-777-01_front.webp",
+        "back": "amagi-rinne_anniversary-777-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_black-stage-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_black-stage-01_icon.webp",
+        "front": "amagi-rinne_black-stage-01_front.webp",
+        "back": "amagi-rinne_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_usa-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_usa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_yokaze-machi-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "夜風街",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_yokaze-machi-01_icon.webp",
+        "front": "amagi-rinne_yokaze-machi-01_front.webp",
+        "back": "amagi-rinne_yokaze-machi-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_spider-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "スパイダー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_spider-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_halloween-candle-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_halloween-candle-01_icon.webp",
+        "front": "amagi-rinne_halloween-candle-01_front.webp",
+        "back": "amagi-rinne_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_starlight-7th-live-tshirt-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "amagi-rinne_starlight-7th-live-tshirt-01_front.webp",
+        "back": "amagi-rinne_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_flambe-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Flambé！衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_flambe-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_newyear-rise-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_newyear-rise-cape-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_newyear-rise-cape-01_icon.webp",
+        "front": "amagi-rinne_newyear-rise-cape-01_front.webp",
+        "back": "amagi-rinne_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_training-wear-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_training-wear-01_icon.webp",
+        "front": "amagi-rinne_training-wear-01_front.webp",
+        "back": "amagi-rinne_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_bloom-idol-scr-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ブルームアイドル衣装(SCR)",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-love-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_anniversary-love-01_icon.webp",
+        "front": "amagi-rinne_anniversary-love-01_front.webp",
+        "back": "amagi-rinne_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_number-eight-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ナンバーエイト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_number-eight-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_album-trip-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_tsukigakure-no-utage-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "月隠れの宴衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_tsukigakure-no-utage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_newyear-rise-silver-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "amagi-rinne_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "amagi-rinne_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_matrix-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_matrix-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-challenge-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_twilight-idol-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-challenge-scr-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリーチャレンジ(SCR)",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_anniversary-challenge-scr-01_icon.webp",
+        "front": "amagi-rinne_anniversary-challenge-scr-01_front.webp",
+        "back": "amagi-rinne_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_shunsairei-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "瞬祭礼衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_shunsairei-01_icon.webp",
+        "front": "amagi-rinne_shunsairei-01_front.webp",
+        "back": "amagi-rinne_shunsairei-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_sudden-death-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_sudden-death-01_icon.webp",
+        "front": "amagi-rinne_sudden-death-01_front.webp",
+        "back": "amagi-rinne_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_halloween-wing-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_halloween-wing-01_icon.webp",
+        "front": "amagi-rinne_halloween-wing-01_front.webp",
+        "back": "amagi-rinne_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_egoist-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "エゴイスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_egoist-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_starlight-8th-live-tshirt-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "amagi-rinne_starlight-8th-live-tshirt-01_front.webp",
+        "back": "amagi-rinne_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_newyear-rise-first-love-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_newyear-rise-first-love-01_icon.webp",
+        "front": "amagi-rinne_newyear-rise-first-love-01_front.webp",
+        "back": "amagi-rinne_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_colorful-music-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_colorful-music-01_icon.webp",
+        "front": "amagi-rinne_colorful-music-01_front.webp",
+        "back": "amagi-rinne_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_crazy-b-hoodie-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Crazy:Bフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_crazy-b-hoodie-01_icon.webp",
+        "front": "amagi-rinne_crazy-b-hoodie-01_front.webp",
+        "back": "amagi-rinne_crazy-b-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_twilight-idol-scr-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "トワイライトアイドル衣装(SCR)",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_pairing-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ペアリング衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_pairing-01_icon.webp",
+        "front": "amagi-rinne_pairing-01_front.webp",
+        "back": "amagi-rinne_pairing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_jinbei-goldfish-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_jinbei-goldfish-01_icon.webp",
+        "front": "amagi-rinne_jinbei-goldfish-01_front.webp",
+        "back": "amagi-rinne_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_iridescent-light-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_iridescent-light-01_icon.webp",
+        "front": "amagi-rinne_iridescent-light-01_front.webp",
+        "back": "amagi-rinne_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_caelum-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_caelum-01_icon.webp",
+        "front": "amagi-rinne_caelum-01_front.webp",
+        "back": "amagi-rinne_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_ai-dollar-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Ai☆$!!衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_ai-dollar-01_icon.webp",
+        "front": "amagi-rinne_ai-dollar-01_front.webp",
+        "back": "amagi-rinne_ai-dollar-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_royal-flush-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ロイヤルフラッシュ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_royal-flush-01_icon.webp",
+        "front": "amagi-rinne_royal-flush-01_front.webp",
+        "back": "amagi-rinne_royal-flush-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_halloween-wing-angel-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_halloween-wing-angel-01_icon.webp",
+        "front": "amagi-rinne_halloween-wing-angel-01_front.webp",
+        "back": "amagi-rinne_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_terra-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_terra-01_icon.webp",
+        "front": "amagi-rinne_terra-01_front.webp",
+        "back": "amagi-rinne_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_shining-star-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_shining-star-01_icon.webp",
+        "front": "amagi-rinne_shining-star-01_front.webp",
+        "back": "amagi-rinne_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_starlight-10th-live-tshirt-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "amagi-rinne_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_anniversary-agent-red-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_anniversary-agent-red-01_icon.webp",
+        "front": "amagi-rinne_anniversary-agent-red-01_front.webp",
+        "back": "amagi-rinne_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_mm-crazy-b-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "MM Crazy:B衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_mm-crazy-b-01_icon.webp",
+        "front": "amagi-rinne_mm-crazy-b-01_front.webp",
+        "back": "amagi-rinne_mm-crazy-b-01_back.webp"
+      },
+      "tags": [
+        "Crazy:B"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_mare-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_mare-01_icon.webp",
+        "front": "amagi-rinne_mare-01_front.webp",
+        "back": "amagi-rinne_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "amagi-rinne_jinbei-fireworks-01",
+      "idol_slug": "amagi-rinne",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "amagi-rinne_jinbei-fireworks-01_icon.webp",
+        "front": "amagi-rinne_jinbei-fireworks-01_front.webp",
+        "back": "amagi-rinne_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
     }
   ]
 }
