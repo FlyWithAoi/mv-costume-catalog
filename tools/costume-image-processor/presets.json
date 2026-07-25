@@ -19950,6 +19950,717 @@
           }
         }
       }
+    },
+    "hasumi-keito-slots-04-67": {
+      "idol_slug": "hasumi-keito",
+      "input_dir": "hasumi-keito",
+      "output_dir": "hasumi-keito",
+      "items": {
+        "04_common-scr": {
+          "id": "hasumi-keito_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "hasumi-keito_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_choshoku-anniversary-suit": {
+          "id": "hasumi-keito_choshoku-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_tsubaki-train-live": {
+          "id": "hasumi-keito_tsubaki-train-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_halloween-bat": {
+          "id": "hasumi-keito_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_black-ox": {
+          "id": "hasumi-keito_black-ox-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_traditional-anniversary-rock": {
+          "id": "hasumi-keito_traditional-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_tenka-fubu": {
+          "id": "hasumi-keito_tenka-fubu-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "hasumi-keito_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "hasumi-keito_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_ring-a-bell": {
+          "id": "hasumi-keito_ring-a-bell-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_gozen-jiai": {
+          "id": "hasumi-keito_gozen-jiai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_bloom-idol": {
+          "id": "hasumi-keito_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_scarlet-halloween": {
+          "id": "hasumi-keito_scarlet-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_fusion-unit-undead-akatsuki": {
+          "id": "hasumi-keito_fusion-unit-undead-akatsuki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_cd-third": {
+          "id": "hasumi-keito_cd-third-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss-kouhaku": {
+          "id": "hasumi-keito_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_seirenka": {
+          "id": "hasumi-keito_seirenka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "hasumi-keito_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_anniversary-777": {
+          "id": "hasumi-keito_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "hasumi-keito_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_sankochou": {
+          "id": "hasumi-keito_sankochou-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_yukyo-seishun-ka": {
+          "id": "hasumi-keito_yukyo-seishun-ka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-candle": {
+          "id": "hasumi-keito_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_starlight-7th-live-tshirt": {
+          "id": "hasumi-keito_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_newyear-rise": {
+          "id": "hasumi-keito_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_diligent-gray": {
+          "id": "hasumi-keito_diligent-gray-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "hasumi-keito_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_training-wear": {
+          "id": "hasumi-keito_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "hasumi-keito_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "hasumi-keito_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 443,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_deadmans": {
+          "id": "hasumi-keito_deadmans-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_submarine": {
+          "id": "hasumi-keito_submarine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_tenchi-meidou": {
+          "id": "hasumi-keito_tenchi-meidou-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "hasumi-keito_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_album-trip": {
+          "id": "hasumi-keito_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_gourmand-no-kaori": {
+          "id": "hasumi-keito_gourmand-no-kaori-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 613,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "hasumi-keito_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 629,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "hasumi-keito_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "hasumi-keito_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "hasumi-keito_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_dominant": {
+          "id": "hasumi-keito_dominant-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "hasumi-keito_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_chocolat-fes": {
+          "id": "hasumi-keito_chocolat-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_starlight-8th-live-tshirt": {
+          "id": "hasumi-keito_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_shoso-no-kagetsuden": {
+          "id": "hasumi-keito_shoso-no-kagetsuden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_newyear-rise-first-love": {
+          "id": "hasumi-keito_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_colorful-music": {
+          "id": "hasumi-keito_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_akatsuki-hoodie": {
+          "id": "hasumi-keito_akatsuki-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_twilight-idol-scr": {
+          "id": "hasumi-keito_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_jinbei-goldfish": {
+          "id": "hasumi-keito_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_iridescent-light": {
+          "id": "hasumi-keito_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "56_caelum": {
+          "id": "hasumi-keito_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_battalion-butterfly": {
+          "id": "hasumi-keito_battalion-butterfly-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_its-knot-lov": {
+          "id": "hasumi-keito_its-knot-lov-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "59_halloween-wing-angel": {
+          "id": "hasumi-keito_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_arsene": {
+          "id": "hasumi-keito_arsene-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_terra": {
+          "id": "hasumi-keito_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_shining-star": {
+          "id": "hasumi-keito_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_starlight-10th-live-tshirt": {
+          "id": "hasumi-keito_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_anniversary-agent-green": {
+          "id": "hasumi-keito_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 645,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_mm-akatsuki": {
+          "id": "hasumi-keito_mm-akatsuki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "66_diverse": {
+          "id": "hasumi-keito_diverse-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_jinbei-fireworks": {
+          "id": "hasumi-keito_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 647,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

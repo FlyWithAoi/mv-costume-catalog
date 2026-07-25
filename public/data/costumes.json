@@ -31964,6 +31964,1185 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_common-scr-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_uta-no-oniisan-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_uta-no-oniisan-01_icon.webp",
+        "front": "hasumi-keito_uta-no-oniisan-01_front.webp",
+        "back": "hasumi-keito_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_choshoku-anniversary-suit-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "調色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_choshoku-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_tsubaki-train-live-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "椿列車ライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_tsubaki-train-live-01_icon.webp",
+        "front": "hasumi-keito_tsubaki-train-live-01_front.webp",
+        "back": "hasumi-keito_tsubaki-train-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_halloween-bat-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_halloween-bat-01_icon.webp",
+        "front": "hasumi-keito_halloween-bat-01_front.webp",
+        "back": "hasumi-keito_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_black-ox-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "黒の丑衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_black-ox-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_traditional-anniversary-rock-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "伝統のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_traditional-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_tenka-fubu-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "天下布武衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_tenka-fubu-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_esmg-graphic-tshirt-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_pilot-suit-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_pilot-suit-01_icon.webp",
+        "front": "hasumi-keito_pilot-suit-01_front.webp",
+        "back": "hasumi-keito_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_ring-a-bell-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "Ring.A.Bell衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_ring-a-bell-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_gozen-jiai-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "御前試合衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_gozen-jiai-01_icon.webp",
+        "front": "hasumi-keito_gozen-jiai-01_front.webp",
+        "back": "hasumi-keito_gozen-jiai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_bloom-idol-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_scarlet-halloween-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "スカーレットハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_scarlet-halloween-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_fusion-unit-undead-akatsuki-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_fusion-unit-undead-akatsuki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_cd-third-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "CD第三弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_cd-third-01_icon.webp",
+        "front": "hasumi-keito_cd-third-01_front.webp",
+        "back": "hasumi-keito_cd-third-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_ss-kouhaku-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_seirenka-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "清蓮花",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_seirenka-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-chance-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_anniversary-chance-01_icon.webp",
+        "front": "hasumi-keito_anniversary-chance-01_front.webp",
+        "back": "hasumi-keito_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-777-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_anniversary-777-01_icon.webp",
+        "front": "hasumi-keito_anniversary-777-01_front.webp",
+        "back": "hasumi-keito_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_black-stage-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_black-stage-01_icon.webp",
+        "front": "hasumi-keito_black-stage-01_front.webp",
+        "back": "hasumi-keito_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_sankochou-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "三光鳥衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_sankochou-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_yukyo-seishun-ka-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "勇侠青春謳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_yukyo-seishun-ka-01_icon.webp",
+        "front": "hasumi-keito_yukyo-seishun-ka-01_front.webp",
+        "back": "hasumi-keito_yukyo-seishun-ka-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_halloween-candle-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_halloween-candle-01_icon.webp",
+        "front": "hasumi-keito_halloween-candle-01_front.webp",
+        "back": "hasumi-keito_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_starlight-7th-live-tshirt-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "hasumi-keito_starlight-7th-live-tshirt-01_front.webp",
+        "back": "hasumi-keito_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_newyear-rise-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_diligent-gray-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "デリジェント・グレイ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_diligent-gray-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_newyear-rise-cape-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_newyear-rise-cape-01_icon.webp",
+        "front": "hasumi-keito_newyear-rise-cape-01_front.webp",
+        "back": "hasumi-keito_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_training-wear-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_training-wear-01_icon.webp",
+        "front": "hasumi-keito_training-wear-01_front.webp",
+        "back": "hasumi-keito_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_bloom-idol-scr-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-love-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_anniversary-love-01_icon.webp",
+        "front": "hasumi-keito_anniversary-love-01_front.webp",
+        "back": "hasumi-keito_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_deadmans-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "デッドマンズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_deadmans-01_icon.webp",
+        "front": "hasumi-keito_deadmans-01_front.webp",
+        "back": "hasumi-keito_deadmans-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_submarine-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "サブマリン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_submarine-01_icon.webp",
+        "front": "hasumi-keito_submarine-01_front.webp",
+        "back": "hasumi-keito_submarine-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_tenchi-meidou-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "天地鳴動衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_tenchi-meidou-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_newyear-rise-silver-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_album-trip-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_gourmand-no-kaori-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "グルマンの香り衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_gourmand-no-kaori-01_icon.webp",
+        "front": "hasumi-keito_gourmand-no-kaori-01_front.webp",
+        "back": "hasumi-keito_gourmand-no-kaori-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "hasumi-keito_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "hasumi-keito_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-challenge-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_twilight-idol-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-challenge-scr-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_anniversary-challenge-scr-01_icon.webp",
+        "front": "hasumi-keito_anniversary-challenge-scr-01_front.webp",
+        "back": "hasumi-keito_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_dominant-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ドミナント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_dominant-01_icon.webp",
+        "front": "hasumi-keito_dominant-01_front.webp",
+        "back": "hasumi-keito_dominant-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_halloween-wing-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_halloween-wing-01_icon.webp",
+        "front": "hasumi-keito_halloween-wing-01_front.webp",
+        "back": "hasumi-keito_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_chocolat-fes-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ショコラフェス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_chocolat-fes-01_icon.webp",
+        "front": "hasumi-keito_chocolat-fes-01_front.webp",
+        "back": "hasumi-keito_chocolat-fes-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_starlight-8th-live-tshirt-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "hasumi-keito_starlight-8th-live-tshirt-01_front.webp",
+        "back": "hasumi-keito_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_shoso-no-kagetsuden-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "翔装の華月伝衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_shoso-no-kagetsuden-01_icon.webp",
+        "front": "hasumi-keito_shoso-no-kagetsuden-01_front.webp",
+        "back": "hasumi-keito_shoso-no-kagetsuden-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_newyear-rise-first-love-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_newyear-rise-first-love-01_icon.webp",
+        "front": "hasumi-keito_newyear-rise-first-love-01_front.webp",
+        "back": "hasumi-keito_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_colorful-music-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_colorful-music-01_icon.webp",
+        "front": "hasumi-keito_colorful-music-01_front.webp",
+        "back": "hasumi-keito_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_akatsuki-hoodie-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "紅月フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_akatsuki-hoodie-01_icon.webp",
+        "front": "hasumi-keito_akatsuki-hoodie-01_front.webp",
+        "back": "hasumi-keito_akatsuki-hoodie-01_back.webp"
+      },
+      "tags": [
+        "紅月",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_twilight-idol-scr-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_jinbei-goldfish-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_jinbei-goldfish-01_icon.webp",
+        "front": "hasumi-keito_jinbei-goldfish-01_front.webp",
+        "back": "hasumi-keito_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_iridescent-light-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_iridescent-light-01_icon.webp",
+        "front": "hasumi-keito_iridescent-light-01_front.webp",
+        "back": "hasumi-keito_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_caelum-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_caelum-01_icon.webp",
+        "front": "hasumi-keito_caelum-01_front.webp",
+        "back": "hasumi-keito_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_battalion-butterfly-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "バタリオン・バタフライ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_battalion-butterfly-01_icon.webp",
+        "front": "hasumi-keito_battalion-butterfly-01_front.webp",
+        "back": "hasumi-keito_battalion-butterfly-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_its-knot-lov-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "It's (k)not lov?衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_its-knot-lov-01_icon.webp",
+        "front": "hasumi-keito_its-knot-lov-01_front.webp",
+        "back": "hasumi-keito_its-knot-lov-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_halloween-wing-angel-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_halloween-wing-angel-01_icon.webp",
+        "front": "hasumi-keito_halloween-wing-angel-01_front.webp",
+        "back": "hasumi-keito_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_arsene-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アルセーヌ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_arsene-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_terra-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_terra-01_icon.webp",
+        "front": "hasumi-keito_terra-01_front.webp",
+        "back": "hasumi-keito_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_shining-star-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_shining-star-01_icon.webp",
+        "front": "hasumi-keito_shining-star-01_front.webp",
+        "back": "hasumi-keito_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_starlight-10th-live-tshirt-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_anniversary-agent-green-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_anniversary-agent-green-01_icon.webp",
+        "front": "hasumi-keito_anniversary-agent-green-01_front.webp",
+        "back": "hasumi-keito_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_mm-akatsuki-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "MM 紅月衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_mm-akatsuki-01_icon.webp",
+        "front": "hasumi-keito_mm-akatsuki-01_front.webp",
+        "back": "hasumi-keito_mm-akatsuki-01_back.webp"
+      },
+      "tags": [
+        "紅月"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_diverse-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "DIVERSE",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hasumi-keito_diverse-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "hasumi-keito_jinbei-fireworks-01",
+      "idol_slug": "hasumi-keito",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hasumi-keito_jinbei-fireworks-01_icon.webp",
+        "front": "hasumi-keito_jinbei-fireworks-01_front.webp",
+        "back": "hasumi-keito_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
     }
   ]
 }
