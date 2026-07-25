@@ -19206,6 +19206,750 @@
           }
         }
       }
+    },
+    "sazanami-jun-slots-04-70": {
+      "idol_slug": "sazanami-jun",
+      "input_dir": "sazanami-jun",
+      "output_dir": "sazanami-jun",
+      "items": {
+        "04_common-scr": {
+          "id": "sazanami-jun_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "sazanami-jun_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 285,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_rainbow-anniversary-suit": {
+          "id": "sazanami-jun_rainbow-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_conquest": {
+          "id": "sazanami-jun_conquest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_kemono-survival": {
+          "id": "sazanami-jun_kemono-survival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 283,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_wonder-game": {
+          "id": "sazanami-jun_wonder-game-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_halloween-bat": {
+          "id": "sazanami-jun_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_black-wing-anniversary-rock": {
+          "id": "sazanami-jun_black-wing-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_wild-resist": {
+          "id": "sazanami-jun_wild-resist-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "sazanami-jun_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "sazanami-jun_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_fusion-unit-switch-eden": {
+          "id": "sazanami-jun_fusion-unit-switch-eden-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_solid": {
+          "id": "sazanami-jun_solid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bloom-idol": {
+          "id": "sazanami-jun_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_bogie-time": {
+          "id": "sazanami-jun_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_cd-fourth": {
+          "id": "sazanami-jun_cd-fourth-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss": {
+          "id": "sazanami-jun_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kohaku": {
+          "id": "sazanami-jun_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "sazanami-jun_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "sazanami-jun_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_black-stage": {
+          "id": "sazanami-jun_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_bankara-graffiti": {
+          "id": "sazanami-jun_bankara-graffiti-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_butoukai": {
+          "id": "sazanami-jun_butoukai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_eve": {
+          "id": "sazanami-jun_eve-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_halloween-candle": {
+          "id": "sazanami-jun_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_replay": {
+          "id": "sazanami-jun_replay-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_starlight-7th-live-tshirt": {
+          "id": "sazanami-jun_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 459,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise": {
+          "id": "sazanami-jun_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_chocolat-fes": {
+          "id": "sazanami-jun_chocolat-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "sazanami-jun_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_training-wear": {
+          "id": "sazanami-jun_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "sazanami-jun_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_anniversary-love": {
+          "id": "sazanami-jun_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 457,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_secret-service": {
+          "id": "sazanami-jun_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_keen-eyed": {
+          "id": "sazanami-jun_keen-eyed-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_newyear-rise-silver": {
+          "id": "sazanami-jun_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_absolute": {
+          "id": "sazanami-jun_absolute-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "sazanami-jun_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "sazanami-jun_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "sazanami-jun_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_album-trip": {
+          "id": "sazanami-jun_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "sazanami-jun_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 461,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_halloween-wing": {
+          "id": "sazanami-jun_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 617,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_summer-live": {
+          "id": "sazanami-jun_summer-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 627,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_starlight-9th-live-tshirt": {
+          "id": "sazanami-jun_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_newyear-rise-first-love": {
+          "id": "sazanami-jun_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_astro-fes": {
+          "id": "sazanami-jun_astro-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_colorful-music": {
+          "id": "sazanami-jun_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_tears": {
+          "id": "sazanami-jun_tears-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 619,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_ouroboros": {
+          "id": "sazanami-jun_ouroboros-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_eden-hoodie": {
+          "id": "sazanami-jun_eden-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_twilight-idol-scr": {
+          "id": "sazanami-jun_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_yau-crisis": {
+          "id": "sazanami-jun_yau-crisis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_jinbei-goldfish": {
+          "id": "sazanami-jun_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_iridescent-light": {
+          "id": "sazanami-jun_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_caelum": {
+          "id": "sazanami-jun_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "60_verite": {
+          "id": "sazanami-jun_verite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "61_halloween-wing-angel": {
+          "id": "sazanami-jun_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "62_sore-wa-zanzou-no-shoushitsuten": {
+          "id": "sazanami-jun_sore-wa-zanzou-no-shoushitsuten-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 307,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "63_terra": {
+          "id": "sazanami-jun_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "64_shining-star": {
+          "id": "sazanami-jun_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "65_starlight-10th-live-tshirt": {
+          "id": "sazanami-jun_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-green": {
+          "id": "sazanami-jun_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "67_mare": {
+          "id": "sazanami-jun_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 477,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "68_golden-dream": {
+          "id": "sazanami-jun_golden-dream-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "69_lo-fi-beats": {
+          "id": "sazanami-jun_lo-fi-beats-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "70_jinbei-fireworks": {
+          "id": "sazanami-jun_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 473,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

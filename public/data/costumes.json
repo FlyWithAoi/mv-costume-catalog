@@ -30738,6 +30738,1232 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_common-scr-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_uta-no-oniisan-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_uta-no-oniisan-01_icon.webp",
+        "front": "sazanami-jun_uta-no-oniisan-01_front.webp",
+        "back": "sazanami-jun_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_rainbow-anniversary-suit-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "虹色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_rainbow-anniversary-suit-01_icon.webp",
+        "front": "sazanami-jun_rainbow-anniversary-suit-01_front.webp",
+        "back": "sazanami-jun_rainbow-anniversary-suit-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_conquest-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "コンクエスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_conquest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_kemono-survival-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ケモノサバイバル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_kemono-survival-01_icon.webp",
+        "front": "sazanami-jun_kemono-survival-01_front.webp",
+        "back": "sazanami-jun_kemono-survival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_wonder-game-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ワンダーゲーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_wonder-game-01_icon.webp",
+        "front": "sazanami-jun_wonder-game-01_front.webp",
+        "back": "sazanami-jun_wonder-game-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_halloween-bat-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_halloween-bat-01_icon.webp",
+        "front": "sazanami-jun_halloween-bat-01_front.webp",
+        "back": "sazanami-jun_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_black-wing-anniversary-rock-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "黒翼のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_black-wing-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_wild-resist-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ワイルドレジスト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_wild-resist-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_esmg-graphic-tshirt-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_pilot-suit-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_pilot-suit-01_icon.webp",
+        "front": "sazanami-jun_pilot-suit-01_front.webp",
+        "back": "sazanami-jun_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_fusion-unit-switch-eden-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_fusion-unit-switch-eden-01_icon.webp",
+        "front": "sazanami-jun_fusion-unit-switch-eden-01_front.webp",
+        "back": "sazanami-jun_fusion-unit-switch-eden-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_solid-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ソリッド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_solid-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_bloom-idol-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_bogie-time-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ボギータイム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_bogie-time-01_icon.webp",
+        "front": "sazanami-jun_bogie-time-01_front.webp",
+        "back": "sazanami-jun_bogie-time-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_cd-fourth-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "CD第四弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_cd-fourth-01_icon.webp",
+        "front": "sazanami-jun_cd-fourth-01_front.webp",
+        "back": "sazanami-jun_cd-fourth-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_ss-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "『SS』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_ss-kohaku-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-chance-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-777-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_anniversary-777-01_icon.webp",
+        "front": "sazanami-jun_anniversary-777-01_front.webp",
+        "back": "sazanami-jun_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_black-stage-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_black-stage-01_icon.webp",
+        "front": "sazanami-jun_black-stage-01_front.webp",
+        "back": "sazanami-jun_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_bankara-graffiti-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "バンカラグラフィティ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_bankara-graffiti-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_butoukai-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "舞闘会衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_butoukai-01_icon.webp",
+        "front": "sazanami-jun_butoukai-01_front.webp",
+        "back": "sazanami-jun_butoukai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_eve-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Eve衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_eve-01_icon.webp",
+        "front": "sazanami-jun_eve-01_front.webp",
+        "back": "sazanami-jun_eve-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_halloween-candle-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_halloween-candle-01_icon.webp",
+        "front": "sazanami-jun_halloween-candle-01_front.webp",
+        "back": "sazanami-jun_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_replay-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "(RE)PLAY衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_replay-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_starlight-7th-live-tshirt-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "sazanami-jun_starlight-7th-live-tshirt-01_front.webp",
+        "back": "sazanami-jun_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_newyear-rise-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_chocolat-fes-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ショコラフェス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_chocolat-fes-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_newyear-rise-cape-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_newyear-rise-cape-01_icon.webp",
+        "front": "sazanami-jun_newyear-rise-cape-01_front.webp",
+        "back": "sazanami-jun_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_training-wear-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_training-wear-01_icon.webp",
+        "front": "sazanami-jun_training-wear-01_front.webp",
+        "back": "sazanami-jun_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_bloom-idol-scr-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-love-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_anniversary-love-01_icon.webp",
+        "front": "sazanami-jun_anniversary-love-01_front.webp",
+        "back": "sazanami-jun_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_secret-service-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "シークレットサービス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_secret-service-01_icon.webp",
+        "front": "sazanami-jun_secret-service-01_front.webp",
+        "back": "sazanami-jun_secret-service-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_keen-eyed-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "keen eyed",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_keen-eyed-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_newyear-rise-silver-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_absolute-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アブソリュート衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_absolute-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "sazanami-jun_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "sazanami-jun_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-challenge-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_twilight-idol-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_album-trip-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-challenge-scr-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_anniversary-challenge-scr-01_icon.webp",
+        "front": "sazanami-jun_anniversary-challenge-scr-01_front.webp",
+        "back": "sazanami-jun_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_halloween-wing-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_halloween-wing-01_icon.webp",
+        "front": "sazanami-jun_halloween-wing-01_front.webp",
+        "back": "sazanami-jun_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_summer-live-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "サマーライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_summer-live-01_icon.webp",
+        "front": "sazanami-jun_summer-live-01_front.webp",
+        "back": "sazanami-jun_summer-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_starlight-9th-live-tshirt-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "sazanami-jun_starlight-9th-live-tshirt-01_front.webp",
+        "back": "sazanami-jun_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_newyear-rise-first-love-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_newyear-rise-first-love-01_icon.webp",
+        "front": "sazanami-jun_newyear-rise-first-love-01_front.webp",
+        "back": "sazanami-jun_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_astro-fes-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ASTRO FES衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_astro-fes-01_icon.webp",
+        "front": "sazanami-jun_astro-fes-01_front.webp",
+        "back": "sazanami-jun_astro-fes-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_colorful-music-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_colorful-music-01_icon.webp",
+        "front": "sazanami-jun_colorful-music-01_front.webp",
+        "back": "sazanami-jun_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_tears-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "TearS衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_tears-01_icon.webp",
+        "front": "sazanami-jun_tears-01_front.webp",
+        "back": "sazanami-jun_tears-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_ouroboros-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ウロボロス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_ouroboros-01_icon.webp",
+        "front": "sazanami-jun_ouroboros-01_front.webp",
+        "back": "sazanami-jun_ouroboros-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_eden-hoodie-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Edenフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_eden-hoodie-01_icon.webp",
+        "front": "sazanami-jun_eden-hoodie-01_front.webp",
+        "back": "sazanami-jun_eden-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_twilight-idol-scr-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_yau-crisis-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "夜雨クライシス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_yau-crisis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_jinbei-goldfish-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_jinbei-goldfish-01_icon.webp",
+        "front": "sazanami-jun_jinbei-goldfish-01_front.webp",
+        "back": "sazanami-jun_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_iridescent-light-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_caelum-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_caelum-01_icon.webp",
+        "front": "sazanami-jun_caelum-01_front.webp",
+        "back": "sazanami-jun_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_verite-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ヴェリテ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_verite-01_icon.webp",
+        "front": "sazanami-jun_verite-01_front.webp",
+        "back": "sazanami-jun_verite-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_halloween-wing-angel-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_halloween-wing-angel-01_icon.webp",
+        "front": "sazanami-jun_halloween-wing-angel-01_front.webp",
+        "back": "sazanami-jun_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_sore-wa-zanzou-no-shoushitsuten-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "それは残像の消失点衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_sore-wa-zanzou-no-shoushitsuten-01_icon.webp",
+        "front": "sazanami-jun_sore-wa-zanzou-no-shoushitsuten-01_front.webp",
+        "back": "sazanami-jun_sore-wa-zanzou-no-shoushitsuten-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_terra-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_terra-01_icon.webp",
+        "front": "sazanami-jun_terra-01_front.webp",
+        "back": "sazanami-jun_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_shining-star-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_shining-star-01_icon.webp",
+        "front": "sazanami-jun_shining-star-01_front.webp",
+        "back": "sazanami-jun_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_starlight-10th-live-tshirt-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_anniversary-agent-green-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_anniversary-agent-green-01_icon.webp",
+        "front": "sazanami-jun_anniversary-agent-green-01_front.webp",
+        "back": "sazanami-jun_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_mare-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_mare-01_icon.webp",
+        "front": "sazanami-jun_mare-01_front.webp",
+        "back": "sazanami-jun_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_golden-dream-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Golden Dream衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_golden-dream-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_lo-fi-beats-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "Lo-Fi BEATS衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sazanami-jun_lo-fi-beats-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-25"
+    },
+    {
+      "id": "sazanami-jun_jinbei-fireworks-01",
+      "idol_slug": "sazanami-jun",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sazanami-jun_jinbei-fireworks-01_icon.webp",
+        "front": "sazanami-jun_jinbei-fireworks-01_front.webp",
+        "back": "sazanami-jun_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-25"
     }
   ]
 }
