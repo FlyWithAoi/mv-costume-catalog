@@ -38585,6 +38585,620 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_sorairo-anniversary-suit-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_sorairo-anniversary-suit-01_icon.webp",
+        "front": "shiina-niki_sorairo-anniversary-suit-01_front.webp",
+        "back": "shiina-niki_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_halloween-bat-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_halloween-bat-01_icon.webp",
+        "front": "shiina-niki_halloween-bat-01_front.webp",
+        "back": "shiina-niki_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_pilot-suit-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_pilot-suit-01_icon.webp",
+        "front": "shiina-niki_pilot-suit-01_front.webp",
+        "back": "shiina-niki_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_nightclub-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_nightclub-01_icon.webp",
+        "front": "shiina-niki_nightclub-01_front.webp",
+        "back": "shiina-niki_nightclub-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_anniversary-777-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_anniversary-777-01_icon.webp",
+        "front": "shiina-niki_anniversary-777-01_front.webp",
+        "back": "shiina-niki_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_black-stage-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_black-stage-01_icon.webp",
+        "front": "shiina-niki_black-stage-01_front.webp",
+        "back": "shiina-niki_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_halloween-candle-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_halloween-candle-01_icon.webp",
+        "front": "shiina-niki_halloween-candle-01_front.webp",
+        "back": "shiina-niki_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_starlight-7th-live-tshirt-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "shiina-niki_starlight-7th-live-tshirt-01_front.webp",
+        "back": "shiina-niki_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_newyear-rise-cape-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_newyear-rise-cape-01_icon.webp",
+        "front": "shiina-niki_newyear-rise-cape-01_front.webp",
+        "back": "shiina-niki_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_training-wear-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_training-wear-01_icon.webp",
+        "front": "shiina-niki_training-wear-01_front.webp",
+        "back": "shiina-niki_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_anniversary-live-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "アニバーサリーライブ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_anniversary-live-01_icon.webp",
+        "front": "shiina-niki_anniversary-live-01_front.webp",
+        "back": "shiina-niki_anniversary-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "shiina-niki_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "shiina-niki_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_anniversary-challenge-scr-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_anniversary-challenge-scr-01_icon.webp",
+        "front": "shiina-niki_anniversary-challenge-scr-01_front.webp",
+        "back": "shiina-niki_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_mayoigo-ballad-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "迷い子バラッド衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_mayoigo-ballad-01_icon.webp",
+        "front": "shiina-niki_mayoigo-ballad-01_front.webp",
+        "back": "shiina-niki_mayoigo-ballad-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_shunsairei-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "瞬祭礼衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_shunsairei-01_icon.webp",
+        "front": "shiina-niki_shunsairei-01_front.webp",
+        "back": "shiina-niki_shunsairei-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_sudden-death-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_sudden-death-01_icon.webp",
+        "front": "shiina-niki_sudden-death-01_front.webp",
+        "back": "shiina-niki_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_halloween-wing-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_halloween-wing-01_icon.webp",
+        "front": "shiina-niki_halloween-wing-01_front.webp",
+        "back": "shiina-niki_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_starlight-8th-live-tshirt-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "shiina-niki_starlight-8th-live-tshirt-01_front.webp",
+        "back": "shiina-niki_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_newyear-rise-first-love-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_newyear-rise-first-love-01_icon.webp",
+        "front": "shiina-niki_newyear-rise-first-love-01_front.webp",
+        "back": "shiina-niki_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_colorful-music-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_colorful-music-01_icon.webp",
+        "front": "shiina-niki_colorful-music-01_front.webp",
+        "back": "shiina-niki_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_unsafe-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "unsafe衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_unsafe-01_icon.webp",
+        "front": "shiina-niki_unsafe-01_front.webp",
+        "back": "shiina-niki_unsafe-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_crazy-b-hoodie-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "Crazy:Bフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_crazy-b-hoodie-01_icon.webp",
+        "front": "shiina-niki_crazy-b-hoodie-01_front.webp",
+        "back": "shiina-niki_crazy-b-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Crazy:B"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_pairing-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ペアリング衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_pairing-01_icon.webp",
+        "front": "shiina-niki_pairing-01_front.webp",
+        "back": "shiina-niki_pairing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_love-and-peace-legend-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "らびゅ＆ピース伝説衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_love-and-peace-legend-01_icon.webp",
+        "front": "shiina-niki_love-and-peace-legend-01_front.webp",
+        "back": "shiina-niki_love-and-peace-legend-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_jinbei-goldfish-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_jinbei-goldfish-01_icon.webp",
+        "front": "shiina-niki_jinbei-goldfish-01_front.webp",
+        "back": "shiina-niki_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_caelum-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_caelum-01_icon.webp",
+        "front": "shiina-niki_caelum-01_front.webp",
+        "back": "shiina-niki_caelum-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_halloween-wing-angel-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_halloween-wing-angel-01_icon.webp",
+        "front": "shiina-niki_halloween-wing-angel-01_front.webp",
+        "back": "shiina-niki_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_terra-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_terra-01_icon.webp",
+        "front": "shiina-niki_terra-01_front.webp",
+        "back": "shiina-niki_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_slow-life-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "スローライフ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_slow-life-01_icon.webp",
+        "front": "shiina-niki_slow-life-01_front.webp",
+        "back": "shiina-niki_slow-life-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_shining-star-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_shining-star-01_icon.webp",
+        "front": "shiina-niki_shining-star-01_front.webp",
+        "back": "shiina-niki_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_anniversary-agent-red-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_anniversary-agent-red-01_icon.webp",
+        "front": "shiina-niki_anniversary-agent-red-01_front.webp",
+        "back": "shiina-niki_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_mm-crazy-b-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "MM Crazy:B衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_mm-crazy-b-01_icon.webp",
+        "front": "shiina-niki_mm-crazy-b-01_front.webp",
+        "back": "shiina-niki_mm-crazy-b-01_back.webp"
+      },
+      "tags": [
+        "Crazy:B"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_mare-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_mare-01_icon.webp",
+        "front": "shiina-niki_mare-01_front.webp",
+        "back": "shiina-niki_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "shiina-niki_jinbei-fireworks-01",
+      "idol_slug": "shiina-niki",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_jinbei-fireworks-01_icon.webp",
+        "front": "shiina-niki_jinbei-fireworks-01_front.webp",
+        "back": "shiina-niki_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
     }
   ]
 }

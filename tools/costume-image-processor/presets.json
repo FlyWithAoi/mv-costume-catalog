@@ -23985,6 +23985,387 @@
           }
         }
       }
+    },
+    "shiina-niki-slots-04-37": {
+      "idol_slug": "shiina-niki",
+      "input_dir": "shiina-niki",
+      "output_dir": "shiina-niki",
+      "items": {
+        "04_sorairo-anniversary-suit": {
+          "id": "shiina-niki_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1603,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "05_halloween-bat": {
+          "id": "shiina-niki_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1944,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "06_pilot-suit": {
+          "id": "shiina-niki_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1091,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_nightclub": {
+          "id": "shiina-niki_nightclub-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1432,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "08_anniversary-777": {
+          "id": "shiina-niki_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 921,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "09_black-stage": {
+          "id": "shiina-niki_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1091,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "10_halloween-candle": {
+          "id": "shiina-niki_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1773,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "11_starlight-7th-live-tshirt": {
+          "id": "shiina-niki_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1944,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "12_newyear-rise-cape": {
+          "id": "shiina-niki_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 750,
+            "y": 460,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "13_training-wear": {
+          "id": "shiina-niki_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 921,
+            "y": 463,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "14_anniversary-live": {
+          "id": "shiina-niki_anniversary-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1432,
+            "y": 457,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "15_scramble-gakuen-boys-uniform": {
+          "id": "shiina-niki_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 456,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "16_anniversary-challenge-scr": {
+          "id": "shiina-niki_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1262,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "17_mayoigo-ballad": {
+          "id": "shiina-niki_mayoigo-ballad-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1432,
+            "y": 467,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "18_shunsairei": {
+          "id": "shiina-niki_shunsairei-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1603,
+            "y": 464,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "19_sudden-death": {
+          "id": "shiina-niki_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1773,
+            "y": 467,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "20_halloween-wing": {
+          "id": "shiina-niki_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1944,
+            "y": 469,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "21_starlight-8th-live-tshirt": {
+          "id": "shiina-niki_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "22_newyear-rise-first-love": {
+          "id": "shiina-niki_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 750,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "23_colorful-music": {
+          "id": "shiina-niki_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 921,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "24_unsafe": {
+          "id": "shiina-niki_unsafe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1091,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "25_crazy-b-hoodie": {
+          "id": "shiina-niki_crazy-b-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1262,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "26_pairing": {
+          "id": "shiina-niki_pairing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1603,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "27_love-and-peace-legend": {
+          "id": "shiina-niki_love-and-peace-legend-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1773,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "28_jinbei-goldfish": {
+          "id": "shiina-niki_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1944,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "29_caelum": {
+          "id": "shiina-niki_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "30_halloween-wing-angel": {
+          "id": "shiina-niki_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 750,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "31_terra": {
+          "id": "shiina-niki_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 921,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "32_slow-life": {
+          "id": "shiina-niki_slow-life-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1091,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "33_shining-star": {
+          "id": "shiina-niki_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1262,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "34_anniversary-agent-red": {
+          "id": "shiina-niki_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1603,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "35_mm-crazy-b": {
+          "id": "shiina-niki_mm-crazy-b-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1773,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "36_mare": {
+          "id": "shiina-niki_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1944,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "37_jinbei-fireworks": {
+          "id": "shiina-niki_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 652,
+            "width": 184,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }
