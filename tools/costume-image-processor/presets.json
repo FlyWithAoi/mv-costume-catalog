@@ -26268,6 +26268,761 @@
           }
         }
       }
+    },
+    "sakuma-ritsu-slots-04-71": {
+      "idol_slug": "sakuma-ritsu",
+      "input_dir": "sakuma-ritsu",
+      "output_dir": "sakuma-ritsu",
+      "items": {
+        "04_common-scr": {
+          "id": "sakuma-ritsu_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_nyan-gunshi": {
+          "id": "sakuma-ritsu_nyan-gunshi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "06_uta-no-oniisan": {
+          "id": "sakuma-ritsu_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "07_sorairo-anniversary-suit": {
+          "id": "sakuma-ritsu_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "08_return-festival": {
+          "id": "sakuma-ritsu_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "09_halloween-pat": {
+          "id": "sakuma-ritsu_halloween-pat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "10_shigeki-anniversary-rock": {
+          "id": "sakuma-ritsu_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_you-saneijia": {
+          "id": "sakuma-ritsu_you-saneijia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "sakuma-ritsu_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "sakuma-ritsu_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 431,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "14_fragrance": {
+          "id": "sakuma-ritsu_fragrance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_next-door": {
+          "id": "sakuma-ritsu_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "16_bloom-idol": {
+          "id": "sakuma-ritsu_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_la-mort": {
+          "id": "sakuma-ritsu_la-mort-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_halloween-costume": {
+          "id": "sakuma-ritsu_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "19_ss-kouhaku": {
+          "id": "sakuma-ritsu_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_fusion-ryuseitai-knights": {
+          "id": "sakuma-ritsu_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_sleeping-forest": {
+          "id": "sakuma-ritsu_sleeping-forest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "sakuma-ritsu_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "sakuma-ritsu_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "24_black-stage": {
+          "id": "sakuma-ritsu_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "25_sunshine": {
+          "id": "sakuma-ritsu_sunshine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "sakuma-ritsu_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "sakuma-ritsu_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "28_newyear-rise": {
+          "id": "sakuma-ritsu_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 596,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "29_starlight-parade": {
+          "id": "sakuma-ritsu_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_craft-monster": {
+          "id": "sakuma-ritsu_craft-monster-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 593,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "sakuma-ritsu_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 594,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "32_duelision": {
+          "id": "sakuma-ritsu_duelision-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_training-wear": {
+          "id": "sakuma-ritsu_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 588,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "sakuma-ritsu_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "sakuma-ritsu_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 591,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "36_mad-party": {
+          "id": "sakuma-ritsu_mad-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_newyear-rise-silver": {
+          "id": "sakuma-ritsu_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_red-beat": {
+          "id": "sakuma-ritsu_red-beat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 596,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "39_campbit": {
+          "id": "sakuma-ritsu_campbit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_checkmate": {
+          "id": "sakuma-ritsu_checkmate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 597,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "sakuma-ritsu_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 600,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "sakuma-ritsu_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "sakuma-ritsu_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_album-trip": {
+          "id": "sakuma-ritsu_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 598,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "45_e-heart-telephone": {
+          "id": "sakuma-ritsu_e-heart-telephone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_anniversary-challenge-scr": {
+          "id": "sakuma-ritsu_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 596,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "47_izamaru-song": {
+          "id": "sakuma-ritsu_izamaru-song-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 594,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "48_sudden-death": {
+          "id": "sakuma-ritsu_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 599,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "49_halloween-wing": {
+          "id": "sakuma-ritsu_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 591,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "50_fleur-de-lis": {
+          "id": "sakuma-ritsu_fleur-de-lis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 598,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "51_starlight-9th-live-tshirt": {
+          "id": "sakuma-ritsu_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 594,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "sakuma-ritsu_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 598,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "53_gravure-actor": {
+          "id": "sakuma-ritsu_gravure-actor-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 596,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "54_colorful-music": {
+          "id": "sakuma-ritsu_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 594,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "55_unsafe": {
+          "id": "sakuma-ritsu_unsafe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_knights-hoodie": {
+          "id": "sakuma-ritsu_knights-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 422,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "sakuma-ritsu_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_jinbei-goldfish": {
+          "id": "sakuma-ritsu_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 423,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "59_iridescent-light": {
+          "id": "sakuma-ritsu_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 430,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "60_caelum": {
+          "id": "sakuma-ritsu_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 432,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "61_iridescent-light-scr": {
+          "id": "sakuma-ritsu_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 424,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "sakuma-ritsu_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 429,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "63_gan-kou-one-way-ticket": {
+          "id": "sakuma-ritsu_gan-kou-one-way-ticket-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 430,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "64_terra": {
+          "id": "sakuma-ritsu_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 592,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "65_masquerade-night": {
+          "id": "sakuma-ritsu_masquerade-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "66_shining-star": {
+          "id": "sakuma-ritsu_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 593,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "67_starlight-10th-live-tshirt": {
+          "id": "sakuma-ritsu_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_anniversary-agent-red": {
+          "id": "sakuma-ritsu_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 594,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "69_mare": {
+          "id": "sakuma-ritsu_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 592,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "70_mm-knights": {
+          "id": "sakuma-ritsu_mm-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 600,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "71_jinbei-fireworks": {
+          "id": "sakuma-ritsu_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 597,
+            "width": 214,
+            "height": 214
+          }
+        }
+      }
     }
   }
 }

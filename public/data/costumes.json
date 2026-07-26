@@ -42290,6 +42290,1237 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_common-scr-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_nyan-gunshi-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ニャン銃士衣装",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_nyan-gunshi-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_uta-no-oniisan-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_uta-no-oniisan-01_icon.webp",
+        "front": "sakuma-ritsu_uta-no-oniisan-01_front.webp",
+        "back": "sakuma-ritsu_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_sorairo-anniversary-suit-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_sorairo-anniversary-suit-01_icon.webp",
+        "front": "sakuma-ritsu_sorairo-anniversary-suit-01_front.webp",
+        "back": "sakuma-ritsu_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_return-festival-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "返礼祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_return-festival-01_icon.webp",
+        "front": "sakuma-ritsu_return-festival-01_front.webp",
+        "back": "sakuma-ritsu_return-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_halloween-pat-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ハロウィンパット",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_halloween-pat-01_icon.webp",
+        "front": "sakuma-ritsu_halloween-pat-01_front.webp",
+        "back": "sakuma-ritsu_halloween-pat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_shigeki-anniversary-rock-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_you-saneijia-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ユーサネイジア衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_you-saneijia-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_esmg-graphic-tshirt-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_pilot-suit-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_pilot-suit-01_icon.webp",
+        "front": "sakuma-ritsu_pilot-suit-01_front.webp",
+        "back": "sakuma-ritsu_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_fragrance-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "フレグランス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_fragrance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_next-door-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_next-door-01_icon.webp",
+        "front": "sakuma-ritsu_next-door-01_front.webp",
+        "back": "sakuma-ritsu_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_bloom-idol-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_la-mort-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "La Mort衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_la-mort-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_halloween-costume-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_halloween-costume-01_icon.webp",
+        "front": "sakuma-ritsu_halloween-costume-01_front.webp",
+        "back": "sakuma-ritsu_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_ss-kouhaku-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_fusion-ryuseitai-knights-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_sleeping-forest-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "眠れる森",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_sleeping-forest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-chance-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-777-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-777-01_icon.webp",
+        "front": "sakuma-ritsu_anniversary-777-01_front.webp",
+        "back": "sakuma-ritsu_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_black-stage-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_black-stage-01_icon.webp",
+        "front": "sakuma-ritsu_black-stage-01_front.webp",
+        "back": "sakuma-ritsu_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_sunshine-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "サンシャイン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_sunshine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_starlight-6th-live-tshirt-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_halloween-candle-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_halloween-candle-01_icon.webp",
+        "front": "sakuma-ritsu_halloween-candle-01_front.webp",
+        "back": "sakuma-ritsu_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_newyear-rise-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_newyear-rise-01_icon.webp",
+        "front": "sakuma-ritsu_newyear-rise-01_front.webp",
+        "back": "sakuma-ritsu_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_starlight-parade-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_craft-monster-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "クラフトモンスター衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_craft-monster-01_icon.webp",
+        "front": "sakuma-ritsu_craft-monster-01_front.webp",
+        "back": "sakuma-ritsu_craft-monster-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_newyear-rise-cape-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_newyear-rise-cape-01_icon.webp",
+        "front": "sakuma-ritsu_newyear-rise-cape-01_front.webp",
+        "back": "sakuma-ritsu_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_duelision-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "デュエシオン衣装",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_duelision-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_training-wear-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_training-wear-01_icon.webp",
+        "front": "sakuma-ritsu_training-wear-01_front.webp",
+        "back": "sakuma-ritsu_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_bloom-idol-scr-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-love-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-love-01_icon.webp",
+        "front": "sakuma-ritsu_anniversary-love-01_front.webp",
+        "back": "sakuma-ritsu_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_mad-party-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Mad Party衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_mad-party-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_newyear-rise-silver-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_red-beat-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "赤い鼓動衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_red-beat-01_icon.webp",
+        "front": "sakuma-ritsu_red-beat-01_front.webp",
+        "back": "sakuma-ritsu_red-beat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_campbit-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "キャンビット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_campbit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_checkmate-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "チェックメイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_checkmate-01_icon.webp",
+        "front": "sakuma-ritsu_checkmate-01_front.webp",
+        "back": "sakuma-ritsu_checkmate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "sakuma-ritsu_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "sakuma-ritsu_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-challenge-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_twilight-idol-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_album-trip-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_album-trip-01_icon.webp",
+        "front": "sakuma-ritsu_album-trip-01_front.webp",
+        "back": "sakuma-ritsu_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_e-heart-telephone-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "イーハートLTELEPHONE衣装",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_e-heart-telephone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-challenge-scr-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-challenge-scr-01_icon.webp",
+        "front": "sakuma-ritsu_anniversary-challenge-scr-01_front.webp",
+        "back": "sakuma-ritsu_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_izamaru-song-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "いざまるの歌衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_izamaru-song-01_icon.webp",
+        "front": "sakuma-ritsu_izamaru-song-01_front.webp",
+        "back": "sakuma-ritsu_izamaru-song-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_sudden-death-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_sudden-death-01_icon.webp",
+        "front": "sakuma-ritsu_sudden-death-01_front.webp",
+        "back": "sakuma-ritsu_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_halloween-wing-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_halloween-wing-01_icon.webp",
+        "front": "sakuma-ritsu_halloween-wing-01_front.webp",
+        "back": "sakuma-ritsu_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_fleur-de-lis-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ブルール・ド・リス衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_fleur-de-lis-01_icon.webp",
+        "front": "sakuma-ritsu_fleur-de-lis-01_front.webp",
+        "back": "sakuma-ritsu_fleur-de-lis-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_starlight-9th-live-tshirt-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "sakuma-ritsu_starlight-9th-live-tshirt-01_front.webp",
+        "back": "sakuma-ritsu_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_newyear-rise-first-love-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_newyear-rise-first-love-01_icon.webp",
+        "front": "sakuma-ritsu_newyear-rise-first-love-01_front.webp",
+        "back": "sakuma-ritsu_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_gravure-actor-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "グラビレクター衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_gravure-actor-01_icon.webp",
+        "front": "sakuma-ritsu_gravure-actor-01_front.webp",
+        "back": "sakuma-ritsu_gravure-actor-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_colorful-music-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_colorful-music-01_icon.webp",
+        "front": "sakuma-ritsu_colorful-music-01_front.webp",
+        "back": "sakuma-ritsu_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_unsafe-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "unsafe衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_unsafe-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_knights-hoodie-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Knightsフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_knights-hoodie-01_icon.webp",
+        "front": "sakuma-ritsu_knights-hoodie-01_front.webp",
+        "back": "sakuma-ritsu_knights-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_twilight-idol-scr-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_jinbei-goldfish-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_jinbei-goldfish-01_icon.webp",
+        "front": "sakuma-ritsu_jinbei-goldfish-01_front.webp",
+        "back": "sakuma-ritsu_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_iridescent-light-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_iridescent-light-01_icon.webp",
+        "front": "sakuma-ritsu_iridescent-light-01_front.webp",
+        "back": "sakuma-ritsu_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_caelum-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_caelum-01_icon.webp",
+        "front": "sakuma-ritsu_caelum-01_front.webp",
+        "back": "sakuma-ritsu_caelum-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_iridescent-light-scr-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "イリディセントライト（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_iridescent-light-scr-01_icon.webp",
+        "front": "sakuma-ritsu_iridescent-light-scr-01_front.webp",
+        "back": "sakuma-ritsu_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_halloween-wing-angel-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_halloween-wing-angel-01_icon.webp",
+        "front": "sakuma-ritsu_halloween-wing-angel-01_front.webp",
+        "back": "sakuma-ritsu_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_gan-kou-one-way-ticket-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "雁行の片道切符衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_gan-kou-one-way-ticket-01_icon.webp",
+        "front": "sakuma-ritsu_gan-kou-one-way-ticket-01_front.webp",
+        "back": "sakuma-ritsu_gan-kou-one-way-ticket-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_terra-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_terra-01_icon.webp",
+        "front": "sakuma-ritsu_terra-01_front.webp",
+        "back": "sakuma-ritsu_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_masquerade-night-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "MASQUERADE NIGHT衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_masquerade-night-01_icon.webp",
+        "front": "sakuma-ritsu_masquerade-night-01_front.webp",
+        "back": "sakuma-ritsu_masquerade-night-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_shining-star-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_shining-star-01_icon.webp",
+        "front": "sakuma-ritsu_shining-star-01_front.webp",
+        "back": "sakuma-ritsu_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_starlight-10th-live-tshirt-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-ritsu_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_anniversary-agent-red-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_anniversary-agent-red-01_icon.webp",
+        "front": "sakuma-ritsu_anniversary-agent-red-01_front.webp",
+        "back": "sakuma-ritsu_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_mare-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_mare-01_icon.webp",
+        "front": "sakuma-ritsu_mare-01_front.webp",
+        "back": "sakuma-ritsu_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_mm-knights-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "MM Knights衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_mm-knights-01_icon.webp",
+        "front": "sakuma-ritsu_mm-knights-01_front.webp",
+        "back": "sakuma-ritsu_mm-knights-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "sakuma-ritsu_jinbei-fireworks-01",
+      "idol_slug": "sakuma-ritsu",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-ritsu_jinbei-fireworks-01_icon.webp",
+        "front": "sakuma-ritsu_jinbei-fireworks-01_front.webp",
+        "back": "sakuma-ritsu_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
     }
   ]
 }
