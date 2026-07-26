@@ -22671,7 +22671,7 @@
         "14_nightclub": {
           "id": "himeru_nightclub-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 1440,
             "y": 445,
@@ -23003,8 +23003,8 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1605,
-            "y": 649,
+            "x": 1946,
+            "y": 630,
             "width": 184,
             "height": 175
           }

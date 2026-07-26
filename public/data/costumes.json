@@ -36435,17 +36435,17 @@
       "idol_slug": "himeru",
       "costume_name": "ナイトクラブ衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "himeru_nightclub-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "himeru_nightclub-01_front.webp",
+        "back": "himeru_nightclub-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "選択画面のみ取得（詳細ポップアップ・front/back未取得）のため参考画像なし。",
+      "note_public": "",
       "updated_at": "2026-07-26"
     },
     {
