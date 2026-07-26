@@ -37329,6 +37329,1262 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_common-scr-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_uta-no-oniisan-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_uta-no-oniisan-01_icon.webp",
+        "front": "oukawa-kohaku_uta-no-oniisan-01_front.webp",
+        "back": "oukawa-kohaku_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_sorairo-anniversary-suit-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_sorairo-anniversary-suit-01_icon.webp",
+        "front": "oukawa-kohaku_sorairo-anniversary-suit-01_front.webp",
+        "back": "oukawa-kohaku_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_honey-bee-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ハニービー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_honey-bee-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_double-face-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Double Face衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_double-face-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_hot-limit-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ホットリミット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_hot-limit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_halloween-bat-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_halloween-bat-01_icon.webp",
+        "front": "oukawa-kohaku_halloween-bat-01_front.webp",
+        "back": "oukawa-kohaku_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_shigeki-anniversary-rock-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_esmg-graphic-tshirt-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_pilot-suit-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_pilot-suit-01_icon.webp",
+        "front": "oukawa-kohaku_pilot-suit-01_front.webp",
+        "back": "oukawa-kohaku_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anyaku-anniversary-rock-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "暗躍のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_anyaku-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_ariadone-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アリアドネ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_ariadone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_nightclub-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_nightclub-01_icon.webp",
+        "front": "oukawa-kohaku_nightclub-01_front.webp",
+        "back": "oukawa-kohaku_nightclub-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_fusion-unit-rabits-df-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "FUSION UNIT(Ra*bits×DF)衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_fusion-unit-rabits-df-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_sakura-amber-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "SAKURAアンバー",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_sakura-amber-01_icon.webp",
+        "front": "oukawa-kohaku_sakura-amber-01_front.webp",
+        "back": "oukawa-kohaku_sakura-amber-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_bloom-idol-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_la-mort-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "La Mort衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_la-mort-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_ss-kouhaku-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_antique-kitan-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "骨董綺譚衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_antique-kitan-01_icon.webp",
+        "front": "oukawa-kohaku_antique-kitan-01_front.webp",
+        "back": "oukawa-kohaku_antique-kitan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_shunshou-ikkoku-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "春宵一刻衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_shunshou-ikkoku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-chance-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-777-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-777-01_icon.webp",
+        "front": "oukawa-kohaku_anniversary-777-01_front.webp",
+        "back": "oukawa-kohaku_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_black-stage-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_black-stage-01_icon.webp",
+        "front": "oukawa-kohaku_black-stage-01_front.webp",
+        "back": "oukawa-kohaku_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_usa-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_usa-01_icon.webp",
+        "front": "oukawa-kohaku_usa-01_front.webp",
+        "back": "oukawa-kohaku_usa-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_starlight-6th-live-tshirt-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_spider-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "スパイダー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_spider-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_halloween-candle-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_halloween-candle-01_icon.webp",
+        "front": "oukawa-kohaku_halloween-candle-01_front.webp",
+        "back": "oukawa-kohaku_halloween-candle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_starlight-7th-live-tshirt-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "oukawa-kohaku_starlight-7th-live-tshirt-01_front.webp",
+        "back": "oukawa-kohaku_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_kyoun-scramble-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "強運SCRAMBLE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_kyoun-scramble-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_newyear-rise-cape-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_newyear-rise-cape-01_icon.webp",
+        "front": "oukawa-kohaku_newyear-rise-cape-01_front.webp",
+        "back": "oukawa-kohaku_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_yoru-ni-kakeru-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "夜に駆ける衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_yoru-ni-kakeru-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_training-wear-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_training-wear-01_icon.webp",
+        "front": "oukawa-kohaku_training-wear-01_front.webp",
+        "back": "oukawa-kohaku_training-wear-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_bloom-idol-scr-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-love-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-love-01_icon.webp",
+        "front": "oukawa-kohaku_anniversary-love-01_front.webp",
+        "back": "oukawa-kohaku_anniversary-love-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_number-eight-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ナンバーエイト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_number-eight-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_album-trip-crazyb-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アルバム『TRIP』衣装（Crazy:B）",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_album-trip-crazyb-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_last-mission-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ラストミッション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_last-mission-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_secret-service-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "シークレットサービス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_secret-service-01_icon.webp",
+        "front": "oukawa-kohaku_secret-service-01_front.webp",
+        "back": "oukawa-kohaku_secret-service-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_album-trip-double-face-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アルバム『TRIP』衣装（Double Face）",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_album-trip-double-face-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_newyear-rise-silver-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_red-thorn-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "RED THORN",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_red-thorn-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "oukawa-kohaku_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "oukawa-kohaku_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_matrix-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_matrix-01_icon.webp",
+        "front": "oukawa-kohaku_matrix-01_front.webp",
+        "back": "oukawa-kohaku_matrix-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-challenge-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_twilight-idol-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-challenge-scr-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-challenge-scr-01_icon.webp",
+        "front": "oukawa-kohaku_anniversary-challenge-scr-01_front.webp",
+        "back": "oukawa-kohaku_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_shunsairei-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "瞬祭礼衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_shunsairei-01_icon.webp",
+        "front": "oukawa-kohaku_shunsairei-01_front.webp",
+        "back": "oukawa-kohaku_shunsairei-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_sudden-death-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_sudden-death-01_icon.webp",
+        "front": "oukawa-kohaku_sudden-death-01_front.webp",
+        "back": "oukawa-kohaku_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_halloween-wing-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_halloween-wing-01_icon.webp",
+        "front": "oukawa-kohaku_halloween-wing-01_front.webp",
+        "back": "oukawa-kohaku_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_starlight-8th-live-tshirt-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "oukawa-kohaku_starlight-8th-live-tshirt-01_front.webp",
+        "back": "oukawa-kohaku_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_newyear-rise-first-love-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_newyear-rise-first-love-01_icon.webp",
+        "front": "oukawa-kohaku_newyear-rise-first-love-01_front.webp",
+        "back": "oukawa-kohaku_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_colorful-music-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_colorful-music-01_icon.webp",
+        "front": "oukawa-kohaku_colorful-music-01_front.webp",
+        "back": "oukawa-kohaku_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_talk-to-me-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "talk to me衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_talk-to-me-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_crazy-b-hoodie-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Crazy:Bフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_crazy-b-hoodie-01_icon.webp",
+        "front": "oukawa-kohaku_crazy-b-hoodie-01_front.webp",
+        "back": "oukawa-kohaku_crazy-b-hoodie-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_twilight-idol-scr-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_pairing-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ペアリング衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_pairing-01_icon.webp",
+        "front": "oukawa-kohaku_pairing-01_front.webp",
+        "back": "oukawa-kohaku_pairing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_jinbei-goldfish-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_jinbei-goldfish-01_icon.webp",
+        "front": "oukawa-kohaku_jinbei-goldfish-01_front.webp",
+        "back": "oukawa-kohaku_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_caelum-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_caelum-01_icon.webp",
+        "front": "oukawa-kohaku_caelum-01_front.webp",
+        "back": "oukawa-kohaku_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_doodle-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Doodle",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_doodle-01_icon.webp",
+        "front": "oukawa-kohaku_doodle-01_front.webp",
+        "back": "oukawa-kohaku_doodle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_halloween-wing-angel-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_halloween-wing-angel-01_icon.webp",
+        "front": "oukawa-kohaku_halloween-wing-angel-01_front.webp",
+        "back": "oukawa-kohaku_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_saika-ame-kata-michi-kippu-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "催花雨の片道切符衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_saika-ame-kata-michi-kippu-01_icon.webp",
+        "front": "oukawa-kohaku_saika-ame-kata-michi-kippu-01_front.webp",
+        "back": "oukawa-kohaku_saika-ame-kata-michi-kippu-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_terra-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_terra-01_icon.webp",
+        "front": "oukawa-kohaku_terra-01_front.webp",
+        "back": "oukawa-kohaku_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_shining-star-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_shining-star-01_icon.webp",
+        "front": "oukawa-kohaku_shining-star-01_front.webp",
+        "back": "oukawa-kohaku_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_starlight-10th-live-tshirt-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "oukawa-kohaku_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_anniversary-agent-green-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_anniversary-agent-green-01_icon.webp",
+        "front": "oukawa-kohaku_anniversary-agent-green-01_front.webp",
+        "back": "oukawa-kohaku_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_mm-crazy-b-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "MM Crazy:B衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_mm-crazy-b-01_icon.webp",
+        "front": "oukawa-kohaku_mm-crazy-b-01_front.webp",
+        "back": "oukawa-kohaku_mm-crazy-b-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_mare-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_mare-01_icon.webp",
+        "front": "oukawa-kohaku_mare-01_front.webp",
+        "back": "oukawa-kohaku_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "oukawa-kohaku_jinbei-fireworks-01",
+      "idol_slug": "oukawa-kohaku",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oukawa-kohaku_jinbei-fireworks-01_icon.webp",
+        "front": "oukawa-kohaku_jinbei-fireworks-01_front.webp",
+        "back": "oukawa-kohaku_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
     }
   ]
 }

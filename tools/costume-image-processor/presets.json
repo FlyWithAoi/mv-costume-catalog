@@ -23219,6 +23219,772 @@
           }
         }
       }
+    },
+    "oukawa-kohaku-slots-04-72": {
+      "idol_slug": "oukawa-kohaku",
+      "input_dir": "oukawa-kohaku",
+      "output_dir": "oukawa-kohaku",
+      "items": {
+        "04_common-scr": {
+          "id": "oukawa-kohaku_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "oukawa-kohaku_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "oukawa-kohaku_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_honey-bee": {
+          "id": "oukawa-kohaku_honey-bee-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_double-face": {
+          "id": "oukawa-kohaku_double-face-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_hot-limit": {
+          "id": "oukawa-kohaku_hot-limit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_halloween-bat": {
+          "id": "oukawa-kohaku_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "11_shigeki-anniversary-rock": {
+          "id": "oukawa-kohaku_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "oukawa-kohaku_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "oukawa-kohaku_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "14_anyaku-anniversary-rock": {
+          "id": "oukawa-kohaku_anyaku-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "15_ariadone": {
+          "id": "oukawa-kohaku_ariadone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_nightclub": {
+          "id": "oukawa-kohaku_nightclub-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "17_fusion-unit-rabits-df": {
+          "id": "oukawa-kohaku_fusion-unit-rabits-df-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_sakura-amber": {
+          "id": "oukawa-kohaku_sakura-amber-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "19_bloom-idol": {
+          "id": "oukawa-kohaku_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_la-mort": {
+          "id": "oukawa-kohaku_la-mort-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_ss-kouhaku": {
+          "id": "oukawa-kohaku_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_antique-kitan": {
+          "id": "oukawa-kohaku_antique-kitan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "23_fusion-unit-crazyb-2wink": {
+          "id": "oukawa-kohaku_fusion-unit-crazyb-2wink-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_shunshou-ikkoku": {
+          "id": "oukawa-kohaku_shunshou-ikkoku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_anniversary-chance": {
+          "id": "oukawa-kohaku_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_anniversary-777": {
+          "id": "oukawa-kohaku_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "27_black-stage": {
+          "id": "oukawa-kohaku_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "28_usa": {
+          "id": "oukawa-kohaku_usa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "29_starlight-6th-live-tshirt": {
+          "id": "oukawa-kohaku_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_spider": {
+          "id": "oukawa-kohaku_spider-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_halloween-candle": {
+          "id": "oukawa-kohaku_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "32_starlight-7th-live-tshirt": {
+          "id": "oukawa-kohaku_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "33_kyoun-scramble": {
+          "id": "oukawa-kohaku_kyoun-scramble-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_newyear-rise-cape": {
+          "id": "oukawa-kohaku_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "35_yoru-ni-kakeru": {
+          "id": "oukawa-kohaku_yoru-ni-kakeru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_training-wear": {
+          "id": "oukawa-kohaku_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "37_bloom-idol-scr": {
+          "id": "oukawa-kohaku_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_anniversary-love": {
+          "id": "oukawa-kohaku_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "39_number-eight": {
+          "id": "oukawa-kohaku_number-eight-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_album-trip-crazyb": {
+          "id": "oukawa-kohaku_album-trip-crazyb-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_last-mission": {
+          "id": "oukawa-kohaku_last-mission-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_secret-service": {
+          "id": "oukawa-kohaku_secret-service-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "43_album-trip-double-face": {
+          "id": "oukawa-kohaku_album-trip-double-face-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_newyear-rise-silver": {
+          "id": "oukawa-kohaku_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_red-thorn": {
+          "id": "oukawa-kohaku_red-thorn-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_scramble-gakuen-boys-uniform": {
+          "id": "oukawa-kohaku_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "47_matrix": {
+          "id": "oukawa-kohaku_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "48_anniversary-challenge": {
+          "id": "oukawa-kohaku_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_twilight-idol": {
+          "id": "oukawa-kohaku_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_anniversary-challenge-scr": {
+          "id": "oukawa-kohaku_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "51_shunsairei": {
+          "id": "oukawa-kohaku_shunsairei-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "52_sudden-death": {
+          "id": "oukawa-kohaku_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "53_halloween-wing": {
+          "id": "oukawa-kohaku_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "54_starlight-8th-live-tshirt": {
+          "id": "oukawa-kohaku_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "55_newyear-rise-first-love": {
+          "id": "oukawa-kohaku_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "56_colorful-music": {
+          "id": "oukawa-kohaku_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "57_talk-to-me": {
+          "id": "oukawa-kohaku_talk-to-me-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_crazy-b-hoodie": {
+          "id": "oukawa-kohaku_crazy-b-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "59_twilight-idol-scr": {
+          "id": "oukawa-kohaku_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_pairing": {
+          "id": "oukawa-kohaku_pairing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "61_jinbei-goldfish": {
+          "id": "oukawa-kohaku_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "62_caelum": {
+          "id": "oukawa-kohaku_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "63_doodle": {
+          "id": "oukawa-kohaku_doodle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "64_halloween-wing-angel": {
+          "id": "oukawa-kohaku_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "65_saika-ame-kata-michi-kippu": {
+          "id": "oukawa-kohaku_saika-ame-kata-michi-kippu-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "66_terra": {
+          "id": "oukawa-kohaku_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "67_shining-star": {
+          "id": "oukawa-kohaku_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "68_starlight-10th-live-tshirt": {
+          "id": "oukawa-kohaku_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "69_anniversary-agent-green": {
+          "id": "oukawa-kohaku_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "70_mm-crazy-b": {
+          "id": "oukawa-kohaku_mm-crazy-b-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "71_mare": {
+          "id": "oukawa-kohaku_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "72_jinbei-fireworks": {
+          "id": "oukawa-kohaku_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1946,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }
