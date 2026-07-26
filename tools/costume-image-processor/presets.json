@@ -25524,6 +25524,750 @@
           }
         }
       }
+    },
+    "sena-izumi-slots-04-70": {
+      "idol_slug": "sena-izumi",
+      "input_dir": "sena-izumi",
+      "output_dir": "sena-izumi",
+      "items": {
+        "04_common-scr": {
+          "id": "sena-izumi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "sena-izumi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "sena-izumi_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "07_blue-sylphid": {
+          "id": "sena-izumi_blue-sylphid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "08_weekend-dorm": {
+          "id": "sena-izumi_weekend-dorm-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "09_halloween-pat": {
+          "id": "sena-izumi_halloween-pat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "10_xxveil": {
+          "id": "sena-izumi_xxveil-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "11_shigeki-anniversary-rock": {
+          "id": "sena-izumi_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_you-saneijia": {
+          "id": "sena-izumi_you-saneijia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "sena-izumi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "sena-izumi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "15_fragrance": {
+          "id": "sena-izumi_fragrance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_next-door": {
+          "id": "sena-izumi_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "17_konpeki-marina": {
+          "id": "sena-izumi_konpeki-marina-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_bloom-idol": {
+          "id": "sena-izumi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_halloween-costume": {
+          "id": "sena-izumi_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "20_ss-kouhaku": {
+          "id": "sena-izumi_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_fusion-ryuseitai-knights": {
+          "id": "sena-izumi_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "sena-izumi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "sena-izumi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "24_black-stage": {
+          "id": "sena-izumi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "25_fledge-my-style": {
+          "id": "sena-izumi_fledge-my-style-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_sunshine": {
+          "id": "sena-izumi_sunshine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_starlight-6th-live-tshirt": {
+          "id": "sena-izumi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_halloween-candle": {
+          "id": "sena-izumi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 438,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "29_newyear-rise": {
+          "id": "sena-izumi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 434,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "30_starlight-parade": {
+          "id": "sena-izumi_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "sena-izumi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 425,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "32_training-wear": {
+          "id": "sena-izumi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "sena-izumi_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "sena-izumi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 434,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "35_mad-party": {
+          "id": "sena-izumi_mad-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_double-paddle": {
+          "id": "sena-izumi_double-paddle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 436,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "37_newyear-rise-silver": {
+          "id": "sena-izumi_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_campbit": {
+          "id": "sena-izumi_campbit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_checkmate": {
+          "id": "sena-izumi_checkmate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 594,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "40_scramble-gakuen-boys-uniform": {
+          "id": "sena-izumi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 591,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "41_anniversary-challenge": {
+          "id": "sena-izumi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_twilight-idol": {
+          "id": "sena-izumi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_album-trip": {
+          "id": "sena-izumi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "sena-izumi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 479,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "45_sudden-death": {
+          "id": "sena-izumi_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 596,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "46_halloween-wing": {
+          "id": "sena-izumi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 258,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "47_seeker": {
+          "id": "sena-izumi_seeker-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_fleur-de-lis": {
+          "id": "sena-izumi_fleur-de-lis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 255,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "49_starlight-9th-live-tshirt": {
+          "id": "sena-izumi_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 257,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "50_newyear-rise-first-love": {
+          "id": "sena-izumi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 264,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "51_gravure-actor": {
+          "id": "sena-izumi_gravure-actor-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 260,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "52_astro-fes": {
+          "id": "sena-izumi_astro-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 260,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "53_colorful-music": {
+          "id": "sena-izumi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 257,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "54_tear": {
+          "id": "sena-izumi_tear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 256,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "55_knights-hoodie": {
+          "id": "sena-izumi_knights-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 426,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "sena-izumi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_graceful-punishment": {
+          "id": "sena-izumi_graceful-punishment-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 423,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "58_natsukoi": {
+          "id": "sena-izumi_natsukoi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 411,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "59_jinbei-goldfish": {
+          "id": "sena-izumi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 426,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "60_caelum": {
+          "id": "sena-izumi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 424,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "61_evening-seance": {
+          "id": "sena-izumi_evening-seance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1589,
+            "y": 416,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "sena-izumi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 427,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "63_terra": {
+          "id": "sena-izumi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 430,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "64_masquerade-night": {
+          "id": "sena-izumi_masquerade-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 590,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "65_shining-star": {
+          "id": "sena-izumi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 594,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "66_starlight-10th-live-tshirt": {
+          "id": "sena-izumi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_anniversary-agent-green": {
+          "id": "sena-izumi_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 603,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "68_mare": {
+          "id": "sena-izumi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 594,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "69_mm-knights": {
+          "id": "sena-izumi_mm-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 590,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "70_jinbei-fireworks": {
+          "id": "sena-izumi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 598,
+            "width": 212,
+            "height": 212
+          }
+        }
+      }
     }
   }
 }
