@@ -24366,6 +24366,420 @@
           }
         }
       }
+    },
+    "suou-tsukasa-slots-04-40": {
+      "idol_slug": "suou-tsukasa",
+      "input_dir": "suou-tsukasa",
+      "output_dir": "suou-tsukasa",
+      "items": {
+        "04_uta-no-oniisan": {
+          "id": "suou-tsukasa_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "05_sorairo-anniversary-suit": {
+          "id": "suou-tsukasa_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "06_return-festival": {
+          "id": "suou-tsukasa_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_halloween-bat": {
+          "id": "suou-tsukasa_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "08_pilot-suit": {
+          "id": "suou-tsukasa_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "09_next-door": {
+          "id": "suou-tsukasa_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "10_halloween-costume": {
+          "id": "suou-tsukasa_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "11_anniversary-777": {
+          "id": "suou-tsukasa_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "12_black-stage": {
+          "id": "suou-tsukasa_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "13_shikouka": {
+          "id": "suou-tsukasa_shikouka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "14_halloween-candle": {
+          "id": "suou-tsukasa_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "15_newyear-rise": {
+          "id": "suou-tsukasa_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "16_newyear-rise-cape": {
+          "id": "suou-tsukasa_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "17_training-wear": {
+          "id": "suou-tsukasa_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "18_anniversary-live": {
+          "id": "suou-tsukasa_anniversary-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "19_scramble-gakuen-boys-uniform": {
+          "id": "suou-tsukasa_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "20_pro-wrestling": {
+          "id": "suou-tsukasa_pro-wrestling-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "21_anniversary-challenge-scr": {
+          "id": "suou-tsukasa_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "22_sudden-death": {
+          "id": "suou-tsukasa_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "23_halloween-wing": {
+          "id": "suou-tsukasa_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "24_fleur-de-lis": {
+          "id": "suou-tsukasa_fleur-de-lis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "25_starlight-9th-live-tshirt": {
+          "id": "suou-tsukasa_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "26_newyear-rise-first-love": {
+          "id": "suou-tsukasa_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "27_lab-collector": {
+          "id": "suou-tsukasa_lab-collector-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "28_colorful-music": {
+          "id": "suou-tsukasa_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "29_fallen-angel-dinner": {
+          "id": "suou-tsukasa_fallen-angel-dinner-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "30_knights-hoodie": {
+          "id": "suou-tsukasa_knights-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "31_jinbei-goldfish": {
+          "id": "suou-tsukasa_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "32_caelum": {
+          "id": "suou-tsukasa_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "33_halloween-wing-angel": {
+          "id": "suou-tsukasa_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "34_terra": {
+          "id": "suou-tsukasa_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "35_after-the-prologue": {
+          "id": "suou-tsukasa_after-the-prologue-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "36_masquerade-night": {
+          "id": "suou-tsukasa_masquerade-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "37_shining-star": {
+          "id": "suou-tsukasa_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "38_anniversary-agent-red": {
+          "id": "suou-tsukasa_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "39_mm-knights": {
+          "id": "suou-tsukasa_mm-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "40_jinbei-fireworks": {
+          "id": "suou-tsukasa_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }
