@@ -22552,6 +22552,673 @@
           }
         }
       }
+    },
+    "himeru-slots-04-63": {
+      "idol_slug": "himeru",
+      "input_dir": "himeru",
+      "output_dir": "himeru",
+      "items": {
+        "04_common-scr": {
+          "id": "himeru_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "himeru_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "himeru_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 287,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_misty-secret": {
+          "id": "himeru_misty-secret-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_hot-limit": {
+          "id": "himeru_hot-limit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "09_halloween-bat": {
+          "id": "himeru_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1955,
+            "y": 288,
+            "width": 180,
+            "height": 160
+          }
+        },
+        "10_xxveil": {
+          "id": "himeru_xxveil-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_shigeki-anniversary-rock": {
+          "id": "himeru_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "himeru_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "himeru_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 457,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "14_nightclub": {
+          "id": "himeru_nightclub-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 1440,
+            "y": 445,
+            "width": 180,
+            "height": 160
+          }
+        },
+        "15_bloom-idol": {
+          "id": "himeru_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_ss-kouhaku": {
+          "id": "himeru_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_romantic-date": {
+          "id": "himeru_romantic-date-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1955,
+            "y": 450,
+            "width": 180,
+            "height": 160
+          }
+        },
+        "18_fusion-unit-crazyb-2wink": {
+          "id": "himeru_fusion-unit-crazyb-2wink-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_anniversary-chance": {
+          "id": "himeru_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_anniversary-777": {
+          "id": "himeru_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "21_black-stage": {
+          "id": "himeru_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "22_usa": {
+          "id": "himeru_usa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_spider": {
+          "id": "himeru_spider-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "24_halloween-candle": {
+          "id": "himeru_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "25_starlight-7th-live-tshirt": {
+          "id": "himeru_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 628,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "26_kyoun-scramble": {
+          "id": "himeru_kyoun-scramble-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_newyear-rise": {
+          "id": "himeru_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_newyear-rise-cape": {
+          "id": "himeru_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 466,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "29_training-wear": {
+          "id": "himeru_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 458,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "30_bloom-idol-scr": {
+          "id": "himeru_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_anniversary-love": {
+          "id": "himeru_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 464,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "32_number-eight": {
+          "id": "himeru_number-eight-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "33_album-trip": {
+          "id": "himeru_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_primula-mirror": {
+          "id": "himeru_primula-mirror-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_newyear-rise-silver": {
+          "id": "himeru_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_scramble-gakuen-boys-uniform": {
+          "id": "himeru_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 638,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "37_matrix": {
+          "id": "himeru_matrix-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 619,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "38_anniversary-challenge": {
+          "id": "himeru_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_twilight-idol": {
+          "id": "himeru_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_anniversary-challenge-scr": {
+          "id": "himeru_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 624,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "41_shunsairei": {
+          "id": "himeru_shunsairei-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 630,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "42_sudden-death": {
+          "id": "himeru_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 631,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "43_halloween-wing": {
+          "id": "himeru_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 624,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "44_starlight-8th-live-tshirt": {
+          "id": "himeru_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 649,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "45_newyear-rise-first-love": {
+          "id": "himeru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "46_colorful-music": {
+          "id": "himeru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "47_crazy-b-hoodie": {
+          "id": "himeru_crazy-b-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "48_ambivalence": {
+          "id": "himeru_ambivalence-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_twilight-idol-scr": {
+          "id": "himeru_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_pairing": {
+          "id": "himeru_pairing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1434,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "51_jinbei-goldfish": {
+          "id": "himeru_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "52_iridescent-light": {
+          "id": "himeru_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 311,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "53_caelum": {
+          "id": "himeru_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 335,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "54_iridescent-light-scr": {
+          "id": "himeru_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "55_its-knot-lov": {
+          "id": "himeru_its-knot-lov-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 752,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "56_halloween-wing-angel": {
+          "id": "himeru_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "57_terra": {
+          "id": "himeru_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "58_shining-star": {
+          "id": "himeru_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "59_starlight-10th-live-tshirt": {
+          "id": "himeru_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_anniversary-agent-green": {
+          "id": "himeru_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 481,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "61_mm-crazy-b": {
+          "id": "himeru_mm-crazy-b-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 482,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "62_mare": {
+          "id": "himeru_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 505,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "63_jinbei-fireworks": {
+          "id": "himeru_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 582,
+            "y": 652,
+            "width": 184,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }

@@ -36248,6 +36248,1087 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_common-scr-01",
+      "idol_slug": "himeru",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_uta-no-oniisan-01",
+      "idol_slug": "himeru",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_uta-no-oniisan-01_icon.webp",
+        "front": "himeru_uta-no-oniisan-01_front.webp",
+        "back": "himeru_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_sorairo-anniversary-suit-01",
+      "idol_slug": "himeru",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_sorairo-anniversary-suit-01_icon.webp",
+        "front": "himeru_sorairo-anniversary-suit-01_front.webp",
+        "back": "himeru_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_misty-secret-01",
+      "idol_slug": "himeru",
+      "costume_name": "ミスティシークレット",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_misty-secret-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_hot-limit-01",
+      "idol_slug": "himeru",
+      "costume_name": "ホットリミット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_hot-limit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_halloween-bat-01",
+      "idol_slug": "himeru",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_halloween-bat-01_icon.webp",
+        "front": "himeru_halloween-bat-01_front.webp",
+        "back": "himeru_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_xxveil-01",
+      "idol_slug": "himeru",
+      "costume_name": "XXVeil衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_xxveil-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_shigeki-anniversary-rock-01",
+      "idol_slug": "himeru",
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_esmg-graphic-tshirt-01",
+      "idol_slug": "himeru",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_pilot-suit-01",
+      "idol_slug": "himeru",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_pilot-suit-01_icon.webp",
+        "front": "himeru_pilot-suit-01_front.webp",
+        "back": "himeru_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_nightclub-01",
+      "idol_slug": "himeru",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_nightclub-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "選択画面のみ取得（詳細ポップアップ・front/back未取得）のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_bloom-idol-01",
+      "idol_slug": "himeru",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_ss-kouhaku-01",
+      "idol_slug": "himeru",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_romantic-date-01",
+      "idol_slug": "himeru",
+      "costume_name": "ロマンチック？デイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_romantic-date-01_icon.webp",
+        "front": "himeru_romantic-date-01_front.webp",
+        "back": "himeru_romantic-date-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "himeru",
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-chance-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-777-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_anniversary-777-01_icon.webp",
+        "front": "himeru_anniversary-777-01_front.webp",
+        "back": "himeru_anniversary-777-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_black-stage-01",
+      "idol_slug": "himeru",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_black-stage-01_icon.webp",
+        "front": "himeru_black-stage-01_front.webp",
+        "back": "himeru_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_usa-01",
+      "idol_slug": "himeru",
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_usa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_spider-01",
+      "idol_slug": "himeru",
+      "costume_name": "スパイダー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_spider-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_halloween-candle-01",
+      "idol_slug": "himeru",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_halloween-candle-01_icon.webp",
+        "front": "himeru_halloween-candle-01_front.webp",
+        "back": "himeru_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_starlight-7th-live-tshirt-01",
+      "idol_slug": "himeru",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "himeru_starlight-7th-live-tshirt-01_front.webp",
+        "back": "himeru_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_kyoun-scramble-01",
+      "idol_slug": "himeru",
+      "costume_name": "強運SCRAMBLE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_kyoun-scramble-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_newyear-rise-01",
+      "idol_slug": "himeru",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_newyear-rise-cape-01",
+      "idol_slug": "himeru",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_newyear-rise-cape-01_icon.webp",
+        "front": "himeru_newyear-rise-cape-01_front.webp",
+        "back": "himeru_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_training-wear-01",
+      "idol_slug": "himeru",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_training-wear-01_icon.webp",
+        "front": "himeru_training-wear-01_front.webp",
+        "back": "himeru_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_bloom-idol-scr-01",
+      "idol_slug": "himeru",
+      "costume_name": "ブルームアイドル衣装(SCR)",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-love-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_anniversary-love-01_icon.webp",
+        "front": "himeru_anniversary-love-01_front.webp",
+        "back": "himeru_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_number-eight-01",
+      "idol_slug": "himeru",
+      "costume_name": "ナンバーエイト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_number-eight-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_album-trip-01",
+      "idol_slug": "himeru",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_primula-mirror-01",
+      "idol_slug": "himeru",
+      "costume_name": "プリムラミラー",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_primula-mirror-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_newyear-rise-silver-01",
+      "idol_slug": "himeru",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "himeru",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "himeru_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "himeru_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_matrix-01",
+      "idol_slug": "himeru",
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_matrix-01_icon.webp",
+        "front": "himeru_matrix-01_front.webp",
+        "back": "himeru_matrix-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-challenge-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_twilight-idol-01",
+      "idol_slug": "himeru",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-challenge-scr-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリーチャレンジ(SCR)",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_anniversary-challenge-scr-01_icon.webp",
+        "front": "himeru_anniversary-challenge-scr-01_front.webp",
+        "back": "himeru_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_shunsairei-01",
+      "idol_slug": "himeru",
+      "costume_name": "瞬祭礼衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_shunsairei-01_icon.webp",
+        "front": "himeru_shunsairei-01_front.webp",
+        "back": "himeru_shunsairei-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_sudden-death-01",
+      "idol_slug": "himeru",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_sudden-death-01_icon.webp",
+        "front": "himeru_sudden-death-01_front.webp",
+        "back": "himeru_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_halloween-wing-01",
+      "idol_slug": "himeru",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_halloween-wing-01_icon.webp",
+        "front": "himeru_halloween-wing-01_front.webp",
+        "back": "himeru_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_starlight-8th-live-tshirt-01",
+      "idol_slug": "himeru",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "himeru_starlight-8th-live-tshirt-01_front.webp",
+        "back": "himeru_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_newyear-rise-first-love-01",
+      "idol_slug": "himeru",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_newyear-rise-first-love-01_icon.webp",
+        "front": "himeru_newyear-rise-first-love-01_front.webp",
+        "back": "himeru_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_colorful-music-01",
+      "idol_slug": "himeru",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_colorful-music-01_icon.webp",
+        "front": "himeru_colorful-music-01_front.webp",
+        "back": "himeru_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_crazy-b-hoodie-01",
+      "idol_slug": "himeru",
+      "costume_name": "Crazy:Bフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_crazy-b-hoodie-01_icon.webp",
+        "front": "himeru_crazy-b-hoodie-01_front.webp",
+        "back": "himeru_crazy-b-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_ambivalence-01",
+      "idol_slug": "himeru",
+      "costume_name": "アンビバレンス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_ambivalence-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_twilight-idol-scr-01",
+      "idol_slug": "himeru",
+      "costume_name": "トワイライトアイドル衣装(SCR)",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク条件により未解放。参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_pairing-01",
+      "idol_slug": "himeru",
+      "costume_name": "ペアリング衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_pairing-01_icon.webp",
+        "front": "himeru_pairing-01_front.webp",
+        "back": "himeru_pairing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_jinbei-goldfish-01",
+      "idol_slug": "himeru",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_jinbei-goldfish-01_icon.webp",
+        "front": "himeru_jinbei-goldfish-01_front.webp",
+        "back": "himeru_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_iridescent-light-01",
+      "idol_slug": "himeru",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_iridescent-light-01_icon.webp",
+        "front": "himeru_iridescent-light-01_front.webp",
+        "back": "himeru_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_caelum-01",
+      "idol_slug": "himeru",
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_caelum-01_icon.webp",
+        "front": "himeru_caelum-01_front.webp",
+        "back": "himeru_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_iridescent-light-scr-01",
+      "idol_slug": "himeru",
+      "costume_name": "イリディセントライト（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_iridescent-light-scr-01_icon.webp",
+        "front": "himeru_iridescent-light-scr-01_front.webp",
+        "back": "himeru_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_its-knot-lov-01",
+      "idol_slug": "himeru",
+      "costume_name": "It's (k)not lov?衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_its-knot-lov-01_icon.webp",
+        "front": "himeru_its-knot-lov-01_front.webp",
+        "back": "himeru_its-knot-lov-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_halloween-wing-angel-01",
+      "idol_slug": "himeru",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_halloween-wing-angel-01_icon.webp",
+        "front": "himeru_halloween-wing-angel-01_front.webp",
+        "back": "himeru_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_terra-01",
+      "idol_slug": "himeru",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_terra-01_icon.webp",
+        "front": "himeru_terra-01_front.webp",
+        "back": "himeru_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_shining-star-01",
+      "idol_slug": "himeru",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_shining-star-01_icon.webp",
+        "front": "himeru_shining-star-01_front.webp",
+        "back": "himeru_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_starlight-10th-live-tshirt-01",
+      "idol_slug": "himeru",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_anniversary-agent-green-01",
+      "idol_slug": "himeru",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_anniversary-agent-green-01_icon.webp",
+        "front": "himeru_anniversary-agent-green-01_front.webp",
+        "back": "himeru_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_mm-crazy-b-01",
+      "idol_slug": "himeru",
+      "costume_name": "MM Crazy:B衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_mm-crazy-b-01_icon.webp",
+        "front": "himeru_mm-crazy-b-01_front.webp",
+        "back": "himeru_mm-crazy-b-01_back.webp"
+      },
+      "tags": [
+        "Crazy:B"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_mare-01",
+      "idol_slug": "himeru",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_mare-01_icon.webp",
+        "front": "himeru_mare-01_front.webp",
+        "back": "himeru_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
+    },
+    {
+      "id": "himeru_jinbei-fireworks-01",
+      "idol_slug": "himeru",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himeru_jinbei-fireworks-01_icon.webp",
+        "front": "himeru_jinbei-fireworks-01_front.webp",
+        "back": "himeru_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-26"
     }
   ]
 }
