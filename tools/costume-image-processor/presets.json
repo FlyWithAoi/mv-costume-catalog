@@ -24780,6 +24780,750 @@
           }
         }
       }
+    },
+    "tsukinaga-reo-slots-04-70": {
+      "idol_slug": "tsukinaga-reo",
+      "input_dir": "tsukinaga-reo",
+      "output_dir": "tsukinaga-reo",
+      "items": {
+        "04_uta-no-oniisan": {
+          "id": "tsukinaga-reo_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "05_sorairo-anniversary-suit": {
+          "id": "tsukinaga-reo_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "06_return-festival": {
+          "id": "tsukinaga-reo_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "07_halloween-bat": {
+          "id": "tsukinaga-reo_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "08_colorful-melody": {
+          "id": "tsukinaga-reo_colorful-melody-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "09_pilot-suit": {
+          "id": "tsukinaga-reo_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "10_next-door": {
+          "id": "tsukinaga-reo_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "11_halloween-costume": {
+          "id": "tsukinaga-reo_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "12_anniversary-777": {
+          "id": "tsukinaga-reo_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "13_black-stage": {
+          "id": "tsukinaga-reo_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "14_halloween-candle": {
+          "id": "tsukinaga-reo_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 620,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "15_newyear-rise": {
+          "id": "tsukinaga-reo_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "16_newyear-rise-cape": {
+          "id": "tsukinaga-reo_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "17_tasto-bianco": {
+          "id": "tsukinaga-reo_tasto-bianco-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "18_training-wear": {
+          "id": "tsukinaga-reo_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "19_anniversary-love": {
+          "id": "tsukinaga-reo_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "20_night-killers": {
+          "id": "tsukinaga-reo_night-killers-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "21_checkmate": {
+          "id": "tsukinaga-reo_checkmate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "22_scramble-gakuen-boys-uniform": {
+          "id": "tsukinaga-reo_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "23_anniversary-challenge-scr": {
+          "id": "tsukinaga-reo_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "24_sudden-death": {
+          "id": "tsukinaga-reo_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "25_halloween-wing": {
+          "id": "tsukinaga-reo_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "26_fleur-de-lis": {
+          "id": "tsukinaga-reo_fleur-de-lis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "27_starlight-9th-live-tshirt": {
+          "id": "tsukinaga-reo_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "28_newyear-rise-first-love": {
+          "id": "tsukinaga-reo_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "29_lab-collector": {
+          "id": "tsukinaga-reo_lab-collector-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "30_colorful-music": {
+          "id": "tsukinaga-reo_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "31_mode-d": {
+          "id": "tsukinaga-reo_mode-d-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "32_knights-hoodie": {
+          "id": "tsukinaga-reo_knights-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "33_deep-into-you": {
+          "id": "tsukinaga-reo_deep-into-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 922,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "34_jinbei-goldfish": {
+          "id": "tsukinaga-reo_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "35_caelum": {
+          "id": "tsukinaga-reo_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "36_halloween-wing-angel": {
+          "id": "tsukinaga-reo_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "37_kuma-kuma-res-q": {
+          "id": "tsukinaga-reo_kuma-kuma-res-q-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "38_kuma-kuma-res-q-bear-paw": {
+          "id": "tsukinaga-reo_kuma-kuma-res-q-bear-paw-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "39_terra": {
+          "id": "tsukinaga-reo_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1948,
+            "y": 280,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "40_masquerade-night": {
+          "id": "tsukinaga-reo_masquerade-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 580,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "41_shining-star": {
+          "id": "tsukinaga-reo_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 751,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "42_anniversary-agent-green": {
+          "id": "tsukinaga-reo_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "43_mare": {
+          "id": "tsukinaga-reo_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1264,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "44_mm-knights": {
+          "id": "tsukinaga-reo_mm-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "45_jinbei-fireworks": {
+          "id": "tsukinaga-reo_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 450,
+            "width": 184,
+            "height": 175
+          }
+        },
+        "46_common-scr": {
+          "id": "tsukinaga-reo_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_knights-anniversary-rock": {
+          "id": "tsukinaga-reo_knights-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_you-saneijia": {
+          "id": "tsukinaga-reo_you-saneijia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_esmg-graphic-tshirt": {
+          "id": "tsukinaga-reo_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_ring-a-bell": {
+          "id": "tsukinaga-reo_ring-a-bell-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_fragrance": {
+          "id": "tsukinaga-reo_fragrance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_bloom-idol": {
+          "id": "tsukinaga-reo_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_gokijin-utage": {
+          "id": "tsukinaga-reo_gokijin-utage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_ss-kouhaku": {
+          "id": "tsukinaga-reo_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_fusion-unit-eden-knights": {
+          "id": "tsukinaga-reo_fusion-unit-eden-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_anniversary-chance": {
+          "id": "tsukinaga-reo_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_sunshine": {
+          "id": "tsukinaga-reo_sunshine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_starlight-6th-live-tshirt": {
+          "id": "tsukinaga-reo_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_starlight-parade": {
+          "id": "tsukinaga-reo_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_bloom-idol-scr": {
+          "id": "tsukinaga-reo_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_mad-party": {
+          "id": "tsukinaga-reo_mad-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_haito-night-killers": {
+          "id": "tsukinaga-reo_haito-night-killers-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_newyear-rise-silver": {
+          "id": "tsukinaga-reo_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_campbit": {
+          "id": "tsukinaga-reo_campbit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_anniversary-challenge": {
+          "id": "tsukinaga-reo_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_twilight-idol": {
+          "id": "tsukinaga-reo_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_album-trip": {
+          "id": "tsukinaga-reo_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_twilight-idol-scr": {
+          "id": "tsukinaga-reo_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "69_dazzling-modulation": {
+          "id": "tsukinaga-reo_dazzling-modulation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "70_starlight-10th-live-tshirt": {
+          "id": "tsukinaga-reo_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
     }
   }
 }

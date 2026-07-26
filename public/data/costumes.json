@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-26",
+  "updated_at": "2026-07-27",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -39864,6 +39864,1220 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-26"
+    },
+    {
+      "id": "tsukinaga-reo_uta-no-oniisan-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_uta-no-oniisan-01_icon.webp",
+        "front": "tsukinaga-reo_uta-no-oniisan-01_front.webp",
+        "back": "tsukinaga-reo_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_sorairo-anniversary-suit-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_sorairo-anniversary-suit-01_icon.webp",
+        "front": "tsukinaga-reo_sorairo-anniversary-suit-01_front.webp",
+        "back": "tsukinaga-reo_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_return-festival-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "返礼祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_return-festival-01_icon.webp",
+        "front": "tsukinaga-reo_return-festival-01_front.webp",
+        "back": "tsukinaga-reo_return-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_halloween-bat-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_halloween-bat-01_icon.webp",
+        "front": "tsukinaga-reo_halloween-bat-01_front.webp",
+        "back": "tsukinaga-reo_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_colorful-melody-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "カラフルメロディ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_colorful-melody-01_icon.webp",
+        "front": "tsukinaga-reo_colorful-melody-01_front.webp",
+        "back": "tsukinaga-reo_colorful-melody-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_pilot-suit-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_pilot-suit-01_icon.webp",
+        "front": "tsukinaga-reo_pilot-suit-01_front.webp",
+        "back": "tsukinaga-reo_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_next-door-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_next-door-01_icon.webp",
+        "front": "tsukinaga-reo_next-door-01_front.webp",
+        "back": "tsukinaga-reo_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_halloween-costume-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_halloween-costume-01_icon.webp",
+        "front": "tsukinaga-reo_halloween-costume-01_front.webp",
+        "back": "tsukinaga-reo_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-777-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-777-01_icon.webp",
+        "front": "tsukinaga-reo_anniversary-777-01_front.webp",
+        "back": "tsukinaga-reo_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_black-stage-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_black-stage-01_icon.webp",
+        "front": "tsukinaga-reo_black-stage-01_front.webp",
+        "back": "tsukinaga-reo_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_halloween-candle-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_halloween-candle-01_icon.webp",
+        "front": "tsukinaga-reo_halloween-candle-01_front.webp",
+        "back": "tsukinaga-reo_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_newyear-rise-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_newyear-rise-01_icon.webp",
+        "front": "tsukinaga-reo_newyear-rise-01_front.webp",
+        "back": "tsukinaga-reo_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_newyear-rise-cape-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_newyear-rise-cape-01_icon.webp",
+        "front": "tsukinaga-reo_newyear-rise-cape-01_front.webp",
+        "back": "tsukinaga-reo_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_tasto-bianco-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Tasto bianco",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_tasto-bianco-01_icon.webp",
+        "front": "tsukinaga-reo_tasto-bianco-01_front.webp",
+        "back": "tsukinaga-reo_tasto-bianco-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_training-wear-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_training-wear-01_icon.webp",
+        "front": "tsukinaga-reo_training-wear-01_front.webp",
+        "back": "tsukinaga-reo_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-love-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-love-01_icon.webp",
+        "front": "tsukinaga-reo_anniversary-love-01_front.webp",
+        "back": "tsukinaga-reo_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_night-killers-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ナイトキラーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_night-killers-01_icon.webp",
+        "front": "tsukinaga-reo_night-killers-01_front.webp",
+        "back": "tsukinaga-reo_night-killers-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_checkmate-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "チェックメイト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_checkmate-01_icon.webp",
+        "front": "tsukinaga-reo_checkmate-01_front.webp",
+        "back": "tsukinaga-reo_checkmate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "tsukinaga-reo_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "tsukinaga-reo_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-challenge-scr-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-challenge-scr-01_icon.webp",
+        "front": "tsukinaga-reo_anniversary-challenge-scr-01_front.webp",
+        "back": "tsukinaga-reo_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_sudden-death-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_sudden-death-01_icon.webp",
+        "front": "tsukinaga-reo_sudden-death-01_front.webp",
+        "back": "tsukinaga-reo_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_halloween-wing-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_halloween-wing-01_icon.webp",
+        "front": "tsukinaga-reo_halloween-wing-01_front.webp",
+        "back": "tsukinaga-reo_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_fleur-de-lis-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "フルール・ド・リス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_fleur-de-lis-01_icon.webp",
+        "front": "tsukinaga-reo_fleur-de-lis-01_front.webp",
+        "back": "tsukinaga-reo_fleur-de-lis-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_starlight-9th-live-tshirt-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "tsukinaga-reo_starlight-9th-live-tshirt-01_front.webp",
+        "back": "tsukinaga-reo_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_newyear-rise-first-love-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_newyear-rise-first-love-01_icon.webp",
+        "front": "tsukinaga-reo_newyear-rise-first-love-01_front.webp",
+        "back": "tsukinaga-reo_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_lab-collector-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ラブコレクター衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_lab-collector-01_icon.webp",
+        "front": "tsukinaga-reo_lab-collector-01_front.webp",
+        "back": "tsukinaga-reo_lab-collector-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_colorful-music-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_colorful-music-01_icon.webp",
+        "front": "tsukinaga-reo_colorful-music-01_front.webp",
+        "back": "tsukinaga-reo_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_mode-d-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "MODE/D衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_mode-d-01_icon.webp",
+        "front": "tsukinaga-reo_mode-d-01_front.webp",
+        "back": "tsukinaga-reo_mode-d-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_knights-hoodie-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Knightsフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_knights-hoodie-01_icon.webp",
+        "front": "tsukinaga-reo_knights-hoodie-01_front.webp",
+        "back": "tsukinaga-reo_knights-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_deep-into-you-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Deep into you衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_deep-into-you-01_icon.webp",
+        "front": "tsukinaga-reo_deep-into-you-01_front.webp",
+        "back": "tsukinaga-reo_deep-into-you-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_jinbei-goldfish-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_jinbei-goldfish-01_icon.webp",
+        "front": "tsukinaga-reo_jinbei-goldfish-01_front.webp",
+        "back": "tsukinaga-reo_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_caelum-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_caelum-01_icon.webp",
+        "front": "tsukinaga-reo_caelum-01_front.webp",
+        "back": "tsukinaga-reo_caelum-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_halloween-wing-angel-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_halloween-wing-angel-01_icon.webp",
+        "front": "tsukinaga-reo_halloween-wing-angel-01_front.webp",
+        "back": "tsukinaga-reo_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_kuma-kuma-res-q-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "クマクマレスQ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_kuma-kuma-res-q-01_icon.webp",
+        "front": "tsukinaga-reo_kuma-kuma-res-q-01_front.webp",
+        "back": "tsukinaga-reo_kuma-kuma-res-q-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_kuma-kuma-res-q-bear-paw-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "クマクマレスQ衣装（クマの手）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_kuma-kuma-res-q-bear-paw-01_icon.webp",
+        "front": "tsukinaga-reo_kuma-kuma-res-q-bear-paw-01_front.webp",
+        "back": "tsukinaga-reo_kuma-kuma-res-q-bear-paw-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_terra-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_terra-01_icon.webp",
+        "front": "tsukinaga-reo_terra-01_front.webp",
+        "back": "tsukinaga-reo_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_masquerade-night-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "MASQUERADE NIGHT衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_masquerade-night-01_icon.webp",
+        "front": "tsukinaga-reo_masquerade-night-01_front.webp",
+        "back": "tsukinaga-reo_masquerade-night-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_shining-star-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_shining-star-01_icon.webp",
+        "front": "tsukinaga-reo_shining-star-01_front.webp",
+        "back": "tsukinaga-reo_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-agent-green-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-agent-green-01_icon.webp",
+        "front": "tsukinaga-reo_anniversary-agent-green-01_front.webp",
+        "back": "tsukinaga-reo_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_mare-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_mare-01_icon.webp",
+        "front": "tsukinaga-reo_mare-01_front.webp",
+        "back": "tsukinaga-reo_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_mm-knights-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "MM Knights衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_mm-knights-01_icon.webp",
+        "front": "tsukinaga-reo_mm-knights-01_front.webp",
+        "back": "tsukinaga-reo_mm-knights-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_jinbei-fireworks-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tsukinaga-reo_jinbei-fireworks-01_icon.webp",
+        "front": "tsukinaga-reo_jinbei-fireworks-01_front.webp",
+        "back": "tsukinaga-reo_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_common-scr-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_knights-anniversary-rock-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "騎士のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_knights-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_you-saneijia-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ユーサネイジア衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_you-saneijia-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_esmg-graphic-tshirt-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_ring-a-bell-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Ring.A.Bell衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_ring-a-bell-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_fragrance-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "フレグランス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_fragrance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_bloom-idol-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_gokijin-utage-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "五奇人の宴衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_gokijin-utage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_ss-kouhaku-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "SS 紅白衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_fusion-unit-eden-knights-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "FUSION UNIT（藍皇星×Knights）衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_fusion-unit-eden-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Knights",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-chance-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_sunshine-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "サンシャイン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_sunshine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_starlight-6th-live-tshirt-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_starlight-parade-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_bloom-idol-scr-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_mad-party-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "Mad Party衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_mad-party-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_haito-night-killers-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "灰燈ナイトキラーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_haito-night-killers-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_newyear-rise-silver-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_campbit-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "キャンビット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_campbit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_anniversary-challenge-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_twilight-idol-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_album-trip-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_twilight-idol-scr-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_dazzling-modulation-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "眩惑モジュレーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_dazzling-modulation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "tsukinaga-reo_starlight-10th-live-tshirt-01",
+      "idol_slug": "tsukinaga-reo",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tsukinaga-reo_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-07-27"
     }
   ]
 }
