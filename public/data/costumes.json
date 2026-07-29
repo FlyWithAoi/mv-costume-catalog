@@ -44699,6 +44699,1223 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_common-scr-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_uta-no-oniisan-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_uta-no-oniisan-01_icon.webp",
+        "front": "nagumo-tetora_uta-no-oniisan-01_front.webp",
+        "back": "nagumo-tetora_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_hoshiiro-anniversary-suit-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_halloween-party-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_halloween-party-01_icon.webp",
+        "front": "nagumo-tetora_halloween-party-01_front.webp",
+        "back": "nagumo-tetora_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_halloween-bat-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_halloween-bat-01_icon.webp",
+        "front": "nagumo-tetora_halloween-bat-01_front.webp",
+        "back": "nagumo-tetora_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_seikimatsu-wars-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "世紀末ウォーズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_seikimatsu-wars-01_icon.webp",
+        "front": "nagumo-tetora_seikimatsu-wars-01_front.webp",
+        "back": "nagumo-tetora_seikimatsu-wars-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_comet-show-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "コメットショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_comet-show-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_ryuusei-anniversary-rock-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "流星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_ryuusei-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_esmg-graphic-tshirt-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_pilot-suit-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_pilot-suit-01_icon.webp",
+        "front": "nagumo-tetora_pilot-suit-01_front.webp",
+        "back": "nagumo-tetora_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_motor-show-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_motor-show-01_icon.webp",
+        "front": "nagumo-tetora_motor-show-01_front.webp",
+        "back": "nagumo-tetora_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_tiger-spirit-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "タイガースピリット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_tiger-spirit-01_icon.webp",
+        "front": "nagumo-tetora_tiger-spirit-01_front.webp",
+        "back": "nagumo-tetora_tiger-spirit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_bloom-idol-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_ninja-dan-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "忍者団衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_ninja-dan-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_cruising-live-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "クルージングライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_cruising-live-01_icon.webp",
+        "front": "nagumo-tetora_cruising-live-01_front.webp",
+        "back": "nagumo-tetora_cruising-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_ss-kouhaku-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_fusion-ryuseitai-knights-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-chance-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-chance-01_icon.webp",
+        "front": "nagumo-tetora_anniversary-chance-01_front.webp",
+        "back": "nagumo-tetora_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-777-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-777-01_icon.webp",
+        "front": "nagumo-tetora_anniversary-777-01_front.webp",
+        "back": "nagumo-tetora_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_black-stage-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_black-stage-01_icon.webp",
+        "front": "nagumo-tetora_black-stage-01_front.webp",
+        "back": "nagumo-tetora_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_mizutama-pattern-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "みずたま模様衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_mizutama-pattern-01_icon.webp",
+        "front": "nagumo-tetora_mizutama-pattern-01_front.webp",
+        "back": "nagumo-tetora_mizutama-pattern-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_hamutaro-totto-kouta-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハム太郎とっとこうた衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_hamutaro-totto-kouta-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_starlight-6th-live-tshirt-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_butoukai-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "舞闘会衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_butoukai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_halloween-candle-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_halloween-candle-01_icon.webp",
+        "front": "nagumo-tetora_halloween-candle-01_front.webp",
+        "back": "nagumo-tetora_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_newyear-rise-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_super-villains-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "スーパーヴィランズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_super-villains-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_ryuuseitai-power-up-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "流星隊パワーアップ衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_ryuuseitai-power-up-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_newyear-rise-cape-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_newyear-rise-cape-01_icon.webp",
+        "front": "nagumo-tetora_newyear-rise-cape-01_front.webp",
+        "back": "nagumo-tetora_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_common-pierce-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "共通アイドル衣装（ピアス）",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_common-pierce-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_training-wear-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_training-wear-01_icon.webp",
+        "front": "nagumo-tetora_training-wear-01_front.webp",
+        "back": "nagumo-tetora_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_bloom-idol-scr-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_common-scr-pierce-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "共通アイドル衣装（SCR、ピアス）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_common-scr-pierce-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_bloom-idol-pierce-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ブルームアイドル衣装（ピアス）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_bloom-idol-pierce-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_bloom-idol-scr-pierce-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ブルームアイドル衣装（SCR、ピアス）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_bloom-idol-scr-pierce-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-love-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-love-01_icon.webp",
+        "front": "nagumo-tetora_anniversary-love-01_front.webp",
+        "back": "nagumo-tetora_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_tropical-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "トロピカル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_tropical-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_never-over-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "NEVER OVER",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_never-over-01_icon.webp",
+        "front": "nagumo-tetora_never-over-01_front.webp",
+        "back": "nagumo-tetora_never-over-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_summer-pri-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "サマプリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_summer-pri-01_icon.webp",
+        "front": "nagumo-tetora_summer-pri-01_front.webp",
+        "back": "nagumo-tetora_summer-pri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_newyear-rise-silver-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_stella-maris-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ステラマリス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_stella-maris-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_album-trip-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "nagumo-tetora_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "nagumo-tetora_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-challenge-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_twilight-idol-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-challenge-scr-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-challenge-scr-01_icon.webp",
+        "front": "nagumo-tetora_anniversary-challenge-scr-01_front.webp",
+        "back": "nagumo-tetora_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_chase-cheshire-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "チェイス・チェシャ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_chase-cheshire-01_icon.webp",
+        "front": "nagumo-tetora_chase-cheshire-01_front.webp",
+        "back": "nagumo-tetora_chase-cheshire-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_halloween-wing-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_halloween-wing-01_icon.webp",
+        "front": "nagumo-tetora_halloween-wing-01_front.webp",
+        "back": "nagumo-tetora_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_tanabata-festival-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "七夕祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_tanabata-festival-01_icon.webp",
+        "front": "nagumo-tetora_tanabata-festival-01_front.webp",
+        "back": "nagumo-tetora_tanabata-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_starlight-9th-live-tshirt-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "nagumo-tetora_starlight-9th-live-tshirt-01_front.webp",
+        "back": "nagumo-tetora_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_newyear-rise-first-love-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_newyear-rise-first-love-01_icon.webp",
+        "front": "nagumo-tetora_newyear-rise-first-love-01_front.webp",
+        "back": "nagumo-tetora_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_colorful-music-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_colorful-music-01_icon.webp",
+        "front": "nagumo-tetora_colorful-music-01_front.webp",
+        "back": "nagumo-tetora_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_ryuuseitai-hoodie-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "流星隊フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_ryuuseitai-hoodie-01_icon.webp",
+        "front": "nagumo-tetora_ryuuseitai-hoodie-01_front.webp",
+        "back": "nagumo-tetora_ryuuseitai-hoodie-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_twilight-idol-scr-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_mange-solidarity-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "万華ソリダリティー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_mange-solidarity-01_icon.webp",
+        "front": "nagumo-tetora_mange-solidarity-01_front.webp",
+        "back": "nagumo-tetora_mange-solidarity-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_jinbei-goldfish-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_jinbei-goldfish-01_icon.webp",
+        "front": "nagumo-tetora_jinbei-goldfish-01_front.webp",
+        "back": "nagumo-tetora_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_caelum-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_caelum-01_icon.webp",
+        "front": "nagumo-tetora_caelum-01_front.webp",
+        "back": "nagumo-tetora_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_halloween-wing-angel-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_halloween-wing-angel-01_icon.webp",
+        "front": "nagumo-tetora_halloween-wing-angel-01_front.webp",
+        "back": "nagumo-tetora_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_overflow-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "OVERFLOW！衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_overflow-01_icon.webp",
+        "front": "nagumo-tetora_overflow-01_front.webp",
+        "back": "nagumo-tetora_overflow-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_terra-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_terra-01_icon.webp",
+        "front": "nagumo-tetora_terra-01_front.webp",
+        "back": "nagumo-tetora_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_fight-is-only-fate-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "Fight Is Only Fate衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_fight-is-only-fate-01_icon.webp",
+        "front": "nagumo-tetora_fight-is-only-fate-01_front.webp",
+        "back": "nagumo-tetora_fight-is-only-fate-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_shining-star-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_shining-star-01_icon.webp",
+        "front": "nagumo-tetora_shining-star-01_front.webp",
+        "back": "nagumo-tetora_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_starlight-10th-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "nagumo-tetora_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_anniversary-agent-green-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_anniversary-agent-green-01_icon.webp",
+        "front": "nagumo-tetora_anniversary-agent-green-01_front.webp",
+        "back": "nagumo-tetora_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_mare-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_mare-01_icon.webp",
+        "front": "nagumo-tetora_mare-01_front.webp",
+        "back": "nagumo-tetora_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "nagumo-tetora_jinbei-fireworks-01",
+      "idol_slug": "nagumo-tetora",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_jinbei-fireworks-01_icon.webp",
+        "front": "nagumo-tetora_jinbei-fireworks-01_front.webp",
+        "back": "nagumo-tetora_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
     }
   ]
 }

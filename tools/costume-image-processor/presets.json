@@ -27745,6 +27745,739 @@
           }
         }
       }
+    },
+    "nagumo-tetora-slots-04-69": {
+      "idol_slug": "nagumo-tetora",
+      "input_dir": "nagumo-tetora",
+      "output_dir": "nagumo-tetora",
+      "items": {
+        "04_common-scr": {
+          "id": "nagumo-tetora_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "nagumo-tetora_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "nagumo-tetora_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_halloween-party": {
+          "id": "nagumo-tetora_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "08_halloween-bat": {
+          "id": "nagumo-tetora_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "09_seikimatsu-wars": {
+          "id": "nagumo-tetora_seikimatsu-wars-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "10_comet-show": {
+          "id": "nagumo-tetora_comet-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_ryuusei-anniversary-rock": {
+          "id": "nagumo-tetora_ryuusei-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "nagumo-tetora_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "nagumo-tetora_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 431,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "14_motor-show": {
+          "id": "nagumo-tetora_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "15_tiger-spirit": {
+          "id": "nagumo-tetora_tiger-spirit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "16_bloom-idol": {
+          "id": "nagumo-tetora_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ninja-dan": {
+          "id": "nagumo-tetora_ninja-dan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_cruising-live": {
+          "id": "nagumo-tetora_cruising-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "19_ss-kouhaku": {
+          "id": "nagumo-tetora_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_fusion-ryuseitai-knights": {
+          "id": "nagumo-tetora_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "nagumo-tetora_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "22_anniversary-777": {
+          "id": "nagumo-tetora_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "23_black-stage": {
+          "id": "nagumo-tetora_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "24_mizutama-pattern": {
+          "id": "nagumo-tetora_mizutama-pattern-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "25_hamutaro-totto-kouta": {
+          "id": "nagumo-tetora_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "nagumo-tetora_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_butoukai": {
+          "id": "nagumo-tetora_butoukai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_halloween-candle": {
+          "id": "nagumo-tetora_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 436,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "29_newyear-rise": {
+          "id": "nagumo-tetora_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_super-villains": {
+          "id": "nagumo-tetora_super-villains-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_ryuuseitai-power-up": {
+          "id": "nagumo-tetora_ryuuseitai-power-up-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_newyear-rise-cape": {
+          "id": "nagumo-tetora_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 430,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "33_common-pierce": {
+          "id": "nagumo-tetora_common-pierce-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_training-wear": {
+          "id": "nagumo-tetora_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "nagumo-tetora_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_common-scr-pierce": {
+          "id": "nagumo-tetora_common-scr-pierce-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_bloom-idol-pierce": {
+          "id": "nagumo-tetora_bloom-idol-pierce-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_bloom-idol-scr-pierce": {
+          "id": "nagumo-tetora_bloom-idol-scr-pierce-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_anniversary-love": {
+          "id": "nagumo-tetora_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 425,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "40_tropical": {
+          "id": "nagumo-tetora_tropical-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_never-over": {
+          "id": "nagumo-tetora_never-over-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "42_summer-pri": {
+          "id": "nagumo-tetora_summer-pri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 430,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "43_newyear-rise-silver": {
+          "id": "nagumo-tetora_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_stella-maris": {
+          "id": "nagumo-tetora_stella-maris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_album-trip": {
+          "id": "nagumo-tetora_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_scramble-gakuen-boys-uniform": {
+          "id": "nagumo-tetora_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "47_anniversary-challenge": {
+          "id": "nagumo-tetora_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_twilight-idol": {
+          "id": "nagumo-tetora_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_anniversary-challenge-scr": {
+          "id": "nagumo-tetora_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "50_chase-cheshire": {
+          "id": "nagumo-tetora_chase-cheshire-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "51_halloween-wing": {
+          "id": "nagumo-tetora_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "52_tanabata-festival": {
+          "id": "nagumo-tetora_tanabata-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "53_starlight-9th-live-tshirt": {
+          "id": "nagumo-tetora_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "54_newyear-rise-first-love": {
+          "id": "nagumo-tetora_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "55_colorful-music": {
+          "id": "nagumo-tetora_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "56_ryuuseitai-hoodie": {
+          "id": "nagumo-tetora_ryuuseitai-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "nagumo-tetora_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_mange-solidarity": {
+          "id": "nagumo-tetora_mange-solidarity-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "59_jinbei-goldfish": {
+          "id": "nagumo-tetora_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "60_caelum": {
+          "id": "nagumo-tetora_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "61_halloween-wing-angel": {
+          "id": "nagumo-tetora_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "62_overflow": {
+          "id": "nagumo-tetora_overflow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "63_terra": {
+          "id": "nagumo-tetora_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "64_fight-is-only-fate": {
+          "id": "nagumo-tetora_fight-is-only-fate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "65_shining-star": {
+          "id": "nagumo-tetora_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "66_starlight-10th": {
+          "id": "nagumo-tetora_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_anniversary-agent-green": {
+          "id": "nagumo-tetora_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "68_mare": {
+          "id": "nagumo-tetora_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "69_jinbei-fireworks": {
+          "id": "nagumo-tetora_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        }
+      }
     }
   }
 }
