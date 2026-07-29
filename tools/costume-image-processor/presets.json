@@ -29178,6 +29178,717 @@
           }
         }
       }
+    },
+    "sengoku-shinobu-slots-04-67": {
+      "idol_slug": "sengoku-shinobu",
+      "input_dir": "sengoku-shinobu",
+      "output_dir": "sengoku-shinobu",
+      "items": {
+        "04_common-scr": {
+          "id": "sengoku-shinobu_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "sengoku-shinobu_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "sengoku-shinobu_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_shippu-jinrai": {
+          "id": "sengoku-shinobu_shippu-jinrai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-party": {
+          "id": "sengoku-shinobu_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "09_halloween-bat": {
+          "id": "sengoku-shinobu_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "10_comet-show": {
+          "id": "sengoku-shinobu_comet-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_ryuusei-anniversary-rock": {
+          "id": "sengoku-shinobu_ryuusei-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "sengoku-shinobu_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "sengoku-shinobu_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 431,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "14_outdoor-play": {
+          "id": "sengoku-shinobu_outdoor-play-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "15_motor-show": {
+          "id": "sengoku-shinobu_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "16_bloom-idol": {
+          "id": "sengoku-shinobu_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ninja-dan": {
+          "id": "sengoku-shinobu_ninja-dan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_cruising-live": {
+          "id": "sengoku-shinobu_cruising-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "19_ss-kouhaku": {
+          "id": "sengoku-shinobu_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_fusion-ryuseitai-knights": {
+          "id": "sengoku-shinobu_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_puffy-bunny": {
+          "id": "sengoku-shinobu_puffy-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "sengoku-shinobu_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "23_anniversary-777": {
+          "id": "sengoku-shinobu_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "24_black-stage": {
+          "id": "sengoku-shinobu_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "25_black-stage-scr": {
+          "id": "sengoku-shinobu_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1589,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "26_hamutaro-totto-kouta": {
+          "id": "sengoku-shinobu_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_starlight-6th-live-tshirt": {
+          "id": "sengoku-shinobu_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_halloween-candle": {
+          "id": "sengoku-shinobu_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 436,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "29_newyear-rise": {
+          "id": "sengoku-shinobu_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_super-villains": {
+          "id": "sengoku-shinobu_super-villains-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_ryuuseitai-power-up": {
+          "id": "sengoku-shinobu_ryuuseitai-power-up-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 421,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "32_sekimen-flash": {
+          "id": "sengoku-shinobu_sekimen-flash-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 422,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "sengoku-shinobu_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 420,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "34_training-wear": {
+          "id": "sengoku-shinobu_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 430,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "sengoku-shinobu_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_anniversary-love": {
+          "id": "sengoku-shinobu_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 430,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "37_kajikamujika": {
+          "id": "sengoku-shinobu_kajikamujika-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_tropical": {
+          "id": "sengoku-shinobu_tropical-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_summer-pri": {
+          "id": "sengoku-shinobu_summer-pri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 593,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "40_newyear-rise-silver": {
+          "id": "sengoku-shinobu_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_stella-maris": {
+          "id": "sengoku-shinobu_stella-maris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_album-trip": {
+          "id": "sengoku-shinobu_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 600,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "43_scramble-gakuen-boys-uniform": {
+          "id": "sengoku-shinobu_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1589,
+            "y": 596,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "sengoku-shinobu_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "sengoku-shinobu_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_anniversary-challenge-scr": {
+          "id": "sengoku-shinobu_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "47_chase-cheshire": {
+          "id": "sengoku-shinobu_chase-cheshire-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "48_halloween-wing": {
+          "id": "sengoku-shinobu_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "49_wink-killer": {
+          "id": "sengoku-shinobu_wink-killer-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_tanabata-festival": {
+          "id": "sengoku-shinobu_tanabata-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "51_starlight-9th-live-tshirt": {
+          "id": "sengoku-shinobu_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "sengoku-shinobu_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "53_colorful-music": {
+          "id": "sengoku-shinobu_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "54_fallen-angel-dinner": {
+          "id": "sengoku-shinobu_fallen-angel-dinner-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "55_ryuuseitai-hoodie": {
+          "id": "sengoku-shinobu_ryuuseitai-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "56_boku-no-weak-point": {
+          "id": "sengoku-shinobu_boku-no-weak-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "sengoku-shinobu_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_jinbei-goldfish": {
+          "id": "sengoku-shinobu_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "59_iridescent-light": {
+          "id": "sengoku-shinobu_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "60_caelum": {
+          "id": "sengoku-shinobu_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "61_run-and-run": {
+          "id": "sengoku-shinobu_run-and-run-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "62_overflow": {
+          "id": "sengoku-shinobu_overflow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "63_terra": {
+          "id": "sengoku-shinobu_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "64_shining-star": {
+          "id": "sengoku-shinobu_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "65_starlight-10th": {
+          "id": "sengoku-shinobu_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-red": {
+          "id": "sengoku-shinobu_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "67_jinbei-fireworks": {
+          "id": "sengoku-shinobu_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        }
+      }
     }
   }
 }

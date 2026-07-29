@@ -47081,6 +47081,1188 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_common-scr-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_uta-no-oniisan-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_uta-no-oniisan-01_icon.webp",
+        "front": "sengoku-shinobu_uta-no-oniisan-01_front.webp",
+        "back": "sengoku-shinobu_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_hoshiiro-anniversary-suit-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_shippu-jinrai-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "疾風迅雷",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_shippu-jinrai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_halloween-party-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_halloween-party-01_icon.webp",
+        "front": "sengoku-shinobu_halloween-party-01_front.webp",
+        "back": "sengoku-shinobu_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_halloween-bat-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_halloween-bat-01_icon.webp",
+        "front": "sengoku-shinobu_halloween-bat-01_front.webp",
+        "back": "sengoku-shinobu_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_comet-show-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "コメットショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_comet-show-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_ryuusei-anniversary-rock-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "流星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_ryuusei-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_esmg-graphic-tshirt-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_pilot-suit-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_pilot-suit-01_icon.webp",
+        "front": "sengoku-shinobu_pilot-suit-01_front.webp",
+        "back": "sengoku-shinobu_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_outdoor-play-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "外あそび衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_outdoor-play-01_icon.webp",
+        "front": "sengoku-shinobu_outdoor-play-01_front.webp",
+        "back": "sengoku-shinobu_outdoor-play-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_motor-show-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_motor-show-01_icon.webp",
+        "front": "sengoku-shinobu_motor-show-01_front.webp",
+        "back": "sengoku-shinobu_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_bloom-idol-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_ninja-dan-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "忍者団衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_ninja-dan-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_cruising-live-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "クルージングライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_cruising-live-01_icon.webp",
+        "front": "sengoku-shinobu_cruising-live-01_front.webp",
+        "back": "sengoku-shinobu_cruising-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_ss-kouhaku-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_fusion-ryuseitai-knights-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_puffy-bunny-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "Puffy☆Bunny衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_puffy-bunny-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-chance-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-chance-01_icon.webp",
+        "front": "sengoku-shinobu_anniversary-chance-01_front.webp",
+        "back": "sengoku-shinobu_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-777-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-777-01_icon.webp",
+        "front": "sengoku-shinobu_anniversary-777-01_front.webp",
+        "back": "sengoku-shinobu_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_black-stage-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_black-stage-01_icon.webp",
+        "front": "sengoku-shinobu_black-stage-01_front.webp",
+        "back": "sengoku-shinobu_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_black-stage-scr-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_black-stage-scr-01_icon.webp",
+        "front": "sengoku-shinobu_black-stage-scr-01_front.webp",
+        "back": "sengoku-shinobu_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_hamutaro-totto-kouta-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ハム太郎とっとこうた衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_hamutaro-totto-kouta-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_starlight-6th-live-tshirt-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_halloween-candle-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_halloween-candle-01_icon.webp",
+        "front": "sengoku-shinobu_halloween-candle-01_front.webp",
+        "back": "sengoku-shinobu_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_newyear-rise-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_super-villains-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "スーパーヴィランズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_super-villains-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_ryuuseitai-power-up-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "流星隊パワーアップ衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_ryuuseitai-power-up-01_icon.webp",
+        "front": "sengoku-shinobu_ryuuseitai-power-up-01_front.webp",
+        "back": "sengoku-shinobu_ryuuseitai-power-up-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_sekimen-flash-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "赤面フラッシュ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_sekimen-flash-01_icon.webp",
+        "front": "sengoku-shinobu_sekimen-flash-01_front.webp",
+        "back": "sengoku-shinobu_sekimen-flash-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_newyear-rise-cape-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_newyear-rise-cape-01_icon.webp",
+        "front": "sengoku-shinobu_newyear-rise-cape-01_front.webp",
+        "back": "sengoku-shinobu_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_training-wear-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_training-wear-01_icon.webp",
+        "front": "sengoku-shinobu_training-wear-01_front.webp",
+        "back": "sengoku-shinobu_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_bloom-idol-scr-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-love-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-love-01_icon.webp",
+        "front": "sengoku-shinobu_anniversary-love-01_front.webp",
+        "back": "sengoku-shinobu_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_kajikamujika-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "かじかむじか",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_kajikamujika-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_tropical-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "トロピカル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_tropical-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_summer-pri-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "サマプリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_summer-pri-01_icon.webp",
+        "front": "sengoku-shinobu_summer-pri-01_front.webp",
+        "back": "sengoku-shinobu_summer-pri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_newyear-rise-silver-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_stella-maris-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ステラマリス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_stella-maris-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_album-trip-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_album-trip-01_icon.webp",
+        "front": "sengoku-shinobu_album-trip-01_front.webp",
+        "back": "sengoku-shinobu_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "sengoku-shinobu_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "sengoku-shinobu_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-challenge-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_twilight-idol-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-challenge-scr-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-challenge-scr-01_icon.webp",
+        "front": "sengoku-shinobu_anniversary-challenge-scr-01_front.webp",
+        "back": "sengoku-shinobu_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_chase-cheshire-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "チェイス・チェシャ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_chase-cheshire-01_icon.webp",
+        "front": "sengoku-shinobu_chase-cheshire-01_front.webp",
+        "back": "sengoku-shinobu_chase-cheshire-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_halloween-wing-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_halloween-wing-01_icon.webp",
+        "front": "sengoku-shinobu_halloween-wing-01_front.webp",
+        "back": "sengoku-shinobu_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_wink-killer-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ウィンクキラー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_wink-killer-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_tanabata-festival-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "七夕祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_tanabata-festival-01_icon.webp",
+        "front": "sengoku-shinobu_tanabata-festival-01_front.webp",
+        "back": "sengoku-shinobu_tanabata-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_starlight-9th-live-tshirt-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "sengoku-shinobu_starlight-9th-live-tshirt-01_front.webp",
+        "back": "sengoku-shinobu_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_newyear-rise-first-love-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_newyear-rise-first-love-01_icon.webp",
+        "front": "sengoku-shinobu_newyear-rise-first-love-01_front.webp",
+        "back": "sengoku-shinobu_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_colorful-music-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_colorful-music-01_icon.webp",
+        "front": "sengoku-shinobu_colorful-music-01_front.webp",
+        "back": "sengoku-shinobu_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_fallen-angel-dinner-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "堕天使の晩餐会衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_fallen-angel-dinner-01_icon.webp",
+        "front": "sengoku-shinobu_fallen-angel-dinner-01_front.webp",
+        "back": "sengoku-shinobu_fallen-angel-dinner-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_ryuuseitai-hoodie-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "流星隊フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_ryuuseitai-hoodie-01_icon.webp",
+        "front": "sengoku-shinobu_ryuuseitai-hoodie-01_front.webp",
+        "back": "sengoku-shinobu_ryuuseitai-hoodie-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_boku-no-weak-point-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "僕のウィーク・ポイント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_boku-no-weak-point-01_icon.webp",
+        "front": "sengoku-shinobu_boku-no-weak-point-01_front.webp",
+        "back": "sengoku-shinobu_boku-no-weak-point-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_twilight-idol-scr-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_jinbei-goldfish-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_jinbei-goldfish-01_icon.webp",
+        "front": "sengoku-shinobu_jinbei-goldfish-01_front.webp",
+        "back": "sengoku-shinobu_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_iridescent-light-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "イリデセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_iridescent-light-01_icon.webp",
+        "front": "sengoku-shinobu_iridescent-light-01_front.webp",
+        "back": "sengoku-shinobu_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_caelum-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_caelum-01_icon.webp",
+        "front": "sengoku-shinobu_caelum-01_front.webp",
+        "back": "sengoku-shinobu_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_run-and-run-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "RUN&RUN",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_run-and-run-01_icon.webp",
+        "front": "sengoku-shinobu_run-and-run-01_front.webp",
+        "back": "sengoku-shinobu_run-and-run-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_overflow-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "OVERFLOW！衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_overflow-01_icon.webp",
+        "front": "sengoku-shinobu_overflow-01_front.webp",
+        "back": "sengoku-shinobu_overflow-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_terra-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_terra-01_icon.webp",
+        "front": "sengoku-shinobu_terra-01_front.webp",
+        "back": "sengoku-shinobu_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_shining-star-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_shining-star-01_icon.webp",
+        "front": "sengoku-shinobu_shining-star-01_front.webp",
+        "back": "sengoku-shinobu_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_starlight-10th-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sengoku-shinobu_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_anniversary-agent-red-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_anniversary-agent-red-01_icon.webp",
+        "front": "sengoku-shinobu_anniversary-agent-red-01_front.webp",
+        "back": "sengoku-shinobu_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "sengoku-shinobu_jinbei-fireworks-01",
+      "idol_slug": "sengoku-shinobu",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_jinbei-fireworks-01_icon.webp",
+        "front": "sengoku-shinobu_jinbei-fireworks-01_front.webp",
+        "back": "sengoku-shinobu_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
     }
   ]
 }
