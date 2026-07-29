@@ -48263,6 +48263,1209 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_common-scr-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_uta-no-oniisan-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_uta-no-oniisan-01_icon.webp",
+        "front": "morisawa-chiaki_uta-no-oniisan-01_front.webp",
+        "back": "morisawa-chiaki_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_atoz-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "AtoZ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_atoz-01_icon.webp",
+        "front": "morisawa-chiaki_atoz-01_front.webp",
+        "back": "morisawa-chiaki_atoz-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_hoshiiro-anniversary-suit-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_halloween-party-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_halloween-party-01_icon.webp",
+        "front": "morisawa-chiaki_halloween-party-01_front.webp",
+        "back": "morisawa-chiaki_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_halloween-bat-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_halloween-bat-01_icon.webp",
+        "front": "morisawa-chiaki_halloween-bat-01_front.webp",
+        "back": "morisawa-chiaki_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_comet-show-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "コメットショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_comet-show-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ryuusei-anniversary-rock-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "流星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ryuusei-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_esmg-graphic-tshirt-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_pilot-suit-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_pilot-suit-01_icon.webp",
+        "front": "morisawa-chiaki_pilot-suit-01_front.webp",
+        "back": "morisawa-chiaki_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_motor-show-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_motor-show-01_icon.webp",
+        "front": "morisawa-chiaki_motor-show-01_front.webp",
+        "back": "morisawa-chiaki_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ultimate-hero-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アルティメイヒーロー",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_ultimate-hero-01_icon.webp",
+        "front": "morisawa-chiaki_ultimate-hero-01_front.webp",
+        "back": "morisawa-chiaki_ultimate-hero-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_bloom-idol-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ninja-dan-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "忍者団衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ninja-dan-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_cruising-live-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "クルージングライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_cruising-live-01_icon.webp",
+        "front": "morisawa-chiaki_cruising-live-01_front.webp",
+        "back": "morisawa-chiaki_cruising-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ss-kouhaku-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_fusion-ryuseitai-knights-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-chance-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-chance-01_icon.webp",
+        "front": "morisawa-chiaki_anniversary-chance-01_front.webp",
+        "back": "morisawa-chiaki_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-777-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-777-01_icon.webp",
+        "front": "morisawa-chiaki_anniversary-777-01_front.webp",
+        "back": "morisawa-chiaki_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_black-stage-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_black-stage-01_icon.webp",
+        "front": "morisawa-chiaki_black-stage-01_front.webp",
+        "back": "morisawa-chiaki_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_hamutaro-totto-kouta-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハム太郎とっとこうた衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_hamutaro-totto-kouta-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_starlight-6th-live-tshirt-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_red-hot-island-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "レッドホットアイランド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_red-hot-island-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_halloween-candle-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_halloween-candle-01_icon.webp",
+        "front": "morisawa-chiaki_halloween-candle-01_front.webp",
+        "back": "morisawa-chiaki_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_newyear-rise-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_super-villains-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "スーパーヴィランズ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_super-villains-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ryuuseitai-power-up-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "流星隊パワーアップ衣装",
+      "costume_group": "unit",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ryuuseitai-power-up-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_newyear-rise-cape-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_newyear-rise-cape-01_icon.webp",
+        "front": "morisawa-chiaki_newyear-rise-cape-01_front.webp",
+        "back": "morisawa-chiaki_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_training-wear-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_training-wear-01_icon.webp",
+        "front": "morisawa-chiaki_training-wear-01_front.webp",
+        "back": "morisawa-chiaki_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_bloom-idol-scr-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-love-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-love-01_icon.webp",
+        "front": "morisawa-chiaki_anniversary-love-01_front.webp",
+        "back": "morisawa-chiaki_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_tropical-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "トロピカル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_tropical-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_summer-pri-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "サマプリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_summer-pri-01_icon.webp",
+        "front": "morisawa-chiaki_summer-pri-01_front.webp",
+        "back": "morisawa-chiaki_summer-pri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_color-your-heart-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "Color your heart",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_color-your-heart-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_newyear-rise-silver-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_stella-maris-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ステラマリス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_stella-maris-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_album-trip-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_album-trip-01_icon.webp",
+        "front": "morisawa-chiaki_album-trip-01_front.webp",
+        "back": "morisawa-chiaki_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "morisawa-chiaki_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "morisawa-chiaki_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-challenge-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_twilight-idol-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-challenge-scr-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-challenge-scr-01_icon.webp",
+        "front": "morisawa-chiaki_anniversary-challenge-scr-01_front.webp",
+        "back": "morisawa-chiaki_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_chase-cheshire-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "チェイス・チェシャ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_chase-cheshire-01_icon.webp",
+        "front": "morisawa-chiaki_chase-cheshire-01_front.webp",
+        "back": "morisawa-chiaki_chase-cheshire-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_halloween-wing-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_halloween-wing-01_icon.webp",
+        "front": "morisawa-chiaki_halloween-wing-01_front.webp",
+        "back": "morisawa-chiaki_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_looping-halloween-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ルーピンハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_looping-halloween-01_icon.webp",
+        "front": "morisawa-chiaki_looping-halloween-01_front.webp",
+        "back": "morisawa-chiaki_looping-halloween-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_tanabata-festival-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "七夕祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_tanabata-festival-01_icon.webp",
+        "front": "morisawa-chiaki_tanabata-festival-01_front.webp",
+        "back": "morisawa-chiaki_tanabata-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_starlight-9th-live-tshirt-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "morisawa-chiaki_starlight-9th-live-tshirt-01_front.webp",
+        "back": "morisawa-chiaki_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_newyear-rise-first-love-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_newyear-rise-first-love-01_icon.webp",
+        "front": "morisawa-chiaki_newyear-rise-first-love-01_front.webp",
+        "back": "morisawa-chiaki_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_astro-fes-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ASTRO FES衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_astro-fes-01_icon.webp",
+        "front": "morisawa-chiaki_astro-fes-01_front.webp",
+        "back": "morisawa-chiaki_astro-fes-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_colorful-music-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_colorful-music-01_icon.webp",
+        "front": "morisawa-chiaki_colorful-music-01_front.webp",
+        "back": "morisawa-chiaki_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_chiaki-slot-50-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "MODE／D衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_chiaki-slot-50-01_icon.webp",
+        "front": "morisawa-chiaki_chiaki-slot-50-01_front.webp",
+        "back": "morisawa-chiaki_chiaki-slot-50-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ryuuseitai-hoodie-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "流星隊フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_ryuuseitai-hoodie-01_icon.webp",
+        "front": "morisawa-chiaki_ryuuseitai-hoodie-01_front.webp",
+        "back": "morisawa-chiaki_ryuuseitai-hoodie-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ambivalence-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アンビバレンス衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ambivalence-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_twilight-idol-scr-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_jinbei-goldfish-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_jinbei-goldfish-01_icon.webp",
+        "front": "morisawa-chiaki_jinbei-goldfish-01_front.webp",
+        "back": "morisawa-chiaki_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_caelum-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_caelum-01_icon.webp",
+        "front": "morisawa-chiaki_caelum-01_front.webp",
+        "back": "morisawa-chiaki_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_halloween-wing-angel-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_halloween-wing-angel-01_icon.webp",
+        "front": "morisawa-chiaki_halloween-wing-angel-01_front.webp",
+        "back": "morisawa-chiaki_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_overflow-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "OVERFLOW！衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_overflow-01_icon.webp",
+        "front": "morisawa-chiaki_overflow-01_front.webp",
+        "back": "morisawa-chiaki_overflow-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_terra-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_terra-01_icon.webp",
+        "front": "morisawa-chiaki_terra-01_front.webp",
+        "back": "morisawa-chiaki_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_after-the-prologue-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "プロローグのそのあとへ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_after-the-prologue-01_icon.webp",
+        "front": "morisawa-chiaki_after-the-prologue-01_front.webp",
+        "back": "morisawa-chiaki_after-the-prologue-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_shining-star-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_shining-star-01_icon.webp",
+        "front": "morisawa-chiaki_shining-star-01_front.webp",
+        "back": "morisawa-chiaki_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_ten-code-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "TEN-CODE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_ten-code-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_starlight-10th-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "morisawa-chiaki_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_anniversary-agent-green-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_anniversary-agent-green-01_icon.webp",
+        "front": "morisawa-chiaki_anniversary-agent-green-01_front.webp",
+        "back": "morisawa-chiaki_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_mare-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_mare-01_icon.webp",
+        "front": "morisawa-chiaki_mare-01_front.webp",
+        "back": "morisawa-chiaki_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "morisawa-chiaki_jinbei-fireworks-01",
+      "idol_slug": "morisawa-chiaki",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_jinbei-fireworks-01_icon.webp",
+        "front": "morisawa-chiaki_jinbei-fireworks-01_front.webp",
+        "back": "morisawa-chiaki_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
     }
   ]
 }

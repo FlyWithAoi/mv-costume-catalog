@@ -29889,6 +29889,728 @@
           }
         }
       }
+    },
+    "morisawa-chiaki-slots-04-68": {
+      "idol_slug": "morisawa-chiaki",
+      "input_dir": "morisawa-chiaki",
+      "output_dir": "morisawa-chiaki",
+      "items": {
+        "04_common-scr": {
+          "id": "morisawa-chiaki_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "morisawa-chiaki_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "06_atoz": {
+          "id": "morisawa-chiaki_atoz-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "07_hoshiiro-anniversary-suit": {
+          "id": "morisawa-chiaki_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "08_halloween-party": {
+          "id": "morisawa-chiaki_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 290,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "09_halloween-bat": {
+          "id": "morisawa-chiaki_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "10_comet-show": {
+          "id": "morisawa-chiaki_comet-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_ryuusei-anniversary-rock": {
+          "id": "morisawa-chiaki_ryuusei-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "morisawa-chiaki_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "morisawa-chiaki_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 451,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "14_motor-show": {
+          "id": "morisawa-chiaki_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 452,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "15_ultimate-hero": {
+          "id": "morisawa-chiaki_ultimate-hero-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 452,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "16_bloom-idol": {
+          "id": "morisawa-chiaki_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_ninja-dan": {
+          "id": "morisawa-chiaki_ninja-dan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_cruising-live": {
+          "id": "morisawa-chiaki_cruising-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 452,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "19_ss-kouhaku": {
+          "id": "morisawa-chiaki_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_fusion-ryuseitai-knights": {
+          "id": "morisawa-chiaki_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "morisawa-chiaki_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "22_anniversary-777": {
+          "id": "morisawa-chiaki_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "23_black-stage": {
+          "id": "morisawa-chiaki_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "24_hamutaro-totto-kouta": {
+          "id": "morisawa-chiaki_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "25_starlight-6th-live-tshirt": {
+          "id": "morisawa-chiaki_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_red-hot-island": {
+          "id": "morisawa-chiaki_red-hot-island-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "morisawa-chiaki_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1951,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "28_newyear-rise": {
+          "id": "morisawa-chiaki_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_super-villains": {
+          "id": "morisawa-chiaki_super-villains-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_ryuuseitai-power-up": {
+          "id": "morisawa-chiaki_ryuuseitai-power-up-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_newyear-rise-cape": {
+          "id": "morisawa-chiaki_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 443,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "32_training-wear": {
+          "id": "morisawa-chiaki_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 616,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "33_bloom-idol-scr": {
+          "id": "morisawa-chiaki_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_anniversary-love": {
+          "id": "morisawa-chiaki_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 446,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "35_tropical": {
+          "id": "morisawa-chiaki_tropical-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_summer-pri": {
+          "id": "morisawa-chiaki_summer-pri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 444,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "37_color-your-heart": {
+          "id": "morisawa-chiaki_color-your-heart-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "morisawa-chiaki_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_stella-maris": {
+          "id": "morisawa-chiaki_stella-maris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_album-trip": {
+          "id": "morisawa-chiaki_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 618,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "morisawa-chiaki_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 616,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "morisawa-chiaki_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "morisawa-chiaki_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_anniversary-challenge-scr": {
+          "id": "morisawa-chiaki_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 621,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "45_chase-cheshire": {
+          "id": "morisawa-chiaki_chase-cheshire-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 616,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "46_halloween-wing": {
+          "id": "morisawa-chiaki_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "47_looping-halloween": {
+          "id": "morisawa-chiaki_looping-halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "48_tanabata-festival": {
+          "id": "morisawa-chiaki_tanabata-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 305,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "49_starlight-9th-live-tshirt": {
+          "id": "morisawa-chiaki_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 305,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "50_newyear-rise-first-love": {
+          "id": "morisawa-chiaki_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "51_astro-fes": {
+          "id": "morisawa-chiaki_astro-fes-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "52_colorful-music": {
+          "id": "morisawa-chiaki_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "53_chiaki-slot-50": {
+          "id": "morisawa-chiaki_chiaki-slot-50-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 305,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "54_ryuuseitai-hoodie": {
+          "id": "morisawa-chiaki_ryuuseitai-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "55_ambivalence": {
+          "id": "morisawa-chiaki_ambivalence-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "morisawa-chiaki_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_jinbei-goldfish": {
+          "id": "morisawa-chiaki_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "58_caelum": {
+          "id": "morisawa-chiaki_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "59_halloween-wing-angel": {
+          "id": "morisawa-chiaki_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 476,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "60_overflow": {
+          "id": "morisawa-chiaki_overflow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 476,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "61_terra": {
+          "id": "morisawa-chiaki_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 476,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "62_after-the-prologue": {
+          "id": "morisawa-chiaki_after-the-prologue-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "63_shining-star": {
+          "id": "morisawa-chiaki_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 476,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "64_ten-code": {
+          "id": "morisawa-chiaki_ten-code-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_starlight-10th": {
+          "id": "morisawa-chiaki_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-green": {
+          "id": "morisawa-chiaki_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 646,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "67_mare": {
+          "id": "morisawa-chiaki_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 646,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "68_jinbei-fireworks": {
+          "id": "morisawa-chiaki_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 646,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
     }
   }
 }
