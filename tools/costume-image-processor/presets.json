@@ -27023,6 +27023,728 @@
           }
         }
       }
+    },
+    "narukami-arashi-slots-04-68": {
+      "idol_slug": "narukami-arashi",
+      "input_dir": "narukami-arashi",
+      "output_dir": "narukami-arashi",
+      "items": {
+        "04_common-scr": {
+          "id": "narukami-arashi_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "narukami-arashi_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "06_sorairo-anniversary-suit": {
+          "id": "narukami-arashi_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "07_dreaming-lady": {
+          "id": "narukami-arashi_dreaming-lady-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "08_return-festival": {
+          "id": "narukami-arashi_return-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "09_halloween-bat": {
+          "id": "narukami-arashi_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "10_shigeki-anniversary-rock": {
+          "id": "narukami-arashi_shigeki-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "11_you-saneijia": {
+          "id": "narukami-arashi_you-saneijia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "narukami-arashi_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "narukami-arashi_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 431,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "14_mission-black-uniform": {
+          "id": "narukami-arashi_mission-black-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "15_fragrance": {
+          "id": "narukami-arashi_fragrance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "16_next-door": {
+          "id": "narukami-arashi_next-door-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 432,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "17_moon-capital-spectacle": {
+          "id": "narukami-arashi_moon-capital-spectacle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 431,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "18_bloom-idol": {
+          "id": "narukami-arashi_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "19_halloween-costume": {
+          "id": "narukami-arashi_halloween-costume-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "20_ss-kouhaku": {
+          "id": "narukami-arashi_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "21_fusion-ryuseitai-knights": {
+          "id": "narukami-arashi_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "narukami-arashi_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "23_anniversary-777": {
+          "id": "narukami-arashi_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "24_black-stage": {
+          "id": "narukami-arashi_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "25_sunshine": {
+          "id": "narukami-arashi_sunshine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "26_starlight-6th-live-tshirt": {
+          "id": "narukami-arashi_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "narukami-arashi_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 602,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "28_kurohyoka": {
+          "id": "narukami-arashi_kurohyoka-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 430,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "29_new-color": {
+          "id": "narukami-arashi_new-color-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "30_newyear-rise": {
+          "id": "narukami-arashi_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 421,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "31_starlight-parade": {
+          "id": "narukami-arashi_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "32_newyear-rise-cape": {
+          "id": "narukami-arashi_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 426,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "33_graduation": {
+          "id": "narukami-arashi_graduation-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 426,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "34_training-wear": {
+          "id": "narukami-arashi_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 428,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "35_anniversary-love": {
+          "id": "narukami-arashi_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 426,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "36_mad-party": {
+          "id": "narukami-arashi_mad-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "37_made-me": {
+          "id": "narukami-arashi_made-me-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 598,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "38_newyear-rise-silver": {
+          "id": "narukami-arashi_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "39_gambit": {
+          "id": "narukami-arashi_gambit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "40_fair-waltz": {
+          "id": "narukami-arashi_fair-waltz-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 598,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "41_scramble-gakuen-boys-uniform": {
+          "id": "narukami-arashi_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 598,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "narukami-arashi_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "narukami-arashi_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "44_album-trip": {
+          "id": "narukami-arashi_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "narukami-arashi_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 256,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "46_sudden-death": {
+          "id": "narukami-arashi_sudden-death-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 258,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "47_halloween-wing": {
+          "id": "narukami-arashi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 255,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "48_at-home": {
+          "id": "narukami-arashi_at-home-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "49_fleur-de-lis": {
+          "id": "narukami-arashi_fleur-de-lis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 256,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "50_starlight-10th-live-tshirt": {
+          "id": "narukami-arashi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 254,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "51_newyear-rise-first-love": {
+          "id": "narukami-arashi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 266,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "52_gravure-actor": {
+          "id": "narukami-arashi_gravure-actor-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 262,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "53_colorful-music": {
+          "id": "narukami-arashi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 260,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "54_knights-hoodie": {
+          "id": "narukami-arashi_knights-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 430,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "55_twilight-idol-scr": {
+          "id": "narukami-arashi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "56_jinbei-goldfish": {
+          "id": "narukami-arashi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 433,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "57_iridescent-light": {
+          "id": "narukami-arashi_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 431,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "58_caelum": {
+          "id": "narukami-arashi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 424,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "59_iridescent-light-scr": {
+          "id": "narukami-arashi_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 422,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "60_witchcraft": {
+          "id": "narukami-arashi_witchcraft-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 830,
+            "y": 400,
+            "width": 300,
+            "height": 300
+          }
+        },
+        "61_its-knot-lov": {
+          "id": "narukami-arashi_its-knot-lov-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 429,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "narukami-arashi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 424,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "63_terra": {
+          "id": "narukami-arashi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 604,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "64_masquerade-night": {
+          "id": "narukami-arashi_masquerade-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 586,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "65_shining-star": {
+          "id": "narukami-arashi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 593,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "66_anniversary-agent-green": {
+          "id": "narukami-arashi_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 596,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "67_mm-knights": {
+          "id": "narukami-arashi_mm-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 600,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "68_jinbei-fireworks": {
+          "id": "narukami-arashi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 592,
+            "width": 212,
+            "height": 212
+          }
+        }
+      }
     }
   }
 }

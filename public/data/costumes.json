@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-07-30",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -43521,6 +43521,1184 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-27"
+    },
+    {
+      "id": "narukami-arashi_common-scr-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_uta-no-oniisan-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_uta-no-oniisan-01_icon.webp",
+        "front": "narukami-arashi_uta-no-oniisan-01_front.webp",
+        "back": "narukami-arashi_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_sorairo-anniversary-suit-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "新色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_sorairo-anniversary-suit-01_icon.webp",
+        "front": "narukami-arashi_sorairo-anniversary-suit-01_front.webp",
+        "back": "narukami-arashi_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_dreaming-lady-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ドリーミングレディ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_dreaming-lady-01_icon.webp",
+        "front": "narukami-arashi_dreaming-lady-01_front.webp",
+        "back": "narukami-arashi_dreaming-lady-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_return-festival-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "返礼祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_return-festival-01_icon.webp",
+        "front": "narukami-arashi_return-festival-01_front.webp",
+        "back": "narukami-arashi_return-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_halloween-bat-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_halloween-bat-01_icon.webp",
+        "front": "narukami-arashi_halloween-bat-01_front.webp",
+        "back": "narukami-arashi_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_shigeki-anniversary-rock-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_you-saneijia-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ユーサネイジア衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_you-saneijia-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_esmg-graphic-tshirt-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_pilot-suit-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_pilot-suit-01_icon.webp",
+        "front": "narukami-arashi_pilot-suit-01_front.webp",
+        "back": "narukami-arashi_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_mission-black-uniform-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ミッション黒制服",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_mission-black-uniform-01_icon.webp",
+        "front": "narukami-arashi_mission-black-uniform-01_front.webp",
+        "back": "narukami-arashi_mission-black-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_fragrance-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "フレグランス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_fragrance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_next-door-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ネクストドア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_next-door-01_icon.webp",
+        "front": "narukami-arashi_next-door-01_front.webp",
+        "back": "narukami-arashi_next-door-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_moon-capital-spectacle-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "月都スペクタクル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_moon-capital-spectacle-01_icon.webp",
+        "front": "narukami-arashi_moon-capital-spectacle-01_front.webp",
+        "back": "narukami-arashi_moon-capital-spectacle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_bloom-idol-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_halloween-costume-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_halloween-costume-01_icon.webp",
+        "front": "narukami-arashi_halloween-costume-01_front.webp",
+        "back": "narukami-arashi_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_ss-kouhaku-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_fusion-ryuseitai-knights-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-chance-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-777-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_anniversary-777-01_icon.webp",
+        "front": "narukami-arashi_anniversary-777-01_front.webp",
+        "back": "narukami-arashi_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_black-stage-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_black-stage-01_icon.webp",
+        "front": "narukami-arashi_black-stage-01_front.webp",
+        "back": "narukami-arashi_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_sunshine-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "サンシャイン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_sunshine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_starlight-6th-live-tshirt-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_halloween-candle-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_halloween-candle-01_icon.webp",
+        "front": "narukami-arashi_halloween-candle-01_front.webp",
+        "back": "narukami-arashi_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_kurohyoka-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "黒豹香",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_kurohyoka-01_icon.webp",
+        "front": "narukami-arashi_kurohyoka-01_front.webp",
+        "back": "narukami-arashi_kurohyoka-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_new-color-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "NEW COLOR衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_new-color-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_newyear-rise-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_newyear-rise-01_icon.webp",
+        "front": "narukami-arashi_newyear-rise-01_front.webp",
+        "back": "narukami-arashi_newyear-rise-01_back.webp"
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_starlight-parade-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_newyear-rise-cape-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_newyear-rise-cape-01_icon.webp",
+        "front": "narukami-arashi_newyear-rise-cape-01_front.webp",
+        "back": "narukami-arashi_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_graduation-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_graduation-01_icon.webp",
+        "front": "narukami-arashi_graduation-01_front.webp",
+        "back": "narukami-arashi_graduation-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_training-wear-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_training-wear-01_icon.webp",
+        "front": "narukami-arashi_training-wear-01_front.webp",
+        "back": "narukami-arashi_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-love-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_anniversary-love-01_icon.webp",
+        "front": "narukami-arashi_anniversary-love-01_front.webp",
+        "back": "narukami-arashi_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_mad-party-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Mad Party衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_mad-party-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_made-me-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Made Me衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_made-me-01_icon.webp",
+        "front": "narukami-arashi_made-me-01_front.webp",
+        "back": "narukami-arashi_made-me-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_newyear-rise-silver-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_gambit-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ギャンビット衣装",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_gambit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_fair-waltz-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "フェアなワルツ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_fair-waltz-01_icon.webp",
+        "front": "narukami-arashi_fair-waltz-01_front.webp",
+        "back": "narukami-arashi_fair-waltz-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "narukami-arashi_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "narukami-arashi_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-challenge-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_twilight-idol-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_album-trip-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未入手のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-challenge-scr-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_anniversary-challenge-scr-01_icon.webp",
+        "front": "narukami-arashi_anniversary-challenge-scr-01_front.webp",
+        "back": "narukami-arashi_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_sudden-death-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "サドンデス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_sudden-death-01_icon.webp",
+        "front": "narukami-arashi_sudden-death-01_front.webp",
+        "back": "narukami-arashi_sudden-death-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_halloween-wing-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_halloween-wing-01_icon.webp",
+        "front": "narukami-arashi_halloween-wing-01_front.webp",
+        "back": "narukami-arashi_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_at-home-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アットホーム衣装",
+      "costume_group": "campaign",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_at-home-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_fleur-de-lis-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "フルール・ド・リス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_fleur-de-lis-01_icon.webp",
+        "front": "narukami-arashi_fleur-de-lis-01_front.webp",
+        "back": "narukami-arashi_fleur-de-lis-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_starlight-10th-live-tshirt-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": "narukami-arashi_starlight-10th-live-tshirt-01_front.webp",
+        "back": "narukami-arashi_starlight-10th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_newyear-rise-first-love-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_newyear-rise-first-love-01_icon.webp",
+        "front": "narukami-arashi_newyear-rise-first-love-01_front.webp",
+        "back": "narukami-arashi_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_gravure-actor-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "グラビレクター衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_gravure-actor-01_icon.webp",
+        "front": "narukami-arashi_gravure-actor-01_front.webp",
+        "back": "narukami-arashi_gravure-actor-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_colorful-music-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_colorful-music-01_icon.webp",
+        "front": "narukami-arashi_colorful-music-01_front.webp",
+        "back": "narukami-arashi_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_knights-hoodie-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Knightsフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_knights-hoodie-01_icon.webp",
+        "front": "narukami-arashi_knights-hoodie-01_front.webp",
+        "back": "narukami-arashi_knights-hoodie-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_twilight-idol-scr-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_jinbei-goldfish-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_jinbei-goldfish-01_icon.webp",
+        "front": "narukami-arashi_jinbei-goldfish-01_front.webp",
+        "back": "narukami-arashi_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_iridescent-light-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_iridescent-light-01_icon.webp",
+        "front": "narukami-arashi_iridescent-light-01_front.webp",
+        "back": "narukami-arashi_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_caelum-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_caelum-01_icon.webp",
+        "front": "narukami-arashi_caelum-01_front.webp",
+        "back": "narukami-arashi_caelum-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_iridescent-light-scr-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "イリディセントライト（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_iridescent-light-scr-01_icon.webp",
+        "front": "narukami-arashi_iridescent-light-scr-01_front.webp",
+        "back": "narukami-arashi_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_witchcraft-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Witchcraft衣装",
+      "costume_group": "campaign",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "narukami-arashi_witchcraft-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未解放条件のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_its-knot-lov-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "It's (k)not lov?衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_its-knot-lov-01_icon.webp",
+        "front": "narukami-arashi_its-knot-lov-01_front.webp",
+        "back": "narukami-arashi_its-knot-lov-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_halloween-wing-angel-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_halloween-wing-angel-01_icon.webp",
+        "front": "narukami-arashi_halloween-wing-angel-01_front.webp",
+        "back": "narukami-arashi_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_terra-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_terra-01_icon.webp",
+        "front": "narukami-arashi_terra-01_front.webp",
+        "back": "narukami-arashi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_masquerade-night-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "MASQUERADE NIGHT衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_masquerade-night-01_icon.webp",
+        "front": "narukami-arashi_masquerade-night-01_front.webp",
+        "back": "narukami-arashi_masquerade-night-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_shining-star-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_shining-star-01_icon.webp",
+        "front": "narukami-arashi_shining-star-01_front.webp",
+        "back": "narukami-arashi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_anniversary-agent-green-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_anniversary-agent-green-01_icon.webp",
+        "front": "narukami-arashi_anniversary-agent-green-01_front.webp",
+        "back": "narukami-arashi_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_mm-knights-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "MM Knights衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_mm-knights-01_icon.webp",
+        "front": "narukami-arashi_mm-knights-01_front.webp",
+        "back": "narukami-arashi_mm-knights-01_back.webp"
+      },
+      "tags": [
+        "Knights"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "narukami-arashi_jinbei-fireworks-01",
+      "idol_slug": "narukami-arashi",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "narukami-arashi_jinbei-fireworks-01_icon.webp",
+        "front": "narukami-arashi_jinbei-fireworks-01_front.webp",
+        "back": "narukami-arashi_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
     }
   ]
 }
