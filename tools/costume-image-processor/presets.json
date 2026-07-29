@@ -28478,6 +28478,706 @@
           }
         }
       }
+    },
+    "takamine-midori-slots-04-66": {
+      "idol_slug": "takamine-midori",
+      "input_dir": "takamine-midori",
+      "output_dir": "takamine-midori",
+      "items": {
+        "04_common-scr": {
+          "id": "takamine-midori_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "takamine-midori_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "takamine-midori_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_dollhouse": {
+          "id": "takamine-midori_dollhouse-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "08_dollhouse-scr": {
+          "id": "takamine-midori_dollhouse-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 261,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "09_halloween-party": {
+          "id": "takamine-midori_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 262,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "10_halloween-bat": {
+          "id": "takamine-midori_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "11_comet-show": {
+          "id": "takamine-midori_comet-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_ryuusei-anniversary-rock": {
+          "id": "takamine-midori_ryuusei-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "takamine-midori_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_pilot-suit": {
+          "id": "takamine-midori_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "15_motor-show": {
+          "id": "takamine-midori_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 432,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "16_ring-a-bell": {
+          "id": "takamine-midori_ring-a-bell-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_bloom-idol": {
+          "id": "takamine-midori_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_evergreen": {
+          "id": "takamine-midori_evergreen-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_ninja-dan": {
+          "id": "takamine-midori_ninja-dan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "20_cruising-live": {
+          "id": "takamine-midori_cruising-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "21_ss-kouhaku": {
+          "id": "takamine-midori_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_fusion-ryuseitai-knights": {
+          "id": "takamine-midori_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "23_anniversary-chance": {
+          "id": "takamine-midori_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "24_anniversary-777": {
+          "id": "takamine-midori_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "25_black-stage": {
+          "id": "takamine-midori_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1589,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "26_orient": {
+          "id": "takamine-midori_orient-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 602,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "27_hamutaro-totto-kouta": {
+          "id": "takamine-midori_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "28_starlight-6th-live-tshirt": {
+          "id": "takamine-midori_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_halloween-candle": {
+          "id": "takamine-midori_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 428,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "30_newyear-rise": {
+          "id": "takamine-midori_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_super-villains": {
+          "id": "takamine-midori_super-villains-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_ryuuseitai-power-up": {
+          "id": "takamine-midori_ryuuseitai-power-up-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 428,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "takamine-midori_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 426,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "34_training-wear": {
+          "id": "takamine-midori_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 426,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "35_bloom-idol-scr": {
+          "id": "takamine-midori_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "36_anniversary-love": {
+          "id": "takamine-midori_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 426,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "37_tropical": {
+          "id": "takamine-midori_tropical-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_summer-pri": {
+          "id": "takamine-midori_summer-pri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 600,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "39_newyear-rise-silver": {
+          "id": "takamine-midori_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_stella-maris": {
+          "id": "takamine-midori_stella-maris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_album-trip": {
+          "id": "takamine-midori_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 598,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "42_scramble-gakuen-boys-uniform": {
+          "id": "takamine-midori_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 600,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "43_fluorite": {
+          "id": "takamine-midori_fluorite-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 598,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "44_anniversary-challenge": {
+          "id": "takamine-midori_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_twilight-idol": {
+          "id": "takamine-midori_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_anniversary-challenge-scr": {
+          "id": "takamine-midori_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "47_chase-cheshire": {
+          "id": "takamine-midori_chase-cheshire-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 738,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "48_halloween-wing": {
+          "id": "takamine-midori_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "49_illuminate": {
+          "id": "takamine-midori_illuminate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "50_tanabata-festival": {
+          "id": "takamine-midori_tanabata-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "51_starlight-9th-live-tshirt": {
+          "id": "takamine-midori_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "52_newyear-rise-first-love": {
+          "id": "takamine-midori_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "53_colorful-music": {
+          "id": "takamine-midori_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 285,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "54_ryuuseitai-hoodie": {
+          "id": "takamine-midori_ryuuseitai-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 286,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "55_boku-no-weak-point": {
+          "id": "takamine-midori_boku-no-weak-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "takamine-midori_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_mange-solidarity": {
+          "id": "takamine-midori_mange-solidarity-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "58_caelum": {
+          "id": "takamine-midori_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "59_arcadian": {
+          "id": "takamine-midori_arcadian-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_halloween-wing-angel": {
+          "id": "takamine-midori_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "61_overflow": {
+          "id": "takamine-midori_overflow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "62_terra": {
+          "id": "takamine-midori_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 455,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "63_shining-star": {
+          "id": "takamine-midori_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 456,
+            "width": 213,
+            "height": 213
+          }
+        },
+        "64_starlight-10th": {
+          "id": "takamine-midori_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_anniversary-agent-green": {
+          "id": "takamine-midori_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "66_jinbei-fireworks": {
+          "id": "takamine-midori_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 626,
+            "width": 215,
+            "height": 215
+          }
+        }
+      }
     }
   }
 }
