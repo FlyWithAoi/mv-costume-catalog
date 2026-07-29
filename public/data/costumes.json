@@ -49466,6 +49466,1247 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_common-scr-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_uta-no-oniisan-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_uta-no-oniisan-01_icon.webp",
+        "front": "shinkai-kanata_uta-no-oniisan-01_front.webp",
+        "back": "shinkai-kanata_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_hoshiiro-anniversary-suit-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_summer-snow-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "サマースノー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_summer-snow-01_icon.webp",
+        "front": "shinkai-kanata_summer-snow-01_front.webp",
+        "back": "shinkai-kanata_summer-snow-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_halloween-party-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハロウィンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_halloween-party-01_icon.webp",
+        "front": "shinkai-kanata_halloween-party-01_front.webp",
+        "back": "shinkai-kanata_halloween-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_halloween-bat-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_halloween-bat-01_icon.webp",
+        "front": "shinkai-kanata_halloween-bat-01_front.webp",
+        "back": "shinkai-kanata_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_comet-show-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "コメットショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_comet-show-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ryuusei-anniversary-rock-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "流星のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_ryuusei-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_esmg-graphic-tshirt-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_pilot-suit-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_pilot-suit-01_icon.webp",
+        "front": "shinkai-kanata_pilot-suit-01_front.webp",
+        "back": "shinkai-kanata_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_motor-show-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "モーターショウ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_motor-show-01_icon.webp",
+        "front": "shinkai-kanata_motor-show-01_front.webp",
+        "back": "shinkai-kanata_motor-show-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_yumenosaki-spectacle-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "夢ノ咲スペクタル衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_yumenosaki-spectacle-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_bloom-idol-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_senkai-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "鮮海衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_senkai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ninja-dan-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "忍者団衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_ninja-dan-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_cruising-live-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "クルージングライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_cruising-live-01_icon.webp",
+        "front": "shinkai-kanata_cruising-live-01_front.webp",
+        "back": "shinkai-kanata_cruising-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ss-kouhaku-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_fusion-ryuseitai-knights-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_fusion-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-chance-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-chance-01_icon.webp",
+        "front": "shinkai-kanata_anniversary-chance-01_front.webp",
+        "back": "shinkai-kanata_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-777-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-777-01_icon.webp",
+        "front": "shinkai-kanata_anniversary-777-01_front.webp",
+        "back": "shinkai-kanata_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_black-stage-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_black-stage-01_icon.webp",
+        "front": "shinkai-kanata_black-stage-01_front.webp",
+        "back": "shinkai-kanata_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_kanata-slot-22-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ブラックステージ衣装（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_kanata-slot-22-01_icon.webp",
+        "front": "shinkai-kanata_kanata-slot-22-01_front.webp",
+        "back": "shinkai-kanata_kanata-slot-22-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_sakana-mode-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "SaKaNa☆Mode",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_sakana-mode-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_hamutaro-totto-kouta-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハム太郎とっとこうた衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_hamutaro-totto-kouta-01_icon.webp",
+        "front": "shinkai-kanata_hamutaro-totto-kouta-01_front.webp",
+        "back": "shinkai-kanata_hamutaro-totto-kouta-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_starlight-6th-live-tshirt-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_halloween-candle-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_halloween-candle-01_icon.webp",
+        "front": "shinkai-kanata_halloween-candle-01_front.webp",
+        "back": "shinkai-kanata_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_newyear-rise-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_super-villains-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "スーパーヴィランズ衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_super-villains-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ryuuseitai-power-up-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "流星隊パワーアップ衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_ryuuseitai-power-up-01_icon.webp",
+        "front": "shinkai-kanata_ryuuseitai-power-up-01_front.webp",
+        "back": "shinkai-kanata_ryuuseitai-power-up-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_newyear-rise-cape-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_newyear-rise-cape-01_icon.webp",
+        "front": "shinkai-kanata_newyear-rise-cape-01_front.webp",
+        "back": "shinkai-kanata_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_training-wear-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_training-wear-01_icon.webp",
+        "front": "shinkai-kanata_training-wear-01_front.webp",
+        "back": "shinkai-kanata_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_five-eccentrics-stage-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "五奇人ステージ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_five-eccentrics-stage-01_icon.webp",
+        "front": "shinkai-kanata_five-eccentrics-stage-01_front.webp",
+        "back": "shinkai-kanata_five-eccentrics-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_altered-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "オルタード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_altered-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_bloom-idol-scr-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-love-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-love-01_icon.webp",
+        "front": "shinkai-kanata_anniversary-love-01_front.webp",
+        "back": "shinkai-kanata_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_tropical-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "トロピカル衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_tropical-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_umi-no-shigeki-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "海の刺激衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_umi-no-shigeki-01_icon.webp",
+        "front": "shinkai-kanata_umi-no-shigeki-01_front.webp",
+        "back": "shinkai-kanata_umi-no-shigeki-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_summer-pri-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "サマプリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_summer-pri-01_icon.webp",
+        "front": "shinkai-kanata_summer-pri-01_front.webp",
+        "back": "shinkai-kanata_summer-pri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_newyear-rise-silver-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_stella-maris-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ステラマリス衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_stella-maris-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_album-trip-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_album-trip-01_icon.webp",
+        "front": "shinkai-kanata_album-trip-01_front.webp",
+        "back": "shinkai-kanata_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "shinkai-kanata_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "shinkai-kanata_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-challenge-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_twilight-idol-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-challenge-scr-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-challenge-scr-01_icon.webp",
+        "front": "shinkai-kanata_anniversary-challenge-scr-01_front.webp",
+        "back": "shinkai-kanata_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_chase-cheshire-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "チェイス・チェシャ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_chase-cheshire-01_icon.webp",
+        "front": "shinkai-kanata_chase-cheshire-01_front.webp",
+        "back": "shinkai-kanata_chase-cheshire-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_halloween-wing-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_halloween-wing-01_icon.webp",
+        "front": "shinkai-kanata_halloween-wing-01_front.webp",
+        "back": "shinkai-kanata_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_at-home-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アットホーム衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_at-home-01_icon.webp",
+        "front": "shinkai-kanata_at-home-01_front.webp",
+        "back": "shinkai-kanata_at-home-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_tanabata-festival-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "七夕祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_tanabata-festival-01_icon.webp",
+        "front": "shinkai-kanata_tanabata-festival-01_front.webp",
+        "back": "shinkai-kanata_tanabata-festival-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_starlight-9th-live-tshirt-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "shinkai-kanata_starlight-9th-live-tshirt-01_front.webp",
+        "back": "shinkai-kanata_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_newyear-rise-first-love-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_newyear-rise-first-love-01_icon.webp",
+        "front": "shinkai-kanata_newyear-rise-first-love-01_front.webp",
+        "back": "shinkai-kanata_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_colorful-music-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_colorful-music-01_icon.webp",
+        "front": "shinkai-kanata_colorful-music-01_front.webp",
+        "back": "shinkai-kanata_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ryuuseitai-hoodie-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "流星隊フーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_ryuuseitai-hoodie-01_icon.webp",
+        "front": "shinkai-kanata_ryuuseitai-hoodie-01_front.webp",
+        "back": "shinkai-kanata_ryuuseitai-hoodie-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_twilight-idol-scr-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_deep-into-you-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "Deep into you衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_deep-into-you-01_icon.webp",
+        "front": "shinkai-kanata_deep-into-you-01_front.webp",
+        "back": "shinkai-kanata_deep-into-you-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_natsuiro-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ナツイロ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_natsuiro-01_icon.webp",
+        "front": "shinkai-kanata_natsuiro-01_front.webp",
+        "back": "shinkai-kanata_natsuiro-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_jinbei-goldfish-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_jinbei-goldfish-01_icon.webp",
+        "front": "shinkai-kanata_jinbei-goldfish-01_front.webp",
+        "back": "shinkai-kanata_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_caelum-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_caelum-01_icon.webp",
+        "front": "shinkai-kanata_caelum-01_front.webp",
+        "back": "shinkai-kanata_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_halloween-wing-angel-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_halloween-wing-angel-01_icon.webp",
+        "front": "shinkai-kanata_halloween-wing-angel-01_front.webp",
+        "back": "shinkai-kanata_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_overflow-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "OVERFLOW！衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_overflow-01_icon.webp",
+        "front": "shinkai-kanata_overflow-01_front.webp",
+        "back": "shinkai-kanata_overflow-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_terra-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_terra-01_icon.webp",
+        "front": "shinkai-kanata_terra-01_front.webp",
+        "back": "shinkai-kanata_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_ruris-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "ルリス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_ruris-01_icon.webp",
+        "front": "shinkai-kanata_ruris-01_front.webp",
+        "back": "shinkai-kanata_ruris-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_shining-star-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_shining-star-01_icon.webp",
+        "front": "shinkai-kanata_shining-star-01_front.webp",
+        "back": "shinkai-kanata_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_starlight-10th-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shinkai-kanata_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_anniversary-agent-red-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_anniversary-agent-red-01_icon.webp",
+        "front": "shinkai-kanata_anniversary-agent-red-01_front.webp",
+        "back": "shinkai-kanata_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_mare-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_mare-01_icon.webp",
+        "front": "shinkai-kanata_mare-01_front.webp",
+        "back": "shinkai-kanata_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
+    },
+    {
+      "id": "shinkai-kanata_jinbei-fireworks-01",
+      "idol_slug": "shinkai-kanata",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_jinbei-fireworks-01_icon.webp",
+        "front": "shinkai-kanata_jinbei-fireworks-01_front.webp",
+        "back": "shinkai-kanata_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-07-30"
     }
   ]
 }

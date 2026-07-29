@@ -30611,6 +30611,750 @@
           }
         }
       }
+    },
+    "shinkai-kanata-slots-04-70": {
+      "idol_slug": "shinkai-kanata",
+      "input_dir": "shinkai-kanata",
+      "output_dir": "shinkai-kanata",
+      "items": {
+        "04_common-scr": {
+          "id": "shinkai-kanata_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "05_uta-no-oniisan": {
+          "id": "shinkai-kanata_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "06_hoshiiro-anniversary-suit": {
+          "id": "shinkai-kanata_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_summer-snow": {
+          "id": "shinkai-kanata_summer-snow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "08_halloween-party": {
+          "id": "shinkai-kanata_halloween-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 290,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "09_halloween-bat": {
+          "id": "shinkai-kanata_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 291,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "10_comet-show": {
+          "id": "shinkai-kanata_comet-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_ryuusei-anniversary-rock": {
+          "id": "shinkai-kanata_ryuusei-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "12_esmg-graphic-tshirt": {
+          "id": "shinkai-kanata_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "13_pilot-suit": {
+          "id": "shinkai-kanata_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 451,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "14_motor-show": {
+          "id": "shinkai-kanata_motor-show-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 452,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "15_yumenosaki-spectacle": {
+          "id": "shinkai-kanata_yumenosaki-spectacle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_bloom-idol": {
+          "id": "shinkai-kanata_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_senkai": {
+          "id": "shinkai-kanata_senkai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_ninja-dan": {
+          "id": "shinkai-kanata_ninja-dan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "19_cruising-live": {
+          "id": "shinkai-kanata_cruising-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 587,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "20_ss-kouhaku": {
+          "id": "shinkai-kanata_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_fusion-ryuseitai-knights": {
+          "id": "shinkai-kanata_fusion-ryuseitai-knights-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "22_anniversary-chance": {
+          "id": "shinkai-kanata_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "23_anniversary-777": {
+          "id": "shinkai-kanata_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "24_black-stage": {
+          "id": "shinkai-kanata_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "25_kanata-slot-22": {
+          "id": "shinkai-kanata_kanata-slot-22-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1609,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "26_sakana-mode": {
+          "id": "shinkai-kanata_sakana-mode-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_hamutaro-totto-kouta": {
+          "id": "shinkai-kanata_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1951,
+            "y": 622,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "28_starlight-6th-live-tshirt": {
+          "id": "shinkai-kanata_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "29_halloween-candle": {
+          "id": "shinkai-kanata_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 454,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "30_newyear-rise": {
+          "id": "shinkai-kanata_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "31_super-villains": {
+          "id": "shinkai-kanata_super-villains-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "32_ryuuseitai-power-up": {
+          "id": "shinkai-kanata_ryuuseitai-power-up-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 442,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "33_newyear-rise-cape": {
+          "id": "shinkai-kanata_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 442,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "34_training-wear": {
+          "id": "shinkai-kanata_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 446,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "35_five-eccentrics-stage": {
+          "id": "shinkai-kanata_five-eccentrics-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 608,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "36_altered": {
+          "id": "shinkai-kanata_altered-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "37_bloom-idol-scr": {
+          "id": "shinkai-kanata_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_anniversary-love": {
+          "id": "shinkai-kanata_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 757,
+            "y": 618,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "39_tropical": {
+          "id": "shinkai-kanata_tropical-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_umi-no-shigeki": {
+          "id": "shinkai-kanata_umi-no-shigeki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 443,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "41_summer-pri": {
+          "id": "shinkai-kanata_summer-pri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 618,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "42_newyear-rise-silver": {
+          "id": "shinkai-kanata_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_stella-maris": {
+          "id": "shinkai-kanata_stella-maris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_album-trip": {
+          "id": "shinkai-kanata_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 616,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "45_scramble-gakuen-boys-uniform": {
+          "id": "shinkai-kanata_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 620,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "46_anniversary-challenge": {
+          "id": "shinkai-kanata_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_twilight-idol": {
+          "id": "shinkai-kanata_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_anniversary-challenge-scr": {
+          "id": "shinkai-kanata_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 448,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "49_chase-cheshire": {
+          "id": "shinkai-kanata_chase-cheshire-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 449,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "50_halloween-wing": {
+          "id": "shinkai-kanata_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 444,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "51_at-home": {
+          "id": "shinkai-kanata_at-home-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 448,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "52_tanabata-festival": {
+          "id": "shinkai-kanata_tanabata-festival-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 446,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "53_starlight-9th-live-tshirt": {
+          "id": "shinkai-kanata_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 451,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "54_newyear-rise-first-love": {
+          "id": "shinkai-kanata_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 450,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "55_colorful-music": {
+          "id": "shinkai-kanata_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 620,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "56_ryuuseitai-hoodie": {
+          "id": "shinkai-kanata_ryuuseitai-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 616,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "57_twilight-idol-scr": {
+          "id": "shinkai-kanata_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_deep-into-you": {
+          "id": "shinkai-kanata_deep-into-you-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 619,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "59_natsuiro": {
+          "id": "shinkai-kanata_natsuiro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 622,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "60_jinbei-goldfish": {
+          "id": "shinkai-kanata_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 618,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "61_caelum": {
+          "id": "shinkai-kanata_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 450,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "shinkai-kanata_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 451,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "63_overflow": {
+          "id": "shinkai-kanata_overflow-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 456,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "64_terra": {
+          "id": "shinkai-kanata_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 587,
+            "y": 616,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "65_ruris": {
+          "id": "shinkai-kanata_ruris-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 757,
+            "y": 618,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "66_shining-star": {
+          "id": "shinkai-kanata_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 615,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "67_starlight-10th": {
+          "id": "shinkai-kanata_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_anniversary-agent-red": {
+          "id": "shinkai-kanata_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 620,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "69_mare": {
+          "id": "shinkai-kanata_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 614,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "70_jinbei-fireworks": {
+          "id": "shinkai-kanata_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 616,
+            "width": 173,
+            "height": 173
+          }
+        }
+      }
     }
   }
 }
