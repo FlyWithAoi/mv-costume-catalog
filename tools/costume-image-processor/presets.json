@@ -32033,6 +32033,717 @@
           }
         }
       }
+    },
+    "oogami-koga-slots-04-67": {
+      "idol_slug": "oogami-koga",
+      "input_dir": "oogami-koga",
+      "output_dir": "oogami-koga",
+      "items": {
+       "04_common-scr": {
+         "id": "oogami-koga_common-scr-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "05_uta-no-oniisan": {
+         "id": "oogami-koga_uta-no-oniisan-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 284,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "06_dangerous-rock": {
+         "id": "oogami-koga_dangerous-rock-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 286,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "07_choshoku-anniversary-suit": {
+         "id": "oogami-koga_choshoku-anniversary-suit-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "08_blood-banquet": {
+         "id": "oogami-koga_blood-banquet-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1779,
+            "y": 284,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "09_halloween-bat": {
+         "id": "oogami-koga_halloween-bat-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1951,
+            "y": 284,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "10_fuyajo-live": {
+         "id": "oogami-koga_fuyajo-live-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "11_miwaku-anniversary-rock": {
+         "id": "oogami-koga_miwaku-anniversary-rock-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "12_esmg-graphic-tshirt": {
+         "id": "oogami-koga_esmg-graphic-tshirt-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "13_pirates-suit": {
+         "id": "oogami-koga_pirates-suit-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 454,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "14_gozen-jiai": {
+         "id": "oogami-koga_gozen-jiai-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 454,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "15_prison-breakers": {
+         "id": "oogami-koga_prison-breakers-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "16_bloom-idol": {
+         "id": "oogami-koga_bloom-idol-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "17_beast": {
+         "id": "oogami-koga_beast-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "18_fusion-unit-undead-akatsuki": {
+         "id": "oogami-koga_fusion-unit-undead-akatsuki-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "19_easter": {
+         "id": "oogami-koga_easter-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 587,
+            "y": 628,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "20_ss-kouhaku": {
+         "id": "oogami-koga_ss-kouhaku-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "21_anniversary-chance": {
+         "id": "oogami-koga_anniversary-chance-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 927,
+            "y": 627,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "22_anniversary-777": {
+         "id": "oogami-koga_anniversary-777-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 625,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "23_band-bb": {
+         "id": "oogami-koga_band-bb-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "24_black-stage": {
+         "id": "oogami-koga_black-stage-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 628,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "25_bride-light": {
+         "id": "oogami-koga_bride-light-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1609,
+            "y": 627,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "26_usa": {
+         "id": "oogami-koga_usa-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "27_halloween-candle": {
+         "id": "oogami-koga_halloween-candle-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1951,
+            "y": 628,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "28_blend-plus": {
+         "id": "oogami-koga_blend-plus-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "29_starlight-7th-live-tshirt": {
+         "id": "oogami-koga_starlight-7th-live-tshirt-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 757,
+            "y": 454,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "30_newyear-rise": {
+         "id": "oogami-koga_newyear-rise-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "31_newyear-rise-cape": {
+         "id": "oogami-koga_newyear-rise-cape-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 453,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "32_graduation": {
+         "id": "oogami-koga_graduation-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 448,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "33_training-wear": {
+         "id": "oogami-koga_training-wear-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 452,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "34_bloom-idol-scr": {
+         "id": "oogami-koga_bloom-idol-scr-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "35_anniversary-love": {
+         "id": "oogami-koga_anniversary-love-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1779,
+            "y": 450,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "36_legacy-code": {
+         "id": "oogami-koga_legacy-code-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1951,
+            "y": 448,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "37_deadmans": {
+         "id": "oogami-koga_deadmans-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 587,
+            "y": 624,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "38_flashback": {
+         "id": "oogami-koga_flashback-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": false,
+         "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+         }
+       },
+       "39_moeru-undead": {
+         "id": "oogami-koga_moeru-undead-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 927,
+            "y": 628,
+            "width": 175,
+            "height": 175
+         }
+       },
+        "40_newyear-rise-silver": {
+          "id": "oogami-koga_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+       "41_album-trip": {
+         "id": "oogami-koga_album-trip-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 622,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "42_scramble-gakuen-boys-uniform": {
+         "id": "oogami-koga_scramble-gakuen-boys-uniform-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 622,
+            "width": 175,
+            "height": 175
+         }
+       },
+        "43_anniversary-challenge": {
+          "id": "oogami-koga_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_twilight-idol": {
+          "id": "oogami-koga_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_swing-night": {
+          "id": "oogami-koga_swing-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+       "46_anniversary-challenge-scr": {
+         "id": "oogami-koga_anniversary-challenge-scr-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 587,
+            "y": 308,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "47_halloween-wing": {
+         "id": "oogami-koga_halloween-wing-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 757,
+            "y": 310,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "48_sandstorm": {
+         "id": "oogami-koga_sandstorm-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 927,
+            "y": 310,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "49_halloween-costume": {
+         "id": "oogami-koga_halloween-costume-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 308,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "50_starlight-8th-live-tshirt": {
+         "id": "oogami-koga_starlight-8th-live-tshirt-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 308,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "51_newyear-rise-first-love": {
+         "id": "oogami-koga_newyear-rise-first-love-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 310,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "52_devoted-to-you": {
+         "id": "oogami-koga_devoted-to-you-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1609,
+            "y": 310,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "53_colorful-music": {
+         "id": "oogami-koga_colorful-music-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1779,
+            "y": 308,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "54_undead-hoodie": {
+         "id": "oogami-koga_undead-hoodie-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1951,
+            "y": 308,
+            "width": 175,
+            "height": 175
+         }
+       },
+        "55_twilight-idol-scr": {
+          "id": "oogami-koga_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+       "56_velvet-ship": {
+         "id": "oogami-koga_velvet-ship-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 757,
+            "y": 480,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "57_scab": {
+         "id": "oogami-koga_scab-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 927,
+            "y": 480,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "58_jinbei-goldfish": {
+         "id": "oogami-koga_jinbei-goldfish-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 478,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "59_caelum": {
+         "id": "oogami-koga_caelum-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1269,
+            "y": 478,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "60_halloween-wing-angel": {
+         "id": "oogami-koga_halloween-wing-angel-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1439,
+            "y": 480,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "61_terra": {
+         "id": "oogami-koga_terra-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1609,
+            "y": 480,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "62_fight-is-only-fate": {
+         "id": "oogami-koga_fight-is-only-fate-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1779,
+            "y": 478,
+            "width": 177,
+            "height": 177
+         }
+       },
+       "63_shining-star": {
+         "id": "oogami-koga_shining-star-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1951,
+            "y": 478,
+            "width": 175,
+            "height": 175
+         }
+       },
+        "64_starlight-10th": {
+          "id": "oogami-koga_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+       "65_anniversary-agent-green": {
+         "id": "oogami-koga_anniversary-agent-green-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 757,
+            "y": 652,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "66_mare": {
+         "id": "oogami-koga_mare-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 927,
+            "y": 651,
+            "width": 175,
+            "height": 175
+         }
+       },
+       "67_jinbei-fireworks": {
+         "id": "oogami-koga_jinbei-fireworks-01",
+         "icon_mode": "manual_crop",
+         "has_body_images": true,
+         "icon_crop": {
+            "x": 1097,
+            "y": 649,
+            "width": 177,
+            "height": 177
+         }
+       }
+      }
     }
   }
 }
