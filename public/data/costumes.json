@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30",
+  "updated_at": "2026-08-12",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -53002,6 +53002,1160 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "otogari-adonis_common-scr-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_uta-no-oniisan-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_uta-no-oniisan-01_icon.webp",
+        "front": "otogari-adonis_uta-no-oniisan-01_front.webp",
+        "back": "otogari-adonis_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_choshoku-anniversary-suit-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "調色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_choshoku-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_tsukimi-odori-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "月見踊り衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_tsukimi-odori-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_blood-banquet-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ブラッドバンケット衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_blood-banquet-01_icon.webp",
+        "front": "otogari-adonis_blood-banquet-01_front.webp",
+        "back": "otogari-adonis_blood-banquet-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_halloween-bat-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_halloween-bat-01_icon.webp",
+        "front": "otogari-adonis_halloween-bat-01_front.webp",
+        "back": "otogari-adonis_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_fuyajo-live-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "不夜城ライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_fuyajo-live-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_miwaku-anniversary-rock-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "魅惑のアニバーサリーロック",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_miwaku-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_esmg-graphic-tshirt-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_pilot-suit-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_pilot-suit-01_icon.webp",
+        "front": "otogari-adonis_pilot-suit-01_front.webp",
+        "back": "otogari-adonis_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_beyond-the-border-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ビヨンド・ザ・ボーダー",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_beyond-the-border-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_gozen-jiai-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "御前試合衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_gozen-jiai-01_icon.webp",
+        "front": "otogari-adonis_gozen-jiai-01_front.webp",
+        "back": "otogari-adonis_gozen-jiai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_bloom-idol-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_beast-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ビースト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_beast-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_fusion-unit-undead-akatsuki-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_fusion-unit-undead-akatsuki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_easter-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "復活祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_easter-01_icon.webp",
+        "front": "otogari-adonis_easter-01_front.webp",
+        "back": "otogari-adonis_easter-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_ss-kouhaku-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-chance-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_anniversary-chance-01_icon.webp",
+        "front": "otogari-adonis_anniversary-chance-01_front.webp",
+        "back": "otogari-adonis_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-777-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_anniversary-777-01_icon.webp",
+        "front": "otogari-adonis_anniversary-777-01_front.webp",
+        "back": "otogari-adonis_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_black-stage-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_black-stage-01_icon.webp",
+        "front": "otogari-adonis_black-stage-01_front.webp",
+        "back": "otogari-adonis_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_bride-light-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ブライドライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_bride-light-01_icon.webp",
+        "front": "otogari-adonis_bride-light-01_front.webp",
+        "back": "otogari-adonis_bride-light-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_usa-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_usa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_butoukai-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "舞闘会衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_butoukai-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_toori-night-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "トゥーリーナイト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_toori-night-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_halloween-candle-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_halloween-candle-01_icon.webp",
+        "front": "otogari-adonis_halloween-candle-01_front.webp",
+        "back": "otogari-adonis_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_starlight-7th-live-tshirt-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "otogari-adonis_starlight-7th-live-tshirt-01_front.webp",
+        "back": "otogari-adonis_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_newyear-rise-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_newyear-rise-cape-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_newyear-rise-cape-01_icon.webp",
+        "front": "otogari-adonis_newyear-rise-cape-01_front.webp",
+        "back": "otogari-adonis_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_graduation-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "グラデュエーション衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_graduation-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_training-wear-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_training-wear-01_icon.webp",
+        "front": "otogari-adonis_training-wear-01_front.webp",
+        "back": "otogari-adonis_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_bloom-idol-scr-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-love-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_anniversary-love-01_icon.webp",
+        "front": "otogari-adonis_anniversary-love-01_front.webp",
+        "back": "otogari-adonis_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_playzing-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "プレイジング衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_playzing-01_icon.webp",
+        "front": "otogari-adonis_playzing-01_front.webp",
+        "back": "otogari-adonis_playzing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_flashback-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "フラッシュバック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_flashback-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_newyear-rise-silver-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_album-trip-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_album-trip-01_icon.webp",
+        "front": "otogari-adonis_album-trip-01_front.webp",
+        "back": "otogari-adonis_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "otogari-adonis_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "otogari-adonis_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-challenge-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_twilight-idol-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_swing-night-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "SWING NIGHT衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_swing-night-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-challenge-scr-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_anniversary-challenge-scr-01_icon.webp",
+        "front": "otogari-adonis_anniversary-challenge-scr-01_front.webp",
+        "back": "otogari-adonis_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_halloween-wing-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_halloween-wing-01_icon.webp",
+        "front": "otogari-adonis_halloween-wing-01_front.webp",
+        "back": "otogari-adonis_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_sandstorm-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "サンドストーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_sandstorm-01_icon.webp",
+        "front": "otogari-adonis_sandstorm-01_front.webp",
+        "back": "otogari-adonis_sandstorm-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_seeker-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "シーカー衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_seeker-01_icon.webp",
+        "front": "otogari-adonis_seeker-01_front.webp",
+        "back": "otogari-adonis_seeker-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_halloween-costume-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_halloween-costume-01_icon.webp",
+        "front": "otogari-adonis_halloween-costume-01_front.webp",
+        "back": "otogari-adonis_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_starlight-8th-live-tshirt-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "otogari-adonis_starlight-8th-live-tshirt-01_front.webp",
+        "back": "otogari-adonis_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_newyear-rise-first-love-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_newyear-rise-first-love-01_icon.webp",
+        "front": "otogari-adonis_newyear-rise-first-love-01_front.webp",
+        "back": "otogari-adonis_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_colorful-music-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_colorful-music-01_icon.webp",
+        "front": "otogari-adonis_colorful-music-01_front.webp",
+        "back": "otogari-adonis_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_undead-hoodie-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "UNDEADフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_undead-hoodie-01_icon.webp",
+        "front": "otogari-adonis_undead-hoodie-01_front.webp",
+        "back": "otogari-adonis_undead-hoodie-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_twilight-idol-scr-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_deep-into-you-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Deep into you衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_deep-into-you-01_icon.webp",
+        "front": "otogari-adonis_deep-into-you-01_front.webp",
+        "back": "otogari-adonis_deep-into-you-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_velvet-ship-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Velvet Ship衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_velvet-ship-01_icon.webp",
+        "front": "otogari-adonis_velvet-ship-01_front.webp",
+        "back": "otogari-adonis_velvet-ship-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_jinbei-goldfish-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_jinbei-goldfish-01_icon.webp",
+        "front": "otogari-adonis_jinbei-goldfish-01_front.webp",
+        "back": "otogari-adonis_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_iridescent-light-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_iridescent-light-01_icon.webp",
+        "front": "otogari-adonis_iridescent-light-01_front.webp",
+        "back": "otogari-adonis_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_caelum-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_caelum-01_icon.webp",
+        "front": "otogari-adonis_caelum-01_front.webp",
+        "back": "otogari-adonis_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_halloween-wing-angel-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_halloween-wing-angel-01_icon.webp",
+        "front": "otogari-adonis_halloween-wing-angel-01_front.webp",
+        "back": "otogari-adonis_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_kage-ni-hikaru-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "影に光る",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_kage-ni-hikaru-01_icon.webp",
+        "front": "otogari-adonis_kage-ni-hikaru-01_front.webp",
+        "back": "otogari-adonis_kage-ni-hikaru-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_terra-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_terra-01_icon.webp",
+        "front": "otogari-adonis_terra-01_front.webp",
+        "back": "otogari-adonis_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_shining-star-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_shining-star-01_icon.webp",
+        "front": "otogari-adonis_shining-star-01_front.webp",
+        "back": "otogari-adonis_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_starlight-10th-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "otogari-adonis_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_anniversary-agent-red-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_anniversary-agent-red-01_icon.webp",
+        "front": "otogari-adonis_anniversary-agent-red-01_front.webp",
+        "back": "otogari-adonis_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_mare-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_mare-01_icon.webp",
+        "front": "otogari-adonis_mare-01_front.webp",
+        "back": "otogari-adonis_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
+    },
+    {
+      "id": "otogari-adonis_jinbei-fireworks-01",
+      "idol_slug": "otogari-adonis",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_jinbei-fireworks-01_icon.webp",
+        "front": "otogari-adonis_jinbei-fireworks-01_front.webp",
+        "back": "otogari-adonis_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-12"
     }
   ]
 }
