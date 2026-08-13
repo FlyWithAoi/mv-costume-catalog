@@ -35413,6 +35413,695 @@
           }
         }
       }
+    },
+    "tenma-mitsuru-slots-04-65": {
+      "idol_slug": "tenma-mitsuru",
+      "input_dir": "tenma-mitsuru",
+      "output_dir": "tenma-mitsuru",
+      "items": {
+        "04_uta-no-oniisan": {
+          "id": "tenma-mitsuru_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 287,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "05_atoz": {
+          "id": "tenma-mitsuru_atoz-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1441,
+            "y": 291,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "06_shiny-sunrise": {
+          "id": "tenma-mitsuru_shiny-sunrise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1953,
+            "y": 305,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "07_seta": {
+          "id": "tenma-mitsuru_seta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 589,
+            "y": 475,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "08_halloween-bat": {
+          "id": "tenma-mitsuru_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 759,
+            "y": 459,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "09_pilot-suit": {
+          "id": "tenma-mitsuru_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 459,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "10_bogie-time": {
+          "id": "tenma-mitsuru_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 589,
+            "y": 647,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "11_happy-spring": {
+          "id": "tenma-mitsuru_happy-spring-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 759,
+            "y": 631,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "12_anniversary-chance": {
+          "id": "tenma-mitsuru_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1101,
+            "y": 647,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "13_anniversary-777": {
+          "id": "tenma-mitsuru_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 631,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "14_black-stage": {
+          "id": "tenma-mitsuru_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1441,
+            "y": 647,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "15_halloween-candle": {
+          "id": "tenma-mitsuru_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1781,
+            "y": 629,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "16_starlight-7th-live-tshirt": {
+          "id": "tenma-mitsuru_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1953,
+            "y": 647,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "17_newyear-rise-cape": {
+          "id": "tenma-mitsuru_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 929,
+            "y": 457,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "18_flight-start": {
+          "id": "tenma-mitsuru_flight-start-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1101,
+            "y": 475,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "19_training-wear": {
+          "id": "tenma-mitsuru_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 455,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "20_anniversary-love": {
+          "id": "tenma-mitsuru_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1611,
+            "y": 467,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "21_scramble-gakuen-boys-uniform": {
+          "id": "tenma-mitsuru_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 929,
+            "y": 631,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "22_anniversary-challenge-scr": {
+          "id": "tenma-mitsuru_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1441,
+            "y": 643,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "23_sanctuary": {
+          "id": "tenma-mitsuru_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1611,
+            "y": 631,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "24_halloween-wing": {
+          "id": "tenma-mitsuru_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1781,
+            "y": 621,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "25_hrcn": {
+          "id": "tenma-mitsuru_hrcn-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1953,
+            "y": 635,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "26_live-party": {
+          "id": "tenma-mitsuru_live-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 589,
+            "y": 327,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "27_starlight-8th-live-tshirt": {
+          "id": "tenma-mitsuru_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 759,
+            "y": 311,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "28_newyear-rise-first-love": {
+          "id": "tenma-mitsuru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 929,
+            "y": 315,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "29_pikapika": {
+          "id": "tenma-mitsuru_pikapika-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1101,
+            "y": 329,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "30_colorful-music": {
+          "id": "tenma-mitsuru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 311,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "31_rabits-hoodie": {
+          "id": "tenma-mitsuru_rabits-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1441,
+            "y": 315,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "32_rarara-station": {
+          "id": "tenma-mitsuru_rarara-station-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1953,
+            "y": 327,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "33_jinbei-goldfish": {
+          "id": "tenma-mitsuru_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 589,
+            "y": 499,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "34_caelum": {
+          "id": "tenma-mitsuru_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 759,
+            "y": 483,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "35_halloween-wing-angel": {
+          "id": "tenma-mitsuru_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 929,
+            "y": 483,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "36_terra": {
+          "id": "tenma-mitsuru_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1101,
+            "y": 499,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "37_fight-is-only-fate": {
+          "id": "tenma-mitsuru_fight-is-only-fate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1271,
+            "y": 483,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "38_shining-star": {
+          "id": "tenma-mitsuru_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1441,
+            "y": 499,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "39_anniversary-agent-red": {
+          "id": "tenma-mitsuru_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1781,
+            "y": 481,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "40_teenage-monster": {
+          "id": "tenma-mitsuru_teenage-monster-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1953,
+            "y": 499,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "41_mm-rabits": {
+          "id": "tenma-mitsuru_mm-rabits-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 589,
+            "y": 671,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "42_jinbei-fireworks": {
+          "id": "tenma-mitsuru_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 759,
+            "y": 655,
+            "width": 170,
+            "height": 170
+          }
+        },
+        "43_common-scr": {
+          "id": "tenma-mitsuru_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_choshoku-anniversary-suit": {
+          "id": "tenma-mitsuru_choshoku-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_hoppin-party": {
+          "id": "tenma-mitsuru_hoppin-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_hazumu-anniversary-rock": {
+          "id": "tenma-mitsuru_hazumu-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_esmg-graphic-tshirt": {
+          "id": "tenma-mitsuru_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_black-bunny": {
+          "id": "tenma-mitsuru_black-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_fusion-unit-rabits-df": {
+          "id": "tenma-mitsuru_fusion-unit-rabits-df-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_bloom-idol": {
+          "id": "tenma-mitsuru_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_soleil": {
+          "id": "tenma-mitsuru_soleil-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_ss-kouhaku": {
+          "id": "tenma-mitsuru_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_hamutaro": {
+          "id": "tenma-mitsuru_hamutaro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_newyear-rise": {
+          "id": "tenma-mitsuru_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_shuppatsu-shin-go": {
+          "id": "tenma-mitsuru_shuppatsu-shin-go-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_bloom-idol-scr": {
+          "id": "tenma-mitsuru_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_parallel-world": {
+          "id": "tenma-mitsuru_parallel-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_album-trip": {
+          "id": "tenma-mitsuru_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_sports-survivor": {
+          "id": "tenma-mitsuru_sports-survivor-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_newyear-rise-hakugin": {
+          "id": "tenma-mitsuru_newyear-rise-hakugin-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_anniversary-challenge": {
+          "id": "tenma-mitsuru_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_twilight-idol": {
+          "id": "tenma-mitsuru_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_twilight-idol-scr": {
+          "id": "tenma-mitsuru_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_manka-solidarity": {
+          "id": "tenma-mitsuru_manka-solidarity-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_starlight-10th": {
+          "id": "tenma-mitsuru_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
     }
   }
 }
