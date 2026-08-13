@@ -34046,6 +34046,684 @@
           }
         }
       }
+    },
+    "mashiro-tomoya-slots-04-64": {
+      "idol_slug": "mashiro-tomoya",
+      "input_dir": "mashiro-tomoya",
+      "output_dir": "mashiro-tomoya",
+      "items": {
+        "04_usa-roomwear": {
+          "id": "mashiro-tomoya_usa-roomwear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 254,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "05_kirariru-standard": {
+          "id": "mashiro-tomoya_kirariru-standard-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 253,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "06_tanabata": {
+          "id": "mashiro-tomoya_tanabata-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 252,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "07_halloween-bat": {
+          "id": "mashiro-tomoya_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 424,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "08_pilot-suit": {
+          "id": "mashiro-tomoya_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 424,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "09_bogie-time": {
+          "id": "mashiro-tomoya_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 424,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "10_happy-spring": {
+          "id": "mashiro-tomoya_happy-spring-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 561,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "11_anniversary-chance": {
+          "id": "mashiro-tomoya_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 561,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "12_anniversary-777": {
+          "id": "mashiro-tomoya_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 560,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "13_black-stage": {
+          "id": "mashiro-tomoya_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 561,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "14_halloween-candle": {
+          "id": "mashiro-tomoya_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 561,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "15_starlight-7th-live-tshirt": {
+          "id": "mashiro-tomoya_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 560,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "16_flambe": {
+          "id": "mashiro-tomoya_flambe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 561,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "17_newyear-rise-cape": {
+          "id": "mashiro-tomoya_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 418,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "18_training-wear": {
+          "id": "mashiro-tomoya_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 418,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "19_anniversary-love": {
+          "id": "mashiro-tomoya_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 418,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "20_scramble-gakuen-boys-uniform": {
+          "id": "mashiro-tomoya_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 558,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "21_anniversary-challenge-scr": {
+          "id": "mashiro-tomoya_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 553,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "22_sanctuary": {
+          "id": "mashiro-tomoya_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 560,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "23_halloween-wing": {
+          "id": "mashiro-tomoya_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 564,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "24_hrcn": {
+          "id": "mashiro-tomoya_hrcn-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 558,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "25_live-party": {
+          "id": "mashiro-tomoya_live-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 420,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "26_starlight-8th-live-tshirt": {
+          "id": "mashiro-tomoya_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 422,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "27_newyear-rise-hatsukoi": {
+          "id": "mashiro-tomoya_newyear-rise-hatsukoi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 416,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "28_colorful-music": {
+          "id": "mashiro-tomoya_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 426,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "29_daten-shoku": {
+          "id": "mashiro-tomoya_daten-shoku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 422,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "30_rabits-hoodie": {
+          "id": "mashiro-tomoya_rabits-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 424,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "31_boku-no-weak-point": {
+          "id": "mashiro-tomoya_boku-no-weak-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1590,
+            "y": 419,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "32_rarara-station": {
+          "id": "mashiro-tomoya_rarara-station-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 416,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "33_jinbei-kingyo": {
+          "id": "mashiro-tomoya_jinbei-kingyo-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 448,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "34_caelum": {
+          "id": "mashiro-tomoya_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 737,
+            "y": 448,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "35_halloween-wing-angel": {
+          "id": "mashiro-tomoya_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 448,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "36_terra": {
+          "id": "mashiro-tomoya_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1078,
+            "y": 448,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "37_tenbakuko": {
+          "id": "mashiro-tomoya_tenbakuko-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1249,
+            "y": 448,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "38_shining-star": {
+          "id": "mashiro-tomoya_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1419,
+            "y": 448,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "39_anniversary-agent-green": {
+          "id": "mashiro-tomoya_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 448,
+            "width": 215,
+            "height": 215
+          }
+        },
+        "40_mm-rabits": {
+          "id": "mashiro-tomoya_mm-rabits-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1931,
+            "y": 448,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "41_jinbei-hanabi": {
+          "id": "mashiro-tomoya_jinbei-hanabi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 567,
+            "y": 573,
+            "width": 214,
+            "height": 214
+          }
+        },
+        "42_common-scr": {
+          "id": "mashiro-tomoya_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_choshoku-anniversary-suit": {
+          "id": "mashiro-tomoya_choshoku-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_hoppin-party": {
+          "id": "mashiro-tomoya_hoppin-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_hazumu-anniversary-rock": {
+          "id": "mashiro-tomoya_hazumu-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_shumatsu-keikan": {
+          "id": "mashiro-tomoya_shumatsu-keikan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_esmg-graphic-tshirt": {
+          "id": "mashiro-tomoya_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_black-bunny": {
+          "id": "mashiro-tomoya_black-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_fusion-rabits-df": {
+          "id": "mashiro-tomoya_fusion-rabits-df-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_bloom-idol": {
+          "id": "mashiro-tomoya_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_ss-kouhaku": {
+          "id": "mashiro-tomoya_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_hamutaro": {
+          "id": "mashiro-tomoya_hamutaro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_newyear-rise": {
+          "id": "mashiro-tomoya_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_shuppatsu-shin-go": {
+          "id": "mashiro-tomoya_shuppatsu-shin-go-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_bloom-idol-scr": {
+          "id": "mashiro-tomoya_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_parallel-world": {
+          "id": "mashiro-tomoya_parallel-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_album-trip": {
+          "id": "mashiro-tomoya_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_newyear-rise-hakugin": {
+          "id": "mashiro-tomoya_newyear-rise-hakugin-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_pure-white": {
+          "id": "mashiro-tomoya_pure-white-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_anniversary-challenge": {
+          "id": "mashiro-tomoya_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_twilight-idol": {
+          "id": "mashiro-tomoya_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_brilliance-prince": {
+          "id": "mashiro-tomoya_brilliance-prince-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_twilight-idol-scr": {
+          "id": "mashiro-tomoya_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_starlight-10th": {
+          "id": "mashiro-tomoya_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
     }
   }
 }
