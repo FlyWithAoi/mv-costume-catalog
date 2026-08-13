@@ -156,36 +156,6 @@
         }
       }
     },
-    "rei_test": {
-      "idol_slug": "sakuma-rei",
-      "output_dir": "sakuma-rei",
-      "items": {
-        "02_caelum": {
-          "_comment": "選択中カードが共通 search_area の右外で自動検出が誤爆するため manual_crop。",
-          "id": "sakuma-rei_caelum-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 1270,
-            "y": 485,
-            "width": 185,
-            "height": 185
-          },
-          "has_body_images": true
-        },
-        "11_commonSCR": {
-          "_comment": "実名 共通アイドル衣装（SCR）。選択中カードが search_area 外のため manual_crop。",
-          "id": "sakuma-rei_common-scr-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 1100,
-            "y": 280,
-            "width": 185,
-            "height": 185
-          },
-          "has_body_images": true
-        }
-      }
-    },
     "tenshouin-eichi": {
       "idol_slug": "tenshouin-eichi",
       "output_dir": "tenshouin-eichi",
@@ -1507,6 +1477,30 @@
             "y": 290,
             "width": 195,
             "height": 195
+          },
+          "has_body_images": true
+        },
+        "04_common-scr": {
+          "_comment": "rei_testから正式化。既存WebPを保全し、rawをcanonical配置へ移行。",
+          "id": "sakuma-rei_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1100,
+            "y": 280,
+            "width": 185,
+            "height": 185
+          },
+          "has_body_images": true
+        },
+        "05_caelum": {
+          "_comment": "rei_testから正式化。既存WebPを保全し、rawをcanonical配置へ移行。",
+          "id": "sakuma-rei_caelum-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1270,
+            "y": 485,
+            "width": 185,
+            "height": 185
           },
           "has_body_images": true
         }
@@ -33441,6 +33435,614 @@
             "y": 654,
             "width": 172,
             "height": 172
+          }
+        }
+      }
+    },
+    "sakuma-rei-slots-06-58": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "06_choushoku-anniversary-suit": {
+          "id": "sakuma-rei_choushoku-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "07_blood-banquet": {
+          "id": "sakuma-rei_blood-banquet-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 277,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_halloween-bat": {
+          "id": "sakuma-rei_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 277,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_fuyajo-live": {
+          "id": "sakuma-rei_fuyajo-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "10_miwaku-anniversary-rock": {
+          "id": "sakuma-rei_miwaku-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "11_nocturne-jump": {
+          "id": "sakuma-rei_nocturne-jump-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_pilot-suit": {
+          "id": "sakuma-rei_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_esmg-graphic-tshirt": {
+          "id": "sakuma-rei_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "14_gozen-shiai": {
+          "id": "sakuma-rei_gozen-shiai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_bloom-idol": {
+          "id": "sakuma-rei_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "16_beast": {
+          "id": "sakuma-rei_beast-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "17_fusion-undead-kogetsu": {
+          "id": "sakuma-rei_fusion-undead-kogetsu-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_la-mort": {
+          "id": "sakuma-rei_la-mort-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_fukkatsu-sai": {
+          "id": "sakuma-rei_fukkatsu-sai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_ss-kohaku": {
+          "id": "sakuma-rei_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "21_anniversary-chance": {
+          "id": "sakuma-rei_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_anniversary-777": {
+          "id": "sakuma-rei_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_black-stage": {
+          "id": "sakuma-rei_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_bride-light": {
+          "id": "sakuma-rei_bride-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1437,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_usa": {
+          "id": "sakuma-rei_usa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "26_white-moon": {
+          "id": "sakuma-rei_white-moon-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "27_halloween-candle": {
+          "id": "sakuma-rei_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_starlive-7th-tshirt": {
+          "id": "sakuma-rei_starlive-7th-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 445,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_new-year-rise": {
+          "id": "sakuma-rei_new-year-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "30_new-year-rise-cape": {
+          "id": "sakuma-rei_new-year-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 441,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_training-wear": {
+          "id": "sakuma-rei_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 441,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_five-weirdos-stage": {
+          "id": "sakuma-rei_five-weirdos-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 449,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_altered": {
+          "id": "sakuma-rei_altered-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "34_bloom-idol-scr": {
+          "id": "sakuma-rei_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "35_anniversary-love": {
+          "id": "sakuma-rei_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 445,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_deadmans": {
+          "id": "sakuma-rei_deadmans-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 445,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_flashback": {
+          "id": "sakuma-rei_flashback-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "38_new-year-rise-silver": {
+          "id": "sakuma-rei_new-year-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "39_album-trip": {
+          "id": "sakuma-rei_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 621,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "40_private-school-scramble": {
+          "id": "sakuma-rei_private-school-scramble-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_exhibition": {
+          "id": "sakuma-rei_exhibition-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 609,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-challenge": {
+          "id": "sakuma-rei_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_twilight-idol": {
+          "id": "sakuma-rei_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_swing-night": {
+          "id": "sakuma-rei_swing-night-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_anniversary-challenge-scr": {
+          "id": "sakuma-rei_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 613,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_lost-bat": {
+          "id": "sakuma-rei_lost-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "47_halloween-wing": {
+          "id": "sakuma-rei_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "48_sandstorm": {
+          "id": "sakuma-rei_sandstorm-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "49_halloween": {
+          "id": "sakuma-rei_halloween-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "50_starlive-8th-tshirt": {
+          "id": "sakuma-rei_starlive-8th-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "51_tenka-no-haru": {
+          "id": "sakuma-rei_tenka-no-haru-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1437,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "52_new-year-rise-hatsukoi": {
+          "id": "sakuma-rei_new-year-rise-hatsukoi-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "53_colorful-music": {
+          "id": "sakuma-rei_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1777,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "54_undead-hoodie": {
+          "id": "sakuma-rei_undead-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 301,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "55_twilight-idol-scr": {
+          "id": "sakuma-rei_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_anniversary-agent-red": {
+          "id": "sakuma-rei_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 645,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "57_mare": {
+          "id": "sakuma-rei_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 645,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "58_jinbei-fireworks": {
+          "id": "sakuma-rei_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 645,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "sakuma-rei-slots-59": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "59_uta-no-oniisan": {
+          "id": "sakuma-rei_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 277,
+            "width": 195,
+            "height": 195
           }
         }
       }

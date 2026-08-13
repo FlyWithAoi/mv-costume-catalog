@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12",
+  "updated_at": "2026-08-13",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -54156,6 +54156,998 @@
       ],
       "note_public": "",
       "updated_at": "2026-08-12"
+    },
+    {
+      "id": "sakuma-rei_choushoku-anniversary-suit-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "調色のアニバーサリースーツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_choushoku-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_blood-banquet-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ブラッドバンケット衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_blood-banquet-01_icon.webp",
+        "front": "sakuma-rei_blood-banquet-01_front.webp",
+        "back": "sakuma-rei_blood-banquet-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_halloween-bat-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_halloween-bat-01_icon.webp",
+        "front": "sakuma-rei_halloween-bat-01_front.webp",
+        "back": "sakuma-rei_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_fuyajo-live-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "不夜城ライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_fuyajo-live-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_miwaku-anniversary-rock-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "魅惑のアニバーサリーロック",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_miwaku-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_nocturne-jump-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ノクターンジャンプ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_nocturne-jump-01_icon.webp",
+        "front": "sakuma-rei_nocturne-jump-01_front.webp",
+        "back": "sakuma-rei_nocturne-jump-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_pilot-suit-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_pilot-suit-01_icon.webp",
+        "front": "sakuma-rei_pilot-suit-01_front.webp",
+        "back": "sakuma-rei_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_esmg-graphic-tshirt-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_gozen-shiai-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "御前試合衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_gozen-shiai-01_icon.webp",
+        "front": "sakuma-rei_gozen-shiai-01_front.webp",
+        "back": "sakuma-rei_gozen-shiai-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_bloom-idol-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_beast-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ビースト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_beast-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_fusion-undead-kogetsu-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_fusion-undead-kogetsu-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_la-mort-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "La Mort衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_la-mort-01_icon.webp",
+        "front": "sakuma-rei_la-mort-01_front.webp",
+        "back": "sakuma-rei_la-mort-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_fukkatsu-sai-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "復活祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_fukkatsu-sai-01_icon.webp",
+        "front": "sakuma-rei_fukkatsu-sai-01_front.webp",
+        "back": "sakuma-rei_fukkatsu-sai-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_ss-kohaku-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-chance-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_anniversary-chance-01_icon.webp",
+        "front": "sakuma-rei_anniversary-chance-01_front.webp",
+        "back": "sakuma-rei_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-777-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_anniversary-777-01_icon.webp",
+        "front": "sakuma-rei_anniversary-777-01_front.webp",
+        "back": "sakuma-rei_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_black-stage-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_black-stage-01_icon.webp",
+        "front": "sakuma-rei_black-stage-01_front.webp",
+        "back": "sakuma-rei_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_bride-light-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ブライドライト衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_bride-light-01_icon.webp",
+        "front": "sakuma-rei_bride-light-01_front.webp",
+        "back": "sakuma-rei_bride-light-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_usa-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_usa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_white-moon-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ホワイトムーン",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_white-moon-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_halloween-candle-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_halloween-candle-01_icon.webp",
+        "front": "sakuma-rei_halloween-candle-01_front.webp",
+        "back": "sakuma-rei_halloween-candle-01_back.webp"
+      },
+      "tags": [
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_starlive-7th-tshirt-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_starlive-7th-tshirt-01_icon.webp",
+        "front": "sakuma-rei_starlive-7th-tshirt-01_front.webp",
+        "back": "sakuma-rei_starlive-7th-tshirt-01_back.webp"
+      },
+      "tags": [
+        "ライブ",
+        "Tシャツ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_new-year-rise-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_new-year-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_new-year-rise-cape-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_new-year-rise-cape-01_icon.webp",
+        "front": "sakuma-rei_new-year-rise-cape-01_front.webp",
+        "back": "sakuma-rei_new-year-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_training-wear-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_training-wear-01_icon.webp",
+        "front": "sakuma-rei_training-wear-01_front.webp",
+        "back": "sakuma-rei_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_five-weirdos-stage-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "五奇人ステージ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_five-weirdos-stage-01_icon.webp",
+        "front": "sakuma-rei_five-weirdos-stage-01_front.webp",
+        "back": "sakuma-rei_five-weirdos-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_altered-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "オルタード衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_altered-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_bloom-idol-scr-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-love-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_anniversary-love-01_icon.webp",
+        "front": "sakuma-rei_anniversary-love-01_front.webp",
+        "back": "sakuma-rei_anniversary-love-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_deadmans-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "デッドマンズ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_deadmans-01_icon.webp",
+        "front": "sakuma-rei_deadmans-01_front.webp",
+        "back": "sakuma-rei_deadmans-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_flashback-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "フラッシュバック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_flashback-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_new-year-rise-silver-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_new-year-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_album-trip-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_album-trip-01_icon.webp",
+        "front": "sakuma-rei_album-trip-01_front.webp",
+        "back": "sakuma-rei_album-trip-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_private-school-scramble-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_private-school-scramble-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_exhibition-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "戦記と展覧会衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_exhibition-01_icon.webp",
+        "front": "sakuma-rei_exhibition-01_front.webp",
+        "back": "sakuma-rei_exhibition-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-challenge-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_twilight-idol-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_swing-night-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "SWING NIGHT衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_swing-night-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-challenge-scr-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_anniversary-challenge-scr-01_icon.webp",
+        "front": "sakuma-rei_anniversary-challenge-scr-01_front.webp",
+        "back": "sakuma-rei_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_lost-bat-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "迷い子バット衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_lost-bat-01_icon.webp",
+        "front": "sakuma-rei_lost-bat-01_front.webp",
+        "back": "sakuma-rei_lost-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_halloween-wing-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_halloween-wing-01_icon.webp",
+        "front": "sakuma-rei_halloween-wing-01_front.webp",
+        "back": "sakuma-rei_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_sandstorm-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "サンドストーム",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_sandstorm-01_icon.webp",
+        "front": "sakuma-rei_sandstorm-01_front.webp",
+        "back": "sakuma-rei_sandstorm-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_halloween-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_halloween-01_icon.webp",
+        "front": "sakuma-rei_halloween-01_front.webp",
+        "back": "sakuma-rei_halloween-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_starlive-8th-tshirt-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_starlive-8th-tshirt-01_icon.webp",
+        "front": "sakuma-rei_starlive-8th-tshirt-01_front.webp",
+        "back": "sakuma-rei_starlive-8th-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_tenka-no-haru-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "天下の春衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_tenka-no-haru-01_icon.webp",
+        "front": "sakuma-rei_tenka-no-haru-01_front.webp",
+        "back": "sakuma-rei_tenka-no-haru-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_new-year-rise-hatsukoi-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_new-year-rise-hatsukoi-01_icon.webp",
+        "front": "sakuma-rei_new-year-rise-hatsukoi-01_front.webp",
+        "back": "sakuma-rei_new-year-rise-hatsukoi-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_colorful-music-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_colorful-music-01_icon.webp",
+        "front": "sakuma-rei_colorful-music-01_front.webp",
+        "back": "sakuma-rei_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_undead-hoodie-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "UNDEADフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_undead-hoodie-01_icon.webp",
+        "front": "sakuma-rei_undead-hoodie-01_front.webp",
+        "back": "sakuma-rei_undead-hoodie-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_twilight-idol-scr-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_anniversary-agent-red-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_anniversary-agent-red-01_icon.webp",
+        "front": "sakuma-rei_anniversary-agent-red-01_front.webp",
+        "back": "sakuma-rei_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_mare-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_mare-01_icon.webp",
+        "front": "sakuma-rei_mare-01_front.webp",
+        "back": "sakuma-rei_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_jinbei-fireworks-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_jinbei-fireworks-01_icon.webp",
+        "front": "sakuma-rei_jinbei-fireworks-01_front.webp",
+        "back": "sakuma-rei_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-13"
+    },
+    {
+      "id": "sakuma-rei_uta-no-oniisan-01",
+      "idol_slug": "sakuma-rei",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_uta-no-oniisan-01_icon.webp",
+        "front": "sakuma-rei_uta-no-oniisan-01_front.webp",
+        "back": "sakuma-rei_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-13"
     }
   ]
 }
