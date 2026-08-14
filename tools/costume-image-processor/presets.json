@@ -84,60 +84,6 @@
         }
       }
     },
-    "tori_test": {
-      "idol_slug": "himemiya-tori",
-      "output_dir": "himemiya-tori",
-      "items": {
-        "02_caelum": {
-          "_comment": "フォルダはあるが画像未配置（2026-07-08時点）。スクショを入れたらそのまま処理される。",
-          "id": "himemiya-tori_caelum-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
-          },
-          "has_body_images": true
-        },
-        "03_black": {
-          "_comment": "実名 Musica衣装。選択中カードが共通 search_area の右外にあり自動検出が別カードに誤爆するため manual_crop。",
-          "id": "himemiya-tori_musica-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 1610,
-            "y": 468,
-            "width": 190,
-            "height": 190
-          },
-          "has_body_images": true
-        },
-        "04_headparts": {
-          "_comment": "実名 エゴイスト衣装。",
-          "id": "himemiya-tori_egoist-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
-          },
-          "has_body_images": true
-        },
-        "05_locked": {
-          "_comment": "実名 ニューイヤーライズ（白銀）。未購入詳細ポップアップの手動crop（wataruの05と同レイアウト）。",
-          "id": "himemiya-tori_newyear-rise-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          },
-          "has_body_images": false
-        }
-      }
-    },
     "tenshouin-eichi": {
       "idol_slug": "tenshouin-eichi",
       "output_dir": "tenshouin-eichi",
@@ -330,6 +276,39 @@
             "height": 195
           },
           "has_body_images": true
+        },
+        "04_musica": {
+          "id": "himemiya-tori_musica-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1610,
+            "y": 468,
+            "width": 190,
+            "height": 190
+          },
+          "has_body_images": true
+        },
+        "05_egoist": {
+          "id": "himemiya-tori_egoist-01",
+          "icon_mode": "auto_selected_card",
+          "icon_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 200,
+            "height": 200
+          },
+          "has_body_images": true
+        },
+        "06_newyear-rise": {
+          "id": "himemiya-tori_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
         }
       }
     },
@@ -408,6 +387,33 @@
             "height": 195
           },
           "has_body_images": true
+        },
+        "04_musica": {
+          "id": "himemiya-tori_musica-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 1610,
+            "y": 468,
+            "width": 190,
+            "height": 190
+          },
+          "has_body_images": true
+        },
+        "05_egoist": {
+          "id": "himemiya-tori_egoist-01",
+          "icon_mode": "auto_selected_card",
+          "has_body_images": true
+        },
+        "06_newyear-rise": {
+          "id": "himemiya-tori_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
         }
       }
     },
@@ -36774,6 +36780,684 @@
         },
         "66_starlight-10th-live-tshirt": {
           "id": "shino-hajime_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "himemiya-tori-slots-07-67": {
+      "idol_slug": "himemiya-tori",
+      "input_dir": "himemiya-tori",
+      "output_dir": "himemiya-tori",
+      "items": {
+        "07_uta-no-oniisan": {
+          "id": "himemiya-tori_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 282,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "08_magnolia": {
+          "id": "himemiya-tori_magnolia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 282,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "09_halloween-bat": {
+          "id": "himemiya-tori_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 452,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "10_pilot-suit": {
+          "id": "himemiya-tori_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 452,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "11_tougenkyou-guuzouken": {
+          "id": "himemiya-tori_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 452,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "12_resort-live": {
+          "id": "himemiya-tori_resort-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 622,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "13_white-prim": {
+          "id": "himemiya-tori_white-prim-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 622,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "14_anniversary-chance": {
+          "id": "himemiya-tori_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 622,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "15_anniversary-777": {
+          "id": "himemiya-tori_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 622,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "16_black-stage": {
+          "id": "himemiya-tori_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 622,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "17_halloween-candle": {
+          "id": "himemiya-tori_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 452,
+            "width": 173,
+            "height": 143
+          }
+        },
+        "18_newyear-rise-cape": {
+          "id": "himemiya-tori_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 454,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "19_training-wear": {
+          "id": "himemiya-tori_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 450,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "20_anniversary-love": {
+          "id": "himemiya-tori_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 452,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "21_scramble-gakuen-boys-uniform": {
+          "id": "himemiya-tori_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 620,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "22_sanctuary": {
+          "id": "himemiya-tori_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 614,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "23_halloween-wing": {
+          "id": "himemiya-tori_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 620,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "24_fairy-tale": {
+          "id": "himemiya-tori_fairy-tale-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 306,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "25_kenka-matsuri": {
+          "id": "himemiya-tori_kenka-matsuri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 306,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "26_starlight-9th-live-tshirt": {
+          "id": "himemiya-tori_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 306,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "27_newyear-rise-first-love": {
+          "id": "himemiya-tori_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 306,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "28_colorful-music": {
+          "id": "himemiya-tori_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 306,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "29_fine-hoodie": {
+          "id": "himemiya-tori_fine-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 306,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "30_boku-no-weak-point": {
+          "id": "himemiya-tori_boku-no-weak-point-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 306,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "31_jinbei-goldfish": {
+          "id": "himemiya-tori_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 588,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "32_caelum": {
+          "id": "himemiya-tori_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "33_halloween-wing-angel": {
+          "id": "himemiya-tori_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "34_kuma-kuma-res-q": {
+          "id": "himemiya-tori_kuma-kuma-res-q-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 476,
+            "width": 175,
+            "height": 145
+          }
+        },
+        "35_kuma-kuma-res-q-bear-paw": {
+          "id": "himemiya-tori_kuma-kuma-res-q-bear-paw-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "36_terra": {
+          "id": "himemiya-tori_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "37_shining-star": {
+          "id": "himemiya-tori_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 476,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "38_anniversary-agent-green": {
+          "id": "himemiya-tori_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 758,
+            "y": 646,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "39_mare": {
+          "id": "himemiya-tori_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 928,
+            "y": 646,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "40_lure-ruler": {
+          "id": "himemiya-tori_lure-ruler-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1098,
+            "y": 646,
+            "width": 175,
+            "height": 147
+          }
+        },
+        "41_jinbei-fireworks": {
+          "id": "himemiya-tori_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1270,
+            "y": 646,
+            "width": 173,
+            "height": 145
+          }
+        },
+        "42_common-scr": {
+          "id": "himemiya-tori_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_tempest": {
+          "id": "himemiya-tori_tempest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_hoshiiro-anniversary-suit": {
+          "id": "himemiya-tori_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_princess-prince": {
+          "id": "himemiya-tori_princess-prince-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_branco": {
+          "id": "himemiya-tori_branco-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_tenshi-anniversary-rock": {
+          "id": "himemiya-tori_tenshi-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_primavera": {
+          "id": "himemiya-tori_primavera-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_esmg-graphic-tshirt": {
+          "id": "himemiya-tori_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_bloom-idol": {
+          "id": "himemiya-tori_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_fusion-unit-trickstar-fine": {
+          "id": "himemiya-tori_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_ss": {
+          "id": "himemiya-tori_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_ss-kouhaku": {
+          "id": "himemiya-tori_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_starlight-6th-live-tshirt": {
+          "id": "himemiya-tori_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_happy-step": {
+          "id": "himemiya-tori_happy-step-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_ghostic": {
+          "id": "himemiya-tori_ghostic-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_newyear-rise-plain": {
+          "id": "himemiya-tori_newyear-rise-plain-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_starlight-parade": {
+          "id": "himemiya-tori_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_bloom-idol-scr": {
+          "id": "himemiya-tori_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_atlantis": {
+          "id": "himemiya-tori_atlantis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_album-trip": {
+          "id": "himemiya-tori_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_koikoi-kissa": {
+          "id": "himemiya-tori_koikoi-kissa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_anniversary-challenge": {
+          "id": "himemiya-tori_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_twilight-idol": {
+          "id": "himemiya-tori_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_twilight-idol-scr": {
+          "id": "himemiya-tori_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_decorate": {
+          "id": "himemiya-tori_decorate-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_starlight-10th-live-tshirt": {
+          "id": "himemiya-tori_starlight-10th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {

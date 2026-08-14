@@ -59535,6 +59535,1104 @@
       ],
       "note_public": "ダイヤショップで購入",
       "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_uta-no-oniisan-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_uta-no-oniisan-01_icon.webp",
+        "front": "himemiya-tori_uta-no-oniisan-01_front.webp",
+        "back": "himemiya-tori_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_magnolia-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "マグノリア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_magnolia-01_icon.webp",
+        "front": "himemiya-tori_magnolia-01_front.webp",
+        "back": "himemiya-tori_magnolia-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_halloween-bat-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_halloween-bat-01_icon.webp",
+        "front": "himemiya-tori_halloween-bat-01_front.webp",
+        "back": "himemiya-tori_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_pilot-suit-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_pilot-suit-01_icon.webp",
+        "front": "himemiya-tori_pilot-suit-01_front.webp",
+        "back": "himemiya-tori_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_tougenkyou-guuzouken-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_tougenkyou-guuzouken-01_icon.webp",
+        "front": "himemiya-tori_tougenkyou-guuzouken-01_front.webp",
+        "back": "himemiya-tori_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_resort-live-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "リゾートライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_resort-live-01_icon.webp",
+        "front": "himemiya-tori_resort-live-01_front.webp",
+        "back": "himemiya-tori_resort-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_white-prim-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ホワイトプリム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_white-prim-01_icon.webp",
+        "front": "himemiya-tori_white-prim-01_front.webp",
+        "back": "himemiya-tori_white-prim-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_anniversary-chance-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_anniversary-chance-01_icon.webp",
+        "front": "himemiya-tori_anniversary-chance-01_front.webp",
+        "back": "himemiya-tori_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_anniversary-777-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_anniversary-777-01_icon.webp",
+        "front": "himemiya-tori_anniversary-777-01_front.webp",
+        "back": "himemiya-tori_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_black-stage-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_black-stage-01_icon.webp",
+        "front": "himemiya-tori_black-stage-01_front.webp",
+        "back": "himemiya-tori_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_halloween-candle-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_halloween-candle-01_icon.webp",
+        "front": "himemiya-tori_halloween-candle-01_front.webp",
+        "back": "himemiya-tori_halloween-candle-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_newyear-rise-cape-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_newyear-rise-cape-01_icon.webp",
+        "front": "himemiya-tori_newyear-rise-cape-01_front.webp",
+        "back": "himemiya-tori_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_training-wear-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_training-wear-01_icon.webp",
+        "front": "himemiya-tori_training-wear-01_front.webp",
+        "back": "himemiya-tori_training-wear-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_anniversary-love-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_anniversary-love-01_icon.webp",
+        "front": "himemiya-tori_anniversary-love-01_front.webp",
+        "back": "himemiya-tori_anniversary-love-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "himemiya-tori_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "himemiya-tori_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_sanctuary-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "サンクチュアリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_sanctuary-01_icon.webp",
+        "front": "himemiya-tori_sanctuary-01_front.webp",
+        "back": "himemiya-tori_sanctuary-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_halloween-wing-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_halloween-wing-01_icon.webp",
+        "front": "himemiya-tori_halloween-wing-01_front.webp",
+        "back": "himemiya-tori_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_fairy-tale-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "フェアリーテイル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_fairy-tale-01_icon.webp",
+        "front": "himemiya-tori_fairy-tale-01_front.webp",
+        "back": "himemiya-tori_fairy-tale-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_kenka-matsuri-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "喧嘩祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_kenka-matsuri-01_icon.webp",
+        "front": "himemiya-tori_kenka-matsuri-01_front.webp",
+        "back": "himemiya-tori_kenka-matsuri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_starlight-9th-live-tshirt-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "himemiya-tori_starlight-9th-live-tshirt-01_front.webp",
+        "back": "himemiya-tori_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_newyear-rise-first-love-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_newyear-rise-first-love-01_icon.webp",
+        "front": "himemiya-tori_newyear-rise-first-love-01_front.webp",
+        "back": "himemiya-tori_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_colorful-music-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_colorful-music-01_icon.webp",
+        "front": "himemiya-tori_colorful-music-01_front.webp",
+        "back": "himemiya-tori_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_fine-hoodie-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "fineフーディ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_fine-hoodie-01_icon.webp",
+        "front": "himemiya-tori_fine-hoodie-01_front.webp",
+        "back": "himemiya-tori_fine-hoodie-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_boku-no-weak-point-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "僕のウィーク・ポイント衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_boku-no-weak-point-01_icon.webp",
+        "front": "himemiya-tori_boku-no-weak-point-01_front.webp",
+        "back": "himemiya-tori_boku-no-weak-point-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_jinbei-goldfish-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_jinbei-goldfish-01_icon.webp",
+        "front": "himemiya-tori_jinbei-goldfish-01_front.webp",
+        "back": "himemiya-tori_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_caelum-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Caelum",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_caelum-01_icon.webp",
+        "front": "himemiya-tori_caelum-01_front.webp",
+        "back": "himemiya-tori_caelum-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_halloween-wing-angel-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_halloween-wing-angel-01_icon.webp",
+        "front": "himemiya-tori_halloween-wing-angel-01_front.webp",
+        "back": "himemiya-tori_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_kuma-kuma-res-q-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "クマクマレスQ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_kuma-kuma-res-q-01_icon.webp",
+        "front": "himemiya-tori_kuma-kuma-res-q-01_front.webp",
+        "back": "himemiya-tori_kuma-kuma-res-q-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_kuma-kuma-res-q-bear-paw-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "クマクマレスQ衣装（クマの手）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_kuma-kuma-res-q-bear-paw-01_icon.webp",
+        "front": "himemiya-tori_kuma-kuma-res-q-bear-paw-01_front.webp",
+        "back": "himemiya-tori_kuma-kuma-res-q-bear-paw-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_terra-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Terra",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_terra-01_icon.webp",
+        "front": "himemiya-tori_terra-01_front.webp",
+        "back": "himemiya-tori_terra-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_shining-star-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_shining-star-01_icon.webp",
+        "front": "himemiya-tori_shining-star-01_front.webp",
+        "back": "himemiya-tori_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_anniversary-agent-green-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_anniversary-agent-green-01_icon.webp",
+        "front": "himemiya-tori_anniversary-agent-green-01_front.webp",
+        "back": "himemiya-tori_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_mare-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Mare",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_mare-01_icon.webp",
+        "front": "himemiya-tori_mare-01_front.webp",
+        "back": "himemiya-tori_mare-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_lure-ruler-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ルアー・ルーラー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_lure-ruler-01_icon.webp",
+        "front": "himemiya-tori_lure-ruler-01_front.webp",
+        "back": "himemiya-tori_lure-ruler-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_jinbei-fireworks-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "himemiya-tori_jinbei-fireworks-01_icon.webp",
+        "front": "himemiya-tori_jinbei-fireworks-01_front.webp",
+        "back": "himemiya-tori_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_common-scr-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロード等の解放条件。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_tempest-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "テンペスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_tempest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_hoshiiro-anniversary-suit-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_princess-prince-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "プリンセスプリンス",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_princess-prince-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_branco-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "Branco衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_branco-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_tenshi-anniversary-rock-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "天使のアニバーサリーロック",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_tenshi-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_primavera-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "プリマヴェーラ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_primavera-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_esmg-graphic-tshirt-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_bloom-idol-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロード等の解放条件。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_fusion-unit-trickstar-fine-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "FUSION UNIT(Trickstar×fine)衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_ss-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "「SS」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_ss-kouhaku-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_starlight-6th-live-tshirt-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_happy-step-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ハッピーステップ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_happy-step-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_ghostic-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ゴースティック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_ghostic-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_newyear-rise-plain-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_newyear-rise-plain-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_starlight-parade-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "スタ―ライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_bloom-idol-scr-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロード等の解放条件。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_atlantis-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "ATLANTIS衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_atlantis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_album-trip-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_koikoi-kissa-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "恋こい喫茶衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_koikoi-kissa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_anniversary-challenge-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_twilight-idol-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロード等の解放条件。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_twilight-idol-scr-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロード等の解放条件。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_decorate-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "デコレート衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_decorate-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "himemiya-tori_starlight-10th-live-tshirt-01",
+      "idol_slug": "himemiya-tori",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "himemiya-tori_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
     }
   ]
 }
