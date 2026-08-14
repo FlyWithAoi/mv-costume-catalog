@@ -276,39 +276,6 @@
             "height": 195
           },
           "has_body_images": true
-        },
-        "04_musica": {
-          "id": "himemiya-tori_musica-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 1610,
-            "y": 468,
-            "width": 190,
-            "height": 190
-          },
-          "has_body_images": true
-        },
-        "05_egoist": {
-          "id": "himemiya-tori_egoist-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
-          },
-          "has_body_images": true
-        },
-        "06_newyear-rise": {
-          "id": "himemiya-tori_newyear-rise-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          },
-          "has_body_images": false
         }
       }
     },
@@ -401,7 +368,13 @@
         },
         "05_egoist": {
           "id": "himemiya-tori_egoist-01",
-          "icon_mode": "auto_selected_card",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 757,
+            "y": 389,
+            "width": 175,
+            "height": 173
+          },
           "has_body_images": true
         },
         "06_newyear-rise": {
@@ -36804,7 +36777,7 @@
             "x": 1270,
             "y": 282,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "08_magnolia": {
@@ -36815,7 +36788,7 @@
             "x": 1952,
             "y": 282,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "09_halloween-bat": {
@@ -36826,7 +36799,7 @@
             "x": 588,
             "y": 452,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "10_pilot-suit": {
@@ -36837,7 +36810,7 @@
             "x": 1440,
             "y": 452,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "11_tougenkyou-guuzouken": {
@@ -36848,7 +36821,7 @@
             "x": 1610,
             "y": 452,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "12_resort-live": {
@@ -36859,7 +36832,7 @@
             "x": 588,
             "y": 622,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "13_white-prim": {
@@ -36870,7 +36843,7 @@
             "x": 1098,
             "y": 622,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "14_anniversary-chance": {
@@ -36881,7 +36854,7 @@
             "x": 1270,
             "y": 622,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "15_anniversary-777": {
@@ -36892,7 +36865,7 @@
             "x": 1440,
             "y": 622,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "16_black-stage": {
@@ -36903,7 +36876,7 @@
             "x": 1610,
             "y": 622,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "17_halloween-candle": {
@@ -36914,7 +36887,7 @@
             "x": 758,
             "y": 452,
             "width": 173,
-            "height": 143
+            "height": 172
           }
         },
         "18_newyear-rise-cape": {
@@ -36925,7 +36898,7 @@
             "x": 1270,
             "y": 454,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "19_training-wear": {
@@ -36936,7 +36909,7 @@
             "x": 1440,
             "y": 450,
             "width": 173,
-            "height": 145
+            "height": 172
           }
         },
         "20_anniversary-love": {
@@ -36947,7 +36920,7 @@
             "x": 1780,
             "y": 452,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "21_scramble-gakuen-boys-uniform": {
@@ -36958,7 +36931,7 @@
             "x": 1098,
             "y": 620,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "22_sanctuary": {
@@ -36969,7 +36942,7 @@
             "x": 1780,
             "y": 614,
             "width": 175,
-            "height": 145
+            "height": 172
           }
         },
         "23_halloween-wing": {
@@ -36980,7 +36953,7 @@
             "x": 1952,
             "y": 620,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "24_fairy-tale": {
@@ -36991,7 +36964,7 @@
             "x": 588,
             "y": 306,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "25_kenka-matsuri": {
@@ -37002,7 +36975,7 @@
             "x": 928,
             "y": 306,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "26_starlight-9th-live-tshirt": {
@@ -37013,7 +36986,7 @@
             "x": 1098,
             "y": 306,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "27_newyear-rise-first-love": {
@@ -37024,7 +36997,7 @@
             "x": 1270,
             "y": 306,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "28_colorful-music": {
@@ -37035,7 +37008,7 @@
             "x": 1440,
             "y": 306,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "29_fine-hoodie": {
@@ -37046,7 +37019,7 @@
             "x": 1610,
             "y": 306,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "30_boku-no-weak-point": {
@@ -37057,7 +37030,7 @@
             "x": 1780,
             "y": 306,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "31_jinbei-goldfish": {
@@ -37068,7 +37041,7 @@
             "x": 588,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "32_caelum": {
@@ -37079,7 +37052,7 @@
             "x": 758,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "33_halloween-wing-angel": {
@@ -37090,7 +37063,7 @@
             "x": 928,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "34_kuma-kuma-res-q": {
@@ -37101,7 +37074,7 @@
             "x": 1098,
             "y": 476,
             "width": 175,
-            "height": 145
+            "height": 174
           }
         },
         "35_kuma-kuma-res-q-bear-paw": {
@@ -37112,7 +37085,7 @@
             "x": 1270,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "36_terra": {
@@ -37123,7 +37096,7 @@
             "x": 1440,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "37_shining-star": {
@@ -37134,7 +37107,7 @@
             "x": 1952,
             "y": 476,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "38_anniversary-agent-green": {
@@ -37145,7 +37118,7 @@
             "x": 758,
             "y": 646,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "39_mare": {
@@ -37156,7 +37129,7 @@
             "x": 928,
             "y": 646,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "40_lure-ruler": {
@@ -37167,7 +37140,7 @@
             "x": 1098,
             "y": 646,
             "width": 175,
-            "height": 147
+            "height": 174
           }
         },
         "41_jinbei-fireworks": {
@@ -37178,7 +37151,7 @@
             "x": 1270,
             "y": 646,
             "width": 173,
-            "height": 145
+            "height": 174
           }
         },
         "42_common-scr": {
