@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13",
+  "updated_at": "2026-08-14",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -58419,6 +58419,1122 @@
       ],
       "note_public": "ダイヤショップで購入",
       "updated_at": "2026-08-13"
+    },
+    {
+      "id": "shino-hajime_uta-no-oniisan-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_uta-no-oniisan-01_icon.webp",
+        "front": "shino-hajime_uta-no-oniisan-01_front.webp",
+        "back": "shino-hajime_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_sweet-house-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "スイートハウス衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_sweet-house-01_icon.webp",
+        "front": "shino-hajime_sweet-house-01_front.webp",
+        "back": "shino-hajime_sweet-house-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_tanabata-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "七夕衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_tanabata-01_icon.webp",
+        "front": "shino-hajime_tanabata-01_front.webp",
+        "back": "shino-hajime_tanabata-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_halloween-bat-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_halloween-bat-01_icon.webp",
+        "front": "shino-hajime_halloween-bat-01_front.webp",
+        "back": "shino-hajime_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_branco-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Branco衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_branco-01_icon.webp",
+        "front": "shino-hajime_branco-01_front.webp",
+        "back": "shino-hajime_branco-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_pilot-suit-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_pilot-suit-01_icon.webp",
+        "front": "shino-hajime_pilot-suit-01_front.webp",
+        "back": "shino-hajime_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_bogie-time-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ボギータイム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_bogie-time-01_icon.webp",
+        "front": "shino-hajime_bogie-time-01_front.webp",
+        "back": "shino-hajime_bogie-time-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_happy-spring-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハッピースプリング衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_happy-spring-01_icon.webp",
+        "front": "shino-hajime_happy-spring-01_front.webp",
+        "back": "shino-hajime_happy-spring-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_order-made-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "オーダー・メイド",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_order-made-01_icon.webp",
+        "front": "shino-hajime_order-made-01_front.webp",
+        "back": "shino-hajime_order-made-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-chance-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_anniversary-chance-01_icon.webp",
+        "front": "shino-hajime_anniversary-chance-01_front.webp",
+        "back": "shino-hajime_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-777-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_anniversary-777-01_icon.webp",
+        "front": "shino-hajime_anniversary-777-01_front.webp",
+        "back": "shino-hajime_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_black-stage-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_black-stage-01_icon.webp",
+        "front": "shino-hajime_black-stage-01_front.webp",
+        "back": "shino-hajime_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_black-stage-scr-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_black-stage-scr-01_icon.webp",
+        "front": "shino-hajime_black-stage-scr-01_front.webp",
+        "back": "shino-hajime_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_halloween-candle-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_halloween-candle-01_icon.webp",
+        "front": "shino-hajime_halloween-candle-01_front.webp",
+        "back": "shino-hajime_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_starlight-7th-live-tshirt-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "shino-hajime_starlight-7th-live-tshirt-01_front.webp",
+        "back": "shino-hajime_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_newyear-rise-cape-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_newyear-rise-cape-01_icon.webp",
+        "front": "shino-hajime_newyear-rise-cape-01_front.webp",
+        "back": "shino-hajime_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_training-wear-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_training-wear-01_icon.webp",
+        "front": "shino-hajime_training-wear-01_front.webp",
+        "back": "shino-hajime_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-love-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_anniversary-love-01_icon.webp",
+        "front": "shino-hajime_anniversary-love-01_front.webp",
+        "back": "shino-hajime_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "shino-hajime_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "shino-hajime_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_promessa-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "プロメッサ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_promessa-01_icon.webp",
+        "front": "shino-hajime_promessa-01_front.webp",
+        "back": "shino-hajime_promessa-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-challenge-scr-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_anniversary-challenge-scr-01_icon.webp",
+        "front": "shino-hajime_anniversary-challenge-scr-01_front.webp",
+        "back": "shino-hajime_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_sanctuary-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "サンクチュアリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_sanctuary-01_icon.webp",
+        "front": "shino-hajime_sanctuary-01_front.webp",
+        "back": "shino-hajime_sanctuary-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_halloween-wing-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_halloween-wing-01_icon.webp",
+        "front": "shino-hajime_halloween-wing-01_front.webp",
+        "back": "shino-hajime_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_hrcn-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "HRCN!衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_hrcn-01_icon.webp",
+        "front": "shino-hajime_hrcn-01_front.webp",
+        "back": "shino-hajime_hrcn-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_live-party-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ライブパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_live-party-01_icon.webp",
+        "front": "shino-hajime_live-party-01_front.webp",
+        "back": "shino-hajime_live-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_starlight-8th-live-tshirt-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "shino-hajime_starlight-8th-live-tshirt-01_front.webp",
+        "back": "shino-hajime_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_newyear-rise-first-love-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_newyear-rise-first-love-01_icon.webp",
+        "front": "shino-hajime_newyear-rise-first-love-01_front.webp",
+        "back": "shino-hajime_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_colorful-music-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_colorful-music-01_icon.webp",
+        "front": "shino-hajime_colorful-music-01_front.webp",
+        "back": "shino-hajime_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_rabits-hoodie-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Ra*bitsフーディ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_rabits-hoodie-01_icon.webp",
+        "front": "shino-hajime_rabits-hoodie-01_front.webp",
+        "back": "shino-hajime_rabits-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_netsushisen-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "熱視線衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_netsushisen-01_icon.webp",
+        "front": "shino-hajime_netsushisen-01_front.webp",
+        "back": "shino-hajime_netsushisen-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_love-and-peace-legend-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "らびゅ＆ピース伝説衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_love-and-peace-legend-01_icon.webp",
+        "front": "shino-hajime_love-and-peace-legend-01_front.webp",
+        "back": "shino-hajime_love-and-peace-legend-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_rarara-station-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "RaRaRa＊Station衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_rarara-station-01_icon.webp",
+        "front": "shino-hajime_rarara-station-01_front.webp",
+        "back": "shino-hajime_rarara-station-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_jinbei-goldfish-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_jinbei-goldfish-01_icon.webp",
+        "front": "shino-hajime_jinbei-goldfish-01_front.webp",
+        "back": "shino-hajime_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_caelum-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_caelum-01_icon.webp",
+        "front": "shino-hajime_caelum-01_front.webp",
+        "back": "shino-hajime_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_halloween-wing-angel-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_halloween-wing-angel-01_icon.webp",
+        "front": "shino-hajime_halloween-wing-angel-01_front.webp",
+        "back": "shino-hajime_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_terra-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_terra-01_icon.webp",
+        "front": "shino-hajime_terra-01_front.webp",
+        "back": "shino-hajime_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_shining-star-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_shining-star-01_icon.webp",
+        "front": "shino-hajime_shining-star-01_front.webp",
+        "back": "shino-hajime_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-agent-green-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_anniversary-agent-green-01_icon.webp",
+        "front": "shino-hajime_anniversary-agent-green-01_front.webp",
+        "back": "shino-hajime_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_mare-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_mare-01_icon.webp",
+        "front": "shino-hajime_mare-01_front.webp",
+        "back": "shino-hajime_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_mm-rabits-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "MM Ra*bits衣装",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_mm-rabits-01_icon.webp",
+        "front": "shino-hajime_mm-rabits-01_front.webp",
+        "back": "shino-hajime_mm-rabits-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_jinbei-fireworks-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shino-hajime_jinbei-fireworks-01_icon.webp",
+        "front": "shino-hajime_jinbei-fireworks-01_front.webp",
+        "back": "shino-hajime_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_choshoku-anniversary-suit-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "調色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_choshoku-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_popn-party-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ポップンパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_popn-party-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロードで解放（ラブ・ソング）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_hazumu-anniversary-rock-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "弾むアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_hazumu-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_esmg-graphic-tshirt-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_black-bunny-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ブラックバニー衣装",
+      "costume_group": "campaign",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_black-bunny-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルロードで解放",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_fusion-unit-rabits-df-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "FUSION UNIT(Ra*bits×DF)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_fusion-unit-rabits-df-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_bloom-idol-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "紫之創のアイドルランクをAにする",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_ss-kohaku-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_ss-kohaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_sweet-petal-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "スイートペタル",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_sweet-petal-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロードで解放（緑と日差しの中で）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_hamutaro-totto-kouta-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ハム太郎とっとこうた衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_hamutaro-totto-kouta-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "アイドルロードで解放（とっとこ包装系）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_newyear-rise-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_shuppatsu-shin-go-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "出発新GO衣装",
+      "costume_group": "campaign",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_shuppatsu-shin-go-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルロードで解放（未来の自分へ出発！）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_bloom-idol-scr-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "紫之創のアイドルランクをA+にする",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_album-trip-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "アイドルロードで解放（Ra*ドロイング）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_color-code-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "カラーコード衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_color-code-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "アイドルロードで解放（変顔になれる色）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_newyear-rise-silver-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_anniversary-challenge-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_twilight-idol-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "紫之創のアイドルランクをS+にする",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_evil-telephone-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "イービルTELEPHONE衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_evil-telephone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "アイドルロードで解放（誘引EVIL）",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_twilight-idol-scr-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "紫之創のアイドルランクをS+にする",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "shino-hajime_starlight-10th-live-tshirt-01",
+      "idol_slug": "shino-hajime",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shino-hajime_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップで購入",
+      "updated_at": "2026-08-14"
     }
   ]
 }

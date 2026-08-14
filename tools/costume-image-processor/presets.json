@@ -138,24 +138,6 @@
         }
       }
     },
-    "hajime_test": {
-      "idol_slug": "shino-hajime",
-      "output_dir": "shino-hajime",
-      "items": {
-        "05_locked": {
-          "_comment": "実名 共通アイドル衣装（SCR）。未解放詳細ポップアップの手動crop（wataru/toriの05と同レイアウト）。",
-          "id": "shino-hajime_common-scr-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          },
-          "has_body_images": false
-        }
-      }
-    },
     "tenshouin-eichi": {
       "idol_slug": "tenshouin-eichi",
       "output_dir": "tenshouin-eichi",
@@ -1776,6 +1758,17 @@
             "height": 195
           },
           "has_body_images": true
+        },
+        "04_common-scr": {
+          "id": "shino-hajime_common-scr-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
+          "has_body_images": false
         }
       }
     },
@@ -36092,6 +36085,695 @@
         },
         "65_starlight-10th": {
           "id": "tenma-mitsuru_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "shino-hajime-slots-05-66": {
+      "idol_slug": "shino-hajime",
+      "input_dir": "shino-hajime",
+      "output_dir": "shino-hajime",
+      "items": {
+        "05_uta-no-oniisan": {
+          "id": "shino-hajime_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 270,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_sweet-house": {
+          "id": "shino-hajime_sweet-house-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1600,
+            "y": 270,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_tanabata": {
+          "id": "shino-hajime_tanabata-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1940,
+            "y": 270,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_halloween-bat": {
+          "id": "shino-hajime_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 440,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_branco": {
+          "id": "shino-hajime_branco-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 746,
+            "y": 440,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_pilot-suit": {
+          "id": "shino-hajime_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 440,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_bogie-time": {
+          "id": "shino-hajime_bogie-time-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1940,
+            "y": 440,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_happy-spring": {
+          "id": "shino-hajime_happy-spring-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_order-made": {
+          "id": "shino-hajime_order-made-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 918,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_anniversary-chance": {
+          "id": "shino-hajime_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1088,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_anniversary-777": {
+          "id": "shino-hajime_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_black-stage": {
+          "id": "shino-hajime_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1428,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_black-stage-scr": {
+          "id": "shino-hajime_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1600,
+            "y": 612,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_halloween-candle": {
+          "id": "shino-hajime_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 434,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_starlight-7th-live-tshirt": {
+          "id": "shino-hajime_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 746,
+            "y": 442,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_newyear-rise-cape": {
+          "id": "shino-hajime_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 438,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_training-wear": {
+          "id": "shino-hajime_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1428,
+            "y": 442,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_anniversary-love": {
+          "id": "shino-hajime_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1770,
+            "y": 432,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_scramble-gakuen-boys-uniform": {
+          "id": "shino-hajime_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1088,
+            "y": 610,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_promessa": {
+          "id": "shino-hajime_promessa-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1770,
+            "y": 614,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_anniversary-challenge-scr": {
+          "id": "shino-hajime_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1940,
+            "y": 602,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_sanctuary": {
+          "id": "shino-hajime_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_halloween-wing": {
+          "id": "shino-hajime_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 746,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_hrcn": {
+          "id": "shino-hajime_hrcn-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 918,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_live-party": {
+          "id": "shino-hajime_live-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1088,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_starlight-8th-live-tshirt": {
+          "id": "shino-hajime_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_newyear-rise-first-love": {
+          "id": "shino-hajime_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1428,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_colorful-music": {
+          "id": "shino-hajime_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1600,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_rabits-hoodie": {
+          "id": "shino-hajime_rabits-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1770,
+            "y": 294,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_netsushisen": {
+          "id": "shino-hajime_netsushisen-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_love-and-peace-legend": {
+          "id": "shino-hajime_love-and-peace-legend-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 746,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_rarara-station": {
+          "id": "shino-hajime_rarara-station-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 918,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_jinbei-goldfish": {
+          "id": "shino-hajime_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1088,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_caelum": {
+          "id": "shino-hajime_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1258,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_halloween-wing-angel": {
+          "id": "shino-hajime_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1428,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "40_terra": {
+          "id": "shino-hajime_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1600,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "41_shining-star": {
+          "id": "shino-hajime_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1770,
+            "y": 466,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "42_anniversary-agent-green": {
+          "id": "shino-hajime_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 576,
+            "y": 636,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "43_mare": {
+          "id": "shino-hajime_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 746,
+            "y": 636,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "44_mm-rabits": {
+          "id": "shino-hajime_mm-rabits-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 918,
+            "y": 636,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "45_jinbei-fireworks": {
+          "id": "shino-hajime_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1088,
+            "y": 636,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "46_choshoku-anniversary-suit": {
+          "id": "shino-hajime_choshoku-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_popn-party": {
+          "id": "shino-hajime_popn-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_hazumu-anniversary-rock": {
+          "id": "shino-hajime_hazumu-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_esmg-graphic-tshirt": {
+          "id": "shino-hajime_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_black-bunny": {
+          "id": "shino-hajime_black-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_fusion-unit-rabits-df": {
+          "id": "shino-hajime_fusion-unit-rabits-df-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_bloom-idol": {
+          "id": "shino-hajime_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_ss-kohaku": {
+          "id": "shino-hajime_ss-kohaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_sweet-petal": {
+          "id": "shino-hajime_sweet-petal-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_hamutaro-totto-kouta": {
+          "id": "shino-hajime_hamutaro-totto-kouta-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_newyear-rise": {
+          "id": "shino-hajime_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_shuppatsu-shin-go": {
+          "id": "shino-hajime_shuppatsu-shin-go-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_bloom-idol-scr": {
+          "id": "shino-hajime_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_album-trip": {
+          "id": "shino-hajime_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_color-code": {
+          "id": "shino-hajime_color-code-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_newyear-rise-silver": {
+          "id": "shino-hajime_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_anniversary-challenge": {
+          "id": "shino-hajime_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_twilight-idol": {
+          "id": "shino-hajime_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_evil-telephone": {
+          "id": "shino-hajime_evil-telephone-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_twilight-idol-scr": {
+          "id": "shino-hajime_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_starlight-10th-live-tshirt": {
+          "id": "shino-hajime_starlight-10th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
