@@ -268,25 +268,45 @@
         "04_caelum": {
           "id": "hibiki-wataru_caelum-01",
           "icon_mode": "manual_crop",
-          "icon_crop": { "x": 1592, "y": 464, "width": 200, "height": 200 },
+          "icon_crop": {
+            "x": 1592,
+            "y": 464,
+            "width": 200,
+            "height": 200
+          },
           "has_body_images": true
         },
         "05_musica": {
           "id": "hibiki-wataru_black-01",
           "icon_mode": "auto_selected_card",
-          "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+          "icon_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 200,
+            "height": 200
+          },
           "has_body_images": true
         },
         "06_mare": {
           "id": "hibiki-wataru_headparts-01",
           "icon_mode": "manual_crop",
-          "icon_crop": { "x": 920, "y": 335, "width": 210, "height": 235 },
+          "icon_crop": {
+            "x": 920,
+            "y": 335,
+            "width": 210,
+            "height": 235
+          },
           "has_body_images": true
         },
         "07_starlight-10th": {
           "id": "hibiki-wataru_starlight-10th-01",
           "icon_mode": "manual_crop",
-          "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          },
           "has_body_images": false
         }
       }
@@ -38104,6 +38124,750 @@
         },
         "70_iridescent-light": {
           "id": "hibiki-wataru_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "aoi-yuuta-slots-04-70": {
+      "idol_slug": "aoi-yuuta",
+      "input_dir": "aoi-yuuta",
+      "output_dir": "aoi-yuuta",
+      "items": {
+        "04_uta-no-oniisan": {
+          "id": "aoi-yuuta_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 284,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "05_sorairo-anniversary-suit": {
+          "id": "aoi-yuuta_sorairo-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 284,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "06_setsubunsai": {
+          "id": "aoi-yuuta_setsubunsai-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 284,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "07_halloween-bat": {
+          "id": "aoi-yuuta_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 284,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "08_mix-spooky": {
+          "id": "aoi-yuuta_mix-spooky-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "09_pilot-suit": {
+          "id": "aoi-yuuta_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "10_night-club": {
+          "id": "aoi-yuuta_night-club-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 454,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "11_minori-october": {
+          "id": "aoi-yuuta_minori-october-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "12_cd-second": {
+          "id": "aoi-yuuta_cd-second-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "13_anniversary-777": {
+          "id": "aoi-yuuta_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 625,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "14_halloween-candle": {
+          "id": "aoi-yuuta_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 462,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "15_starlight-7th-live-tshirt": {
+          "id": "aoi-yuuta_starlight-7th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 448,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "16_newyear-rise-cape": {
+          "id": "aoi-yuuta_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 452,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "17_training-wear": {
+          "id": "aoi-yuuta_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 453,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "18_anniversary-love": {
+          "id": "aoi-yuuta_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 623,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "19_scramble-gakuen-boys-uniform": {
+          "id": "aoi-yuuta_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 455,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "20_anniversary-challenge-scr": {
+          "id": "aoi-yuuta_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 278,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "21_halloween-wing": {
+          "id": "aoi-yuuta_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 279,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "22_sandstorm": {
+          "id": "aoi-yuuta_sandstorm-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 281,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "23_live-party": {
+          "id": "aoi-yuuta_live-party-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 281,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "24_starlight-9th-live-tshirt": {
+          "id": "aoi-yuuta_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 272,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "25_newyear-rise-first-love": {
+          "id": "aoi-yuuta_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 2117,
+            "y": 286,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "26_colorful-music": {
+          "id": "aoi-yuuta_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "27_2wink-hoodie": {
+          "id": "aoi-yuuta_2wink-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 309,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "28_wink-wing": {
+          "id": "aoi-yuuta_wink-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "29_sango": {
+          "id": "aoi-yuuta_sango-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "30_jinbei-goldfish": {
+          "id": "aoi-yuuta_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1606,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "31_caelum": {
+          "id": "aoi-yuuta_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "32_ai-dollar": {
+          "id": "aoi-yuuta_ai-dollar-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1947,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "33_halloween-wing-angel": {
+          "id": "aoi-yuuta_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 2117,
+            "y": 308,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "34_chill-out": {
+          "id": "aoi-yuuta_chill-out-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "35_terra": {
+          "id": "aoi-yuuta_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 924,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "36_shining-star": {
+          "id": "aoi-yuuta_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1094,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "37_anniversary-agent-green": {
+          "id": "aoi-yuuta_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "38_jinbei-fireworks": {
+          "id": "aoi-yuuta_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1776,
+            "y": 479,
+            "width": 195,
+            "height": 195
+          }
+        },
+        "39_starlight-10th": {
+          "id": "aoi-yuuta_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "40_common-scr": {
+          "id": "aoi-yuuta_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "41_volcano-island": {
+          "id": "aoi-yuuta_volcano-island-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "42_futaba-anniversary-rock": {
+          "id": "aoi-yuuta_futaba-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "43_esmg-graphic-tshirt": {
+          "id": "aoi-yuuta_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "44_bloom-idol": {
+          "id": "aoi-yuuta_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "45_ss-kouhaku": {
+          "id": "aoi-yuuta_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "46_common-longhair": {
+          "id": "aoi-yuuta_common-longhair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "47_2wink-longhair": {
+          "id": "aoi-yuuta_2wink-longhair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_love-letter": {
+          "id": "aoi-yuuta_love-letter-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_fusion-unit-crazyb-2wink": {
+          "id": "aoi-yuuta_fusion-unit-crazyb-2wink-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_anniversary-chance": {
+          "id": "aoi-yuuta_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_black-stage": {
+          "id": "aoi-yuuta_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_tell-your-world": {
+          "id": "aoi-yuuta_tell-your-world-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_mirage": {
+          "id": "aoi-yuuta_mirage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_blend-plus": {
+          "id": "aoi-yuuta_blend-plus-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_newyear-rise": {
+          "id": "aoi-yuuta_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_big-ocean": {
+          "id": "aoi-yuuta_big-ocean-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_bloom-idol-scr": {
+          "id": "aoi-yuuta_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_common-scr-longhair": {
+          "id": "aoi-yuuta_common-scr-longhair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_bloom-idol-longhair": {
+          "id": "aoi-yuuta_bloom-idol-longhair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_bloom-idol-scr-longhair": {
+          "id": "aoi-yuuta_bloom-idol-scr-longhair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_2x2": {
+          "id": "aoi-yuuta_2x2-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_album-trip": {
+          "id": "aoi-yuuta_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_newyear-rise-silver": {
+          "id": "aoi-yuuta_newyear-rise-silver-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_senkou": {
+          "id": "aoi-yuuta_senkou-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_anniversary-challenge": {
+          "id": "aoi-yuuta_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_twilight-idol": {
+          "id": "aoi-yuuta_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_amaneiro": {
+          "id": "aoi-yuuta_amaneiro-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_purple-luxe": {
+          "id": "aoi-yuuta_purple-luxe-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "69_twilight-idol-scr": {
+          "id": "aoi-yuuta_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "70_whirlpool": {
+          "id": "aoi-yuuta_whirlpool-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {

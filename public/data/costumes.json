@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-15",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -61781,6 +61781,1217 @@
       ],
       "note_public": "対象カード未所持",
       "updated_at": "2026-08-14"
+    },
+    {
+      "id": "aoi-yuuta_uta-no-oniisan-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_uta-no-oniisan-01_icon.webp",
+        "front": "aoi-yuuta_uta-no-oniisan-01_front.webp",
+        "back": "aoi-yuuta_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_sorairo-anniversary-suit-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "宙色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_sorairo-anniversary-suit-01_icon.webp",
+        "front": "aoi-yuuta_sorairo-anniversary-suit-01_front.webp",
+        "back": "aoi-yuuta_sorairo-anniversary-suit-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_setsubunsai-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "節分祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_setsubunsai-01_icon.webp",
+        "front": "aoi-yuuta_setsubunsai-01_front.webp",
+        "back": "aoi-yuuta_setsubunsai-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_halloween-bat-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_halloween-bat-01_icon.webp",
+        "front": "aoi-yuuta_halloween-bat-01_front.webp",
+        "back": "aoi-yuuta_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_mix-spooky-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "MIXスプーキー",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_mix-spooky-01_icon.webp",
+        "front": "aoi-yuuta_mix-spooky-01_front.webp",
+        "back": "aoi-yuuta_mix-spooky-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_pilot-suit-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_pilot-suit-01_icon.webp",
+        "front": "aoi-yuuta_pilot-suit-01_front.webp",
+        "back": "aoi-yuuta_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_night-club-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ナイトクラブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_night-club-01_icon.webp",
+        "front": "aoi-yuuta_night-club-01_front.webp",
+        "back": "aoi-yuuta_night-club-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_minori-october-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "実りのOCTOBER衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_minori-october-01_icon.webp",
+        "front": "aoi-yuuta_minori-october-01_front.webp",
+        "back": "aoi-yuuta_minori-october-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_cd-second-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "CD第二弾衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_cd-second-01_icon.webp",
+        "front": "aoi-yuuta_cd-second-01_front.webp",
+        "back": "aoi-yuuta_cd-second-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-777-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-777-01_icon.webp",
+        "front": "aoi-yuuta_anniversary-777-01_front.webp",
+        "back": "aoi-yuuta_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "7周年",
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_halloween-candle-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_halloween-candle-01_icon.webp",
+        "front": "aoi-yuuta_halloween-candle-01_front.webp",
+        "back": "aoi-yuuta_halloween-candle-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_starlight-7th-live-tshirt-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "スタライ7thライブTシャツ",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_starlight-7th-live-tshirt-01_icon.webp",
+        "front": "aoi-yuuta_starlight-7th-live-tshirt-01_front.webp",
+        "back": "aoi-yuuta_starlight-7th-live-tshirt-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_newyear-rise-cape-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_newyear-rise-cape-01_icon.webp",
+        "front": "aoi-yuuta_newyear-rise-cape-01_front.webp",
+        "back": "aoi-yuuta_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_training-wear-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_training-wear-01_icon.webp",
+        "front": "aoi-yuuta_training-wear-01_front.webp",
+        "back": "aoi-yuuta_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-love-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-love-01_icon.webp",
+        "front": "aoi-yuuta_anniversary-love-01_front.webp",
+        "back": "aoi-yuuta_anniversary-love-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "aoi-yuuta_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "aoi-yuuta_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-challenge-scr-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-challenge-scr-01_icon.webp",
+        "front": "aoi-yuuta_anniversary-challenge-scr-01_front.webp",
+        "back": "aoi-yuuta_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_halloween-wing-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_halloween-wing-01_icon.webp",
+        "front": "aoi-yuuta_halloween-wing-01_front.webp",
+        "back": "aoi-yuuta_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_sandstorm-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "サンドストーム衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_sandstorm-01_icon.webp",
+        "front": "aoi-yuuta_sandstorm-01_front.webp",
+        "back": "aoi-yuuta_sandstorm-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_live-party-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ライブパーティ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_live-party-01_icon.webp",
+        "front": "aoi-yuuta_live-party-01_front.webp",
+        "back": "aoi-yuuta_live-party-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_starlight-9th-live-tshirt-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "aoi-yuuta_starlight-9th-live-tshirt-01_front.webp",
+        "back": "aoi-yuuta_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_newyear-rise-first-love-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_newyear-rise-first-love-01_icon.webp",
+        "front": "aoi-yuuta_newyear-rise-first-love-01_front.webp",
+        "back": "aoi-yuuta_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_colorful-music-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_colorful-music-01_icon.webp",
+        "front": "aoi-yuuta_colorful-music-01_front.webp",
+        "back": "aoi-yuuta_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_2wink-hoodie-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "2winkフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_2wink-hoodie-01_icon.webp",
+        "front": "aoi-yuuta_2wink-hoodie-01_front.webp",
+        "back": "aoi-yuuta_2wink-hoodie-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_wink-wing-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "うぃんくウィング衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_wink-wing-01_icon.webp",
+        "front": "aoi-yuuta_wink-wing-01_front.webp",
+        "back": "aoi-yuuta_wink-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_sango-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "サンゴ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_sango-01_icon.webp",
+        "front": "aoi-yuuta_sango-01_front.webp",
+        "back": "aoi-yuuta_sango-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_jinbei-goldfish-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_jinbei-goldfish-01_icon.webp",
+        "front": "aoi-yuuta_jinbei-goldfish-01_front.webp",
+        "back": "aoi-yuuta_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_caelum-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Caelum",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_caelum-01_icon.webp",
+        "front": "aoi-yuuta_caelum-01_front.webp",
+        "back": "aoi-yuuta_caelum-01_back.webp"
+      },
+      "tags": [
+        "白系",
+        "青系",
+        "王子様"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_ai-dollar-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Ai☆$!!衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_ai-dollar-01_icon.webp",
+        "front": "aoi-yuuta_ai-dollar-01_front.webp",
+        "back": "aoi-yuuta_ai-dollar-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_halloween-wing-angel-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_halloween-wing-angel-01_icon.webp",
+        "front": "aoi-yuuta_halloween-wing-angel-01_front.webp",
+        "back": "aoi-yuuta_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_chill-out-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "CHILL OUT",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_chill-out-01_icon.webp",
+        "front": "aoi-yuuta_chill-out-01_front.webp",
+        "back": "aoi-yuuta_chill-out-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_terra-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_terra-01_icon.webp",
+        "front": "aoi-yuuta_terra-01_front.webp",
+        "back": "aoi-yuuta_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_shining-star-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_shining-star-01_icon.webp",
+        "front": "aoi-yuuta_shining-star-01_front.webp",
+        "back": "aoi-yuuta_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-agent-green-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-agent-green-01_icon.webp",
+        "front": "aoi-yuuta_anniversary-agent-green-01_front.webp",
+        "back": "aoi-yuuta_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_jinbei-fireworks-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoi-yuuta_jinbei-fireworks-01_icon.webp",
+        "front": "aoi-yuuta_jinbei-fireworks-01_front.webp",
+        "back": "aoi-yuuta_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_starlight-10th-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_common-scr-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_volcano-island-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ボルケーノアイランド衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_volcano-island-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_futaba-anniversary-rock-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "双葉のアニバーサリーロック",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_futaba-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_esmg-graphic-tshirt-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_bloom-idol-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_ss-kouhaku-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_common-longhair-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "共通アイドル衣装（長髪）",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_common-longhair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_2wink-longhair-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "2wink衣装（長髪）",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_2wink-longhair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_love-letter-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ラブレター衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_love-letter-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-chance-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "配布衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_black-stage-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_black-stage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_tell-your-world-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Tell Your World衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_tell-your-world-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_mirage-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "MIRAGE衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_mirage-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_blend-plus-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "BLEND+衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_blend-plus-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_newyear-rise-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_big-ocean-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "Big Ocean衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_big-ocean-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_bloom-idol-scr-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_common-scr-longhair-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "共通アイドル衣装（SCR、長髪）",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_common-scr-longhair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_bloom-idol-longhair-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ブルームアイドル衣装（長髪）",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_bloom-idol-longhair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_bloom-idol-scr-longhair-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ブルームアイドル衣装（SCR、長髪）",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_bloom-idol-scr-longhair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_2x2-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "2×2衣装",
+      "costume_group": "unit",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_2x2-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_album-trip-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_newyear-rise-silver-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_senkou-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "閃光",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_senkou-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_anniversary-challenge-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_twilight-idol-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_amaneiro-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "天音色衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_amaneiro-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_purple-luxe-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "パープルックス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_purple-luxe-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_twilight-idol-scr-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
+    },
+    {
+      "id": "aoi-yuuta_whirlpool-01",
+      "idol_slug": "aoi-yuuta",
+      "costume_name": "ワールプール衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "aoi-yuuta_whirlpool-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-15"
     }
   ]
 }
