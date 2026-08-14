@@ -267,8 +267,8 @@
         },
         "04_caelum": {
           "id": "hibiki-wataru_caelum-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 1592, "y": 464, "width": 200, "height": 200 },
           "has_body_images": true
         },
         "05_musica": {
