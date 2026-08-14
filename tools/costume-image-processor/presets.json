@@ -18,7 +18,7 @@
   "auto_selected_card": {
     "_comment": "通常の衣装一覧画面で選択中カードの黄緑枠を検出する設定。座標・閾値は仮。--debug の青枠(探索範囲)/赤枠(検出結果)を見て調整する。注意: この画面は全サムネイルに黄緑の『MV』バッジが付いているため、探索範囲を選択カード1枚の周辺だけに絞らないと枠が大きくなりがち。実運用では『選択中カードのおおよその位置』に search_area を絞るのが有効。",
     "search_area": {
-      "x": 700,
+      "x": 1200,
       "y": 260,
       "width": 320,
       "height": 320
@@ -33,57 +33,6 @@
     "min_box_height": 60
   },
   "collections": {
-    "wataru_test": {
-      "idol_slug": "hibiki-wataru",
-      "output_dir": "hibiki-wataru",
-      "items": {
-        "02_caelum": {
-          "id": "hibiki-wataru_caelum-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
-          },
-          "has_body_images": true
-        },
-        "03_black": {
-          "id": "hibiki-wataru_black-01",
-          "icon_mode": "auto_selected_card",
-          "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
-          },
-          "has_body_images": true
-        },
-        "04_headparts": {
-          "_comment": "この衣装だけ選択カードの位置が共通の auto_selected_card.search_area からズレており、自動検出だとカード右端が切れるため manual_crop で安定させている。",
-          "id": "hibiki-wataru_headparts-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 920,
-            "y": 335,
-            "width": 210,
-            "height": 235
-          },
-          "has_body_images": true
-        },
-        "05_locked": {
-          "id": "hibiki-wataru_starlight-10th-01",
-          "icon_mode": "manual_crop",
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          },
-          "has_body_images": false
-        }
-      }
-    },
     "tenshouin-eichi": {
       "idol_slug": "tenshouin-eichi",
       "output_dir": "tenshouin-eichi",
@@ -315,6 +264,30 @@
             "height": 195
           },
           "has_body_images": true
+        },
+        "04_caelum": {
+          "id": "hibiki-wataru_caelum-01",
+          "icon_mode": "auto_selected_card",
+          "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+          "has_body_images": true
+        },
+        "05_musica": {
+          "id": "hibiki-wataru_black-01",
+          "icon_mode": "auto_selected_card",
+          "icon_crop": { "x": 0, "y": 0, "width": 200, "height": 200 },
+          "has_body_images": true
+        },
+        "06_mare": {
+          "id": "hibiki-wataru_headparts-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 920, "y": 335, "width": 210, "height": 235 },
+          "has_body_images": true
+        },
+        "07_starlight-10th": {
+          "id": "hibiki-wataru_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "icon_crop": { "x": 770, "y": 340, "width": 320, "height": 300 },
+          "has_body_images": false
         }
       }
     },
@@ -37431,6 +37404,706 @@
         },
         "67_starlight-10th-live-tshirt": {
           "id": "himemiya-tori_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "hibiki-wataru-slots-08-70": {
+      "idol_slug": "hibiki-wataru",
+      "input_dir": "hibiki-wataru",
+      "output_dir": "hibiki-wataru",
+      "items": {
+        "08_uta-no-oniisan": {
+          "id": "hibiki-wataru_uta-no-oniisan-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1252,
+            "y": 260,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "09_magnolia": {
+          "id": "hibiki-wataru_magnolia-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 260,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "10_halloween-bat": {
+          "id": "hibiki-wataru_halloween-bat-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 260,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "11_flash-crown": {
+          "id": "hibiki-wataru_flash-crown-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 440,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "12_pilot-suit": {
+          "id": "hibiki-wataru_pilot-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1252,
+            "y": 440,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "13_tougenkyou-guuzouken": {
+          "id": "hibiki-wataru_tougenkyou-guuzouken-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 440,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "14_hot-winder": {
+          "id": "hibiki-wataru_hot-winder-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 440,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "15_resort-live": {
+          "id": "hibiki-wataru_resort-live-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 612,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "16_anniversary-chance": {
+          "id": "hibiki-wataru_anniversary-chance-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1252,
+            "y": 612,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "17_anniversary-777": {
+          "id": "hibiki-wataru_anniversary-777-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 612,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "18_black-stage": {
+          "id": "hibiki-wataru_black-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1592,
+            "y": 612,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "19_black-stage-scr": {
+          "id": "hibiki-wataru_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 612,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "20_halloween-candle": {
+          "id": "hibiki-wataru_halloween-candle-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 740,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "21_migratory-bird": {
+          "id": "hibiki-wataru_migratory-bird-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "22_newyear-rise-cape": {
+          "id": "hibiki-wataru_newyear-rise-cape-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "23_training-wear": {
+          "id": "hibiki-wataru_training-wear-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1592,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "24_five-eccentrics-stage": {
+          "id": "hibiki-wataru_five-eccentrics-stage-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "25_altered": {
+          "id": "hibiki-wataru_altered-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 444,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "26_anniversary-love": {
+          "id": "hibiki-wataru_anniversary-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 740,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "27_scramble-gakuen-boys-uniform": {
+          "id": "hibiki-wataru_scramble-gakuen-boys-uniform-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1592,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "28_anniversary-challenge-scr": {
+          "id": "hibiki-wataru_anniversary-challenge-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "29_sanctuary": {
+          "id": "hibiki-wataru_sanctuary-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 740,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "30_halloween-wing": {
+          "id": "hibiki-wataru_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "31_fairy-tale": {
+          "id": "hibiki-wataru_fairy-tale-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1080,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "32_kenka-matsuri": {
+          "id": "hibiki-wataru_kenka-matsuri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1252,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "33_starlight-9th-live-tshirt": {
+          "id": "hibiki-wataru_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "34_newyear-rise-first-love": {
+          "id": "hibiki-wataru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1592,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "35_pikapika": {
+          "id": "hibiki-wataru_pikapika-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "36_colorful-music": {
+          "id": "hibiki-wataru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 608,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "37_fine-hoodie": {
+          "id": "hibiki-wataru_fine-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "38_chaji-hisui": {
+          "id": "hibiki-wataru_chaji-hisui-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 908,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "39_love-and-peace-legend": {
+          "id": "hibiki-wataru_love-and-peace-legend-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1080,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "40_jinbei-goldfish": {
+          "id": "hibiki-wataru_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1252,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "41_halloween-wing-angel": {
+          "id": "hibiki-wataru_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1760,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "42_terra": {
+          "id": "hibiki-wataru_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 296,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "43_shining-star": {
+          "id": "hibiki-wataru_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 740,
+            "y": 464,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "44_anniversary-agent-green": {
+          "id": "hibiki-wataru_anniversary-agent-green-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1080,
+            "y": 464,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "45_lure-ruler": {
+          "id": "hibiki-wataru_lure-ruler-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 464,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "46_jinbei-fireworks": {
+          "id": "hibiki-wataru_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1592,
+            "y": 464,
+            "width": 200,
+            "height": 200
+          }
+        },
+        "47_common-scr": {
+          "id": "hibiki-wataru_common-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "48_tempest": {
+          "id": "hibiki-wataru_tempest-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "49_hoshiiro-anniversary-suit": {
+          "id": "hibiki-wataru_hoshiiro-anniversary-suit-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "50_tenshi-anniversary-rock": {
+          "id": "hibiki-wataru_tenshi-anniversary-rock-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "51_primavera": {
+          "id": "hibiki-wataru_primavera-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "52_esmg-graphic-tshirt": {
+          "id": "hibiki-wataru_esmg-graphic-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "53_bloom-idol": {
+          "id": "hibiki-wataru_bloom-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "54_fusion-unit-trickstar-fine": {
+          "id": "hibiki-wataru_fusion-unit-trickstar-fine-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "55_ss": {
+          "id": "hibiki-wataru_ss-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "56_ss-kouhaku": {
+          "id": "hibiki-wataru_ss-kouhaku-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_pretty-bunny": {
+          "id": "hibiki-wataru_pretty-bunny-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "58_starlight-6th-live-tshirt": {
+          "id": "hibiki-wataru_starlight-6th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "59_ghostic": {
+          "id": "hibiki-wataru_ghostic-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "60_newyear-rise": {
+          "id": "hibiki-wataru_newyear-rise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "61_starlight-parade": {
+          "id": "hibiki-wataru_starlight-parade-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "62_bloom-idol-scr": {
+          "id": "hibiki-wataru_bloom-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "63_atlantis": {
+          "id": "hibiki-wataru_atlantis-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "64_album-trip": {
+          "id": "hibiki-wataru_album-trip-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "65_newyear-rise-hakugin": {
+          "id": "hibiki-wataru_newyear-rise-hakugin-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_kenna-white": {
+          "id": "hibiki-wataru_kenna-white-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "67_anniversary-challenge": {
+          "id": "hibiki-wataru_anniversary-challenge-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "68_twilight-idol": {
+          "id": "hibiki-wataru_twilight-idol-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "69_twilight-idol-scr": {
+          "id": "hibiki-wataru_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "70_iridescent-light": {
+          "id": "hibiki-wataru_iridescent-light-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {

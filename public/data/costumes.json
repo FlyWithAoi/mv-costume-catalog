@@ -45,10 +45,10 @@
     {
       "id": "hibiki-wataru_black-01",
       "idol_slug": "hibiki-wataru",
-      "costume_name": "黒系衣装（仮）",
+      "costume_name": "Musica衣装",
       "costume_group": "other",
-      "unlock_status": "card_only",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hibiki-wataru_black-01_icon.webp",
         "front": "hibiki-wataru_black-01_front.webp",
@@ -64,10 +64,10 @@
     {
       "id": "hibiki-wataru_headparts-01",
       "idol_slug": "hibiki-wataru",
-      "costume_name": "ヘッドパーツあり衣装（仮）",
+      "costume_name": "Mare",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hibiki-wataru_headparts-01_icon.webp",
         "front": "hibiki-wataru_headparts-01_front.webp",
@@ -60632,6 +60632,1154 @@
         "暫定分類"
       ],
       "note_public": "ダイヤショップ未購入。",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_uta-no-oniisan-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_uta-no-oniisan-01_icon.webp",
+        "front": "hibiki-wataru_uta-no-oniisan-01_front.webp",
+        "back": "hibiki-wataru_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_magnolia-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "マグノリア衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_magnolia-01_icon.webp",
+        "front": "hibiki-wataru_magnolia-01_front.webp",
+        "back": "hibiki-wataru_magnolia-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_halloween-bat-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ハロウィンバット",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_halloween-bat-01_icon.webp",
+        "front": "hibiki-wataru_halloween-bat-01_front.webp",
+        "back": "hibiki-wataru_halloween-bat-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_flash-crown-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "フラッシュクラウン",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_flash-crown-01_icon.webp",
+        "front": "hibiki-wataru_flash-crown-01_front.webp",
+        "back": "hibiki-wataru_flash-crown-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_pilot-suit-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "パイロットスーツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_pilot-suit-01_icon.webp",
+        "front": "hibiki-wataru_pilot-suit-01_front.webp",
+        "back": "hibiki-wataru_pilot-suit-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_tougenkyou-guuzouken-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "桃源郷偶像拳衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_tougenkyou-guuzouken-01_icon.webp",
+        "front": "hibiki-wataru_tougenkyou-guuzouken-01_front.webp",
+        "back": "hibiki-wataru_tougenkyou-guuzouken-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_hot-winder-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ホットウィンダー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_hot-winder-01_icon.webp",
+        "front": "hibiki-wataru_hot-winder-01_front.webp",
+        "back": "hibiki-wataru_hot-winder-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_resort-live-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "リゾートライブ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_resort-live-01_icon.webp",
+        "front": "hibiki-wataru_resort-live-01_front.webp",
+        "back": "hibiki-wataru_resort-live-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-chance-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-chance-01_icon.webp",
+        "front": "hibiki-wataru_anniversary-chance-01_front.webp",
+        "back": "hibiki-wataru_anniversary-chance-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-777-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリー777",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-777-01_icon.webp",
+        "front": "hibiki-wataru_anniversary-777-01_front.webp",
+        "back": "hibiki-wataru_anniversary-777-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_black-stage-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ブラックステージ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_black-stage-01_icon.webp",
+        "front": "hibiki-wataru_black-stage-01_front.webp",
+        "back": "hibiki-wataru_black-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_black-stage-scr-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_black-stage-scr-01_icon.webp",
+        "front": "hibiki-wataru_black-stage-scr-01_front.webp",
+        "back": "hibiki-wataru_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_halloween-candle-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ハロウィンキャンドル",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_halloween-candle-01_icon.webp",
+        "front": "hibiki-wataru_halloween-candle-01_front.webp",
+        "back": "hibiki-wataru_halloween-candle-01_back.webp"
+      },
+      "tags": [
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_migratory-bird-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "Migratory Bird",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_migratory-bird-01_icon.webp",
+        "front": "hibiki-wataru_migratory-bird-01_front.webp",
+        "back": "hibiki-wataru_migratory-bird-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_newyear-rise-cape-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ニューイヤーライズ（ケープ）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_newyear-rise-cape-01_icon.webp",
+        "front": "hibiki-wataru_newyear-rise-cape-01_front.webp",
+        "back": "hibiki-wataru_newyear-rise-cape-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_training-wear-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "トレーニングウェア",
+      "costume_group": "common",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_training-wear-01_icon.webp",
+        "front": "hibiki-wataru_training-wear-01_front.webp",
+        "back": "hibiki-wataru_training-wear-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_five-eccentrics-stage-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "五奇人ステージ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_five-eccentrics-stage-01_icon.webp",
+        "front": "hibiki-wataru_five-eccentrics-stage-01_front.webp",
+        "back": "hibiki-wataru_five-eccentrics-stage-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_altered-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "『オルタード』衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_altered-01_icon.webp",
+        "front": "hibiki-wataru_altered-01_front.webp",
+        "back": "hibiki-wataru_altered-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-love-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリーラブ",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-love-01_icon.webp",
+        "front": "hibiki-wataru_anniversary-love-01_front.webp",
+        "back": "hibiki-wataru_anniversary-love-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_scramble-gakuen-boys-uniform-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "私立すくらんぶる学園男子制服",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_scramble-gakuen-boys-uniform-01_icon.webp",
+        "front": "hibiki-wataru_scramble-gakuen-boys-uniform-01_front.webp",
+        "back": "hibiki-wataru_scramble-gakuen-boys-uniform-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-challenge-scr-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリーチャレンジ（SCR）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-challenge-scr-01_icon.webp",
+        "front": "hibiki-wataru_anniversary-challenge-scr-01_front.webp",
+        "back": "hibiki-wataru_anniversary-challenge-scr-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_sanctuary-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "サンクチュアリ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_sanctuary-01_icon.webp",
+        "front": "hibiki-wataru_sanctuary-01_front.webp",
+        "back": "hibiki-wataru_sanctuary-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_halloween-wing-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_halloween-wing-01_icon.webp",
+        "front": "hibiki-wataru_halloween-wing-01_front.webp",
+        "back": "hibiki-wataru_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_fairy-tale-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "フェアリーテイル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_fairy-tale-01_icon.webp",
+        "front": "hibiki-wataru_fairy-tale-01_front.webp",
+        "back": "hibiki-wataru_fairy-tale-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_kenka-matsuri-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "喧嘩祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_kenka-matsuri-01_icon.webp",
+        "front": "hibiki-wataru_kenka-matsuri-01_front.webp",
+        "back": "hibiki-wataru_kenka-matsuri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_starlight-9th-live-tshirt-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "hibiki-wataru_starlight-9th-live-tshirt-01_front.webp",
+        "back": "hibiki-wataru_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_newyear-rise-first-love-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_newyear-rise-first-love-01_icon.webp",
+        "front": "hibiki-wataru_newyear-rise-first-love-01_front.webp",
+        "back": "hibiki-wataru_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_pikapika-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "PIKAPIKA衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_pikapika-01_icon.webp",
+        "front": "hibiki-wataru_pikapika-01_front.webp",
+        "back": "hibiki-wataru_pikapika-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_colorful-music-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_colorful-music-01_icon.webp",
+        "front": "hibiki-wataru_colorful-music-01_front.webp",
+        "back": "hibiki-wataru_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_fine-hoodie-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "fineフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_fine-hoodie-01_icon.webp",
+        "front": "hibiki-wataru_fine-hoodie-01_front.webp",
+        "back": "hibiki-wataru_fine-hoodie-01_back.webp"
+      },
+      "tags": [
+        "fine",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_chaji-hisui-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "茶地の翡翠衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_chaji-hisui-01_icon.webp",
+        "front": "hibiki-wataru_chaji-hisui-01_front.webp",
+        "back": "hibiki-wataru_chaji-hisui-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_love-and-peace-legend-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "らびゅ＆ピース伝説衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_love-and-peace-legend-01_icon.webp",
+        "front": "hibiki-wataru_love-and-peace-legend-01_front.webp",
+        "back": "hibiki-wataru_love-and-peace-legend-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_jinbei-goldfish-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_jinbei-goldfish-01_icon.webp",
+        "front": "hibiki-wataru_jinbei-goldfish-01_front.webp",
+        "back": "hibiki-wataru_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_halloween-wing-angel-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_halloween-wing-angel-01_icon.webp",
+        "front": "hibiki-wataru_halloween-wing-angel-01_front.webp",
+        "back": "hibiki-wataru_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "ハロウィン"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_terra-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_terra-01_icon.webp",
+        "front": "hibiki-wataru_terra-01_front.webp",
+        "back": "hibiki-wataru_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_shining-star-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_shining-star-01_icon.webp",
+        "front": "hibiki-wataru_shining-star-01_front.webp",
+        "back": "hibiki-wataru_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-agent-green-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリーエージェント（緑）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-agent-green-01_icon.webp",
+        "front": "hibiki-wataru_anniversary-agent-green-01_front.webp",
+        "back": "hibiki-wataru_anniversary-agent-green-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_lure-ruler-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ルアー・ルーラー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_lure-ruler-01_icon.webp",
+        "front": "hibiki-wataru_lure-ruler-01_front.webp",
+        "back": "hibiki-wataru_lure-ruler-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_jinbei-fireworks-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hibiki-wataru_jinbei-fireworks-01_icon.webp",
+        "front": "hibiki-wataru_jinbei-fireworks-01_front.webp",
+        "back": "hibiki-wataru_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_common-scr-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク等の解放条件",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_tempest-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "テンペスト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_tempest-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_hoshiiro-anniversary-suit-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "星色のアニバーサリースーツ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_hoshiiro-anniversary-suit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "5周年",
+        "アニバーサリー",
+        "SMILEコイン"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_tenshi-anniversary-rock-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "天使のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_tenshi-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ",
+        "6周年",
+        "アニバーサリー",
+        "FUSIONIC STARS!!"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_primavera-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "プリマヴェーラ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_primavera-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_esmg-graphic-tshirt-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_bloom-idol-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク等の解放条件",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_fusion-unit-trickstar-fine-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "FUSION UNIT(Trickstar×fine)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_fusion-unit-trickstar-fine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_ss-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "「SS」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_ss-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_ss-kouhaku-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "「SS」紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_pretty-bunny-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "プリティ・バニー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_pretty-bunny-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_starlight-6th-live-tshirt-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_ghostic-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ゴースティック衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_ghostic-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_newyear-rise-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_starlight-parade-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_bloom-idol-scr-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク等の解放条件",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_atlantis-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ATLANTIS衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_atlantis-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_album-trip-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アルバム「TRIP」衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_newyear-rise-hakugin-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_newyear-rise-hakugin-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_kenna-white-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "剣那の白衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_kenna-white-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_anniversary-challenge-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "ダイヤショップ未購入",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_twilight-idol-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "アイドルランク等の解放条件",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_twilight-idol-scr-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランク等の解放条件",
+      "updated_at": "2026-08-14"
+    },
+    {
+      "id": "hibiki-wataru_iridescent-light-01",
+      "idol_slug": "hibiki-wataru",
+      "costume_name": "イリデセントライト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "hibiki-wataru_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "対象カード未所持",
       "updated_at": "2026-08-14"
     }
   ]
