@@ -278,12 +278,12 @@
         },
         "05_musica": {
           "id": "hibiki-wataru_black-01",
-          "icon_mode": "auto_selected_card",
+          "icon_mode": "manual_crop",
           "icon_crop": {
-            "x": 0,
-            "y": 0,
-            "width": 200,
-            "height": 200
+            "x": 585,
+            "y": 650,
+            "width": 195,
+            "height": 195
           },
           "has_body_images": true
         },
@@ -20649,7 +20649,7 @@
           }
         },
         "06_choshoku-anniversary-suit": {
-          "id": "kiryuu-kurou_choshoku-anniversary-suit-01",
+          "id": "kiryuu-kurou_furaibou-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20660,7 +20660,7 @@
           }
         },
         "07_tsubaki-train-live": {
-          "id": "kiryuu-kurou_tsubaki-train-live-01",
+          "id": "kiryuu-kurou_choshoku-anniversary-suit-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -20671,7 +20671,7 @@
           }
         },
         "08_halloween-bat": {
-          "id": "kiryuu-kurou_halloween-bat-01",
+          "id": "kiryuu-kurou_tsubaki-train-live-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20682,7 +20682,7 @@
           }
         },
         "09_black-ox": {
-          "id": "kiryuu-kurou_black-ox-01",
+          "id": "kiryuu-kurou_halloween-bat-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20737,7 +20737,7 @@
           }
         },
         "14_ring-a-bell": {
-          "id": "kiryuu-kurou_ring-a-bell-01",
+          "id": "kiryuu-kurou_gozen-jiai-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20748,17 +20748,6 @@
           }
         },
         "15_gozen-jiai": {
-          "id": "kiryuu-kurou_gozen-jiai-01",
-          "icon_mode": "manual_crop",
-          "has_body_images": false,
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          }
-        },
-        "16_bloom-idol": {
           "id": "kiryuu-kurou_bloom-idol-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -20769,7 +20758,7 @@
             "height": 300
           }
         },
-        "17_scarlet-halloween": {
+        "16_bloom-idol": {
           "id": "kiryuu-kurou_scarlet-halloween-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -20780,8 +20769,19 @@
             "height": 300
           }
         },
-        "18_fusion-unit-undead-akatsuki": {
+        "17_scarlet-halloween": {
           "id": "kiryuu-kurou_fusion-unit-undead-akatsuki-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "18_fusion-unit-undead-akatsuki": {
+          "id": "kiryuu-kurou_cd-third-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20792,7 +20792,7 @@
           }
         },
         "19_cd-third": {
-          "id": "kiryuu-kurou_cd-third-01",
+          "id": "kiryuu-kurou_ss-kouhaku-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -20803,7 +20803,7 @@
           }
         },
         "20_ss-kouhaku": {
-          "id": "kiryuu-kurou_ss-kouhaku-01",
+          "id": "kiryuu-kurou_akaoni-banchou-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20814,7 +20814,7 @@
           }
         },
         "21_seirenka": {
-          "id": "kiryuu-kurou_seirenka-01",
+          "id": "kiryuu-kurou_anniversary-chance-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20825,7 +20825,7 @@
           }
         },
         "22_anniversary-chance": {
-          "id": "kiryuu-kurou_anniversary-chance-01",
+          "id": "kiryuu-kurou_anniversary-777-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20836,7 +20836,7 @@
           }
         },
         "23_anniversary-777": {
-          "id": "kiryuu-kurou_anniversary-777-01",
+          "id": "kiryuu-kurou_black-stage-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -20847,7 +20847,7 @@
           }
         },
         "24_black-stage": {
-          "id": "kiryuu-kurou_black-stage-01",
+          "id": "kiryuu-kurou_sankochou-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -20858,7 +20858,7 @@
           }
         },
         "25_sankochou": {
-          "id": "kiryuu-kurou_sankochou-01",
+          "id": "kiryuu-kurou_butoukai-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31364,19 +31364,8 @@
             "height": 300
           }
         },
-        "08_blood-banquet": {
-          "id": "hakaze-kaoru_blood-banquet-01",
-          "icon_mode": "manual_crop",
-          "has_body_images": false,
-          "icon_crop": {
-            "x": 770,
-            "y": 340,
-            "width": 320,
-            "height": 300
-          }
-        },
         "09_halloween-bat": {
-          "id": "hakaze-kaoru_halloween-bat-01",
+          "id": "hakaze-kaoru_blood-banquet-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31387,7 +31376,7 @@
           }
         },
         "10_fuyajo-live": {
-          "id": "hakaze-kaoru_fuyajo-live-01",
+          "id": "hakaze-kaoru_halloween-bat-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31398,7 +31387,7 @@
           }
         },
         "11_ryuusei-anniversary-rock": {
-          "id": "hakaze-kaoru_ryuusei-anniversary-rock-01",
+          "id": "hakaze-kaoru_fuyajo-live-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31409,7 +31398,7 @@
           }
         },
         "12_esmg-graphic-tshirt": {
-          "id": "hakaze-kaoru_esmg-graphic-tshirt-01",
+          "id": "hakaze-kaoru_miwaku-anniversary-rock-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31442,7 +31431,7 @@
           }
         },
         "15_gozen-jiai": {
-          "id": "hakaze-kaoru_gozen-jiai-01",
+          "id": "hakaze-kaoru_esmg-graphic-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31453,7 +31442,7 @@
           }
         },
         "16_bloom-idol": {
-          "id": "hakaze-kaoru_bloom-idol-01",
+          "id": "hakaze-kaoru_pilot-suit-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31464,7 +31453,7 @@
           }
         },
         "17_beast": {
-          "id": "hakaze-kaoru_beast-01",
+          "id": "hakaze-kaoru_gozen-jiai-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31475,7 +31464,7 @@
           }
         },
         "18_undead-kougetsu-unit": {
-          "id": "hakaze-kaoru_undead-kougetsu-unit-01",
+          "id": "hakaze-kaoru_bloom-idol-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31486,7 +31475,7 @@
           }
         },
         "19_easter": {
-          "id": "hakaze-kaoru_easter-01",
+          "id": "hakaze-kaoru_beast-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31497,7 +31486,7 @@
           }
         },
         "20_ss-kouhaku": {
-          "id": "hakaze-kaoru_ss-kouhaku-01",
+          "id": "hakaze-kaoru_fusion-unit-undead-akatsuki-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31508,7 +31497,7 @@
           }
         },
         "21_sea-wind": {
-          "id": "hakaze-kaoru_sea-wind-01",
+          "id": "hakaze-kaoru_easter-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31519,7 +31508,7 @@
           }
         },
         "22_anniversary-chance": {
-          "id": "hakaze-kaoru_anniversary-chance-01",
+          "id": "hakaze-kaoru_ss-kouhaku-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31530,7 +31519,7 @@
           }
         },
         "23_anniversary-777": {
-          "id": "hakaze-kaoru_anniversary-777-01",
+          "id": "hakaze-kaoru_sea-wind-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31541,7 +31530,7 @@
           }
         },
         "24_black-stage": {
-          "id": "hakaze-kaoru_black-stage-01",
+          "id": "hakaze-kaoru_anniversary-chance-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31552,7 +31541,7 @@
           }
         },
         "25_black-stage-scr": {
-          "id": "hakaze-kaoru_black-stage-scr-01",
+          "id": "hakaze-kaoru_anniversary-777-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31563,7 +31552,7 @@
           }
         },
         "26_bride-light": {
-          "id": "hakaze-kaoru_bride-light-01",
+          "id": "hakaze-kaoru_black-stage-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31574,7 +31563,7 @@
           }
         },
         "27_usa": {
-          "id": "hakaze-kaoru_usa-01",
+          "id": "hakaze-kaoru_black-stage-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31585,7 +31574,7 @@
           }
         },
         "28_halloween-candle": {
-          "id": "hakaze-kaoru_halloween-candle-01",
+          "id": "hakaze-kaoru_bride-light-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31596,7 +31585,7 @@
           }
         },
         "29_starlight-7th-live-tshirt": {
-          "id": "hakaze-kaoru_starlight-7th-live-tshirt-01",
+          "id": "hakaze-kaoru_usa-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31607,7 +31596,7 @@
           }
         },
         "30_newyear-rise": {
-          "id": "hakaze-kaoru_newyear-rise-01",
+          "id": "hakaze-kaoru_halloween-candle-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31618,7 +31607,7 @@
           }
         },
         "31_newyear-rise-cape": {
-          "id": "hakaze-kaoru_newyear-rise-cape-01",
+          "id": "hakaze-kaoru_starlight-7th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31629,7 +31618,7 @@
           }
         },
         "32_scorpio-poison": {
-          "id": "hakaze-kaoru_scorpio-poison-01",
+          "id": "hakaze-kaoru_newyear-rise-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31640,7 +31629,7 @@
           }
         },
         "33_training-wear": {
-          "id": "hakaze-kaoru_training-wear-01",
+          "id": "hakaze-kaoru_newyear-rise-cape-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31651,7 +31640,7 @@
           }
         },
         "34_bloom-idol-scr": {
-          "id": "hakaze-kaoru_bloom-idol-scr-01",
+          "id": "hakaze-kaoru_scorpio-poison-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31662,7 +31651,7 @@
           }
         },
         "35_anniversary-love": {
-          "id": "hakaze-kaoru_anniversary-love-01",
+          "id": "hakaze-kaoru_training-wear-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31673,7 +31662,7 @@
           }
         },
         "36_flashback": {
-          "id": "hakaze-kaoru_flashback-01",
+          "id": "hakaze-kaoru_bloom-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31684,7 +31673,7 @@
           }
         },
         "37_newyear-rise-silver": {
-          "id": "hakaze-kaoru_newyear-rise-silver-01",
+          "id": "hakaze-kaoru_anniversary-love-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31695,7 +31684,7 @@
           }
         },
         "38_album-trip": {
-          "id": "hakaze-kaoru_album-trip-01",
+          "id": "hakaze-kaoru_flashback-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31706,7 +31695,7 @@
           }
         },
         "39_scramble-gakuen-boys-uniform": {
-          "id": "hakaze-kaoru_scramble-gakuen-boys-uniform-01",
+          "id": "hakaze-kaoru_kogare-no-shou-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31717,7 +31706,7 @@
           }
         },
         "40_anniversary-challenge": {
-          "id": "hakaze-kaoru_anniversary-challenge-01",
+          "id": "hakaze-kaoru_newyear-rise-silver-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31728,7 +31717,7 @@
           }
         },
         "41_twilight-idol": {
-          "id": "hakaze-kaoru_twilight-idol-01",
+          "id": "hakaze-kaoru_album-trip-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31739,7 +31728,7 @@
           }
         },
         "42_intelligence": {
-          "id": "hakaze-kaoru_intelligence-01",
+          "id": "hakaze-kaoru_scramble-gakuen-boys-uniform-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31750,7 +31739,7 @@
           }
         },
         "43_swing-night": {
-          "id": "hakaze-kaoru_swing-night-01",
+          "id": "hakaze-kaoru_anniversary-challenge-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31761,7 +31750,7 @@
           }
         },
         "44_anniversary-challenge-scr": {
-          "id": "hakaze-kaoru_anniversary-challenge-scr-01",
+          "id": "hakaze-kaoru_twilight-idol-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31772,7 +31761,7 @@
           }
         },
         "45_halloween-wing": {
-          "id": "hakaze-kaoru_halloween-wing-01",
+          "id": "hakaze-kaoru_intelligence-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31783,7 +31772,7 @@
           }
         },
         "46_sandstorm": {
-          "id": "hakaze-kaoru_sandstorm-01",
+          "id": "hakaze-kaoru_swing-night-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
           "icon_crop": {
@@ -31794,7 +31783,7 @@
           }
         },
         "47_looping-halloween": {
-          "id": "hakaze-kaoru_looping-halloween-01",
+          "id": "hakaze-kaoru_anniversary-challenge-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31805,7 +31794,7 @@
           }
         },
         "48_starlight-8th-live-tshirt": {
-          "id": "hakaze-kaoru_starlight-8th-live-tshirt-01",
+          "id": "hakaze-kaoru_halloween-wing-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31816,7 +31805,7 @@
           }
         },
         "49_newyear-rise-first-love": {
-          "id": "hakaze-kaoru_newyear-rise-first-love-01",
+          "id": "hakaze-kaoru_sandstorm-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31827,7 +31816,7 @@
           }
         },
         "50_colorful-music": {
-          "id": "hakaze-kaoru_colorful-music-01",
+          "id": "hakaze-kaoru_looping-halloween-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
@@ -31838,7 +31827,7 @@
           }
         },
         "51_undead-hoodie": {
-          "id": "hakaze-kaoru_undead-hoodie-01",
+          "id": "hakaze-kaoru_halloween-costume-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {

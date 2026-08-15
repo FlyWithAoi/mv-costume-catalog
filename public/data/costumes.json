@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15",
+  "updated_at": "2026-08-16",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -6231,7 +6231,7 @@
     {
       "id": "kanna_kumamarusu-q-01",
       "idol_slug": "kanna",
-      "costume_name": "クママルスQ衣装",
+      "costume_name": "クマクマレスQ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -6244,12 +6244,12 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-14"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kanna_kumamarusu-q-bear-paws-01",
       "idol_slug": "kanna",
-      "costume_name": "クママルスQ衣装（クマの手）",
+      "costume_name": "クマクマレスQ衣装（クマの手）",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -6262,7 +6262,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-14"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kanna_terra-01",
@@ -33183,37 +33183,37 @@
       "idol_slug": "kiryuu-kurou",
       "costume_name": "調色のアニバーサリースーツ",
       "costume_group": "campaign",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "not_purchased",
+      "requestable": false,
       "images": {
         "icon": "kiryuu-kurou_choshoku-anniversary-suit-01_icon.webp",
-        "front": "kiryuu-kurou_choshoku-anniversary-suit-01_front.webp",
-        "back": "kiryuu-kurou_choshoku-anniversary-suit-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "アニバーサリー",
         "ダイヤショップ"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-25"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_tsubaki-train-live-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "椿列車ライブ衣装",
       "costume_group": "other",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "kiryuu-kurou_tsubaki-train-live-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "kiryuu-kurou_tsubaki-train-live-01_front.webp",
+        "back": "kiryuu-kurou_tsubaki-train-live-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_halloween-bat-01",
@@ -33232,25 +33232,25 @@
         "ハロウィン"
       ],
       "note_public": "",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
-      "id": "kiryuu-kurou_black-ox-01",
+      "id": "kiryuu-kurou_furaibou-01",
       "idol_slug": "kiryuu-kurou",
-      "costume_name": "黒の丑衣装",
+      "costume_name": "風来坊衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "kiryuu-kurou_black-ox-01_icon.webp",
-        "front": "kiryuu-kurou_black-ox-01_front.webp",
-        "back": "kiryuu-kurou_black-ox-01_back.webp"
+        "icon": "kiryuu-kurou_furaibou-01_icon.webp",
+        "front": "kiryuu-kurou_furaibou-01_front.webp",
+        "back": "kiryuu-kurou_furaibou-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_traditional-anniversary-rock-01",
@@ -33328,41 +33328,41 @@
       "updated_at": "2026-07-25"
     },
     {
-      "id": "kiryuu-kurou_ring-a-bell-01",
+      "id": "kiryuu-kurou_akaoni-banchou-01",
       "idol_slug": "kiryuu-kurou",
-      "costume_name": "Ring.A.Bell衣装",
+      "costume_name": "赤鬼番長",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "kiryuu-kurou_ring-a-bell-01_icon.webp",
-        "front": "kiryuu-kurou_ring-a-bell-01_front.webp",
-        "back": "kiryuu-kurou_ring-a-bell-01_back.webp"
+        "icon": "kiryuu-kurou_akaoni-banchou-01_icon.webp",
+        "front": "kiryuu-kurou_akaoni-banchou-01_front.webp",
+        "back": "kiryuu-kurou_akaoni-banchou-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_gozen-jiai-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "御前試合衣装",
       "costume_group": "other",
-      "unlock_status": "locked",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "kiryuu-kurou_gozen-jiai-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "kiryuu-kurou_gozen-jiai-01_front.webp",
+        "back": "kiryuu-kurou_gozen-jiai-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_bloom-idol-01",
@@ -33380,14 +33380,14 @@
         "ブルーム"
       ],
       "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_scarlet-halloween-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "スカーレットハロウィン衣装",
       "costume_group": "other",
-      "unlock_status": "not_purchased",
+      "unlock_status": "card_missing",
       "requestable": false,
       "images": {
         "icon": "kiryuu-kurou_scarlet-halloween-01_icon.webp",
@@ -33398,80 +33398,80 @@
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_fusion-unit-undead-akatsuki-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
       "costume_group": "unit",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "not_purchased",
+      "requestable": false,
       "images": {
         "icon": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_icon.webp",
-        "front": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_front.webp",
-        "back": "kiryuu-kurou_fusion-unit-undead-akatsuki-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [],
-      "note_public": "",
-      "updated_at": "2026-07-25"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_cd-third-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "CD第三弾衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "kiryuu-kurou_cd-third-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "kiryuu-kurou_cd-third-01_front.webp",
+        "back": "kiryuu-kurou_cd-third-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_ss-kouhaku-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "『SS』紅白衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "not_purchased",
+      "requestable": false,
       "images": {
         "icon": "kiryuu-kurou_ss-kouhaku-01_icon.webp",
-        "front": "kiryuu-kurou_ss-kouhaku-01_front.webp",
-        "back": "kiryuu-kurou_ss-kouhaku-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "暫定分類",
         "ダイヤショップ"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-25"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
-      "id": "kiryuu-kurou_seirenka-01",
+      "id": "kiryuu-kurou_butoukai-01",
       "idol_slug": "kiryuu-kurou",
-      "costume_name": "清蓮花",
+      "costume_name": "舞闘会衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "card_missing",
+      "requestable": false,
       "images": {
-        "icon": "kiryuu-kurou_seirenka-01_icon.webp",
-        "front": "kiryuu-kurou_seirenka-01_front.webp",
-        "back": "kiryuu-kurou_seirenka-01_back.webp"
+        "icon": "kiryuu-kurou_butoukai-01_icon.webp",
+        "front": null,
+        "back": null
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-25"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_anniversary-chance-01",
@@ -33490,7 +33490,7 @@
         "配布衣装"
       ],
       "note_public": "",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_anniversary-777-01",
@@ -33510,32 +33510,32 @@
         "ダイヤショップ"
       ],
       "note_public": "",
-      "updated_at": "2026-07-25"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_black-stage-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "ブラックステージ",
       "costume_group": "other",
-      "unlock_status": "locked",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "kiryuu-kurou_black-stage-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "kiryuu-kurou_black-stage-01_front.webp",
+        "back": "kiryuu-kurou_black-stage-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_sankochou-01",
       "idol_slug": "kiryuu-kurou",
       "costume_name": "三光鳥衣装",
       "costume_group": "other",
-      "unlock_status": "locked",
+      "unlock_status": "card_missing",
       "requestable": false,
       "images": {
         "icon": "kiryuu-kurou_sankochou-01_icon.webp",
@@ -33546,8 +33546,8 @@
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "kiryuu-kurou_yukyo-seishun-ka-01",
@@ -41166,7 +41166,7 @@
     {
       "id": "sena-izumi_halloween-pat-01",
       "idol_slug": "sena-izumi",
-      "costume_name": "ハロウィンパット",
+      "costume_name": "ハロウィンバット",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -41179,7 +41179,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-27"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "sena-izumi_xxveil-01",
@@ -41871,7 +41871,7 @@
     {
       "id": "sena-izumi_fleur-de-lis-01",
       "idol_slug": "sena-izumi",
-      "costume_name": "ブルール・ド・リス衣装",
+      "costume_name": "フルール・ド・リス衣装",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -41884,7 +41884,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-27"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "sena-izumi_starlight-9th-live-tshirt-01",
@@ -42378,7 +42378,7 @@
     {
       "id": "sakuma-ritsu_halloween-pat-01",
       "idol_slug": "sakuma-ritsu",
-      "costume_name": "ハロウィンパット",
+      "costume_name": "ハロウィンバット",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -42391,7 +42391,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-27"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "sakuma-ritsu_shigeki-anniversary-rock-01",
@@ -43119,7 +43119,7 @@
     {
       "id": "sakuma-ritsu_fleur-de-lis-01",
       "idol_slug": "sakuma-ritsu",
-      "costume_name": "ブルール・ド・リス衣装",
+      "costume_name": "フルール・ド・リス衣装",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -43132,7 +43132,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-27"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "sakuma-ritsu_starlight-9th-live-tshirt-01",
@@ -50785,19 +50785,19 @@
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ブラッドバンケット衣装",
       "costume_group": "other",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_blood-banquet-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_blood-banquet-01_front.webp",
+        "back": "hakaze-kaoru_blood-banquet-01_back.webp"
       },
       "tags": [
         "カード衣装",
         "暫定分類"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_halloween-bat-01",
@@ -50816,45 +50816,44 @@
         "ハロウィン"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_fuyajo-live-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "不夜城ライブ衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "card_missing",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_fuyajo-live-01_icon.webp",
-        "front": "hakaze-kaoru_fuyajo-live-01_front.webp",
-        "back": "hakaze-kaoru_fuyajo-live-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "カード衣装",
         "暫定分類"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
-      "id": "hakaze-kaoru_ryuusei-anniversary-rock-01",
+      "id": "hakaze-kaoru_miwaku-anniversary-rock-01",
       "idol_slug": "hakaze-kaoru",
-      "costume_name": "流星のアニバーサリーロック",
-      "costume_group": "campaign",
-      "unlock_status": "locked",
+      "costume_name": "魅惑のアニバーサリーロック",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
       "requestable": false,
       "images": {
-        "icon": "hakaze-kaoru_ryuusei-anniversary-rock-01_icon.webp",
+        "icon": "hakaze-kaoru_miwaku-anniversary-rock-01_icon.webp",
         "front": null,
         "back": null
       },
       "tags": [
-        "アニバーサリー",
-        "ダイヤショップ"
+        "暫定分類"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_esmg-graphic-tshirt-01",
@@ -50873,7 +50872,7 @@
         "ダイヤショップ"
       ],
       "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_phantom-thieves-01",
@@ -50918,84 +50917,47 @@
       "idol_slug": "hakaze-kaoru",
       "costume_name": "御前試合衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_gozen-jiai-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_gozen-jiai-01_front.webp",
+        "back": "hakaze-kaoru_gozen-jiai-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_bloom-idol-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ブルームアイドル衣装",
       "costume_group": "common",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "locked",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_bloom-idol-01_icon.webp",
-        "front": "hakaze-kaoru_bloom-idol-01_front.webp",
-        "back": "hakaze-kaoru_bloom-idol-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "ブルーム"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_beast-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ビースト衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
-      "images": {
-        "icon": "hakaze-kaoru_beast-01_icon.webp",
-        "front": "hakaze-kaoru_beast-01_front.webp",
-        "back": "hakaze-kaoru_beast-01_back.webp"
-      },
-      "tags": [
-        "カード衣装",
-        "暫定分類"
-      ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
-    },
-    {
-      "id": "hakaze-kaoru_undead-kougetsu-unit-01",
-      "idol_slug": "hakaze-kaoru",
-      "costume_name": "UNIT(UNDEAD×紅月)衣装",
-      "costume_group": "other",
-      "unlock_status": "locked",
-      "requestable": false,
-      "images": {
-        "icon": "hakaze-kaoru_undead-kougetsu-unit-01_icon.webp",
-        "front": null,
-        "back": null
-      },
-      "tags": [
-        "暫定分類"
-      ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-30"
-    },
-    {
-      "id": "hakaze-kaoru_easter-01",
-      "idol_slug": "hakaze-kaoru",
-      "costume_name": "復活祭衣装",
-      "costume_group": "other",
       "unlock_status": "card_missing",
       "requestable": false,
       "images": {
-        "icon": "hakaze-kaoru_easter-01_icon.webp",
+        "icon": "hakaze-kaoru_beast-01_icon.webp",
         "front": null,
         "back": null
       },
@@ -51004,14 +50966,49 @@
         "暫定分類"
       ],
       "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "hakaze-kaoru_fusion-unit-undead-akatsuki-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "FUSION UNIT(UNDEAD×紅月)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "hakaze-kaoru_fusion-unit-undead-akatsuki-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "hakaze-kaoru_easter-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "復活祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_easter-01_icon.webp",
+        "front": "hakaze-kaoru_easter-01_front.webp",
+        "back": "hakaze-kaoru_easter-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_ss-kouhaku-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "『SS』紅白衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
+      "unlock_status": "not_purchased",
       "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_ss-kouhaku-01_icon.webp",
@@ -51022,66 +51019,66 @@
         "暫定分類",
         "ダイヤショップ"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_sea-wind-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "シー・ウィンド衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "card_missing",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_sea-wind-01_icon.webp",
-        "front": "hakaze-kaoru_sea-wind-01_front.webp",
-        "back": "hakaze-kaoru_sea-wind-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "カード衣装",
         "暫定分類"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_anniversary-chance-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "アニバーサリーChance",
       "costume_group": "campaign",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_anniversary-chance-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_anniversary-chance-01_front.webp",
+        "back": "hakaze-kaoru_anniversary-chance-01_back.webp"
       },
       "tags": [
         "アニバーサリー",
         "配布衣装"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_anniversary-777-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "アニバーサリー777",
       "costume_group": "campaign",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_anniversary-777-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_anniversary-777-01_front.webp",
+        "back": "hakaze-kaoru_anniversary-777-01_back.webp"
       },
       "tags": [
         "7周年",
         "アニバーサリー",
         "ダイヤショップ"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_black-stage-01",
@@ -51100,7 +51097,7 @@
         "カード衣装"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_black-stage-scr-01",
@@ -51118,7 +51115,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_bride-light-01",
@@ -51137,26 +51134,26 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_usa-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "U.S.A.衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "card_missing",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_usa-01_icon.webp",
-        "front": "hakaze-kaoru_usa-01_front.webp",
-        "back": "hakaze-kaoru_usa-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_halloween-candle-01",
@@ -51172,43 +51169,43 @@
       },
       "tags": [],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_starlight-7th-live-tshirt-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "スタライ7thライブTシャツ",
       "costume_group": "common",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_starlight-7th-live-tshirt-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_starlight-7th-live-tshirt-01_front.webp",
+        "back": "hakaze-kaoru_starlight-7th-live-tshirt-01_back.webp"
       },
       "tags": [],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_newyear-rise-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ニューイヤーライズ",
       "costume_group": "campaign",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "not_purchased",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_newyear-rise-01_icon.webp",
-        "front": "hakaze-kaoru_newyear-rise-01_front.webp",
-        "back": "hakaze-kaoru_newyear-rise-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "新年",
         "ニューイヤー",
         "ダイヤショップ"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_newyear-rise-cape-01",
@@ -51224,26 +51221,26 @@
       },
       "tags": [],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_scorpio-poison-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "スコルピオの毒衣装",
       "costume_group": "other",
-      "unlock_status": "locked",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_scorpio-poison-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_scorpio-poison-01_front.webp",
+        "back": "hakaze-kaoru_scorpio-poison-01_back.webp"
       },
       "tags": [
         "カード衣装",
         "暫定分類"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_training-wear-01",
@@ -51259,26 +51256,26 @@
       },
       "tags": [],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_bloom-idol-scr-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ブルームアイドル衣装（SCR）",
       "costume_group": "common",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "locked",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_bloom-idol-scr-01_icon.webp",
-        "front": "hakaze-kaoru_bloom-idol-scr-01_front.webp",
-        "back": "hakaze-kaoru_bloom-idol-scr-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "ブルーム",
         "SCR"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_anniversary-love-01",
@@ -51294,7 +51291,7 @@
       },
       "tags": [],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_flashback-01",
@@ -51313,46 +51310,46 @@
         "暫定分類"
       ],
       "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_newyear-rise-silver-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "not_purchased",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_newyear-rise-silver-01_icon.webp",
-        "front": "hakaze-kaoru_newyear-rise-silver-01_front.webp",
-        "back": "hakaze-kaoru_newyear-rise-silver-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "新年",
         "ニューイヤー",
         "ダイヤショップ"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_album-trip-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "アルバム『TRIP』衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_album-trip-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_album-trip-01_front.webp",
+        "back": "hakaze-kaoru_album-trip-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_scramble-gakuen-boys-uniform-01",
@@ -51370,7 +51367,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_anniversary-challenge-01",
@@ -51388,41 +51385,41 @@
         "ダイヤショップ"
       ],
       "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_twilight-idol-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "トワイライトアイドル衣装",
       "costume_group": "common",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "locked",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_twilight-idol-01_icon.webp",
-        "front": "hakaze-kaoru_twilight-idol-01_front.webp",
-        "back": "hakaze-kaoru_twilight-idol-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_intelligence-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "インテリジェンス衣装",
       "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
+      "unlock_status": "card_missing",
+      "requestable": false,
       "images": {
         "icon": "hakaze-kaoru_intelligence-01_icon.webp",
-        "front": "hakaze-kaoru_intelligence-01_front.webp",
-        "back": "hakaze-kaoru_intelligence-01_back.webp"
+        "front": null,
+        "back": null
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_swing-night-01",
@@ -51441,61 +51438,61 @@
         "暫定分類"
       ],
       "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_anniversary-challenge-scr-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "アニバーサリーチャレンジ（SCR）",
       "costume_group": "campaign",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_anniversary-challenge-scr-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_anniversary-challenge-scr-01_front.webp",
+        "back": "hakaze-kaoru_anniversary-challenge-scr-01_back.webp"
       },
       "tags": [
         "SCR"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_halloween-wing-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "ハロウィンウィング",
       "costume_group": "other",
-      "unlock_status": "locked",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_halloween-wing-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_halloween-wing-01_front.webp",
+        "back": "hakaze-kaoru_halloween-wing-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "未解放のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_sandstorm-01",
       "idol_slug": "hakaze-kaoru",
       "costume_name": "サンドストーム衣装",
       "costume_group": "other",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_sandstorm-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_sandstorm-01_front.webp",
+        "back": "hakaze-kaoru_sandstorm-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_looping-halloween-01",
@@ -51514,84 +51511,61 @@
         "カード衣装"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
-      "id": "hakaze-kaoru_starlight-8th-live-tshirt-01",
+      "id": "hakaze-kaoru_pilot-suit-01",
       "idol_slug": "hakaze-kaoru",
-      "costume_name": "スタライ8thライブTシャツ",
+      "costume_name": "パイロットスーツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "hakaze-kaoru_starlight-8th-live-tshirt-01_icon.webp",
-        "front": "hakaze-kaoru_starlight-8th-live-tshirt-01_front.webp",
-        "back": "hakaze-kaoru_starlight-8th-live-tshirt-01_back.webp"
-      },
-      "tags": [
-        "Tシャツ",
-        "ライブ",
-        "ダイヤショップ",
-        "暫定分類"
-      ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
-    },
-    {
-      "id": "hakaze-kaoru_newyear-rise-first-love-01",
-      "idol_slug": "hakaze-kaoru",
-      "costume_name": "ニューイヤーライズ（初恋）",
-      "costume_group": "campaign",
-      "unlock_status": "unlocked",
-      "requestable": true,
-      "images": {
-        "icon": "hakaze-kaoru_newyear-rise-first-love-01_icon.webp",
-        "front": "hakaze-kaoru_newyear-rise-first-love-01_front.webp",
-        "back": "hakaze-kaoru_newyear-rise-first-love-01_back.webp"
-      },
-      "tags": [
-        "新年",
-        "ニューイヤー",
-        "ダイヤショップ"
-      ],
-      "note_public": "",
-      "updated_at": "2026-07-30"
-    },
-    {
-      "id": "hakaze-kaoru_colorful-music-01",
-      "idol_slug": "hakaze-kaoru",
-      "costume_name": "カラフルミュージック",
-      "costume_group": "other",
-      "unlock_status": "unlocked",
-      "requestable": true,
-      "images": {
-        "icon": "hakaze-kaoru_colorful-music-01_icon.webp",
-        "front": "hakaze-kaoru_colorful-music-01_front.webp",
-        "back": "hakaze-kaoru_colorful-music-01_back.webp"
+        "icon": "hakaze-kaoru_pilot-suit-01_icon.webp",
+        "front": "hakaze-kaoru_pilot-suit-01_front.webp",
+        "back": "hakaze-kaoru_pilot-suit-01_back.webp"
       },
       "tags": [
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
     },
     {
-      "id": "hakaze-kaoru_undead-hoodie-01",
+      "id": "hakaze-kaoru_kogare-no-shou-01",
       "idol_slug": "hakaze-kaoru",
-      "costume_name": "UNDEADフーディ",
-      "costume_group": "unit",
+      "costume_name": "焦がれの章",
+      "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "hakaze-kaoru_undead-hoodie-01_icon.webp",
-        "front": "hakaze-kaoru_undead-hoodie-01_front.webp",
-        "back": "hakaze-kaoru_undead-hoodie-01_back.webp"
+        "icon": "hakaze-kaoru_kogare-no-shou-01_icon.webp",
+        "front": "hakaze-kaoru_kogare-no-shou-01_front.webp",
+        "back": "hakaze-kaoru_kogare-no-shou-01_back.webp"
       },
       "tags": [
-        "UNDEAD"
+        "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-07-30"
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "hakaze-kaoru_halloween-costume-01",
+      "idol_slug": "hakaze-kaoru",
+      "costume_name": "ハロウィン衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_halloween-costume-01_icon.webp",
+        "front": "hakaze-kaoru_halloween-costume-01_front.webp",
+        "back": "hakaze-kaoru_halloween-costume-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
     },
     {
       "id": "hakaze-kaoru_twilight-idol-scr-01",
@@ -56811,7 +56785,7 @@
     {
       "id": "nito-nazuna_kumamaruz-q-01",
       "idol_slug": "nito-nazuna",
-      "costume_name": "クママルズQ衣装",
+      "costume_name": "クマクマレスQ衣装",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -56824,12 +56798,12 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-08-13"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "nito-nazuna_kumamaruz-q-paws-01",
       "idol_slug": "nito-nazuna",
-      "costume_name": "クママルズQ衣装（クマの手）",
+      "costume_name": "クマクマレスQ衣装（クマの手）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -56842,7 +56816,7 @@
         "暫定分類"
       ],
       "note_public": "",
-      "updated_at": "2026-08-13"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "nito-nazuna_terra-01",
@@ -60457,7 +60431,7 @@
     {
       "id": "himemiya-tori_starlight-parade-01",
       "idol_slug": "himemiya-tori",
-      "costume_name": "スタ―ライトパレード衣装",
+      "costume_name": "スターライトパレード衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
       "requestable": false,
@@ -60470,7 +60444,7 @@
         "暫定分類"
       ],
       "note_public": "対象カード未所持。",
-      "updated_at": "2026-08-14"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "himemiya-tori_bloom-idol-scr-01",
@@ -62941,7 +62915,7 @@
     {
       "id": "aoi-yuuta_purple-luxe-01",
       "idol_slug": "aoi-yuuta",
-      "costume_name": "パープルックス衣装",
+      "costume_name": "パープレックス衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
       "requestable": false,
@@ -62954,7 +62928,7 @@
         "暫定分類"
       ],
       "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     {
       "id": "aoi-yuuta_twilight-idol-scr-01",
