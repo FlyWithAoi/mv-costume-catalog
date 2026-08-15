@@ -223,7 +223,7 @@ function render() {
     cardGrid.appendChild(frag);
   }
 
-  resultCount.textContent = `${list.length}件を表示中（全${allCostumes.length}件）`;
+  resultCount.textContent = `表示：${list.length.toLocaleString("ja-JP")}件 / 登録：${allCostumes.length.toLocaleString("ja-JP")}件`;
 }
 
 // ---- モーダル ----
@@ -236,6 +236,11 @@ function buildRequestText(c) {
 
 function openModal(c) {
   modalBody.innerHTML = "";
+
+  const purpose = document.createElement("p");
+  purpose.className = "modal-purpose";
+  purpose.textContent = "配信リクエスト用 衣装確認";
+  modalBody.appendChild(purpose);
 
   const title = document.createElement("h2");
   title.id = "modal-title";
@@ -251,7 +256,7 @@ function openModal(c) {
   const meta = document.createElement("div");
   meta.className = "modal-meta";
   [
-    ["解放状態", labelUnlock(c.unlock_status)],
+    ["所持状況", labelUnlock(c.unlock_status)],
     ["衣装グループ", labelGroup(c.costume_group)],
     ["リクエスト", c.requestable ? "可" : "不可"],
   ].forEach(([k, v]) => {
@@ -273,22 +278,21 @@ function openModal(c) {
 
     // アイコン（あれば）
     if (imgs.icon) {
-      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.icon, "ミニアイコン"));
+      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.icon, "ミニアイコン", "icon"));
     }
     if (hasFront) {
-      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.front, "正面"));
+      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.front, "正面", "body"));
     }
     if (hasBack) {
-      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.back, "背面"));
+      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.back, "背面", "body"));
     }
     modalBody.appendChild(wrap);
   } else {
-    // アイコンだけは出す（あれば）。front/backがなくアイコン1枚だけの場合、
-    // flexboxの伸長でアイコンが巨大化しないよう専用クラスで幅を固定する。
+    // アイコンだけは出す（あれば）。固定上限で識別用サイズを維持する。
     if (imgs.icon) {
       const wrap = document.createElement("div");
-      wrap.className = "modal-images icon-only";
-      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.icon, "ミニアイコン"));
+      wrap.className = "modal-images";
+      wrap.appendChild(makeImageBlock(c.idol_slug, imgs.icon, "ミニアイコン", "icon"));
       modalBody.appendChild(wrap);
     }
     const note = document.createElement("div");
@@ -365,9 +369,9 @@ function openModal(c) {
   modalClose.focus();
 }
 
-function makeImageBlock(idolSlug, filename, labelText) {
+function makeImageBlock(idolSlug, filename, labelText, imageType) {
   const block = document.createElement("div");
-  block.className = "modal-image-block";
+  block.className = `modal-image-block modal-image-${imageType}`;
 
   const img = document.createElement("img");
   img.loading = "lazy";

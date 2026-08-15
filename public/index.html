@@ -9,7 +9,8 @@
 <body>
   <header class="site-header">
     <h1>MV衣装カタログ</h1>
-    <p class="subtitle">あんさんぶるスターズ！！Music｜配信リクエスト用の所持衣装一覧</p>
+    <p class="subtitle">暘晴あゆむの配信でリクエストできるMV衣装を検索できます</p>
+    <p class="header-guide">衣装を選ぶと、正面・背面の確認とリクエスト文のコピーができます。</p>
   </header>
 
   <main class="container">
@@ -31,7 +32,7 @@
         </label>
 
         <label class="filter-item">
-          <span>解放状態</span>
+          <span>所持状況</span>
           <select id="filter-unlock">
             <option value="">すべて</option>
             <option value="unlocked">解放済み</option>
@@ -64,7 +65,10 @@
   </div>
 
   <footer class="site-footer">
-    <p>Phase 1 MVP｜画像加工・OCRは未実装</p>
+    <div class="footer-inner">
+      <p class="footer-purpose">非公式ファンツール / 暘晴あゆむの配信リクエスト用衣装検索ツールです。</p>
+      <p class="footer-note">掲載画像は衣装確認のために使用しています。転載・再配布はご遠慮ください。</p>
+    </div>
   </footer>
 
   <script src="app.js"></script>
