@@ -478,7 +478,6 @@ function buildCostumeSearchText(c, idol, units) {
   const parts = [
     c.costume_name,
     c.note_public,
-    GROUP_LABELS[c.costume_group],
   ];
   if (Array.isArray(c.tags)) parts.push(...c.tags);
   if (idol) parts.push(idol.name);

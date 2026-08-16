@@ -640,7 +640,6 @@ const section = (startText, endText) => {
   return source.slice(start, end);
 };
 const searchSource = [
-  section("const GROUP_LABELS", "// ---- canonical sort ----"),
   section("function normalizeForSearch", "// idol_slug -> 表示用アイドル名"),
   section("function buildCostumeSearchText", "function buildSearchIndex"),
 ].join("\n");
@@ -684,14 +683,18 @@ assert(matches(costume, idol, [visibleUnit], "S"), "visible Switch did not match
 assert(matches(costume, idol, [visibleUnit], "s"), "search is not case-insensitive");
 assert(matches(costume, idol, [internalUnit], "パ"), "tag did not match パ");
 assert(
-  matches({...costume, costume_group: "campaign"}, idol, [internalUnit], "ペ"),
-  "public group label did not match ペ"
+  !matches({...costume, costume_group: "campaign"}, idol, [internalUnit], "ペ"),
+  "costume_group label matched ペ"
 );
 assert(
   matches({...costume, costume_name: "迎春飛翔"}, idol, [internalUnit], "迎春飛翔"),
   "costume_name did not match"
 );
 assert(matches(costume, idol, [internalUnit], "天祥院英智"), "idol display name did not match");
+assert(
+  matches({...costume, note_public: "公開メモ限定語"}, idol, [internalUnit], "限定語"),
+  "note_public did not match"
+);
 """
         completed = subprocess.run(
             ["node", "-e", script, str(app_path)],
