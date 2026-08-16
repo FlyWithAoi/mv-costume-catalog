@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16",
+  "updated_at": "2026-08-17",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -67365,6 +67365,501 @@
       ],
       "note_public": "未購入のため参考画像なし。",
       "updated_at": "2026-08-16"
+    },
+    {
+      "id": "suou-tsukasa_common-scr-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 41,
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_royal-knight-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 42,
+      "costume_name": "ロイヤルナイト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_royal-knight-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_knight-anniversary-rock-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 43,
+      "costume_name": "騎士のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_knight-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_euthanasia-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 44,
+      "costume_name": "ユーサネイジア衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_euthanasia-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_esmg-graphic-tshirt-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 45,
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_harusaki-skater-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 46,
+      "costume_name": "ハルサキスケーター衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_harusaki-skater-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_fragrance-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 47,
+      "costume_name": "フレグランス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_fragrance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_bloom-idol-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 48,
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_ss-kouhaku-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 49,
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_fusion-unit-ryuseitai-knights-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 50,
+      "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_fusion-unit-ryuseitai-knights-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_anniversary-chance-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 51,
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_sunshine-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 52,
+      "costume_name": "サンシャイン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_sunshine-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_starlight-6th-live-tshirt-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 53,
+      "costume_name": "スタライ6thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_starlight-6th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_blend-plus-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 54,
+      "costume_name": "BLEND+衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_blend-plus-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_starlight-parade-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 55,
+      "costume_name": "スターライトパレード衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_starlight-parade-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_bloom-idol-scr-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 56,
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_mad-party-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 57,
+      "costume_name": "Mad Party衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_mad-party-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_biblion-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 58,
+      "costume_name": "ビブリオン衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_biblion-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_newyear-rise-silver-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 59,
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_gambit-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 60,
+      "costume_name": "ギャンビット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_gambit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_anniversary-challenge-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 61,
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_twilight-idol-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 62,
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_album-trip-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 63,
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_twilight-idol-scr-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 64,
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "suou-tsukasa_starlight-10th-live-tshirt-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 65,
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "suou-tsukasa_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-17"
     }
   ]
 }
