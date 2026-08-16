@@ -3968,10 +3968,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1095,
-            "y": 465,
-            "width": 195,
-            "height": 195
+            "x": 1093,
+            "y": 526,
+            "width": 185,
+            "height": 185
           }
         },
         "32_starlight-10th-live-tshirt": {
@@ -4002,9 +4002,9 @@
           "has_body_images": true,
           "icon_crop": {
             "x": 1605,
-            "y": 465,
-            "width": 195,
-            "height": 195
+            "y": 583,
+            "width": 185,
+            "height": 185
           }
         },
         "35_jinbei-fireworks": {
@@ -5770,10 +5770,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1775,
-            "y": 640,
-            "width": 195,
-            "height": 195
+            "x": 1605,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "26_iridescent-light": {
@@ -5781,10 +5781,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1945,
-            "y": 640,
-            "width": 195,
-            "height": 195
+            "x": 1775,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "27_caelum": {
@@ -11828,10 +11828,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1265,
-            "y": 482,
-            "width": 195,
-            "height": 195
+            "x": 1093,
+            "y": 470,
+            "width": 185,
+            "height": 185
           }
         },
         "32_graduation": {
@@ -11850,10 +11850,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1605,
-            "y": 482,
-            "width": 195,
-            "height": 195
+            "x": 1434,
+            "y": 459,
+            "width": 185,
+            "height": 185
           }
         },
         "34_bloom-idol-scr": {
@@ -11938,10 +11938,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1435,
-            "y": 652,
-            "width": 195,
-            "height": 195
+            "x": 1264,
+            "y": 624,
+            "width": 185,
+            "height": 185
           }
         },
         "42_anniversary-challenge": {
@@ -12004,10 +12004,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 925,
-            "y": 312,
-            "width": 195,
-            "height": 195
+            "x": 752,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "48_freedom": {
@@ -23061,10 +23061,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1605,
-            "y": 335,
-            "width": 184,
-            "height": 175
+            "x": 1946,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "54_iridescent-light-scr": {
@@ -23160,10 +23160,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1605,
-            "y": 505,
-            "width": 184,
-            "height": 175
+            "x": 1946,
+            "y": 472,
+            "width": 185,
+            "height": 185
           }
         },
         "63_jinbei-fireworks": {
@@ -34689,10 +34689,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 278,
+            "width": 185,
+            "height": 185
           }
         },
         "05_seta": {
@@ -34700,10 +34700,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1775,
+            "y": 278,
+            "width": 185,
+            "height": 185
           }
         },
         "06_halloween-bat": {
@@ -34711,10 +34711,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1946,
+            "y": 278,
+            "width": 185,
+            "height": 185
           }
         },
         "07_pilot-suit": {
@@ -34722,10 +34722,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 448,
+            "width": 185,
+            "height": 185
           }
         },
         "08_bogie-time": {
@@ -34733,10 +34733,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 598,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 618,
+            "width": 185,
+            "height": 185
           }
         },
         "09_happy-spring": {
@@ -34744,10 +34744,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 768,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 752,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "10_anniversary-chance": {
@@ -34755,10 +34755,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "11_anniversary-777": {
@@ -34766,10 +34766,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "12_black-stage": {
@@ -34777,10 +34777,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1448,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1434,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "13_halloween-candle": {
@@ -34788,10 +34788,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1946,
+            "y": 619,
+            "width": 185,
+            "height": 185
           }
         },
         "14_starlight-7th-live-tshirt": {
@@ -34799,10 +34799,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 598,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 441,
+            "width": 185,
+            "height": 185
           }
         },
         "15_newyear-rise-cape": {
@@ -34810,10 +34810,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 446,
+            "width": 185,
+            "height": 185
           }
         },
         "16_training-wear": {
@@ -34821,10 +34821,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 452,
+            "width": 185,
+            "height": 185
           }
         },
         "17_anniversary-love": {
@@ -34832,10 +34832,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1618,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1605,
+            "y": 440,
+            "width": 185,
+            "height": 185
           }
         },
         "18_battsmetten": {
@@ -34843,10 +34843,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1775,
+            "y": 445,
+            "width": 185,
+            "height": 185
           }
         },
         "19_night-killers": {
@@ -34854,10 +34854,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 598,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 612,
+            "width": 185,
+            "height": 185
           }
         },
         "20_scramble-gakuen-boys-uniform": {
@@ -34865,10 +34865,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 645,
+            "width": 185,
+            "height": 185
           }
         },
         "21_anniversary-challenge-scr": {
@@ -34876,10 +34876,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1618,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1605,
+            "y": 615,
+            "width": 185,
+            "height": 185
           }
         },
         "22_sanctuary": {
@@ -34887,10 +34887,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1775,
+            "y": 617,
+            "width": 185,
+            "height": 185
           }
         },
         "23_halloween-wing": {
@@ -34898,10 +34898,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1946,
+            "y": 614,
+            "width": 185,
+            "height": 185
           }
         },
         "24_hrcn": {
@@ -34909,10 +34909,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 598,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "25_live-party": {
@@ -34920,10 +34920,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 768,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 752,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "26_starlight-8th-live-tshirt": {
@@ -34931,10 +34931,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 938,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 923,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "27_newyear-rise-hatsukoi": {
@@ -34942,10 +34942,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "28_colorful-music": {
@@ -34953,10 +34953,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "29_rabits-hoodie": {
@@ -34964,10 +34964,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1618,
-            "y": 188,
-            "width": 214,
-            "height": 214
+            "x": 1605,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "30_rabu-and-peace": {
@@ -34975,10 +34975,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1946,
+            "y": 302,
+            "width": 185,
+            "height": 185
           }
         },
         "31_rarara-station": {
@@ -34986,10 +34986,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 598,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 472,
+            "width": 185,
+            "height": 185
           }
         },
         "32_jinbei-kingyo": {
@@ -34997,10 +34997,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 768,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 752,
+            "y": 473,
+            "width": 185,
+            "height": 185
           }
         },
         "33_iridescent-light": {
@@ -35008,10 +35008,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 938,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 923,
+            "y": 472,
+            "width": 185,
+            "height": 185
           }
         },
         "34_caelum": {
@@ -35019,10 +35019,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 473,
+            "width": 185,
+            "height": 185
           }
         },
         "35_iridescent-light-scr": {
@@ -35030,10 +35030,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 358,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 472,
+            "width": 185,
+            "height": 185
           }
         },
         "36_halloween-wing-angel": {
@@ -35041,10 +35041,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1448,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1434,
+            "y": 473,
+            "width": 185,
+            "height": 185
           }
         },
         "37_kumamaruz-q": {
@@ -35052,10 +35052,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1448,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1605,
+            "y": 473,
+            "width": 185,
+            "height": 185
           }
         },
         "38_kumamaruz-q-paws": {
@@ -35063,10 +35063,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1618,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1775,
+            "y": 473,
+            "width": 185,
+            "height": 185
           }
         },
         "39_terra": {
@@ -35074,10 +35074,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1788,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1946,
+            "y": 472,
+            "width": 185,
+            "height": 185
           }
         },
         "40_shining-star": {
@@ -35085,10 +35085,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 428,
-            "y": 698,
-            "width": 214,
-            "height": 214
+            "x": 582,
+            "y": 643,
+            "width": 185,
+            "height": 185
           }
         },
         "41_anniversary-agent-red": {
@@ -35096,10 +35096,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 938,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 923,
+            "y": 643,
+            "width": 185,
+            "height": 185
           }
         },
         "42_mm-rabits": {
@@ -35107,10 +35107,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1108,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1093,
+            "y": 643,
+            "width": 185,
+            "height": 185
           }
         },
         "43_jinbei-hanabi": {
@@ -35118,10 +35118,10 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 1278,
-            "y": 528,
-            "width": 214,
-            "height": 214
+            "x": 1264,
+            "y": 643,
+            "width": 185,
+            "height": 185
           }
         },
         "44_common-scr": {
