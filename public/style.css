@@ -40,6 +40,18 @@ body {
   font-size: 1.6rem;
 }
 
+.header-badge {
+  display: inline-block;
+  margin: 8px 0 0;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 .subtitle {
   margin: 4px 0 0;
   color: var(--text-muted);
@@ -419,30 +431,59 @@ body {
 }
 
 .site-footer {
-  padding: 24px 16px 32px;
+  padding: 32px 16px 40px;
   color: var(--text-muted);
-  font-size: 0.8rem;
+  font-size: 0.88rem;
 }
 
 .footer-inner {
   max-width: 1000px;
   margin: 0 auto;
-  padding-top: 16px;
+  padding-top: 24px;
   border-top: 1px solid var(--border);
-  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 32px;
 }
 
-.footer-purpose,
-.footer-note {
+.footer-block h2 {
+  margin: 0 0 10px;
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.footer-block p {
   margin: 0;
+  overflow-wrap: anywhere;
 }
 
-.footer-note {
-  margin-top: 4px;
-  font-size: 0.72rem;
+.footer-block p + p {
+  margin-top: 8px;
+}
+
+.footer-links {
+  display: grid;
+  gap: 6px;
+  margin-top: 14px;
+}
+
+.footer-links a {
+  color: var(--accent);
+  overflow-wrap: anywhere;
+}
+
+.footer-links a:hover,
+.footer-links a:focus-visible {
+  color: var(--text);
 }
 
 @media (max-width: 640px) {
+  .footer-inner {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
   .modal-overlay {
     padding: 8px;
   }
