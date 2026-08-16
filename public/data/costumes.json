@@ -66834,6 +66834,537 @@
       ],
       "note_public": "",
       "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_common-scr-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 38,
+      "costume_name": "共通アイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_common-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクBで解放）のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_uta-no-oniisan-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 39,
+      "costume_name": "うたのおにいさん衣装",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shiina-niki_uta-no-oniisan-01_icon.webp",
+        "front": "shiina-niki_uta-no-oniisan-01_front.webp",
+        "back": "shiina-niki_uta-no-oniisan-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_atoz-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 40,
+      "costume_name": "AtoZ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_atoz-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_hot-limit-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 41,
+      "costume_name": "ホットリミット衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_hot-limit-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_shigeki-anniversary-rock-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 42,
+      "costume_name": "刺激のアニバーサリーロック",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_shigeki-anniversary-rock-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_sweet-hunt-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 43,
+      "costume_name": "スイートハント衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_sweet-hunt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_esmg-graphic-tshirt-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 44,
+      "costume_name": "ESMGグラフィックTシャツ",
+      "costume_group": "exchange",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_esmg-graphic-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_ariadone-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 45,
+      "costume_name": "アリアドネ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_ariadone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_bloom-idol-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 46,
+      "costume_name": "ブルームアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_bloom-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム"
+      ],
+      "note_public": "未解放（アイドルランクAで解放）のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_cook-roman-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 47,
+      "costume_name": "クックロマン",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_cook-roman-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_ss-kouhaku-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 48,
+      "costume_name": "『SS』紅白衣装",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_ss-kouhaku-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_fusion-unit-crazyb-2wink-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 49,
+      "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_fusion-unit-crazyb-2wink-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_anniversary-chance-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 50,
+      "costume_name": "アニバーサリーChance",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_anniversary-chance-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "アニバーサリー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_tenten-hungry-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 51,
+      "costume_name": "甜々ハングリー衣装",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_tenten-hungry-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "アイドルロード未解放のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_usa-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 52,
+      "costume_name": "U.S.A.衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_usa-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_spider-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 53,
+      "costume_name": "スパイダー衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_spider-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_newyear-rise-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 54,
+      "costume_name": "ニューイヤーライズ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_newyear-rise-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_yummy-treasure-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 55,
+      "costume_name": "ヤミー・トレジャー",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_yummy-treasure-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "アイドルロード未解放のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_bloom-idol-scr-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 56,
+      "costume_name": "ブルームアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_bloom-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ブルーム",
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクA+で解放）のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_number-eight-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 57,
+      "costume_name": "ナンバーエイト衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_number-eight-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_album-trip-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 58,
+      "costume_name": "アルバム『TRIP』衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_album-trip-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_newyear-rise-silver-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 59,
+      "costume_name": "ニューイヤーライズ（白銀）",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_newyear-rise-silver-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_matrix-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 60,
+      "costume_name": "マトリックス衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_matrix-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_anniversary-challenge-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 61,
+      "costume_name": "アニバーサリーチャレンジ",
+      "costume_group": "campaign",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_anniversary-challenge-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "ダイヤショップ"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_twilight-idol-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 62,
+      "costume_name": "トワイライトアイドル衣装",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_twilight-idol-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [],
+      "note_public": "未解放（アイドルランクSで解放）のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_twilight-idol-scr-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 63,
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "未解放（アイドルランクS+で解放）のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "shiina-niki_starlight-10th-live-tshirt-01",
+      "idol_slug": "shiina-niki",
+      "slot_order": 64,
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "shiina-niki_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
     }
   ]
 }
