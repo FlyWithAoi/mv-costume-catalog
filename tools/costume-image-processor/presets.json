@@ -38867,6 +38867,244 @@
           }
         }
       }
+    },
+    "tenshouin-eichi-slots-49-69": {
+      "idol_slug": "tenshouin-eichi",
+      "input_dir": "tenshouin-eichi",
+      "output_dir": "tenshouin-eichi",
+      "items": {
+        "49_halloween-wing": {
+          "id": "tenshouin-eichi_halloween-wing-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1079,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "50_fairy-tale": {
+          "id": "tenshouin-eichi_fairy-tale-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 294,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "51_kenka-matsuri": {
+          "id": "tenshouin-eichi_kenka-matsuri-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "52_starlight-9th-live-tshirt": {
+          "id": "tenshouin-eichi_starlight-9th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1591,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "53_newyear-rise-first-love": {
+          "id": "tenshouin-eichi_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1761,
+            "y": 262,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "54_colorful-music": {
+          "id": "tenshouin-eichi_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 386,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "55_fine-hoodie": {
+          "id": "tenshouin-eichi_fine-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "56_twilight-idol-scr": {
+          "id": "tenshouin-eichi_twilight-idol-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "57_jinbei-goldfish": {
+          "id": "tenshouin-eichi_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 909,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "58_iridescent-light": {
+          "id": "tenshouin-eichi_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1079,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "59_caelum": {
+          "id": "tenshouin-eichi_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "60_halloween-wing-angel": {
+          "id": "tenshouin-eichi_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1420,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "61_terra": {
+          "id": "tenshouin-eichi_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1591,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "62_musica": {
+          "id": "tenshouin-eichi_musica-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1761,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "63_after-the-prologue": {
+          "id": "tenshouin-eichi_after-the-prologue-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1932,
+            "y": 433,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "64_shining-star": {
+          "id": "tenshouin-eichi_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 568,
+            "y": 603,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "65_starlight-10th-live-tshirt": {
+          "id": "tenshouin-eichi_starlight-10th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "66_anniversary-agent-red": {
+          "id": "tenshouin-eichi_anniversary-agent-red-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 909,
+            "y": 603,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "67_lure-ruler": {
+          "id": "tenshouin-eichi_lure-ruler-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1079,
+            "y": 603,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "68_jinbei-fireworks": {
+          "id": "tenshouin-eichi_jinbei-fireworks-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1250,
+            "y": 603,
+            "width": 212,
+            "height": 212
+          }
+        },
+        "69_mare": {
+          "id": "tenshouin-eichi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1079,
+            "y": 603,
+            "width": 212,
+            "height": 212
+          }
+        }
+      }
     }
   }
 }

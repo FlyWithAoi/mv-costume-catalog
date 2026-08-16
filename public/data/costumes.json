@@ -66423,6 +66423,417 @@
       ],
       "note_public": "未購入・未解放・カード未所持のため参考画像なし。",
       "updated_at": "2026-08-15"
+    },
+    {
+      "id": "tenshouin-eichi_halloween-wing-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 49,
+      "costume_name": "ハロウィンウィング",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_halloween-wing-01_icon.webp",
+        "front": "tenshouin-eichi_halloween-wing-01_front.webp",
+        "back": "tenshouin-eichi_halloween-wing-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_fairy-tale-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 50,
+      "costume_name": "フェアリーテイル衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_fairy-tale-01_icon.webp",
+        "front": "tenshouin-eichi_fairy-tale-01_front.webp",
+        "back": "tenshouin-eichi_fairy-tale-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_kenka-matsuri-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 51,
+      "costume_name": "喧嘩祭衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_kenka-matsuri-01_icon.webp",
+        "front": "tenshouin-eichi_kenka-matsuri-01_front.webp",
+        "back": "tenshouin-eichi_kenka-matsuri-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_starlight-9th-live-tshirt-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 52,
+      "costume_name": "スタライ9thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_starlight-9th-live-tshirt-01_icon.webp",
+        "front": "tenshouin-eichi_starlight-9th-live-tshirt-01_front.webp",
+        "back": "tenshouin-eichi_starlight-9th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_newyear-rise-first-love-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 53,
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_newyear-rise-first-love-01_icon.webp",
+        "front": "tenshouin-eichi_newyear-rise-first-love-01_front.webp",
+        "back": "tenshouin-eichi_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_colorful-music-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 54,
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_colorful-music-01_icon.webp",
+        "front": "tenshouin-eichi_colorful-music-01_front.webp",
+        "back": "tenshouin-eichi_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_fine-hoodie-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 55,
+      "costume_name": "fineフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_fine-hoodie-01_icon.webp",
+        "front": "tenshouin-eichi_fine-hoodie-01_front.webp",
+        "back": "tenshouin-eichi_fine-hoodie-01_back.webp"
+      },
+      "tags": [
+        "fine",
+        "フーディ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_twilight-idol-scr-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 56,
+      "costume_name": "トワイライトアイドル衣装（SCR）",
+      "costume_group": "common",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_twilight-idol-scr-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "アイドルランクS+未到達のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_jinbei-goldfish-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 57,
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_jinbei-goldfish-01_icon.webp",
+        "front": "tenshouin-eichi_jinbei-goldfish-01_front.webp",
+        "back": "tenshouin-eichi_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_iridescent-light-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 58,
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_iridescent-light-01_icon.webp",
+        "front": "tenshouin-eichi_iridescent-light-01_front.webp",
+        "back": "tenshouin-eichi_iridescent-light-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_caelum-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 59,
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_caelum-01_icon.webp",
+        "front": "tenshouin-eichi_caelum-01_front.webp",
+        "back": "tenshouin-eichi_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_halloween-wing-angel-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 60,
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_halloween-wing-angel-01_icon.webp",
+        "front": "tenshouin-eichi_halloween-wing-angel-01_front.webp",
+        "back": "tenshouin-eichi_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_terra-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 61,
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_terra-01_icon.webp",
+        "front": "tenshouin-eichi_terra-01_front.webp",
+        "back": "tenshouin-eichi_terra-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_musica-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 62,
+      "costume_name": "Musica衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_musica-01_icon.webp",
+        "front": "tenshouin-eichi_musica-01_front.webp",
+        "back": "tenshouin-eichi_musica-01_back.webp"
+      },
+      "tags": [
+        "fine"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_after-the-prologue-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 63,
+      "costume_name": "プロローグのそのあとへ衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_after-the-prologue-01_icon.webp",
+        "front": "tenshouin-eichi_after-the-prologue-01_front.webp",
+        "back": "tenshouin-eichi_after-the-prologue-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_shining-star-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 64,
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_shining-star-01_icon.webp",
+        "front": "tenshouin-eichi_shining-star-01_front.webp",
+        "back": "tenshouin-eichi_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_starlight-10th-live-tshirt-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 65,
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "tenshouin-eichi_starlight-10th-live-tshirt-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "ダイヤショップ未購入のため参考画像なし。",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_anniversary-agent-red-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 66,
+      "costume_name": "アニバーサリーエージェント（赤）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_anniversary-agent-red-01_icon.webp",
+        "front": "tenshouin-eichi_anniversary-agent-red-01_front.webp",
+        "back": "tenshouin-eichi_anniversary-agent-red-01_back.webp"
+      },
+      "tags": [
+        "アニバーサリー",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_lure-ruler-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 67,
+      "costume_name": "ルアー・ルーラー衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_lure-ruler-01_icon.webp",
+        "front": "tenshouin-eichi_lure-ruler-01_front.webp",
+        "back": "tenshouin-eichi_lure-ruler-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_jinbei-fireworks-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 68,
+      "costume_name": "甚平（花火）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_jinbei-fireworks-01_icon.webp",
+        "front": "tenshouin-eichi_jinbei-fireworks-01_front.webp",
+        "back": "tenshouin-eichi_jinbei-fireworks-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
+    },
+    {
+      "id": "tenshouin-eichi_mare-01",
+      "idol_slug": "tenshouin-eichi",
+      "slot_order": 69,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "tenshouin-eichi_mare-01_icon.webp",
+        "front": "tenshouin-eichi_mare-01_front.webp",
+        "back": "tenshouin-eichi_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-16"
     }
   ]
 }
