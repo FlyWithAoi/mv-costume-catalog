@@ -39691,6 +39691,24 @@
           }
         }
       }
+    },
+    "sakuma-rei-slots-60": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "60_jinbei-goldfish": {
+          "id": "sakuma-rei_jinbei-goldfish-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1093,
+            "y": 475,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }

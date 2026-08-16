@@ -67860,6 +67860,25 @@
       ],
       "note_public": "未購入のため参考画像なし。",
       "updated_at": "2026-08-17"
+    },
+    {
+      "id": "sakuma-rei_jinbei-goldfish-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 60,
+      "costume_name": "甚平（金魚）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_jinbei-goldfish-01_icon.webp",
+        "front": "sakuma-rei_jinbei-goldfish-01_front.webp",
+        "back": "sakuma-rei_jinbei-goldfish-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-17"
     }
   ]
 }
