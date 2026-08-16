@@ -52,6 +52,7 @@ KNOWN_GROUPS = {
 }
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+PRESET_ITEM_SLOT_RE = re.compile(r"^(\d+)_")
 
 # collection / input_dir / output_dir に許可する文字（slug相当。パス区切り等は不可）
 DIR_NAME_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
@@ -672,6 +673,132 @@ def build_presets_update(manifest, plan, ctx):
 
 
 # ---------------------------------------------------------------------------
+# 既存 costumes.json の slot_order 同期
+# ---------------------------------------------------------------------------
+def build_slot_order_sync(costumes_doc, presets):
+    """preset item のIDとslot prefixから slot_order を安全に同期する。
+
+    戻り値: (new_doc, diff, errors)
+    対応欠損・余剰・idol不一致・不正slot・idol内slot重複が1件でもあれば、
+    new_doc は元データのdeepcopy、diffは空文字となる。slotの欠番は許容する。
+    """
+    errors = []
+    records = costumes_doc.get("costumes") if isinstance(costumes_doc, dict) else None
+    collections = presets.get("collections") if isinstance(presets, dict) else None
+    if not isinstance(records, list):
+        return copy.deepcopy(costumes_doc), "", ["costumes.json に costumes 配列がありません"]
+    if not isinstance(collections, dict):
+        return copy.deepcopy(costumes_doc), "", ["presets.json に collections がありません"]
+
+    record_by_id = {}
+    for index, record in enumerate(records):
+        if not isinstance(record, dict):
+            errors.append(f"costumes[{index}] がobjectではありません")
+            continue
+        costume_id = record.get("id")
+        idol_slug = record.get("idol_slug")
+        if not isinstance(costume_id, str) or not costume_id:
+            errors.append(f"costumes[{index}] の id が不正です: {costume_id!r}")
+            continue
+        if costume_id in record_by_id:
+            errors.append(f"costume IDが重複しています: {costume_id}")
+            continue
+        if not isinstance(idol_slug, str) or not idol_slug:
+            errors.append(f"{costume_id}: idol_slug が不正です: {idol_slug!r}")
+        record_by_id[costume_id] = record
+
+    assignments = {}
+    preset_ids = set()
+    idol_slots = {}
+    for collection_name, collection in collections.items():
+        if not isinstance(collection, dict):
+            errors.append(f"collection {collection_name!r} がobjectではありません")
+            continue
+        idol_slug = collection.get("idol_slug")
+        items = collection.get("items")
+        if not isinstance(idol_slug, str) or not idol_slug:
+            errors.append(f"collection {collection_name!r}: idol_slug が不正です")
+            continue
+        if not isinstance(items, dict):
+            errors.append(f"collection {collection_name!r}: items がobjectではありません")
+            continue
+
+        for item_key, item in items.items():
+            source = f"{collection_name}/{item_key}"
+            if not isinstance(item_key, str):
+                errors.append(f"preset item key が文字列ではありません: {source}")
+                continue
+            match = PRESET_ITEM_SLOT_RE.match(item_key)
+            if not match:
+                errors.append(f"slot prefixを解析できません: {source}")
+                continue
+            slot = int(match.group(1))
+            if slot < 1:
+                errors.append(f"slotは正整数である必要があります: {source} -> {slot}")
+                continue
+            if not isinstance(item, dict):
+                errors.append(f"preset item がobjectではありません: {source}")
+                continue
+            costume_id = item.get("id")
+            if not isinstance(costume_id, str) or not costume_id:
+                errors.append(f"preset item id が不正です: {source} -> {costume_id!r}")
+                continue
+            if costume_id in preset_ids:
+                errors.append(f"preset IDが重複しています: {costume_id}")
+                continue
+            preset_ids.add(costume_id)
+
+            slot_key = (idol_slug, slot)
+            if slot_key in idol_slots:
+                errors.append(
+                    f"同一idol内でslotが重複しています: {idol_slug} slot {slot} "
+                    f"({idol_slots[slot_key]} / {costume_id})")
+            else:
+                idol_slots[slot_key] = costume_id
+
+            record = record_by_id.get(costume_id)
+            if record is not None and record.get("idol_slug") != idol_slug:
+                errors.append(
+                    f"idol不一致: {costume_id} "
+                    f"(costumes={record.get('idol_slug')!r}, presets={idol_slug!r})")
+            assignments[costume_id] = slot
+
+    costume_ids = set(record_by_id)
+    for costume_id in sorted(costume_ids - preset_ids):
+        errors.append(f"presetに対応がないcostume IDです: {costume_id}")
+    for costume_id in sorted(preset_ids - costume_ids):
+        errors.append(f"costumeに対応がないpreset IDです: {costume_id}")
+
+    if errors:
+        return copy.deepcopy(costumes_doc), "", errors
+
+    new_doc = copy.deepcopy(costumes_doc)
+    synced_records = []
+    for record in new_doc["costumes"]:
+        costume_id = record["id"]
+        slot = assignments[costume_id]
+        synced = {}
+        inserted = False
+        for key, value in record.items():
+            if key == "slot_order":
+                continue
+            synced[key] = value
+            if key == "idol_slug":
+                synced["slot_order"] = slot
+                inserted = True
+        if not inserted:
+            # idol_slug不正は上の検証で拒否されるため通常到達しない。
+            synced["slot_order"] = slot
+        synced_records.append(synced)
+    new_doc["costumes"] = synced_records
+
+    # JSONとして妥当かラウンドトリップ検証する。
+    json.loads(json.dumps(new_doc, ensure_ascii=False))
+    diff = _json_diff(costumes_doc, new_doc, "costumes.json")
+    return new_doc, diff, []
+
+
+# ---------------------------------------------------------------------------
 # costumes.json 生成
 # ---------------------------------------------------------------------------
 def build_costumes_update(manifest, plan, ctx, today=None):
@@ -693,6 +820,7 @@ def build_costumes_update(manifest, plan, ctx, today=None):
         rec = {
             "id": p.costume_id,
             "idol_slug": idol_slug,
+            "slot_order": p.slot,
             "costume_name": p.costume_name,
             "costume_group": p.item.get("costume_group", "other"),
             "unlock_status": p.item.get("unlock_status"),

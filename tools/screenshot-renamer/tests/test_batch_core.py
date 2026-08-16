@@ -10,6 +10,7 @@
 
 import json
 import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -452,6 +453,8 @@ class BatchCoreTest(unittest.TestCase):
         recs = {r["id"]: r for r in new_doc["costumes"] if isinstance(r, dict) and "idol_slug" in r}
         owned = recs["test-idol_owned-a-01"]
         locked = recs["test-idol_locked-b-01"]
+        self.assertEqual(owned["slot_order"], 1)
+        self.assertEqual(locked["slot_order"], 2)
         self.assertEqual(owned["images"]["front"], "test-idol_owned-a-01_front.webp")
         self.assertIsNone(locked["images"]["front"])
         self.assertIsNone(locked["images"]["back"])
@@ -460,6 +463,165 @@ class BatchCoreTest(unittest.TestCase):
         self.assertTrue(any("画像がありません" in m_ for m_ in missing_images))
         # 元データは無傷
         self.assertEqual(len(self.ctx.costumes_doc["costumes"]), 1)
+
+
+class SlotOrderSyncTest(unittest.TestCase):
+    """preset IDとslot prefixによる既存record同期を検証する。"""
+
+    def make_docs(self):
+        costumes = {
+            "schema_version": 1,
+            "updated_at": "2026-01-01",
+            "costumes": [
+                {"id": "idol-a_first-01", "idol_slug": "idol-a",
+                 "costume_name": "First", "note_public": "keep"},
+                {"id": "idol-a_third-01", "idol_slug": "idol-a",
+                 "costume_name": "Third", "note_public": "keep"},
+            ],
+        }
+        presets = {
+            "collections": {
+                "idol-a-slots-01-03": {
+                    "idol_slug": "idol-a",
+                    "items": {
+                        "01_first": {"id": "idol-a_first-01"},
+                        "03_third": {"id": "idol-a_third-01"},
+                    },
+                },
+            },
+        }
+        return costumes, presets
+
+    def test_full_id_match_and_slot_gap_allowed(self):
+        costumes, presets = self.make_docs()
+        new_doc, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(errors, [])
+        self.assertTrue(diff)
+        self.assertEqual([r["slot_order"] for r in new_doc["costumes"]], [1, 3])
+        self.assertNotIn("slot_order", costumes["costumes"][0])
+        self.assertEqual(new_doc["costumes"][0]["note_public"], "keep")
+
+    def test_non_positive_slot_rejected(self):
+        costumes, presets = self.make_docs()
+        items = presets["collections"]["idol-a-slots-01-03"]["items"]
+        items["00_third"] = items.pop("03_third")
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("正整数" in e for e in errors))
+
+    def test_costume_without_preset_rejected(self):
+        costumes, presets = self.make_docs()
+        del presets["collections"]["idol-a-slots-01-03"]["items"]["03_third"]
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("presetに対応がない" in e for e in errors))
+
+    def test_preset_without_costume_rejected(self):
+        costumes, presets = self.make_docs()
+        presets["collections"]["idol-a-slots-01-03"]["items"]["04_extra"] = {
+            "id": "idol-a_extra-01"}
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("costumeに対応がない" in e for e in errors))
+
+    def test_idol_mismatch_rejected(self):
+        costumes, presets = self.make_docs()
+        costumes["costumes"][1]["idol_slug"] = "idol-b"
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("idol不一致" in e for e in errors))
+
+    def test_duplicate_slot_rejected(self):
+        costumes, presets = self.make_docs()
+        items = presets["collections"]["idol-a-slots-01-03"]["items"]
+        items["01_third"] = items.pop("03_third")
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("slotが重複" in e for e in errors))
+
+    def test_duplicate_preset_id_rejected(self):
+        costumes, presets = self.make_docs()
+        items = presets["collections"]["idol-a-slots-01-03"]["items"]
+        items["03_third"]["id"] = "idol-a_first-01"
+        _, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(diff, "")
+        self.assertTrue(any("preset IDが重複" in e for e in errors))
+
+
+class PublicSlotOrderIntegrityTest(unittest.TestCase):
+    """公開データ全件のslot_orderとpreset対応を検証する。"""
+
+    def test_all_public_records_have_valid_unique_slot_order(self):
+        root = Path(__file__).resolve().parents[3]
+        costumes = json.loads(
+            (root / "public/data/costumes.json").read_text(encoding="utf-8"))
+        presets = json.loads(
+            (root / "tools/costume-image-processor/presets.json").read_text(encoding="utf-8"))
+        new_doc, diff, errors = core.build_slot_order_sync(costumes, presets)
+        self.assertEqual(errors, [])
+        self.assertEqual(diff, "")
+        self.assertEqual(len(new_doc["costumes"]), 3457)
+
+        seen = set()
+        for record in new_doc["costumes"]:
+            slot = record.get("slot_order")
+            self.assertIs(type(slot), int)
+            self.assertGreater(slot, 0)
+            key = (record["idol_slug"], slot)
+            self.assertNotIn(key, seen)
+            seen.add(key)
+
+
+class PublicSortTest(unittest.TestCase):
+    """app.jsのcanonical sortとfilter後の順序維持をNodeで検証する。"""
+
+    def test_canonical_sort_and_filtered_order(self):
+        app_path = Path(__file__).resolve().parents[3] / "public/app.js"
+        script = r"""
+const fs = require("fs");
+const vm = require("vm");
+const source = fs.readFileSync(process.argv[1], "utf8");
+const start = source.indexOf("// ---- canonical sort ----");
+const end = source.indexOf("// ---- 状態 ----");
+if (start < 0 || end <= start) throw new Error("canonical sort block not found");
+const sandbox = {};
+vm.createContext(sandbox);
+vm.runInContext(source.slice(start, end), sandbox);
+
+const idols = {
+  "idol-a": {sort_order: 20},
+  "idol-b": {sort_order: 10},
+};
+const records = [
+  {id: "idol-a_slot-2", idol_slug: "idol-a", slot_order: 2,
+   costume_name: "hit", unlock_status: "unlocked"},
+  {id: "idol-a_slot-1-b", idol_slug: "idol-a", slot_order: 1,
+   costume_name: "other", unlock_status: "locked"},
+  {id: "unknown", idol_slug: "unknown", costume_name: "other",
+   unlock_status: "locked"},
+  {id: "idol-b_slot-3", idol_slug: "idol-b", slot_order: 3,
+   costume_name: "hit", unlock_status: "unlocked"},
+  {id: "idol-a_slot-1-a", idol_slug: "idol-a", slot_order: 1,
+   costume_name: "hit", unlock_status: "card_missing"},
+];
+sandbox.sortCostumesCanonical(records, idols);
+const ids = (xs) => xs.map((x) => x.id).join(",");
+const expected = "idol-b_slot-3,idol-a_slot-1-a,idol-a_slot-1-b,idol-a_slot-2,unknown";
+if (ids(records) !== expected) throw new Error(`sort: ${ids(records)}`);
+if (ids(records.filter((c) => c.costume_name === "hit")) !==
+    "idol-b_slot-3,idol-a_slot-1-a,idol-a_slot-2") throw new Error("search order");
+const unitMembers = ["idol-a"];
+if (ids(records.filter((c) => unitMembers.includes(c.idol_slug))) !==
+    "idol-a_slot-1-a,idol-a_slot-1-b,idol-a_slot-2") throw new Error("unit order");
+if (ids(records.filter((c) => c.unlock_status === "locked")) !==
+    "idol-a_slot-1-b,unknown") throw new Error("status order");
+"""
+        completed = subprocess.run(
+            ["node", "-e", script, str(app_path)],
+            capture_output=True, text=True, encoding="utf-8")
+        self.assertEqual(
+            completed.returncode, 0,
+            msg=f"stdout:\n{completed.stdout}\nstderr:\n{completed.stderr}")
 
 
 class CliWriteGateTest(unittest.TestCase):

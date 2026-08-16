@@ -27,6 +27,35 @@ const GROUP_LABELS = {
   other: "その他",
 };
 
+// ---- canonical sort ----
+function canonicalCostumeCompare(a, b, idols) {
+  const idolOrder = (costume) => {
+    const value = idols[costume.idol_slug]?.sort_order;
+    return Number.isInteger(value) ? value : Number.MAX_SAFE_INTEGER;
+  };
+  const slotOrder = (costume) => (
+    Number.isInteger(costume.slot_order) && costume.slot_order > 0
+      ? costume.slot_order
+      : Number.MAX_SAFE_INTEGER
+  );
+
+  const idolDiff = idolOrder(a) - idolOrder(b);
+  if (idolDiff !== 0) return idolDiff;
+
+  const slotDiff = slotOrder(a) - slotOrder(b);
+  if (slotDiff !== 0) return slotDiff;
+
+  const aId = typeof a.id === "string" ? a.id : "";
+  const bId = typeof b.id === "string" ? b.id : "";
+  if (aId < bId) return -1;
+  if (aId > bId) return 1;
+  return 0;
+}
+
+function sortCostumesCanonical(costumes, idols) {
+  costumes.sort((a, b) => canonicalCostumeCompare(a, b, idols));
+}
+
 // ---- 状態 ----
 let allCostumes = [];
 // slug -> アイドルマスタ（idols.json）
@@ -507,6 +536,7 @@ async function init() {
     ]);
     allCostumes = Array.isArray(costumesData.costumes) ? costumesData.costumes : [];
     buildMaps(idolsData, unitsData);
+    sortCostumesCanonical(allCostumes, idolBySlug);
     buildUnitOptions();
     warnUnknownSlugs();
     buildSearchIndex();

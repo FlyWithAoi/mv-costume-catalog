@@ -21,6 +21,10 @@
     python tools/screenshot-renamer/batch_import.py gen-costumes manifest.json
     python tools/screenshot-renamer/batch_import.py gen-costumes manifest.json --write
 
+    # 既存 costumes.json の slot_order 同期（presets.json をsourceにする）
+    python tools/screenshot-renamer/batch_import.py sync-slot-order
+    python tools/screenshot-renamer/batch_import.py sync-slot-order --write
+
     # 途中失敗ログの確認
     python tools/screenshot-renamer/batch_import.py check-logs
 """
@@ -157,6 +161,31 @@ def cmd_gen_costumes(args):
     return 0
 
 
+def cmd_sync_slot_order(args):
+    ctx = core.BatchContext(args.root)
+    new_doc, diff, errors = core.build_slot_order_sync(ctx.costumes_doc, ctx.presets)
+    if errors:
+        for error in errors:
+            print(f"[エラー] {error}")
+        print(f"\n不整合が {len(errors)}件 あるため slot_order を同期できません。")
+        return 1
+    if not diff:
+        print("costumes.json の slot_order は同期済みです。")
+        return 0
+    print(diff)
+    if args.write:
+        if not args.yes:
+            answer = input("costumes.json に slot_order を書き込みますか？ [y/N]: ").strip().lower()
+            if answer != "y":
+                print("中止しました。")
+                return 0
+        core.write_json_atomic(ctx.costumes_path, new_doc)
+        print(f"書き込みました: {ctx.costumes_path}")
+    else:
+        print("\n（プレビューのみ。書き込むには --write を付けてください）")
+    return 0
+
+
 def cmd_check_logs(args):
     ctx = core.BatchContext(args.root)
     incomplete = core.find_incomplete_logs(ctx)
@@ -181,14 +210,16 @@ def main(argv=None):
         ("apply", cmd_apply, True),
         ("gen-presets", cmd_gen_presets, True),
         ("gen-costumes", cmd_gen_costumes, True),
+        ("sync-slot-order", cmd_sync_slot_order, False),
         ("check-logs", cmd_check_logs, False),
     ]:
         p = sub.add_parser(name)
         p.set_defaults(func=fn)
         if needs_manifest:
             p.add_argument("manifest")
+        if needs_manifest or name == "sync-slot-order":
             p.add_argument("--yes", action="store_true", help="確認プロンプトをスキップ")
-        if name in ("gen-presets", "gen-costumes"):
+        if name in ("gen-presets", "gen-costumes", "sync-slot-order"):
             p.add_argument("--write", action="store_true", help="差分を実ファイルへ書き込む")
         if name == "gen-costumes":
             p.add_argument("--allow-missing-images", action="store_true",
