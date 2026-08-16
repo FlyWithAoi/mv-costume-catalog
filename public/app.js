@@ -9,10 +9,9 @@ const IMAGE_BASE = "images/costumes"; // + /{idol_slug}/{filename}
 // 固定コード -> 日本語表示
 const UNLOCK_LABELS = {
   unlocked: "解放済み",
-  card_only: "カード所持のみ",
-  card_missing: "カード未所持",
+  locked: "解放条件未達",
   not_purchased: "未購入",
-  locked: "未解放",
+  card_missing: "カード未所持",
 };
 
 const GROUP_LABELS = {
@@ -297,7 +296,7 @@ function openModal(c) {
     }
     const note = document.createElement("div");
     note.className = "no-image-note";
-    note.textContent = "未所持・未解放のため着用画像はありません。";
+    note.textContent = `${labelUnlock(c.unlock_status)}のため着用画像はありません。`;
     modalBody.appendChild(note);
   }
 

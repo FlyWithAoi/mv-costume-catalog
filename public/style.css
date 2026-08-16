@@ -211,7 +211,6 @@ body {
 }
 
 .badge.unlock-unlocked { background: #e5f6ea; color: var(--ok); }
-.badge.unlock-card_only { background: #fff4dc; color: var(--warn); }
 .badge.unlock-card_missing { background: #fdeceb; color: var(--danger); }
 .badge.unlock-not_purchased { background: #ededf2; color: var(--text-muted); }
 
