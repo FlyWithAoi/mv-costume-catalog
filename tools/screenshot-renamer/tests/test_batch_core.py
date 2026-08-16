@@ -624,6 +624,83 @@ if (ids(records.filter((c) => c.unlock_status === "locked")) !==
             msg=f"stdout:\n{completed.stdout}\nstderr:\n{completed.stderr}")
 
 
+class PublicSearchTest(unittest.TestCase):
+    """app.jsの公開検索対象をNodeで検証する。"""
+
+    def test_search_uses_only_public_fields(self):
+        app_path = Path(__file__).resolve().parents[3] / "public/app.js"
+        script = r"""
+const fs = require("fs");
+const vm = require("vm");
+const source = fs.readFileSync(process.argv[1], "utf8");
+const section = (startText, endText) => {
+  const start = source.indexOf(startText);
+  const end = source.indexOf(endText, start);
+  if (start < 0 || end <= start) throw new Error(`section not found: ${startText}`);
+  return source.slice(start, end);
+};
+const searchSource = [
+  section("const GROUP_LABELS", "// ---- canonical sort ----"),
+  section("function normalizeForSearch", "// idol_slug -> 表示用アイドル名"),
+  section("function buildCostumeSearchText", "function buildSearchIndex"),
+].join("\n");
+const sandbox = {};
+vm.createContext(sandbox);
+vm.runInContext(searchSource, sandbox);
+
+const costume = {
+  id: "hiddenS-id",
+  idol_slug: "hiddenS-idol",
+  slot_order: 123,
+  costume_name: "通常衣装",
+  costume_group: "hiddenS-group",
+  unlock_status: "hiddenS-status",
+  images: {icon: "hiddenS.webp"},
+  tags: ["帽子・ヘッドパーツあり"],
+  note_public: "",
+};
+const idol = {
+  slug: "hiddenS-idol",
+  name: "天祥院 英智",
+  name_kana: "てんしょういん えいち",
+  name_romaji: "hiddenS romaji",
+  aliases: ["hiddenS alias"],
+};
+const internalUnit = {
+  slug: "hiddenS-unit",
+  name: "公開ユニット名",
+  aliases: ["hiddenS alias"],
+};
+const visibleUnit = {slug: "switch", name: "Switch", aliases: []};
+const matches = (record, displayIdol, units, query) =>
+  sandbox.buildCostumeSearchText(record, displayIdol, units)
+    .includes(sandbox.normalizeForSearch(query));
+const assert = (condition, message) => {
+  if (!condition) throw new Error(message);
+};
+
+assert(!matches(costume, idol, [internalUnit], "S"), "hidden fields matched S");
+assert(matches(costume, idol, [visibleUnit], "S"), "visible Switch did not match S");
+assert(matches(costume, idol, [visibleUnit], "s"), "search is not case-insensitive");
+assert(matches(costume, idol, [internalUnit], "パ"), "tag did not match パ");
+assert(
+  matches({...costume, costume_group: "campaign"}, idol, [internalUnit], "ペ"),
+  "public group label did not match ペ"
+);
+assert(
+  matches({...costume, costume_name: "迎春飛翔"}, idol, [internalUnit], "迎春飛翔"),
+  "costume_name did not match"
+);
+assert(matches(costume, idol, [internalUnit], "天祥院英智"), "idol display name did not match");
+"""
+        completed = subprocess.run(
+            ["node", "-e", script, str(app_path)],
+            capture_output=True, text=True, encoding="utf-8")
+        self.assertEqual(
+            completed.returncode, 0,
+            msg=f"stdout:\n{completed.stdout}\nstderr:\n{completed.stderr}")
+
+
 class CliWriteGateTest(unittest.TestCase):
     """gen-costumes --write の画像存在ゲートをCLI経由で検証する。"""
 

@@ -473,29 +473,28 @@ function buildMaps(idolsData, unitsData) {
   });
 }
 
+// 公開UIで利用者が確認できる文字列だけから、正規化済み検索文字列を作る。
+function buildCostumeSearchText(c, idol, units) {
+  const parts = [
+    c.costume_name,
+    c.note_public,
+    GROUP_LABELS[c.costume_group],
+  ];
+  if (Array.isArray(c.tags)) parts.push(...c.tags);
+  if (idol) parts.push(idol.name);
+  units.forEach((u) => parts.push(u.name));
+
+  // 各パートを個別に正規化してから空白で連結する。
+  // 正規化後の検索クエリには空白が含まれないため、空白は安全な区切り文字になる。
+  return parts.map(normalizeForSearch).join(" ");
+}
+
 // 各衣装レコードに、正規化済みの検索文字列 _search を1回だけ事前構築する。
-// ユニット名は所属アイドル経由で含めるので、検索欄に「fine」「フィーネ」と入れると
-// fine 所属アイドルの衣装（個別衣装・クロス衣装含む）がすべてヒットする。
 function buildSearchIndex() {
   allCostumes.forEach((c) => {
-    const parts = [c.costume_name, c.note_public];
-    if (Array.isArray(c.tags)) parts.push(...c.tags);
-
     const idol = idolBySlug[c.idol_slug];
-    if (idol) {
-      parts.push(idol.name, idol.name_kana, idol.name_romaji);
-      if (Array.isArray(idol.aliases)) parts.push(...idol.aliases);
-    }
-
     const units = unitsByMemberSlug[c.idol_slug] || [];
-    units.forEach((u) => {
-      parts.push(u.name);
-      if (Array.isArray(u.aliases)) parts.push(...u.aliases);
-    });
-
-    // 各パートを個別に正規化してから空白で連結する。
-    // 正規化後の検索クエリには空白が含まれないため、空白は安全な区切り文字になる。
-    c._search = parts.map(normalizeForSearch).join(" ");
+    c._search = buildCostumeSearchText(c, idol, units);
   });
 }
 
