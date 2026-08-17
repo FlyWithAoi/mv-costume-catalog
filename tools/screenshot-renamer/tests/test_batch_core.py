@@ -624,6 +624,110 @@ if (ids(records.filter((c) => c.unlock_status === "locked")) !==
             msg=f"stdout:\n{completed.stdout}\nstderr:\n{completed.stderr}")
 
 
+class PublicLinkedFilterTest(unittest.TestCase):
+    """事務所・ユニット・idol連動の候補とAND条件をNodeで検証する。"""
+
+    def test_office_metadata_covers_each_master_once(self):
+        root = Path(__file__).resolve().parents[3]
+        idols = json.loads((root / "public/data/idols.json").read_text(encoding="utf-8"))["idols"]
+        units = json.loads((root / "public/data/units.json").read_text(encoding="utf-8"))["units"]
+        offices = json.loads((root / "public/data/offices.json").read_text(encoding="utf-8"))["offices"]
+
+        idol_slugs = [slug for office in offices for slug in office["idol_slugs"]]
+        unit_slugs = [slug for office in offices for slug in office["unit_slugs"]]
+        self.assertEqual(len(idol_slugs), len(set(idol_slugs)))
+        self.assertEqual(len(unit_slugs), len(set(unit_slugs)))
+        self.assertEqual(set(idol_slugs), {idol["slug"] for idol in idols})
+        self.assertEqual(set(unit_slugs), {unit["slug"] for unit in units})
+
+    def test_linked_filter_options_and_identity_conditions(self):
+        app_path = Path(__file__).resolve().parents[3] / "public/app.js"
+        script = r"""
+const fs = require("fs");
+const vm = require("vm");
+const source = fs.readFileSync(process.argv[1], "utf8");
+const start = source.indexOf("// ---- canonical sort ----");
+const end = source.indexOf("// ---- 状態 ----");
+if (start < 0 || end <= start) throw new Error("filter helper block not found");
+const sandbox = {};
+vm.createContext(sandbox);
+vm.runInContext(source.slice(start, end), sandbox);
+const assert = (condition, message) => {
+  if (!condition) throw new Error(message);
+};
+const offices = [
+  {slug: "star", sort_order: 10, idol_slugs: ["a", "b"], unit_slugs: ["alpha"]},
+  {slug: "cosmic", sort_order: 20, idol_slugs: ["c"], unit_slugs: ["beta"]},
+  {slug: "new", sort_order: 30, idol_slugs: ["d"], unit_slugs: ["double"]},
+];
+const idols = [
+  {slug: "c", name: "C", sort_order: 30},
+  {slug: "a", name: "A", sort_order: 10},
+  {slug: "d", name: "D", sort_order: 40},
+  {slug: "b", name: "B", sort_order: 20},
+];
+const unitsBySlug = {
+  beta: {slug: "beta", sort_order: 20, member_slugs: ["c"]},
+  alpha: {slug: "alpha", sort_order: 10, member_slugs: ["a", "b"]},
+  double: {slug: "double", sort_order: 30, member_slugs: ["b", "d"]},
+};
+const index = sandbox.buildOfficeIndex(offices);
+const resolve = (officeSlug, unitSlug, idolSlug) => sandbox.resolveLinkedFilterOptions({
+  offices,
+  idols,
+  unitsBySlug,
+  officeByIdolSlug: index.officeByIdolSlug,
+  officeByUnitSlug: index.officeByUnitSlug,
+  officeSlug,
+  unitSlug,
+  idolSlug,
+});
+const slugs = (items) => items.map((item) => item.slug).join(",");
+
+let state = resolve("", "", "");
+assert(slugs(state.unitOptions) === "alpha,beta,double", "all units were not restored");
+assert(slugs(state.idolOptions) === "a,b,c,d", "all idols were not restored canonically");
+
+state = resolve("star", "", "");
+assert(slugs(state.unitOptions) === "alpha", "office did not limit units");
+assert(slugs(state.idolOptions) === "a,b", "office did not limit idols");
+
+state = resolve("star", "beta", "c");
+assert(state.unitSlug === "", "invalid unit was not reset after office change");
+assert(state.idolSlug === "", "invalid idol was not reset after office change");
+
+state = resolve("", "beta", "c");
+assert(state.unitSlug === "beta" && state.idolSlug === "c", "valid unit + idol was reset");
+assert(slugs(state.idolOptions) === "c", "unit did not limit idols");
+
+state = resolve("new", "double", "b");
+assert(state.unitSlug === "double", "office-compatible cross unit was reset");
+assert(state.idolSlug === "", "office-incompatible idol was not reset");
+assert(slugs(state.idolOptions) === "d", "office and unit intersection is incorrect");
+
+const records = [
+  {id: "a", idol_slug: "a"},
+  {id: "b", idol_slug: "b"},
+  {id: "c", idol_slug: "c"},
+  {id: "d", idol_slug: "d"},
+];
+const matches = (record, officeSlug, unitMembers, idolSlug) =>
+  sandbox.matchesCatalogIdentityFilters(record, {
+    officeSlug, unitMembers, idolSlug, officeByIdolSlug: index.officeByIdolSlug,
+  });
+assert(records.filter((r) => matches(r, "star", ["a", "b"], "b")).map((r) => r.id).join(",") === "b",
+  "office + unit + idol is not ANDed");
+assert(records.filter((r) => matches(r, "star", ["c"], "")).length === 0,
+  "zero-result combination did not remain empty");
+"""
+        completed = subprocess.run(
+            ["node", "-e", script, str(app_path)],
+            capture_output=True, text=True, encoding="utf-8")
+        self.assertEqual(
+            completed.returncode, 0,
+            msg=f"stdout:\n{completed.stdout}\nstderr:\n{completed.stderr}")
+
+
 class PublicSearchTest(unittest.TestCase):
     """app.jsの公開検索対象をNodeで検証する。"""
 

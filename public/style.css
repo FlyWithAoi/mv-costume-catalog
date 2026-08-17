@@ -110,6 +110,7 @@ body {
 }
 
 .filter-item select {
+  min-width: 10rem;
   padding: 6px 8px;
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -516,6 +517,25 @@ body {
 }
 
 @media (max-width: 480px) {
+  .filters {
+    gap: 8px;
+  }
+
+  .filter-item {
+    flex: 1 1 100%;
+    justify-content: space-between;
+    min-width: 0;
+  }
+
+  .filter-item select {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .filter-checkbox {
+    justify-content: flex-start;
+  }
+
   .card-grid {
     grid-template-columns: 1fr 1fr;
     gap: 10px;

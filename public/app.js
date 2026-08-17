@@ -4,6 +4,7 @@
 const DATA_URL = "data/costumes.json";
 const IDOLS_URL = "data/idols.json";
 const UNITS_URL = "data/units.json";
+const OFFICES_URL = "data/offices.json";
 const IMAGE_BASE = "images/costumes"; // + /{idol_slug}/{filename}
 
 // 固定コード -> 日本語表示
@@ -56,6 +57,109 @@ function sortCostumesCanonical(costumes, idols) {
   costumes.sort((a, b) => canonicalCostumeCompare(a, b, idols));
 }
 
+// ---- 連動フィルタ用のマスタ処理 ----
+function canonicalMasterCompare(a, b) {
+  const aOrder = Number.isInteger(a?.sort_order) ? a.sort_order : Number.MAX_SAFE_INTEGER;
+  const bOrder = Number.isInteger(b?.sort_order) ? b.sort_order : Number.MAX_SAFE_INTEGER;
+  if (aOrder !== bOrder) return aOrder - bOrder;
+
+  const aSlug = typeof a?.slug === "string" ? a.slug : "";
+  const bSlug = typeof b?.slug === "string" ? b.slug : "";
+  if (aSlug < bSlug) return -1;
+  if (aSlug > bSlug) return 1;
+  return 0;
+}
+
+function sortMastersCanonical(items) {
+  return items.slice().sort(canonicalMasterCompare);
+}
+
+// offices.json から idol / unit の所属事務所を逆引きする。
+// Double Face のような兼任ユニットがあっても、idol の所属事務所は idol_slugs を正とする。
+function buildOfficeIndex(offices) {
+  const officesBySlug = {};
+  const officeByIdolSlug = {};
+  const officeByUnitSlug = {};
+  const duplicateIdolSlugs = [];
+  const duplicateUnitSlugs = [];
+
+  offices.forEach((office) => {
+    if (!office || !office.slug) return;
+    officesBySlug[office.slug] = office;
+
+    const idolSlugs = Array.isArray(office.idol_slugs) ? office.idol_slugs : [];
+    idolSlugs.forEach((idolSlug) => {
+      if (officeByIdolSlug[idolSlug]) duplicateIdolSlugs.push(idolSlug);
+      officeByIdolSlug[idolSlug] = office.slug;
+    });
+
+    const unitSlugs = Array.isArray(office.unit_slugs) ? office.unit_slugs : [];
+    unitSlugs.forEach((unitSlug) => {
+      if (officeByUnitSlug[unitSlug]) duplicateUnitSlugs.push(unitSlug);
+      officeByUnitSlug[unitSlug] = office.slug;
+    });
+  });
+
+  return {
+    officesBySlug,
+    officeByIdolSlug,
+    officeByUnitSlug,
+    duplicateIdolSlugs,
+    duplicateUnitSlugs,
+  };
+}
+
+// 現在の事務所・ユニット・idol選択から、選べる候補と安全に保持できる選択を求める。
+function resolveLinkedFilterOptions({
+  offices,
+  idols,
+  unitsBySlug,
+  officeByIdolSlug,
+  officeByUnitSlug,
+  officeSlug,
+  unitSlug,
+  idolSlug,
+}) {
+  const knownOffice = offices.some((office) => office.slug === officeSlug);
+  const resolvedOfficeSlug = knownOffice ? officeSlug : "";
+  const unitOptions = sortMastersCanonical(Object.values(unitsBySlug).filter((unit) => (
+    !resolvedOfficeSlug || officeByUnitSlug[unit.slug] === resolvedOfficeSlug
+  )));
+  const resolvedUnitSlug = unitOptions.some((unit) => unit.slug === unitSlug)
+    ? unitSlug
+    : "";
+  const unitMembers = resolvedUnitSlug
+    ? new Set(unitsBySlug[resolvedUnitSlug]?.member_slugs || [])
+    : null;
+  const idolOptions = sortMastersCanonical(idols.filter((idol) => (
+    (!resolvedOfficeSlug || officeByIdolSlug[idol.slug] === resolvedOfficeSlug)
+    && (!unitMembers || unitMembers.has(idol.slug))
+  )));
+  const resolvedIdolSlug = idolOptions.some((idol) => idol.slug === idolSlug)
+    ? idolSlug
+    : "";
+
+  return {
+    officeSlug: resolvedOfficeSlug,
+    unitSlug: resolvedUnitSlug,
+    idolSlug: resolvedIdolSlug,
+    unitOptions,
+    idolOptions,
+  };
+}
+
+function matchesCatalogIdentityFilters(costume, {
+  officeSlug,
+  unitMembers,
+  idolSlug,
+  officeByIdolSlug,
+}) {
+  if (officeSlug && officeByIdolSlug[costume.idol_slug] !== officeSlug) return false;
+  if (unitMembers && !unitMembers.includes(costume.idol_slug)) return false;
+  if (idolSlug && costume.idol_slug !== idolSlug) return false;
+  return true;
+}
+
 // ---- 状態 ----
 let allCostumes = [];
 // slug -> アイドルマスタ（idols.json）
@@ -64,10 +168,18 @@ let idolBySlug = {};
 let unitsBySlug = {};
 // idol_slug -> 所属ユニット配列（units.json の member_slugs から逆引き）
 let unitsByMemberSlug = {};
+// slug -> 事務所マスタ（offices.json）
+let officesBySlug = {};
+// idol_slug / unit_slug -> 所属事務所slug（offices.json から逆引き）
+let officeByIdolSlug = {};
+let officeByUnitSlug = {};
+let allIdols = [];
 
 // ---- DOM ----
 const searchBox = document.getElementById("search-box");
+const filterOffice = document.getElementById("filter-office");
 const filterUnit = document.getElementById("filter-unit");
+const filterIdol = document.getElementById("filter-idol");
 const filterUnlock = document.getElementById("filter-unlock");
 const filterRequestable = document.getElementById("filter-requestable");
 const cardGrid = document.getElementById("card-grid");
@@ -210,7 +322,9 @@ function createCard(c) {
 // ---- フィルタリング ----
 function getFiltered() {
   const q = normalizeForSearch(searchBox.value);
+  const officeSlug = filterOffice.value;
   const unitSlug = filterUnit.value;
+  const idolSlug = filterIdol.value;
   const unlock = filterUnlock.value;
   const onlyRequestable = filterRequestable.checked;
 
@@ -228,7 +342,12 @@ function getFiltered() {
   }
 
   return allCostumes.filter((c) => {
-    if (unitMembers && !unitMembers.includes(c.idol_slug)) return false;
+    if (!matchesCatalogIdentityFilters(c, {
+      officeSlug,
+      unitMembers,
+      idolSlug,
+      officeByIdolSlug,
+    })) return false;
     if (onlyRequestable && !c.requestable) return false;
     if (unlock && c.unlock_status !== unlock) return false;
 
@@ -439,7 +558,15 @@ document.addEventListener("keydown", (e) => {
 
 // ---- イベント ----
 searchBox.addEventListener("input", render);
-filterUnit.addEventListener("change", render);
+filterOffice.addEventListener("change", () => {
+  syncLinkedFilterOptions();
+  render();
+});
+filterUnit.addEventListener("change", () => {
+  syncLinkedFilterOptions();
+  render();
+});
+filterIdol.addEventListener("change", render);
 filterUnlock.addEventListener("change", render);
 filterRequestable.addEventListener("change", render);
 
@@ -450,14 +577,17 @@ async function fetchJson(url) {
   return res.json();
 }
 
-// idols.json / units.json から lookup 用マップを構築する。
-function buildMaps(idolsData, unitsData) {
+// idols.json / units.json / offices.json から lookup 用マップを構築する。
+function buildMaps(idolsData, unitsData, officesData) {
   idolBySlug = {};
   unitsBySlug = {};
   unitsByMemberSlug = {};
+  officesBySlug = {};
+  officeByIdolSlug = {};
+  officeByUnitSlug = {};
 
-  const idols = Array.isArray(idolsData.idols) ? idolsData.idols : [];
-  idols.forEach((idol) => {
+  allIdols = Array.isArray(idolsData.idols) ? idolsData.idols : [];
+  allIdols.forEach((idol) => {
     if (idol && idol.slug) idolBySlug[idol.slug] = idol;
   });
 
@@ -471,6 +601,19 @@ function buildMaps(idolsData, unitsData) {
       unitsByMemberSlug[memberSlug].push(unit);
     });
   });
+
+  const offices = Array.isArray(officesData.offices) ? officesData.offices : [];
+  const officeIndex = buildOfficeIndex(offices);
+  officesBySlug = officeIndex.officesBySlug;
+  officeByIdolSlug = officeIndex.officeByIdolSlug;
+  officeByUnitSlug = officeIndex.officeByUnitSlug;
+
+  if (officeIndex.duplicateIdolSlugs.length > 0) {
+    console.warn("offices.json の idol_slug が複数事務所に登録されています:", officeIndex.duplicateIdolSlugs);
+  }
+  if (officeIndex.duplicateUnitSlugs.length > 0) {
+    console.warn("offices.json の unit_slug が複数事務所に登録されています:", officeIndex.duplicateUnitSlugs);
+  }
 }
 
 // 公開UIで利用者が確認できる文字列だけから、正規化済み検索文字列を作る。
@@ -497,17 +640,52 @@ function buildSearchIndex() {
   });
 }
 
-// units.json からユニットプルダウンの選択肢を生成する（sort_order 昇順）。
-// 先頭の「すべてのユニット」（value=""）は index.html 側に固定で置いてある。
-function buildUnitOptions() {
-  const units = Object.values(unitsBySlug).slice();
-  units.sort((a, b) => (a.sort_order || 0) - (b.sort_order || 0));
-  units.forEach((unit) => {
+function replaceSelectOptions(select, options, allLabel) {
+  const previousValue = select.value;
+  select.replaceChildren();
+
+  const allOption = document.createElement("option");
+  allOption.value = "";
+  allOption.textContent = allLabel;
+  select.appendChild(allOption);
+
+  options.forEach((item) => {
     const opt = document.createElement("option");
-    opt.value = unit.slug;
-    opt.textContent = unit.name;
-    filterUnit.appendChild(opt);
+    opt.value = item.slug;
+    opt.textContent = item.name;
+    select.appendChild(opt);
   });
+
+  select.value = options.some((item) => item.slug === previousValue)
+    ? previousValue
+    : "";
+}
+
+function buildOfficeOptions() {
+  replaceSelectOptions(
+    filterOffice,
+    sortMastersCanonical(Object.values(officesBySlug)),
+    "すべての事務所"
+  );
+}
+
+function syncLinkedFilterOptions() {
+  const linked = resolveLinkedFilterOptions({
+    offices: Object.values(officesBySlug),
+    idols: allIdols,
+    unitsBySlug,
+    officeByIdolSlug,
+    officeByUnitSlug,
+    officeSlug: filterOffice.value,
+    unitSlug: filterUnit.value,
+    idolSlug: filterIdol.value,
+  });
+
+  filterOffice.value = linked.officeSlug;
+  replaceSelectOptions(filterUnit, linked.unitOptions, "すべてのユニット");
+  filterUnit.value = linked.unitSlug;
+  replaceSelectOptions(filterIdol, linked.idolOptions, "すべてのアイドル");
+  filterIdol.value = linked.idolSlug;
 }
 
 // costumes.json の idol_slug が idols.json に無い場合は警告（ページは壊さない）。
@@ -519,6 +697,17 @@ function warnUnknownSlugs() {
       );
     }
   });
+
+  Object.keys(idolBySlug).forEach((idolSlug) => {
+    if (!officeByIdolSlug[idolSlug]) {
+      console.warn(`idols.json の idol_slug "${idolSlug}" が offices.json に見つかりません。`);
+    }
+  });
+  Object.keys(unitsBySlug).forEach((unitSlug) => {
+    if (!officeByUnitSlug[unitSlug]) {
+      console.warn(`units.json の unit_slug "${unitSlug}" が offices.json に見つかりません。`);
+    }
+  });
 }
 
 async function init() {
@@ -527,15 +716,17 @@ async function init() {
   document.body.style.overflow = "";
 
   try {
-    const [costumesData, idolsData, unitsData] = await Promise.all([
+    const [costumesData, idolsData, unitsData, officesData] = await Promise.all([
       fetchJson(DATA_URL),
       fetchJson(IDOLS_URL),
       fetchJson(UNITS_URL),
+      fetchJson(OFFICES_URL),
     ]);
     allCostumes = Array.isArray(costumesData.costumes) ? costumesData.costumes : [];
-    buildMaps(idolsData, unitsData);
+    buildMaps(idolsData, unitsData, officesData);
     sortCostumesCanonical(allCostumes, idolBySlug);
-    buildUnitOptions();
+    buildOfficeOptions();
+    syncLinkedFilterOptions();
     warnUnknownSlugs();
     buildSearchIndex();
   } catch (err) {

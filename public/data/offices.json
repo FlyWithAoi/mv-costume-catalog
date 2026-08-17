@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-17",
+  "offices": [
+    {
+      "slug": "starmaker-production",
+      "name": "STARMAKER PRODUCTION",
+      "sort_order": 100,
+      "idol_slugs": ["tenshouin-eichi", "hibiki-wataru", "himemiya-tori", "fushimi-yuzuru", "hidaka-hokuto", "akehoshi-subaru", "yuuki-makoto", "isara-mao", "nagumo-tetora", "takamine-midori", "sengoku-shinobu", "morisawa-chiaki", "shinkai-kanata", "amagi-hiiro", "shiratori-aira", "ayase-mayoi", "kazehaya-tatsumi"],
+      "unit_slugs": ["fine", "trickstar", "ryuuseitai", "alkaloid"]
+    },
+    {
+      "slug": "cosmic-production",
+      "name": "COSMIC PRODUCTION",
+      "sort_order": 200,
+      "idol_slugs": ["ran-nagisa", "tomoe-hiyori", "saegusa-ibara", "sazanami-jun", "itsuki-shu", "kagehira-mika", "aoi-hinata", "aoi-yuuta", "amagi-rinne", "himeru", "oukawa-kohaku", "shiina-niki"],
+      "unit_slugs": ["eden", "valkyrie", "2wink", "crazy-b"]
+    },
+    {
+      "slug": "rhythm-link",
+      "name": "Rhythm Link",
+      "sort_order": 300,
+      "idol_slugs": ["sakuma-rei", "hakaze-kaoru", "oogami-koga", "otogari-adonis", "nito-nazuna", "shino-hajime", "mashiro-tomoya", "tenma-mitsuru", "hasumi-keito", "kiryuu-kurou", "kanzaki-souma", "taki-ibuki", "kojika-juisu", "madoka-nozomi", "kuon-mashu", "tsuzura-chitose"],
+      "unit_slugs": ["undead", "rabits", "akatsuki", "mellow-dear-us"]
+    },
+    {
+      "slug": "new-dimension",
+      "name": "NEW DIMENSION",
+      "sort_order": 400,
+      "idol_slugs": ["suou-tsukasa", "tsukinaga-reo", "sena-izumi", "sakuma-ritsu", "narukami-arashi", "sakasaki-natsume", "aoba-tsumugi", "harukawa-sora", "mikejima-madara", "esu", "kanna", "yume", "raika"],
+      "unit_slugs": ["knights", "switch", "mam", "double-face", "special-for-princess"]
+    },
+    {
+      "slug": "teachers",
+      "name": "先生",
+      "sort_order": 500,
+      "idol_slugs": ["sagami-jin", "kunugi-akiomi"],
+      "unit_slugs": ["jin-and-akiomi"]
+    }
+  ]
+}
