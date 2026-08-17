@@ -40,7 +40,7 @@ body {
   background-color: #fffde8;
   background-image: url("images/ui/catalog-header.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 65%;
   background-size: cover;
 }
 
@@ -50,7 +50,8 @@ body {
 }
 
 .header-badge {
-  display: inline-block;
+  align-self: flex-start;
+  display: inline-flex;
   margin: 8px 0 0;
   padding: 3px 10px;
   border-radius: 999px;
