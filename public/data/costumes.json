@@ -61509,7 +61509,7 @@
       "slot_order": 61,
       "costume_name": "アニバーサリーチャレンジ",
       "costume_group": "campaign",
-      "unlock_status": "locked",
+      "unlock_status": "not_purchased",
       "requestable": false,
       "images": {
         "icon": "tenma-mitsuru_anniversary-challenge-01_icon.webp",
@@ -61519,7 +61519,7 @@
       "tags": [
         "ダイヤショップ"
       ],
-      "note_public": "アイドルランクBで解放",
+      "note_public": "ダイヤショップで購入",
       "updated_at": "2026-08-13"
     },
     {
