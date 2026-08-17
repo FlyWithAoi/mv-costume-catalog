@@ -31,13 +31,22 @@ body {
 }
 
 .site-header {
-  text-align: center;
-  padding: 24px 16px 16px;
+  min-height: 196px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 28px max(16px, calc((100% - 1000px) / 2 + 16px));
+  text-align: left;
+  background-color: #fffde8;
+  background-image: url("images/ui/catalog-header.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .site-header h1 {
   margin: 0;
-  font-size: 1.6rem;
+  font-size: clamp(1.6rem, 3vw, 2rem);
 }
 
 .header-badge {
@@ -56,12 +65,14 @@ body {
   margin: 4px 0 0;
   color: var(--text-muted);
   font-size: 0.9rem;
+  max-width: 34rem;
 }
 
 .header-guide {
   margin: 2px 0 0;
   color: var(--text-muted);
   font-size: 0.78rem;
+  max-width: 34rem;
 }
 
 .container {
@@ -98,7 +109,15 @@ body {
   flex-wrap: wrap;
   gap: 12px 20px;
   align-items: center;
-  margin-top: 12px;
+  margin-top: 6px;
+}
+
+.filter-heading {
+  margin: 14px 0 0;
+  color: var(--text);
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
 }
 
 .filter-item {
@@ -480,6 +499,17 @@ body {
 }
 
 @media (max-width: 640px) {
+  .site-header {
+    min-height: 176px;
+    padding: 22px 16px 20px;
+    background-position: 32% center;
+  }
+
+  .subtitle,
+  .header-guide {
+    max-width: 18rem;
+  }
+
   .footer-inner {
     grid-template-columns: 1fr;
     gap: 24px;
