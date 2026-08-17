@@ -54395,7 +54395,7 @@
     {
       "id": "hakaze-kaoru_twilight-idol-scr-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 52,
+      "slot_order": 56,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -54414,7 +54414,7 @@
     {
       "id": "hakaze-kaoru_velvet-ship-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 53,
+      "slot_order": 57,
       "costume_name": "Velvet Ship衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54433,7 +54433,7 @@
     {
       "id": "hakaze-kaoru_jinbei-goldfish-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 54,
+      "slot_order": 58,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54452,7 +54452,7 @@
     {
       "id": "hakaze-kaoru_caelum-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 55,
+      "slot_order": 59,
       "costume_name": "Caelum",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -54473,7 +54473,7 @@
     {
       "id": "hakaze-kaoru_halloween-wing-angel-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 56,
+      "slot_order": 60,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54492,7 +54492,7 @@
     {
       "id": "hakaze-kaoru_sore-wa-zanzou-no-shoushitsuten-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 57,
+      "slot_order": 61,
       "costume_name": "それは残像の消失点衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54511,7 +54511,7 @@
     {
       "id": "hakaze-kaoru_terra-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 58,
+      "slot_order": 62,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -54530,7 +54530,7 @@
     {
       "id": "hakaze-kaoru_perfect-sundae-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 59,
+      "slot_order": 63,
       "costume_name": "Perfect Sundae衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54549,7 +54549,7 @@
     {
       "id": "hakaze-kaoru_shining-star-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 60,
+      "slot_order": 64,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54568,7 +54568,7 @@
     {
       "id": "hakaze-kaoru_starlight-10th-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 61,
+      "slot_order": 65,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -54590,7 +54590,7 @@
     {
       "id": "hakaze-kaoru_anniversary-agent-green-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 62,
+      "slot_order": 66,
       "costume_name": "アニバーサリーエージェント（緑）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -54610,7 +54610,7 @@
     {
       "id": "hakaze-kaoru_mare-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 63,
+      "slot_order": 67,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -54629,7 +54629,7 @@
     {
       "id": "hakaze-kaoru_jinbei-fireworks-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 64,
+      "slot_order": 68,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -67876,6 +67876,87 @@
       },
       "tags": [
         "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "hakaze-kaoru_starlight-8th-live-tshirt-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 52,
+      "costume_name": "スタライ8thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_starlight-8th-live-tshirt-01_icon.webp",
+        "front": "hakaze-kaoru_starlight-8th-live-tshirt-01_front.webp",
+        "back": "hakaze-kaoru_starlight-8th-live-tshirt-01_back.webp"
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "hakaze-kaoru_newyear-rise-first-love-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 53,
+      "costume_name": "ニューイヤーライズ（初恋）",
+      "costume_group": "campaign",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_newyear-rise-first-love-01_icon.webp",
+        "front": "hakaze-kaoru_newyear-rise-first-love-01_front.webp",
+        "back": "hakaze-kaoru_newyear-rise-first-love-01_back.webp"
+      },
+      "tags": [
+        "新年",
+        "ニューイヤー",
+        "ダイヤショップ"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "hakaze-kaoru_colorful-music-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 54,
+      "costume_name": "カラフルミュージック",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_colorful-music-01_icon.webp",
+        "front": "hakaze-kaoru_colorful-music-01_front.webp",
+        "back": "hakaze-kaoru_colorful-music-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-17"
+    },
+    {
+      "id": "hakaze-kaoru_undead-hoodie-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 55,
+      "costume_name": "UNDEADフーディ",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_undead-hoodie-01_icon.webp",
+        "front": "hakaze-kaoru_undead-hoodie-01_front.webp",
+        "back": "hakaze-kaoru_undead-hoodie-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
       ],
       "note_public": "",
       "updated_at": "2026-08-17"

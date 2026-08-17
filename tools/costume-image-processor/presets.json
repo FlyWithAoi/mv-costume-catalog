@@ -31315,7 +31315,7 @@
         }
       }
     },
-    "hakaze-kaoru-slots-04-64": {
+    "hakaze-kaoru-slots-04-68": {
       "idol_slug": "hakaze-kaoru",
       "input_dir": "hakaze-kaoru",
       "output_dir": "hakaze-kaoru",
@@ -31837,7 +31837,7 @@
             "height": 173
           }
         },
-        "52_twilight-idol-scr": {
+        "56_twilight-idol-scr": {
           "id": "hakaze-kaoru_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -31848,7 +31848,7 @@
             "height": 300
           }
         },
-        "53_velvet-ship": {
+        "57_velvet-ship": {
           "id": "hakaze-kaoru_velvet-ship-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31859,7 +31859,7 @@
             "height": 173
           }
         },
-        "54_jinbei-goldfish": {
+        "58_jinbei-goldfish": {
           "id": "hakaze-kaoru_jinbei-goldfish-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31870,7 +31870,7 @@
             "height": 175
           }
         },
-        "55_caelum": {
+        "59_caelum": {
           "id": "hakaze-kaoru_caelum-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31881,7 +31881,7 @@
             "height": 175
           }
         },
-        "56_halloween-wing-angel": {
+        "60_halloween-wing-angel": {
           "id": "hakaze-kaoru_halloween-wing-angel-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31892,7 +31892,7 @@
             "height": 173
           }
         },
-        "57_sore-wa-zanzou-no-shoushitsuten": {
+        "61_sore-wa-zanzou-no-shoushitsuten": {
           "id": "hakaze-kaoru_sore-wa-zanzou-no-shoushitsuten-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31903,7 +31903,7 @@
             "height": 173
           }
         },
-        "58_terra": {
+        "62_terra": {
           "id": "hakaze-kaoru_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31914,7 +31914,7 @@
             "height": 173
           }
         },
-        "59_perfect-sundae": {
+        "63_perfect-sundae": {
           "id": "hakaze-kaoru_perfect-sundae-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31925,7 +31925,7 @@
             "height": 175
           }
         },
-        "60_shining-star": {
+        "64_shining-star": {
           "id": "hakaze-kaoru_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31936,7 +31936,7 @@
             "height": 173
           }
         },
-        "61_starlight-10th": {
+        "65_starlight-10th": {
           "id": "hakaze-kaoru_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -31947,7 +31947,7 @@
             "height": 300
           }
         },
-        "62_anniversary-agent-green": {
+        "66_anniversary-agent-green": {
           "id": "hakaze-kaoru_anniversary-agent-green-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31958,7 +31958,7 @@
             "height": 175
           }
         },
-        "63_mare": {
+        "67_mare": {
           "id": "hakaze-kaoru_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31969,7 +31969,7 @@
             "height": 175
           }
         },
-        "64_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "hakaze-kaoru_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -31978,6 +31978,50 @@
             "y": 646,
             "width": 175,
             "height": 175
+          }
+        },
+        "52_starlight-8th-live-tshirt": {
+          "id": "hakaze-kaoru_starlight-8th-live-tshirt-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 306,
+            "width": 173,
+            "height": 173
+          }
+        },
+        "53_newyear-rise-first-love": {
+          "id": "hakaze-kaoru_newyear-rise-first-love-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 305,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "54_colorful-music": {
+          "id": "hakaze-kaoru_colorful-music-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 305,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "55_undead-hoodie": {
+          "id": "hakaze-kaoru_undead-hoodie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1952,
+            "y": 306,
+            "width": 173,
+            "height": 173
           }
         }
       }
