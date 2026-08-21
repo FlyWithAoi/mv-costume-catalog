@@ -38888,7 +38888,7 @@
             "height": 300
           }
         },
-        "69_twilight-idol-scr": {
+        "70_twilight-idol-scr": {
           "id": "aoi-yuuta_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -38899,7 +38899,7 @@
             "height": 300
           }
         },
-        "70_whirlpool": {
+        "71_whirlpool": {
           "id": "aoi-yuuta_whirlpool-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -40019,6 +40019,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1947,"y": 479,"width": 195,"height": 195}
+        }
+      }
+    },
+    "aoi-yuuta-wac-mare": {
+      "idol_slug": "aoi-yuuta",
+      "input_dir": "aoi-yuuta",
+      "output_dir": "aoi-yuuta",
+      "items": {
+        "69_mare": {
+          "id": "aoi-yuuta_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1435,"y": 479,"width": 195,"height": 195}
         }
       }
     }

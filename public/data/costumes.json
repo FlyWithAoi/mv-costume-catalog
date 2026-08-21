@@ -66388,7 +66388,7 @@
     {
       "id": "aoi-yuuta_twilight-idol-scr-01",
       "idol_slug": "aoi-yuuta",
-      "slot_order": 69,
+      "slot_order": 70,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -66407,7 +66407,7 @@
     {
       "id": "aoi-yuuta_whirlpool-01",
       "idol_slug": "aoi-yuuta",
-      "slot_order": 70,
+      "slot_order": 71,
       "costume_name": "ワールプール衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -68237,6 +68237,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "aoi-hinata_mare-01_icon.webp","front": "aoi-hinata_mare-01_front.webp","back": "aoi-hinata_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "aoi-yuuta_mare-01",
+      "idol_slug": "aoi-yuuta",
+      "slot_order": 69,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "aoi-yuuta_mare-01_icon.webp","front": "aoi-yuuta_mare-01_front.webp","back": "aoi-yuuta_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
