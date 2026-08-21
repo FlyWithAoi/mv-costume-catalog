@@ -34924,7 +34924,7 @@
     {
       "id": "hasumi-keito_diverse-01",
       "idol_slug": "hasumi-keito",
-      "slot_order": 66,
+      "slot_order": 67,
       "costume_name": "DIVERSE",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -34944,7 +34944,7 @@
     {
       "id": "hasumi-keito_jinbei-fireworks-01",
       "idol_slug": "hasumi-keito",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68276,6 +68276,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "nito-nazuna_mare-01_icon.webp","front": "nito-nazuna_mare-01_front.webp","back": "nito-nazuna_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "hasumi-keito_mare-01",
+      "idol_slug": "hasumi-keito",
+      "slot_order": 66,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "hasumi-keito_mare-01_icon.webp","front": "hasumi-keito_mare-01_front.webp","back": "hasumi-keito_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"

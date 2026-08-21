@@ -20597,7 +20597,7 @@
             "height": 195
           }
         },
-        "66_diverse": {
+        "67_diverse": {
           "id": "hasumi-keito_diverse-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -20608,7 +20608,7 @@
             "height": 300
           }
         },
-        "67_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "hasumi-keito_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40058,6 +40058,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1093,"y": 647,"width": 195,"height": 195}
+        }
+      }
+    },
+    "hasumi-keito-wac-mare": {
+      "idol_slug": "hasumi-keito",
+      "input_dir": "hasumi-keito",
+      "output_dir": "hasumi-keito",
+      "items": {
+        "66_mare": {
+          "id": "hasumi-keito_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 923,"y": 649,"width": 195,"height": 195}
         }
       }
     }
