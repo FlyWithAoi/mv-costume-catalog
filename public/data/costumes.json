@@ -58071,7 +58071,7 @@
     {
       "id": "sakuma-rei_anniversary-agent-red-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 56,
+      "slot_order": 57,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -58090,7 +58090,7 @@
     {
       "id": "sakuma-rei_mare-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 57,
+      "slot_order": 58,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -58109,7 +58109,7 @@
     {
       "id": "sakuma-rei_jinbei-fireworks-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 58,
+      "slot_order": 59,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -58128,7 +58128,7 @@
     {
       "id": "sakuma-rei_uta-no-oniisan-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 59,
+      "slot_order": 60,
       "costume_name": "うたのおにいさん衣装",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -67864,7 +67864,7 @@
     {
       "id": "sakuma-rei_jinbei-goldfish-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 60,
+      "slot_order": 61,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -67992,6 +67992,25 @@
         "icon": "tsuzura-chitose_caelum-01_icon.webp",
         "front": "tsuzura-chitose_caelum-01_front.webp",
         "back": "tsuzura-chitose_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "sakuma-rei_terra-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 56,
+      "costume_name": "Terra",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_terra-01_icon.webp",
+        "front": "sakuma-rei_terra-01_front.webp",
+        "back": "sakuma-rei_terra-01_back.webp"
       },
       "tags": [
         "交換衣装"

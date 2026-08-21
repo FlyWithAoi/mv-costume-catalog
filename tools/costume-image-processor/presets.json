@@ -33992,7 +33992,7 @@
             "height": 300
           }
         },
-        "56_anniversary-agent-red": {
+        "57_anniversary-agent-red": {
           "id": "sakuma-rei_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34003,7 +34003,7 @@
             "height": 195
           }
         },
-        "57_mare": {
+        "58_mare": {
           "id": "sakuma-rei_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34014,7 +34014,7 @@
             "height": 195
           }
         },
-        "58_jinbei-fireworks": {
+        "59_jinbei-fireworks": {
           "id": "sakuma-rei_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34032,7 +34032,7 @@
       "input_dir": "sakuma-rei",
       "output_dir": "sakuma-rei",
       "items": {
-        "59_uta-no-oniisan": {
+        "60_uta-no-oniisan": {
           "id": "sakuma-rei_uta-no-oniisan-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39741,7 +39741,7 @@
       "input_dir": "sakuma-rei",
       "output_dir": "sakuma-rei",
       "items": {
-        "60_jinbei-goldfish": {
+        "61_jinbei-goldfish": {
           "id": "sakuma-rei_jinbei-goldfish-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39784,6 +39784,24 @@
           "icon_crop": {
             "x": 1775,
             "y": 465,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "sakuma-rei-wac-terra": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "56_terra": {
+          "id": "sakuma-rei_terra-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 475,
             "width": 195,
             "height": 195
           }
