@@ -3487,7 +3487,7 @@
             "height": 195
           }
         },
-        "18_terra": {
+        "19_terra": {
           "id": "kuon-mashu_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39833,6 +39833,24 @@
       "items": {
         "18_mare": {
           "id": "madoka-nozomi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "kuon-mashu-wac-mare": {
+      "idol_slug": "kuon-mashu",
+      "input_dir": "kuon-mashu",
+      "output_dir": "kuon-mashu",
+      "items": {
+        "18_mare": {
+          "id": "kuon-mashu_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {

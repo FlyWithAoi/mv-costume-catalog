@@ -5180,7 +5180,7 @@
     {
       "id": "kuon-mashu_terra-01",
       "idol_slug": "kuon-mashu",
-      "slot_order": 18,
+      "slot_order": 19,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -68049,6 +68049,25 @@
         "icon": "madoka-nozomi_mare-01_icon.webp",
         "front": "madoka-nozomi_mare-01_front.webp",
         "back": "madoka-nozomi_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "kuon-mashu_mare-01",
+      "idol_slug": "kuon-mashu",
+      "slot_order": 18,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kuon-mashu_mare-01_icon.webp",
+        "front": "kuon-mashu_mare-01_front.webp",
+        "back": "kuon-mashu_mare-01_back.webp"
       },
       "tags": [
         "交換衣装"
