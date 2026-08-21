@@ -32115,17 +32115,17 @@
       "updated_at": "2026-07-25"
     },
     {
-      "id": "saegusa-ibara_eden-party-01",
+      "id": "saegusa-ibara_eden-hoodie-01",
       "idol_slug": "saegusa-ibara",
       "slot_order": 52,
-      "costume_name": "Edenパーティ",
+      "costume_name": "Edenフーディ",
       "costume_group": "unit",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "saegusa-ibara_eden-party-01_icon.webp",
-        "front": "saegusa-ibara_eden-party-01_front.webp",
-        "back": "saegusa-ibara_eden-party-01_back.webp"
+        "icon": "saegusa-ibara_eden-hoodie-01_icon.webp",
+        "front": "saegusa-ibara_eden-hoodie-01_front.webp",
+        "back": "saegusa-ibara_eden-hoodie-01_back.webp"
       },
       "tags": [],
       "note_public": "",
