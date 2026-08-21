@@ -560,7 +560,7 @@ class PublicSlotOrderIntegrityTest(unittest.TestCase):
         new_doc, diff, errors = core.build_slot_order_sync(costumes, presets)
         self.assertEqual(errors, [])
         self.assertEqual(diff, "")
-        self.assertEqual(len(new_doc["costumes"]), 3544)
+        self.assertEqual(len(new_doc["costumes"]), 3558)
 
         seen = set()
         for record in new_doc["costumes"]:

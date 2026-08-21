@@ -47118,7 +47118,7 @@
     {
       "id": "narukami-arashi_mm-knights-01",
       "idol_slug": "narukami-arashi",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "MM Knights衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -47137,7 +47137,7 @@
     {
       "id": "narukami-arashi_jinbei-fireworks-01",
       "idol_slug": "narukami-arashi",
-      "slot_order": 68,
+      "slot_order": 69,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68315,6 +68315,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "suou-tsukasa_mare-01_icon.webp","front": "suou-tsukasa_mare-01_front.webp","back": "suou-tsukasa_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "narukami-arashi_mare-01",
+      "idol_slug": "narukami-arashi",
+      "slot_order": 67,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "narukami-arashi_mare-01_icon.webp","front": "narukami-arashi_mare-01_front.webp","back": "narukami-arashi_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
