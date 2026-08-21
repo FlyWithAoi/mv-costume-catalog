@@ -29825,7 +29825,7 @@
             "height": 300
           }
         },
-        "66_anniversary-agent-red": {
+        "67_anniversary-agent-red": {
           "id": "sengoku-shinobu_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29836,7 +29836,7 @@
             "height": 215
           }
         },
-        "67_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "sengoku-shinobu_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39980,6 +39980,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 923,"y": 649,"width": 195,"height": 195}
+        }
+      }
+    },
+    "sengoku-shinobu-wac-mare": {
+      "idol_slug": "sengoku-shinobu",
+      "input_dir": "sengoku-shinobu",
+      "output_dir": "sengoku-shinobu",
+      "items": {
+        "66_mare": {
+          "id": "sengoku-shinobu_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1265,"y": 479,"width": 195,"height": 195}
         }
       }
     }

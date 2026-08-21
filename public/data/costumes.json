@@ -50874,7 +50874,7 @@
     {
       "id": "sengoku-shinobu_anniversary-agent-red-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 66,
+      "slot_order": 67,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -50894,7 +50894,7 @@
     {
       "id": "sengoku-shinobu_jinbei-fireworks-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68198,6 +68198,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "takamine-midori_mare-01_icon.webp","front": "takamine-midori_mare-01_front.webp","back": "takamine-midori_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "sengoku-shinobu_mare-01",
+      "idol_slug": "sengoku-shinobu",
+      "slot_order": 66,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "sengoku-shinobu_mare-01_icon.webp","front": "sengoku-shinobu_mare-01_front.webp","back": "sengoku-shinobu_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
