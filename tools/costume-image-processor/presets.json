@@ -5117,7 +5117,7 @@
             "height": 195
           }
         },
-        "34_mm-special-for-princess": {
+        "35_mm-special-for-princess": {
           "id": "raika_mm-special-for-princess-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -5128,7 +5128,7 @@
             "height": 195
           }
         },
-        "35_jinbei-fireworks": {
+        "36_jinbei-fireworks": {
           "id": "raika_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40188,6 +40188,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1947, "y": 479, "width": 195, "height": 195}
+        }
+      }
+    },
+    "raika-wac-mare": {
+      "idol_slug": "raika",
+      "input_dir": "raika",
+      "output_dir": "raika",
+      "items": {
+        "34_mare": {
+          "id": "raika_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1605, "y": 479, "width": 195, "height": 195}
         }
       }
     }

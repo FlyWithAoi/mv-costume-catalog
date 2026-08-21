@@ -7993,7 +7993,7 @@
     {
       "id": "raika_mm-special-for-princess-01",
       "idol_slug": "raika",
-      "slot_order": 34,
+      "slot_order": 35,
       "costume_name": "MM Special for Princess!衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -8012,7 +8012,7 @@
     {
       "id": "raika_jinbei-fireworks-01",
       "idol_slug": "raika",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68406,6 +68406,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "yume_mare-01_icon.webp", "front": "yume_mare-01_front.webp", "back": "yume_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "raika_mare-01",
+      "idol_slug": "raika",
+      "slot_order": 34,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "raika_mare-01_icon.webp", "front": "raika_mare-01_front.webp", "back": "raika_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
