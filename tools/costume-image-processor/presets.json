@@ -12197,7 +12197,7 @@
             "height": 195
           }
         },
-        "65_mm-trickstar": {
+        "66_mm-trickstar": {
           "id": "hidaka-hokuto_mm-trickstar-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -12208,7 +12208,7 @@
             "height": 195
           }
         },
-        "66_jinbei-fireworks": {
+        "67_jinbei-fireworks": {
           "id": "hidaka-hokuto_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39905,6 +39905,24 @@
       "items": {
         "63_mare": {
           "id": "mikejima-madara_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
+            "y": 649,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "hidaka-hokuto-wac-mare": {
+      "idol_slug": "hidaka-hokuto",
+      "input_dir": "hidaka-hokuto",
+      "output_dir": "hidaka-hokuto",
+      "items": {
+        "65_mare": {
+          "id": "hidaka-hokuto_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
