@@ -4366,7 +4366,7 @@
             "height": 195
           }
         },
-        "35_eye-fitting": {
+        "36_eye-fitting": {
           "id": "kanna_eye-fitting-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -4377,7 +4377,7 @@
             "height": 300
           }
         },
-        "36_mm-special-for-princess": {
+        "37_mm-special-for-princess": {
           "id": "kanna_mm-special-for-princess-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -4388,7 +4388,7 @@
             "height": 195
           }
         },
-        "37_jinbei-fireworks": {
+        "38_jinbei-fireworks": {
           "id": "kanna_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40162,6 +40162,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1605, "y": 479, "width": 195, "height": 195}
+        }
+      }
+    },
+    "kanna-wac-mare": {
+      "idol_slug": "kanna",
+      "input_dir": "kanna",
+      "output_dir": "kanna",
+      "items": {
+        "35_mare": {
+          "id": "kanna_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1775, "y": 479, "width": 195, "height": 195}
         }
       }
     }

@@ -6698,7 +6698,7 @@
     {
       "id": "kanna_eye-fitting-01",
       "idol_slug": "kanna",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "アイフィッティング衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -6718,7 +6718,7 @@
     {
       "id": "kanna_mm-special-for-princess-01",
       "idol_slug": "kanna",
-      "slot_order": 36,
+      "slot_order": 37,
       "costume_name": "MM Special for Princess!衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -6737,7 +6737,7 @@
     {
       "id": "kanna_jinbei-fireworks-01",
       "idol_slug": "kanna",
-      "slot_order": 37,
+      "slot_order": 38,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68380,6 +68380,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "esu_mare-01_icon.webp", "front": "esu_mare-01_front.webp", "back": "esu_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "kanna_mare-01",
+      "idol_slug": "kanna",
+      "slot_order": 35,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "kanna_mare-01_icon.webp", "front": "kanna_mare-01_front.webp", "back": "kanna_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
