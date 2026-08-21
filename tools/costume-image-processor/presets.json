@@ -39712,7 +39712,7 @@
             "height": 300
           }
         },
-        "64_twilight-idol-scr": {
+        "65_twilight-idol-scr": {
           "id": "suou-tsukasa_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -39723,7 +39723,7 @@
             "height": 300
           }
         },
-        "65_starlight-10th-live-tshirt": {
+        "66_starlight-10th-live-tshirt": {
           "id": "suou-tsukasa_starlight-10th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -40084,6 +40084,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 753,"y": 649,"width": 195,"height": 195}
+        }
+      }
+    },
+    "suou-tsukasa-wac-mare": {
+      "idol_slug": "suou-tsukasa",
+      "input_dir": "suou-tsukasa",
+      "output_dir": "suou-tsukasa",
+      "items": {
+        "64_mare": {
+          "id": "suou-tsukasa_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 583,"y": 649,"width": 195,"height": 195}
         }
       }
     }

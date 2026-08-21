@@ -67823,7 +67823,7 @@
     {
       "id": "suou-tsukasa_twilight-idol-scr-01",
       "idol_slug": "suou-tsukasa",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -67842,7 +67842,7 @@
     {
       "id": "suou-tsukasa_starlight-10th-live-tshirt-01",
       "idol_slug": "suou-tsukasa",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -68302,6 +68302,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "kanzaki-souma_mare-01_icon.webp","front": "kanzaki-souma_mare-01_front.webp","back": "kanzaki-souma_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "suou-tsukasa_mare-01",
+      "idol_slug": "suou-tsukasa",
+      "slot_order": 64,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "suou-tsukasa_mare-01_icon.webp","front": "suou-tsukasa_mare-01_front.webp","back": "suou-tsukasa_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
