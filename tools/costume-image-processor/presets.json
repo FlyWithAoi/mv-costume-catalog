@@ -10152,7 +10152,7 @@
             "height": 195
           }
         },
-        "72_reinvent": {
+        "73_reinvent": {
           "id": "aoba-tsumugi_reinvent-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10163,7 +10163,7 @@
             "height": 195
           }
         },
-        "73_jinbei-fireworks": {
+        "74_jinbei-fireworks": {
           "id": "aoba-tsumugi_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40136,6 +40136,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1093, "y": 649, "width": 195, "height": 195}
+        }
+      }
+    },
+    "aoba-tsumugi-wac-mare": {
+      "idol_slug": "aoba-tsumugi",
+      "input_dir": "aoba-tsumugi",
+      "output_dir": "aoba-tsumugi",
+      "items": {
+        "72_mare": {
+          "id": "aoba-tsumugi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 583, "y": 649, "width": 195, "height": 195}
         }
       }
     }

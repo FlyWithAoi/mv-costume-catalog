@@ -16743,7 +16743,7 @@
     {
       "id": "aoba-tsumugi_reinvent-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 72,
+      "slot_order": 73,
       "costume_name": "Reinvent",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -16763,7 +16763,7 @@
     {
       "id": "aoba-tsumugi_jinbei-fireworks-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 73,
+      "slot_order": 74,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68354,6 +68354,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "sakasaki-natsume_mare-01_icon.webp", "front": "sakasaki-natsume_mare-01_front.webp", "back": "sakasaki-natsume_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "aoba-tsumugi_mare-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 72,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "aoba-tsumugi_mare-01_icon.webp", "front": "aoba-tsumugi_mare-01_front.webp", "back": "aoba-tsumugi_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
