@@ -13608,7 +13608,7 @@
             "height": 195
           }
         },
-        "65_mm-trickstar": {
+        "66_mm-trickstar": {
           "id": "yuuki-makoto_mm-trickstar-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -13619,7 +13619,7 @@
             "height": 195
           }
         },
-        "66_jinbei-fireworks": {
+        "67_jinbei-fireworks": {
           "id": "yuuki-makoto_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39945,6 +39945,24 @@
           "has_body_images": true,
           "icon_crop": {
             "x": 923,
+            "y": 649,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "yuuki-makoto-wac-mare": {
+      "idol_slug": "yuuki-makoto",
+      "input_dir": "yuuki-makoto",
+      "output_dir": "yuuki-makoto",
+      "items": {
+        "65_mare": {
+          "id": "yuuki-makoto_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
             "y": 649,
             "width": 195,
             "height": 195

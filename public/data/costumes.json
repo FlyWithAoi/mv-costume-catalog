@@ -22763,7 +22763,7 @@
     {
       "id": "yuuki-makoto_mm-trickstar-01",
       "idol_slug": "yuuki-makoto",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "MM Trickstar衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -22780,7 +22780,7 @@
     {
       "id": "yuuki-makoto_jinbei-fireworks-01",
       "idol_slug": "yuuki-makoto",
-      "slot_order": 66,
+      "slot_order": 67,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68163,6 +68163,25 @@
         "icon": "akehoshi-subaru_mare-01_icon.webp",
         "front": "akehoshi-subaru_mare-01_front.webp",
         "back": "akehoshi-subaru_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "yuuki-makoto_mare-01",
+      "idol_slug": "yuuki-makoto",
+      "slot_order": 65,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "yuuki-makoto_mare-01_icon.webp",
+        "front": "yuuki-makoto_mare-01_front.webp",
+        "back": "yuuki-makoto_mare-01_back.webp"
       },
       "tags": [
         "交換衣装"
