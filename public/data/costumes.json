@@ -15389,7 +15389,7 @@
     {
       "id": "sakasaki-natsume_geshi-yakaze-01",
       "idol_slug": "sakasaki-natsume",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "夏至夜風衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -15409,7 +15409,7 @@
     {
       "id": "sakasaki-natsume_jinbei-fireworks-01",
       "idol_slug": "sakasaki-natsume",
-      "slot_order": 68,
+      "slot_order": 69,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68341,6 +68341,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "tenma-mitsuru_mare-01_icon.webp", "front": "tenma-mitsuru_mare-01_front.webp", "back": "tenma-mitsuru_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "sakasaki-natsume_mare-01",
+      "idol_slug": "sakasaki-natsume",
+      "slot_order": 67,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "sakasaki-natsume_mare-01_icon.webp", "front": "sakasaki-natsume_mare-01_front.webp", "back": "sakasaki-natsume_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"

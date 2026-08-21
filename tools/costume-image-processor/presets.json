@@ -9375,7 +9375,7 @@
             "height": 195
           }
         },
-        "67_geshi-yakaze": {
+        "68_geshi-yakaze": {
           "id": "sakasaki-natsume_geshi-yakaze-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -12919,7 +12919,7 @@
             "height": 195
           }
         },
-        "68_jinbei-fireworks": {
+        "69_jinbei-fireworks": {
           "id": "akehoshi-subaru_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40123,6 +40123,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1947, "y": 479, "width": 195, "height": 195}
+        }
+      }
+    },
+    "sakasaki-natsume-wac-mare": {
+      "idol_slug": "sakasaki-natsume",
+      "input_dir": "sakasaki-natsume",
+      "output_dir": "sakasaki-natsume",
+      "items": {
+        "67_mare": {
+          "id": "sakasaki-natsume_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1093, "y": 649, "width": 195, "height": 195}
         }
       }
     }
