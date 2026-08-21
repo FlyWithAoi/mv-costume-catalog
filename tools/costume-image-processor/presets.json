@@ -34699,7 +34699,7 @@
             "height": 300
           }
         },
-        "63_twilight-idol-scr": {
+        "64_twilight-idol-scr": {
           "id": "mashiro-tomoya_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -34710,7 +34710,7 @@
             "height": 300
           }
         },
-        "64_starlight-10th": {
+        "65_starlight-10th": {
           "id": "mashiro-tomoya_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -40032,6 +40032,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1435,"y": 479,"width": 195,"height": 195}
+        }
+      }
+    },
+    "mashiro-tomoya-wac-mare": {
+      "idol_slug": "mashiro-tomoya",
+      "input_dir": "mashiro-tomoya",
+      "output_dir": "mashiro-tomoya",
+      "items": {
+        "63_mare": {
+          "id": "mashiro-tomoya_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1947,"y": 479,"width": 195,"height": 195}
         }
       }
     }
