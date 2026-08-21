@@ -35388,7 +35388,7 @@
             "height": 300
           }
         },
-        "64_starlight-10th": {
+        "65_starlight-10th": {
           "id": "nito-nazuna_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -35399,7 +35399,7 @@
             "height": 300
           }
         },
-        "65_newyear-rise-hakugin": {
+        "66_newyear-rise-hakugin": {
           "id": "nito-nazuna_newyear-rise-hakugin-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -40045,6 +40045,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1947,"y": 479,"width": 195,"height": 195}
+        }
+      }
+    },
+    "nito-nazuna-wac-mare": {
+      "idol_slug": "nito-nazuna",
+      "input_dir": "nito-nazuna",
+      "output_dir": "nito-nazuna",
+      "items": {
+        "64_mare": {
+          "id": "nito-nazuna_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1093,"y": 647,"width": 195,"height": 195}
         }
       }
     }

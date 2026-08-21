@@ -60401,7 +60401,7 @@
     {
       "id": "nito-nazuna_starlight-10th-01",
       "idol_slug": "nito-nazuna",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -60421,7 +60421,7 @@
     {
       "id": "nito-nazuna_newyear-rise-hakugin-01",
       "idol_slug": "nito-nazuna",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -68263,6 +68263,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "mashiro-tomoya_mare-01_icon.webp","front": "mashiro-tomoya_mare-01_front.webp","back": "mashiro-tomoya_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "nito-nazuna_mare-01",
+      "idol_slug": "nito-nazuna",
+      "slot_order": 64,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "nito-nazuna_mare-01_icon.webp","front": "nito-nazuna_mare-01_front.webp","back": "nito-nazuna_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
