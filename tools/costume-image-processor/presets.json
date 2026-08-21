@@ -29114,7 +29114,7 @@
             "height": 300
           }
         },
-        "65_anniversary-agent-green": {
+        "66_anniversary-agent-green": {
           "id": "takamine-midori_anniversary-agent-green-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29125,7 +29125,7 @@
             "height": 215
           }
         },
-        "66_jinbei-fireworks": {
+        "67_jinbei-fireworks": {
           "id": "takamine-midori_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39967,6 +39967,19 @@
             "width": 195,
             "height": 195
           }
+        }
+      }
+    },
+    "takamine-midori-wac-mare": {
+      "idol_slug": "takamine-midori",
+      "input_dir": "takamine-midori",
+      "output_dir": "takamine-midori",
+      "items": {
+        "65_mare": {
+          "id": "takamine-midori_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 923,"y": 649,"width": 195,"height": 195}
         }
       }
     }
