@@ -4758,7 +4758,7 @@
             "height": 195
           }
         },
-        "36_mm-special-for-princess": {
+        "37_mm-special-for-princess": {
           "id": "yume_mm-special-for-princess-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -4769,7 +4769,7 @@
             "height": 195
           }
         },
-        "37_jinbei-fireworks": {
+        "38_jinbei-fireworks": {
           "id": "yume_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40175,6 +40175,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1775, "y": 479, "width": 195, "height": 195}
+        }
+      }
+    },
+    "yume-wac-mare": {
+      "idol_slug": "yume",
+      "input_dir": "yume",
+      "output_dir": "yume",
+      "items": {
+        "36_mare": {
+          "id": "yume_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1947, "y": 479, "width": 195, "height": 195}
         }
       }
     }
