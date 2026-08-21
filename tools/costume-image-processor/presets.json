@@ -7275,7 +7275,7 @@
             "height": 195
           }
         },
-        "63_whirlpool": {
+        "64_whirlpool": {
           "id": "aoi-hinata_whirlpool-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -7286,7 +7286,7 @@
             "height": 300
           }
         },
-        "64_jinbei-fireworks": {
+        "65_jinbei-fireworks": {
           "id": "aoi-hinata_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40006,6 +40006,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 583,"y": 649,"width": 195,"height": 195}
+        }
+      }
+    },
+    "aoi-hinata-wac-mare": {
+      "idol_slug": "aoi-hinata",
+      "input_dir": "aoi-hinata",
+      "output_dir": "aoi-hinata",
+      "items": {
+        "63_mare": {
+          "id": "aoi-hinata_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1947,"y": 479,"width": 195,"height": 195}
         }
       }
     }

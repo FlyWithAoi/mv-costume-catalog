@@ -11728,7 +11728,7 @@
     {
       "id": "aoi-hinata_whirlpool-01",
       "idol_slug": "aoi-hinata",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "ワールプール衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -11748,7 +11748,7 @@
     {
       "id": "aoi-hinata_jinbei-fireworks-01",
       "idol_slug": "aoi-hinata",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68224,6 +68224,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "kagehira-mika_mare-01_icon.webp","front": "kagehira-mika_mare-01_front.webp","back": "kagehira-mika_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "aoi-hinata_mare-01",
+      "idol_slug": "aoi-hinata",
+      "slot_order": 63,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "aoi-hinata_mare-01_icon.webp","front": "aoi-hinata_mare-01_front.webp","back": "aoi-hinata_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
