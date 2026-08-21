@@ -3996,7 +3996,7 @@
             "height": 195
           }
         },
-        "34_mm-special-for-princess": {
+        "35_mm-special-for-princess": {
           "id": "esu_mm-special-for-princess-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -4007,7 +4007,7 @@
             "height": 185
           }
         },
-        "35_jinbei-fireworks": {
+        "36_jinbei-fireworks": {
           "id": "esu_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40149,6 +40149,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 583, "y": 649, "width": 195, "height": 195}
+        }
+      }
+    },
+    "esu-wac-mare": {
+      "idol_slug": "esu",
+      "input_dir": "esu",
+      "output_dir": "esu",
+      "items": {
+        "34_mare": {
+          "id": "esu_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1605, "y": 479, "width": 195, "height": 195}
         }
       }
     }

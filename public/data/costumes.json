@@ -6060,7 +6060,7 @@
     {
       "id": "esu_mm-special-for-princess-01",
       "idol_slug": "esu",
-      "slot_order": 34,
+      "slot_order": 35,
       "costume_name": "MM Special for Princess!衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -6079,7 +6079,7 @@
     {
       "id": "esu_jinbei-fireworks-01",
       "idol_slug": "esu",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68367,6 +68367,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "aoba-tsumugi_mare-01_icon.webp", "front": "aoba-tsumugi_mare-01_front.webp", "back": "aoba-tsumugi_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "esu_mare-01",
+      "idol_slug": "esu",
+      "slot_order": 34,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "esu_mare-01_icon.webp", "front": "esu_mare-01_front.webp", "back": "esu_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
