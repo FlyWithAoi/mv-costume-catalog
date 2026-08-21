@@ -9386,7 +9386,7 @@
             "height": 300
           }
         },
-        "68_jinbei-fireworks": {
+        "69_jinbei-fireworks": {
           "id": "sakasaki-natsume_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -12919,7 +12919,7 @@
             "height": 195
           }
         },
-        "69_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "akehoshi-subaru_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -35377,7 +35377,7 @@
             "height": 300
           }
         },
-        "64_twilight-idol-scr": {
+        "63_twilight-idol-scr": {
           "id": "nito-nazuna_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -36066,7 +36066,7 @@
             "height": 300
           }
         },
-        "63_twilight-idol-scr": {
+        "64_twilight-idol-scr": {
           "id": "tenma-mitsuru_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
