@@ -35377,7 +35377,7 @@
             "height": 300
           }
         },
-        "63_twilight-idol-scr": {
+        "64_twilight-idol-scr": {
           "id": "nito-nazuna_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -36077,7 +36077,7 @@
             "height": 300
           }
         },
-        "64_manka-solidarity": {
+        "65_manka-solidarity": {
           "id": "tenma-mitsuru_manka-solidarity-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -36088,7 +36088,7 @@
             "height": 300
           }
         },
-        "65_starlight-10th": {
+        "66_starlight-10th": {
           "id": "tenma-mitsuru_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -40110,6 +40110,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1435,"y": 479,"width": 195,"height": 195}
+        }
+      }
+    },
+    "tenma-mitsuru-wac-mare": {
+      "idol_slug": "tenma-mitsuru",
+      "input_dir": "tenma-mitsuru",
+      "output_dir": "tenma-mitsuru",
+      "items": {
+        "63_mare": {
+          "id": "tenma-mitsuru_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 1947, "y": 479, "width": 195, "height": 195}
         }
       }
     }

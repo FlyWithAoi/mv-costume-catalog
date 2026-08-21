@@ -61542,7 +61542,7 @@
     {
       "id": "tenma-mitsuru_twilight-idol-scr-01",
       "idol_slug": "tenma-mitsuru",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -61561,7 +61561,7 @@
     {
       "id": "tenma-mitsuru_manka-solidarity-01",
       "idol_slug": "tenma-mitsuru",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "万華ソリダリティー衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -61581,7 +61581,7 @@
     {
       "id": "tenma-mitsuru_starlight-10th-01",
       "idol_slug": "tenma-mitsuru",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -68328,6 +68328,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "narukami-arashi_mare-01_icon.webp","front": "narukami-arashi_mare-01_front.webp","back": "narukami-arashi_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "tenma-mitsuru_mare-01",
+      "idol_slug": "tenma-mitsuru",
+      "slot_order": 63,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "tenma-mitsuru_mare-01_icon.webp", "front": "tenma-mitsuru_mare-01_front.webp", "back": "tenma-mitsuru_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
