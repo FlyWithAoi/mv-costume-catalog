@@ -8653,7 +8653,7 @@
             "height": 300
           }
         },
-        "63_anniversary-agent-red": {
+        "64_anniversary-agent-red": {
           "id": "kagehira-mika_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -8664,7 +8664,7 @@
             "height": 195
           }
         },
-        "64_jinbei-fireworks": {
+        "65_jinbei-fireworks": {
           "id": "kagehira-mika_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39993,6 +39993,19 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {"x": 1265,"y": 479,"width": 195,"height": 195}
+        }
+      }
+    },
+    "kagehira-mika-wac-mare": {
+      "idol_slug": "kagehira-mika",
+      "input_dir": "kagehira-mika",
+      "output_dir": "kagehira-mika",
+      "items": {
+        "63_mare": {
+          "id": "kagehira-mika_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {"x": 583,"y": 649,"width": 195,"height": 195}
         }
       }
     }

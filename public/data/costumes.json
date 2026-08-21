@@ -14132,7 +14132,7 @@
     {
       "id": "kagehira-mika_anniversary-agent-red-01",
       "idol_slug": "kagehira-mika",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -14152,7 +14152,7 @@
     {
       "id": "kagehira-mika_jinbei-fireworks-01",
       "idol_slug": "kagehira-mika",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68211,6 +68211,19 @@
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {"icon": "sengoku-shinobu_mare-01_icon.webp","front": "sengoku-shinobu_mare-01_front.webp","back": "sengoku-shinobu_mare-01_back.webp"},
+      "tags": ["交換衣装"],
+      "note_public": "",
+      "updated_at": "2026-08-22"
+    },
+    {
+      "id": "kagehira-mika_mare-01",
+      "idol_slug": "kagehira-mika",
+      "slot_order": 63,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "kagehira-mika_mare-01_icon.webp","front": "kagehira-mika_mare-01_front.webp","back": "kagehira-mika_mare-01_back.webp"},
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
