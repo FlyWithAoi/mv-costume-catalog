@@ -12908,7 +12908,7 @@
             "height": 195
           }
         },
-        "66_mm-trickstar": {
+        "67_mm-trickstar": {
           "id": "akehoshi-subaru_mm-trickstar-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -12919,7 +12919,7 @@
             "height": 195
           }
         },
-        "67_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "akehoshi-subaru_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39927,6 +39927,24 @@
           "has_body_images": true,
           "icon_crop": {
             "x": 753,
+            "y": 649,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "akehoshi-subaru-wac-mare": {
+      "idol_slug": "akehoshi-subaru",
+      "input_dir": "akehoshi-subaru",
+      "output_dir": "akehoshi-subaru",
+      "items": {
+        "66_mare": {
+          "id": "akehoshi-subaru_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
             "y": 649,
             "width": 195,
             "height": 195
