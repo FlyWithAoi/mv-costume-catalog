@@ -3209,7 +3209,7 @@
             "height": 195
           }
         },
-        "18_terra": {
+        "19_terra": {
           "id": "madoka-nozomi_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39820,6 +39820,24 @@
           "icon_crop": {
             "x": 923,
             "y": 649,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "madoka-nozomi-wac-mare": {
+      "idol_slug": "madoka-nozomi",
+      "input_dir": "madoka-nozomi",
+      "output_dir": "madoka-nozomi",
+      "items": {
+        "18_mare": {
+          "id": "madoka-nozomi_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 628,
             "width": 195,
             "height": 195
           }

@@ -4708,7 +4708,7 @@
     {
       "id": "madoka-nozomi_terra-01",
       "idol_slug": "madoka-nozomi",
-      "slot_order": 18,
+      "slot_order": 19,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -68030,6 +68030,25 @@
         "icon": "kiryuu-kurou_mare-01_icon.webp",
         "front": "kiryuu-kurou_mare-01_front.webp",
         "back": "kiryuu-kurou_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "madoka-nozomi_mare-01",
+      "idol_slug": "madoka-nozomi",
+      "slot_order": 18,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "madoka-nozomi_mare-01_icon.webp",
+        "front": "madoka-nozomi_mare-01_front.webp",
+        "back": "madoka-nozomi_mare-01_back.webp"
       },
       "tags": [
         "交換衣装"
