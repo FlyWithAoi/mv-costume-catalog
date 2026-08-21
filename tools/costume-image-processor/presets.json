@@ -21121,7 +21121,7 @@
             "height": 195
           }
         },
-        "49_jinbei-fireworks": {
+        "50_jinbei-fireworks": {
           "id": "kiryuu-kurou_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39802,6 +39802,24 @@
           "icon_crop": {
             "x": 1775,
             "y": 475,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "kiryuu-kurou-wac-mare": {
+      "idol_slug": "kiryuu-kurou",
+      "input_dir": "kiryuu-kurou",
+      "output_dir": "kiryuu-kurou",
+      "items": {
+        "49_mare": {
+          "id": "kiryuu-kurou_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 923,
+            "y": 649,
             "width": 195,
             "height": 195
           }
