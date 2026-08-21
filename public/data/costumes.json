@@ -17943,7 +17943,7 @@
     {
       "id": "harukawa-sora_jinbei-fireworks-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68087,6 +68087,25 @@
         "icon": "tsuzura-chitose_mare-01_icon.webp",
         "front": "tsuzura-chitose_mare-01_front.webp",
         "back": "tsuzura-chitose_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "harukawa-sora_mare-01",
+      "idol_slug": "harukawa-sora",
+      "slot_order": 64,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_mare-01_icon.webp",
+        "front": "harukawa-sora_mare-01_front.webp",
+        "back": "harukawa-sora_mare-01_back.webp"
       },
       "tags": [
         "交換衣装"

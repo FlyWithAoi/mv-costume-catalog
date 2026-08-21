@@ -10841,7 +10841,7 @@
             "height": 195
           }
         },
-        "64_jinbei-fireworks": {
+        "65_jinbei-fireworks": {
           "id": "harukawa-sora_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39874,6 +39874,24 @@
           "icon_crop": {
             "x": 583,
             "y": 628,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "harukawa-sora-wac-mare": {
+      "idol_slug": "harukawa-sora",
+      "input_dir": "harukawa-sora",
+      "output_dir": "harukawa-sora",
+      "items": {
+        "64_mare": {
+          "id": "harukawa-sora_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 583,
+            "y": 649,
             "width": 195,
             "height": 195
           }
