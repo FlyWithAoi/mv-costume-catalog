@@ -3487,7 +3487,7 @@
             "height": 195
           }
         },
-        "17_terra": {
+        "18_terra": {
           "id": "kuon-mashu_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39748,6 +39748,24 @@
           "icon_crop": {
             "x": 1093,
             "y": 475,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "kuon-mashu-wac-caelum": {
+      "idol_slug": "kuon-mashu",
+      "input_dir": "kuon-mashu",
+      "output_dir": "kuon-mashu",
+      "items": {
+        "17_caelum": {
+          "id": "kuon-mashu_caelum-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1775,
+            "y": 465,
             "width": 195,
             "height": 195
           }

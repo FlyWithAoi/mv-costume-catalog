@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-21",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -5180,7 +5180,7 @@
     {
       "id": "kuon-mashu_terra-01",
       "idol_slug": "kuon-mashu",
-      "slot_order": 17,
+      "slot_order": 18,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -67960,6 +67960,25 @@
       ],
       "note_public": "",
       "updated_at": "2026-08-17"
+    },
+    {
+      "id": "kuon-mashu_caelum-01",
+      "idol_slug": "kuon-mashu",
+      "slot_order": 17,
+      "costume_name": "Caelum",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "kuon-mashu_caelum-01_icon.webp",
+        "front": "kuon-mashu_caelum-01_front.webp",
+        "back": "kuon-mashu_caelum-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
     }
   ]
 }
