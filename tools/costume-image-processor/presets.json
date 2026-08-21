@@ -11508,7 +11508,7 @@
             "height": 195
           }
         },
-        "63_jinbei-fireworks": {
+        "64_jinbei-fireworks": {
           "id": "mikejima-madara_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39891,6 +39891,24 @@
           "has_body_images": true,
           "icon_crop": {
             "x": 583,
+            "y": 649,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "mikejima-madara-wac-mare": {
+      "idol_slug": "mikejima-madara",
+      "input_dir": "mikejima-madara",
+      "output_dir": "mikejima-madara",
+      "items": {
+        "63_mare": {
+          "id": "mikejima-madara_mare-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 753,
             "y": 649,
             "width": 195,
             "height": 195

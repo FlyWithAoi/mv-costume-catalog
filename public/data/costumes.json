@@ -19100,7 +19100,7 @@
     {
       "id": "mikejima-madara_jinbei-fireworks-01",
       "idol_slug": "mikejima-madara",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68106,6 +68106,25 @@
         "icon": "harukawa-sora_mare-01_icon.webp",
         "front": "harukawa-sora_mare-01_front.webp",
         "back": "harukawa-sora_mare-01_back.webp"
+      },
+      "tags": [
+        "交換衣装"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-21"
+    },
+    {
+      "id": "mikejima-madara_mare-01",
+      "idol_slug": "mikejima-madara",
+      "slot_order": 63,
+      "costume_name": "Mare",
+      "costume_group": "exchange",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_mare-01_icon.webp",
+        "front": "mikejima-madara_mare-01_front.webp",
+        "back": "mikejima-madara_mare-01_back.webp"
       },
       "tags": [
         "交換衣装"
