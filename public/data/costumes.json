@@ -57194,17 +57194,17 @@
       "updated_at": "2026-08-13"
     },
     {
-      "id": "sakuma-rei_nocturne-jump-01",
+      "id": "sakuma-rei_nocturne-vamp-01",
       "idol_slug": "sakuma-rei",
       "slot_order": 11,
-      "costume_name": "ノクターンジャンプ",
+      "costume_name": "ノクターンヴァンプ",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
       "images": {
-        "icon": "sakuma-rei_nocturne-jump-01_icon.webp",
-        "front": "sakuma-rei_nocturne-jump-01_front.webp",
-        "back": "sakuma-rei_nocturne-jump-01_back.webp"
+        "icon": "sakuma-rei_nocturne-vamp-01_icon.webp",
+        "front": "sakuma-rei_nocturne-vamp-01_front.webp",
+        "back": "sakuma-rei_nocturne-vamp-01_back.webp"
       },
       "tags": [
         "暫定分類"
