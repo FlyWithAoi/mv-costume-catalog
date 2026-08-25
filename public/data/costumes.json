@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21",
+  "updated_at": "2026-08-25",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -68422,6 +68422,32 @@
       "tags": ["交換衣装"],
       "note_public": "",
       "updated_at": "2026-08-22"
+    },
+    {
+      "id": "mikejima-madara_paradise-01",
+      "idol_slug": "mikejima-madara",
+      "slot_order": 65,
+      "costume_name": "パラダイス",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {"icon": "mikejima-madara_paradise-01_icon.webp", "front": "mikejima-madara_paradise-01_front.webp", "back": "mikejima-madara_paradise-01_back.webp"},
+      "tags": ["暫定分類", "カード衣装"],
+      "note_public": "カード未所持のためリクエスト不可。スカウト試着画像を使用。",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "hakaze-kaoru_iridescent-light-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 69,
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {"icon": "hakaze-kaoru_iridescent-light-01_icon.webp", "front": "hakaze-kaoru_iridescent-light-01_front.webp", "back": "hakaze-kaoru_iridescent-light-01_back.webp"},
+      "tags": ["暫定分類", "カード衣装"],
+      "note_public": "カード未所持のためリクエスト不可。スカウト試着画像を使用。",
+      "updated_at": "2026-08-25"
     }
   ]
 }

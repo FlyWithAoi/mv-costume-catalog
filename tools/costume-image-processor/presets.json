@@ -40203,6 +40203,42 @@
           "icon_crop": {"x": 1605, "y": 479, "width": 195, "height": 195}
         }
       }
+    },
+    "mikejima-madara-slots-65-65": {
+      "idol_slug": "mikejima-madara",
+      "input_dir": "mikejima-madara",
+      "output_dir": "mikejima-madara",
+      "items": {
+        "65_paradise": {
+          "id": "mikejima-madara_paradise-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "hakaze-kaoru-slots-69-69": {
+      "idol_slug": "hakaze-kaoru",
+      "input_dir": "hakaze-kaoru",
+      "output_dir": "hakaze-kaoru",
+      "items": {
+        "69_iridescent-light": {
+          "id": "hakaze-kaoru_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
     }
   }
 }
