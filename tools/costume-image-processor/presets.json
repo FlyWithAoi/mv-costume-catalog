@@ -7986,7 +7986,7 @@
             "height": 195
           }
         },
-        "66_jinbei-fireworks": {
+        "67_jinbei-fireworks": {
           "id": "itsuki-shu_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -8664,7 +8664,7 @@
             "height": 195
           }
         },
-        "65_jinbei-fireworks": {
+        "66_jinbei-fireworks": {
           "id": "kagehira-mika_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40305,6 +40305,42 @@
           "has_body_images": true,
           "icon_crop": {
             "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "kagehira-mika-slots-65-65": {
+      "idol_slug": "kagehira-mika",
+      "input_dir": "kagehira-mika",
+      "output_dir": "kagehira-mika",
+      "items": {
+        "65_mm-valkyrie": {
+          "id": "kagehira-mika_mm-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "itsuki-shu-slots-66-66": {
+      "idol_slug": "itsuki-shu",
+      "input_dir": "itsuki-shu",
+      "output_dir": "itsuki-shu",
+      "items": {
+        "66_mm-valkyrie": {
+          "id": "itsuki-shu_mm-valkyrie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
             "y": 630,
             "width": 195,
             "height": 195
