@@ -68448,6 +68448,58 @@
       "tags": ["暫定分類", "カード衣装"],
       "note_public": "カード未所持のためリクエスト不可。スカウト試着画像を使用。",
       "updated_at": "2026-08-25"
+    },
+    {
+      "id": "kuon-mashu_mm-mellow-dear-us-01",
+      "idol_slug": "kuon-mashu",
+      "slot_order": 20,
+      "costume_name": "MM MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "kuon-mashu_mm-mellow-dear-us-01_icon.webp", "front": "kuon-mashu_mm-mellow-dear-us-01_front.webp", "back": "kuon-mashu_mm-mellow-dear-us-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "kojika-juisu_mm-mellow-dear-us-01",
+      "idol_slug": "kojika-juisu",
+      "slot_order": 20,
+      "costume_name": "MM MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "kojika-juisu_mm-mellow-dear-us-01_icon.webp", "front": "kojika-juisu_mm-mellow-dear-us-01_front.webp", "back": "kojika-juisu_mm-mellow-dear-us-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "madoka-nozomi_mm-mellow-dear-us-01",
+      "idol_slug": "madoka-nozomi",
+      "slot_order": 20,
+      "costume_name": "MM MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "madoka-nozomi_mm-mellow-dear-us-01_icon.webp", "front": "madoka-nozomi_mm-mellow-dear-us-01_front.webp", "back": "madoka-nozomi_mm-mellow-dear-us-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-25"
+    },
+    {
+      "id": "tsuzura-chitose_mm-mellow-dear-us-01",
+      "idol_slug": "tsuzura-chitose",
+      "slot_order": 20,
+      "costume_name": "MM MELLOW DEAR US衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "tsuzura-chitose_mm-mellow-dear-us-01_icon.webp", "front": "tsuzura-chitose_mm-mellow-dear-us-01_front.webp", "back": "tsuzura-chitose_mm-mellow-dear-us-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-25"
     }
   ]
 }

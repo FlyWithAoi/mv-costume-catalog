@@ -40239,6 +40239,78 @@
           }
         }
       }
+    },
+    "kuon-mashu-slots-20-20": {
+      "idol_slug": "kuon-mashu",
+      "input_dir": "kuon-mashu",
+      "output_dir": "kuon-mashu",
+      "items": {
+        "20_mm-mellow-dear-us": {
+          "id": "kuon-mashu_mm-mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "kojika-juisu-slots-20-20": {
+      "idol_slug": "kojika-juisu",
+      "input_dir": "kojika-juisu",
+      "output_dir": "kojika-juisu",
+      "items": {
+        "20_mm-mellow-dear-us": {
+          "id": "kojika-juisu_mm-mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "madoka-nozomi-slots-20-20": {
+      "idol_slug": "madoka-nozomi",
+      "input_dir": "madoka-nozomi",
+      "output_dir": "madoka-nozomi",
+      "items": {
+        "20_mm-mellow-dear-us": {
+          "id": "madoka-nozomi_mm-mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
+    },
+    "tsuzura-chitose-slots-20-20": {
+      "idol_slug": "tsuzura-chitose",
+      "input_dir": "tsuzura-chitose",
+      "output_dir": "tsuzura-chitose",
+      "items": {
+        "20_mm-mellow-dear-us": {
+          "id": "tsuzura-chitose_mm-mellow-dear-us-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 630,
+            "width": 195,
+            "height": 195
+          }
+        }
+      }
     }
   }
 }
