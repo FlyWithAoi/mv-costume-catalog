@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25",
+  "updated_at": "2026-08-26",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -68526,6 +68526,45 @@
       "tags": [],
       "note_public": "",
       "updated_at": "2026-08-25"
+    },
+    {
+      "id": "sakuma-ritsu_homie-01",
+      "idol_slug": "sakuma-ritsu",
+      "slot_order": 72,
+      "costume_name": "Homie",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "sakuma-ritsu_homie-01_icon.webp", "front": "sakuma-ritsu_homie-01_front.webp", "back": "sakuma-ritsu_homie-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-26"
+    },
+    {
+      "id": "fushimi-yuzuru_iridescent-light-01",
+      "idol_slug": "fushimi-yuzuru",
+      "slot_order": 68,
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "fushimi-yuzuru_iridescent-light-01_icon.webp", "front": "fushimi-yuzuru_iridescent-light-01_front.webp", "back": "fushimi-yuzuru_iridescent-light-01_back.webp"},
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-26"
+    },
+    {
+      "id": "fushimi-yuzuru_iridescent-light-scr-01",
+      "idol_slug": "fushimi-yuzuru",
+      "slot_order": 69,
+      "costume_name": "イリディセントライト (SCR)",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {"icon": "fushimi-yuzuru_iridescent-light-scr-01_icon.webp", "front": "fushimi-yuzuru_iridescent-light-scr-01_front.webp", "back": "fushimi-yuzuru_iridescent-light-scr-01_back.webp"},
+      "tags": ["SCR"],
+      "note_public": "",
+      "updated_at": "2026-08-26"
     }
   ]
 }

@@ -40347,6 +40347,53 @@
           }
         }
       }
+    },
+    "fushimi-yuzuru-slots-68-69": {
+      "idol_slug": "fushimi-yuzuru",
+      "input_dir": "fushimi-yuzuru",
+      "output_dir": "fushimi-yuzuru",
+      "items": {
+        "68_iridescent-light": {
+          "id": "fushimi-yuzuru_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1110,
+            "y": 500,
+            "width": 165,
+            "height": 165
+          }
+        },
+        "69_iridescent-light-scr": {
+          "id": "fushimi-yuzuru_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1450,
+            "y": 500,
+            "width": 165,
+            "height": 165
+          }
+        }
+      }
+    },
+    "sakuma-ritsu-slots-72-72": {
+      "idol_slug": "sakuma-ritsu",
+      "input_dir": "sakuma-ritsu",
+      "output_dir": "sakuma-ritsu",
+      "items": {
+        "72_homie": {
+          "id": "sakuma-ritsu_homie-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1785,
+            "y": 500,
+            "width": 165,
+            "height": 165
+          }
+        }
+      }
     }
   }
 }
