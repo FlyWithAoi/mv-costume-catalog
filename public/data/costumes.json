@@ -68566,5 +68566,42 @@
       "note_public": "",
       "updated_at": "2026-08-26"
     }
+    ,
+    {
+      "id": "mikejima-madara_iridescent-light-01",
+      "idol_slug": "mikejima-madara",
+      "slot_order": 66,
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_iridescent-light-01_icon.webp",
+        "front": "mikejima-madara_iridescent-light-01_front.webp",
+        "back": "mikejima-madara_iridescent-light-01_back.webp"
+      },
+      "tags": [],
+      "note_public": "",
+      "updated_at": "2026-08-26"
+    },
+    {
+      "id": "mikejima-madara_iridescent-light-scr-01",
+      "idol_slug": "mikejima-madara",
+      "slot_order": 67,
+      "costume_name": "イリディセントライト (SCR)",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "mikejima-madara_iridescent-light-scr-01_icon.webp",
+        "front": "mikejima-madara_iridescent-light-scr-01_front.webp",
+        "back": "mikejima-madara_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-08-26"
+    }
   ]
 }

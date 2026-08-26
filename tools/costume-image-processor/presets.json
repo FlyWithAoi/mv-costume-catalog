@@ -40395,5 +40395,35 @@
         }
       }
     }
+    ,
+    "mikejima-madara-slots-66-67": {
+      "idol_slug": "mikejima-madara",
+      "input_dir": "mikejima-madara",
+      "output_dir": "mikejima-madara",
+      "items": {
+        "66_iridescent-light": {
+          "id": "mikejima-madara_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 760,
+            "y": 500,
+            "width": 165,
+            "height": 165
+          }
+        },
+        "67_iridescent-light-scr": {
+          "id": "mikejima-madara_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1100,
+            "y": 500,
+            "width": 165,
+            "height": 165
+          }
+        }
+      }
+    }
   }
 }
