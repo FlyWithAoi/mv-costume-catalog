@@ -20600,7 +20600,7 @@
         "67_diverse": {
           "id": "hasumi-keito_diverse-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,

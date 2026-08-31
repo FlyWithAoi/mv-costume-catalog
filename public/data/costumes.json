@@ -34931,15 +34931,15 @@
       "requestable": false,
       "images": {
         "icon": "hasumi-keito_diverse-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hasumi-keito_diverse-01_front.webp",
+        "back": "hasumi-keito_diverse-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-25"
+      "note_public": "カード未所持のためリクエスト不可。スカウト試着画像を使用。",
+      "updated_at": "2026-08-31"
     },
     {
       "id": "hasumi-keito_jinbei-fireworks-01",
