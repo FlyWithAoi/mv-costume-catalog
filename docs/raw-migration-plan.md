@@ -185,7 +185,7 @@ MELLOW DEAR USの例:
 1. **バックアップ**: `_private/raw_screenshots/` 全体を `_private/raw_screenshots_backup_YYYYMMDD/` へ丸ごとコピーする。
 2. **新フォルダへコピー**: 各 `*_test` の中身を新しい collection 名フォルダへ**コピー**する（move ではなく copy）。旧 `*_test` フォルダはこの時点では削除しない。コピーと同時に、サブフォルダ名を移行表の新名にリネームする。
 3. **`presets.json` 更新**: `collections` キーと `items` キーだけを新しい名前に合わせて変更する（`id` / `output_dir` / `icon_crop` は変更しない）。この編集は別途ユーザーの承認を得たうえで行う。
-4. **debug検証**: `python tools/costume-image-processor/process_images.py --debug` を実行し、`tools/costume-image-processor/debug/` の枠（赤枠・オレンジ枠）が従来どおり衣装アイコンを囲んでいるか目視確認する。
+4. **debug検証**: `python tools/costume-image-processor/process_images.py --all --debug` を実行し、`tools/costume-image-processor/debug/` の枠（赤枠・オレンジ枠）が従来どおり衣装アイコンを囲んでいるか目視確認する。
 5. **本番生成**: `--debug` なしで実行し、出力 webp のファイル名・内容が従来と変わっていないことを確認する（`id` が不変なので、実質「差分が無いこと」を確認する作業になる）。
 6. **表示確認**: ローカルサーバーで表示を確認する（`docs/publish-checklist.md` 2章の手順）。
    ```powershell

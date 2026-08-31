@@ -540,6 +540,24 @@ def dry_run_report(manifest, errors, warnings, plan, ctx):
 # ---------------------------------------------------------------------------
 # apply（rawへの安全コピー）
 # ---------------------------------------------------------------------------
+def _path_for_log(path, ctx):
+    """project root 配下のパスをportableなPOSIX相対パスにする。"""
+    if path is None:
+        return None
+    candidate = Path(path)
+    try:
+        return candidate.resolve().relative_to(ctx.project_root.resolve()).as_posix()
+    except ValueError:
+        # project外のmanifestはmachine固有の親パスを記録しない。
+        return candidate.name
+
+
+def _message_for_log(message, ctx):
+    """エラー文中のproject root absolute pathをportableにする。"""
+    root = str(ctx.project_root.resolve())
+    return str(message).replace(root, ".")
+
+
 def apply_plan(manifest, plan, ctx):
     """検証済み plan を raw へコピーする。コピーのみ・上書きなし。
 
@@ -553,7 +571,7 @@ def apply_plan(manifest, plan, ctx):
 
     log = {
         "status": "in_progress",
-        "manifest": manifest.get("_path"),
+        "manifest": _path_for_log(manifest.get("_path"), ctx),
         "idol_slug": manifest.get("idol_slug"),
         "started_at": datetime.now().isoformat(timespec="seconds"),
         "copied": [],
@@ -566,6 +584,16 @@ def apply_plan(manifest, plan, ctx):
     write_log()
     copied = []
     try:
+        # CLI / GUI 以外の呼び出し元からも、検証エラーを含む部分planを
+        # 誤って適用できないようにする。apply直前の状態で再構築したplanを使う。
+        validation_errors, _, validated_plan = validate_manifest(manifest, ctx)
+        if validation_errors:
+            raise ManifestError(
+                "apply直前のmanifest検証に失敗しました: "
+                + "; ".join(validation_errors)
+            )
+        plan = validated_plan
+
         # 実行直前の最終チェック（検証後に状況が変わっていないか）
         for p in plan:
             for src, dst in p.copies:
@@ -578,14 +606,17 @@ def apply_plan(manifest, plan, ctx):
             for src, dst in p.copies:
                 shutil.copy2(src, dst)
                 copied.append((src, dst))
-                log["copied"].append({"src": str(src), "dst": str(dst)})
+                log["copied"].append({
+                    "src": _path_for_log(src, ctx),
+                    "dst": _path_for_log(dst, ctx),
+                })
                 write_log()
         log["status"] = "completed"
         log["finished_at"] = datetime.now().isoformat(timespec="seconds")
         write_log()
     except Exception as e:
         log["status"] = "failed"
-        log["error"] = str(e)
+        log["error"] = _message_for_log(e, ctx)
         write_log()
         raise
     return copied, log_path
@@ -605,7 +636,10 @@ def completed_log_dsts(ctx):
         if log.get("status") == "completed":
             for c in log.get("copied", []):
                 try:
-                    dsts.add(str(Path(c["dst"]).resolve()))
+                    dst = Path(c["dst"])
+                    if not dst.is_absolute():
+                        dst = ctx.project_root / dst
+                    dsts.add(str(dst.resolve()))
                 except (KeyError, OSError):
                     continue
     return dsts

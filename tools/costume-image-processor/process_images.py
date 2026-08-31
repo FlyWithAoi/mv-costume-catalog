@@ -18,10 +18,10 @@ MV衣装カタログ Phase 2: 画像加工CLIスクリプト
 
 使い方:
     cd L:\\Studio\\02_Projects\\FlyWithAoi\\mv-costume-catalog
-    python tools/costume-image-processor/process_images.py
+    python tools/costume-image-processor/process_images.py --all
 
     # 座標・検出範囲を枠で描いた確認画像を出力する
-    python tools/costume-image-processor/process_images.py --debug
+    python tools/costume-image-processor/process_images.py --all --debug
 
 必要ライブラリ: Pillow ( pip install pillow )
 """
@@ -257,8 +257,13 @@ def debug_body(src_path, prefix, kind, presets):
 
 
 # ---------------------------------------------------------------------------
-def main():
+def parse_args(argv=None):
     parser = argparse.ArgumentParser(description="MV衣装カタログ 画像加工スクリプト")
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="presets.json の全 collection を処理する",
+    )
     parser.add_argument(
         "--debug",
         action="store_true",
@@ -293,11 +298,21 @@ def main():
         action="store_true",
         help="出力先WebPが既にあるものはスキップする",
     )
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
+
+    if not (args.all or args.collection or args.item):
+        parser.error("処理対象を --all / --collection / --item のいずれかで明示してください")
+    if args.all and (args.collection or args.item):
+        parser.error("--all は --collection / --item と同時に指定できません")
 
     if args.icons_only and args.body_only:
-        print("[エラー] --icons-only と --body-only は同時に指定できません。")
-        sys.exit(1)
+        parser.error("--icons-only と --body-only は同時に指定できません")
+
+    return args
+
+
+def main(argv=None):
+    args = parse_args(argv)
 
     print("=" * 60)
     print("MV衣装カタログ Phase 2: 画像加工スクリプト" + ("  [DEBUGモード]" if args.debug else ""))

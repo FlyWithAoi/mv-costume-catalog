@@ -81,12 +81,12 @@
    - `icon_mode`（通常一覧画面なら `auto_selected_card`、詳細ポップアップなど自動検出できない画面なら `manual_crop`）
    - `icon_crop`（フォールバック用、または manual_crop の実座標）
    - `has_body_images`
-4. `python tools/costume-image-processor/process_images.py --debug` を実行し、`tools/costume-image-processor/debug/` の画像で切り抜き範囲を確認する
+4. `python tools/costume-image-processor/process_images.py --all --debug` を実行し、`tools/costume-image-processor/debug/` の画像で切り抜き範囲を確認する
    - 青枠 = 自動検出の探索範囲
    - 赤枠 = 自動検出できた範囲
    - オレンジ枠 = 手動座標（フォールバック or manual_crop）
    - ズレていたら `presets.json` を調整して再実行
-5. 問題なければ `python tools/costume-image-processor/process_images.py`（`--debug` なし）を実行し、本番用WebPを生成する
+5. 問題なければ `python tools/costume-image-processor/process_images.py --all`（`--debug` なし）を実行し、本番用WebPを生成する
 6. `public/data/costumes.json` の `costumes` 配列に、その衣装のレコードを追加する
    - `images.icon` / `images.front` / `images.back` のファイル名を、実際に生成されたWebPファイル名と一致させる
 7. ローカルサーバーで表示確認する

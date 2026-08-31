@@ -106,10 +106,10 @@ http://localhost:8000/
 
 1. [ ] screenshot-renamer で `_private/raw_screenshots/{collection}/{item}/` に `select.png` / `front.png` / `back.png` を配置した
 2. [ ] `tools/costume-image-processor/presets.json` に collection / item を追加した
-3. [ ] `python tools/costume-image-processor/process_images.py --debug` を実行した
+3. [ ] `python tools/costume-image-processor/process_images.py --all --debug` を実行した
 4. [ ] `tools/costume-image-processor/debug/` の debug 画像で、アイコン切り抜き位置を目視確認した（赤枠が選択中カードを囲んでいるか）
 5. [ ] 誤検出があれば `manual_crop` に切り替えて再確認した
-6. [ ] `python tools/costume-image-processor/process_images.py`（`--debug` なし）で本番用 WebP を生成した
+6. [ ] `python tools/costume-image-processor/process_images.py --all`（`--debug` なし）で本番用 WebP を生成した
 7. [ ] `public/images/costumes/{idol_slug}/` に WebP 画像が出力されたことを確認した
 8. [ ] `public/data/costumes.json` にレコードを追加した
 9. [ ] 必要なら `public/data/idols.json` / `units.json` を追加・更新した

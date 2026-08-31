@@ -31,7 +31,7 @@ pip install pillow
 
 ```
 cd L:\Studio\02_Projects\FlyWithAoi\mv-costume-catalog
-python tools/costume-image-processor/process_images.py
+python tools/costume-image-processor/process_images.py --all
 ```
 
 実行すると、処理したファイルとスキップした項目が一覧表示されます。
@@ -49,7 +49,7 @@ python tools/costume-image-processor/process_images.py
 5. 赤枠がOKになったら、`--debug` なしで本番実行してWebPを生成する
 
 ```
-python tools/costume-image-processor/process_images.py --debug
+python tools/costume-image-processor/process_images.py --all --debug
 ```
 
 ---
@@ -182,7 +182,7 @@ select.png からミニアイコンを切り抜きます。切り抜き方法は
 ## --debug モード（座標調整用）
 
 ```
-python tools/costume-image-processor/process_images.py --debug
+python tools/costume-image-processor/process_images.py --all --debug
 ```
 
 元画像に、現在の切り抜き範囲・探索範囲を枠で描いた確認画像を出力します。
@@ -229,6 +229,7 @@ python tools/costume-image-processor/process_images.py --debug
 ## 注意
 
 - 入力ファイルが無い場合はエラーで止まらず、警告を出してスキップします
+- 全 collection を処理する場合は `--all`、対象を限定する場合は `--collection` または `--item` を必ず指定します
 - `05_locked` は front/back が無い前提なので、icon のみ生成されます
 - 出力される WebP には元スクショのメタデータは引き継がれません
 - 生成した画像は `public/` 配下なので、これは**公開対象**です（元スクショの `_private/` とは別）

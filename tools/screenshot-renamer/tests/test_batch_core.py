@@ -241,7 +241,23 @@ class BatchCoreTest(unittest.TestCase):
         log = json.loads(log_path.read_text(encoding="utf-8"))
         self.assertEqual(log["status"], "completed")
         self.assertEqual(len(log["copied"]), 4)
+        for entry in log["copied"]:
+            self.assertFalse(Path(entry["src"]).is_absolute())
+            self.assertFalse(Path(entry["dst"]).is_absolute())
+            self.assertIn("/", entry["src"])
+            self.assertIn("/", entry["dst"])
         self.assertEqual(core.find_incomplete_logs(self.ctx), [])
+
+    def test_completed_log_dsts_accepts_legacy_absolute_paths(self):
+        dst = (self.root / "_private" / "raw_screenshots"
+               / "test-idol" / "01_owned-a" / "select.png").resolve()
+        self.ctx.log_dir.mkdir(parents=True)
+        (self.ctx.log_dir / "legacy.json").write_text(json.dumps({
+            "status": "completed",
+            "copied": [{"src": str(self.inbox / "s1.png"), "dst": str(dst)}],
+        }), encoding="utf-8")
+
+        self.assertIn(str(dst), core.completed_log_dsts(self.ctx))
 
     def test_apply_never_overwrites(self):
         m = base_manifest()
@@ -253,6 +269,25 @@ class BatchCoreTest(unittest.TestCase):
         with self.assertRaises(core.ManifestError):
             core.apply_plan(m, plan, self.ctx)
         self.assertEqual(dest.read_bytes(), b"sentinel")
+        bad = core.find_incomplete_logs(self.ctx)
+        self.assertEqual(len(bad), 1)
+        self.assertEqual(bad[0][1], "failed")
+        failed_log = json.loads(bad[0][0].read_text(encoding="utf-8"))
+        self.assertNotIn(str(self.root.resolve()), failed_log["error"])
+
+    def test_apply_revalidates_manifest_errors(self):
+        m = base_manifest()
+        del m["items"][0]["icon_crop"]
+        errors, _, partial_plan = self.validate(m)
+        self.assertTrue(errors)
+        self.assertTrue(partial_plan)
+
+        with self.assertRaises(core.ManifestError) as raised:
+            core.apply_plan(m, partial_plan, self.ctx)
+
+        self.assertIn("apply直前のmanifest検証に失敗", str(raised.exception))
+        self.assertFalse((self.root / "_private" / "raw_screenshots"
+                          / "test-idol" / "01_owned-a").exists())
         bad = core.find_incomplete_logs(self.ctx)
         self.assertEqual(len(bad), 1)
         self.assertEqual(bad[0][1], "failed")
@@ -881,10 +916,15 @@ class CliWriteGateTest(unittest.TestCase):
 class ProcessImagesGuardTest(unittest.TestCase):
     """process_images.py 側の二重防御（ルート脱出拒否）を検証する。"""
 
-    def test_is_under(self):
+    @classmethod
+    def setUpClass(cls):
         sys.path.insert(0, str(
             Path(__file__).resolve().parents[3] / "tools" / "costume-image-processor"))
-        import process_images as pi
+        import process_images
+        cls.pi = process_images
+
+    def test_is_under(self):
+        pi = self.pi
         base = pi.INPUT_ROOT_BASE
         self.assertTrue(pi.is_under(base / "test-idol", base))
         self.assertTrue(pi.is_under(base / "a" / "b", base))
@@ -893,6 +933,27 @@ class ProcessImagesGuardTest(unittest.TestCase):
         self.assertFalse(pi.is_under(base.parent, base))
         out = pi.OUTPUT_DIR_BASE
         self.assertFalse(pi.is_under(out / ".." / ".." / "x", out))
+
+    def test_target_selector_is_required(self):
+        with self.assertRaises(SystemExit) as raised:
+            self.pi.parse_args([])
+        self.assertEqual(raised.exception.code, 2)
+
+    def test_explicit_all_is_accepted(self):
+        args = self.pi.parse_args(["--all", "--debug"])
+        self.assertTrue(args.all)
+        self.assertTrue(args.debug)
+
+    def test_all_cannot_be_combined_with_targeted_selection(self):
+        with self.assertRaises(SystemExit) as raised:
+            self.pi.parse_args(["--all", "--collection", "test"])
+        self.assertEqual(raised.exception.code, 2)
+
+    def test_collection_and_item_can_still_be_combined(self):
+        args = self.pi.parse_args(
+            ["--collection", "test", "--item", "01_common"])
+        self.assertEqual(args.collection, ["test"])
+        self.assertEqual(args.item, ["01_common"])
 
 
 class AppliedStateTest(unittest.TestCase):
