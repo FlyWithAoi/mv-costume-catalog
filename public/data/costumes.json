@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26",
+  "updated_at": "2026-09-01",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -38429,7 +38429,7 @@
     {
       "id": "himeru_nightclub-01",
       "idol_slug": "himeru",
-      "slot_order": 14,
+      "slot_order": 15,
       "costume_name": "ナイトクラブ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38448,7 +38448,7 @@
     {
       "id": "himeru_bloom-idol-01",
       "idol_slug": "himeru",
-      "slot_order": 15,
+      "slot_order": 16,
       "costume_name": "ブルームアイドル衣装",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -38465,7 +38465,7 @@
     {
       "id": "himeru_ss-kouhaku-01",
       "idol_slug": "himeru",
-      "slot_order": 16,
+      "slot_order": 17,
       "costume_name": "『SS』紅白衣装",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -38485,7 +38485,7 @@
     {
       "id": "himeru_romantic-date-01",
       "idol_slug": "himeru",
-      "slot_order": 17,
+      "slot_order": 18,
       "costume_name": "ロマンチック？デイト衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38504,7 +38504,7 @@
     {
       "id": "himeru_fusion-unit-crazyb-2wink-01",
       "idol_slug": "himeru",
-      "slot_order": 18,
+      "slot_order": 19,
       "costume_name": "FUSION UNIT(Crazy:B×2wink)衣装",
       "costume_group": "unit",
       "unlock_status": "not_purchased",
@@ -38521,7 +38521,7 @@
     {
       "id": "himeru_anniversary-chance-01",
       "idol_slug": "himeru",
-      "slot_order": 19,
+      "slot_order": 20,
       "costume_name": "アニバーサリーChance",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -38541,7 +38541,7 @@
     {
       "id": "himeru_anniversary-777-01",
       "idol_slug": "himeru",
-      "slot_order": 20,
+      "slot_order": 21,
       "costume_name": "アニバーサリー777",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -38558,7 +38558,7 @@
     {
       "id": "himeru_black-stage-01",
       "idol_slug": "himeru",
-      "slot_order": 21,
+      "slot_order": 22,
       "costume_name": "ブラックステージ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38577,7 +38577,7 @@
     {
       "id": "himeru_usa-01",
       "idol_slug": "himeru",
-      "slot_order": 22,
+      "slot_order": 23,
       "costume_name": "U.S.A.衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38597,7 +38597,7 @@
     {
       "id": "himeru_spider-01",
       "idol_slug": "himeru",
-      "slot_order": 23,
+      "slot_order": 24,
       "costume_name": "スパイダー衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38617,7 +38617,7 @@
     {
       "id": "himeru_halloween-candle-01",
       "idol_slug": "himeru",
-      "slot_order": 24,
+      "slot_order": 25,
       "costume_name": "ハロウィンキャンドル",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -38634,7 +38634,7 @@
     {
       "id": "himeru_starlight-7th-live-tshirt-01",
       "idol_slug": "himeru",
-      "slot_order": 25,
+      "slot_order": 26,
       "costume_name": "スタライ7thライブTシャツ",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -38651,7 +38651,7 @@
     {
       "id": "himeru_kyoun-scramble-01",
       "idol_slug": "himeru",
-      "slot_order": 26,
+      "slot_order": 27,
       "costume_name": "強運SCRAMBLE衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38670,7 +38670,7 @@
     {
       "id": "himeru_newyear-rise-01",
       "idol_slug": "himeru",
-      "slot_order": 27,
+      "slot_order": 28,
       "costume_name": "ニューイヤーライズ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -38689,7 +38689,7 @@
     {
       "id": "himeru_newyear-rise-cape-01",
       "idol_slug": "himeru",
-      "slot_order": 28,
+      "slot_order": 29,
       "costume_name": "ニューイヤーライズ（ケープ）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -38706,7 +38706,7 @@
     {
       "id": "himeru_training-wear-01",
       "idol_slug": "himeru",
-      "slot_order": 29,
+      "slot_order": 30,
       "costume_name": "トレーニングウェア",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -38723,7 +38723,7 @@
     {
       "id": "himeru_bloom-idol-scr-01",
       "idol_slug": "himeru",
-      "slot_order": 30,
+      "slot_order": 31,
       "costume_name": "ブルームアイドル衣装(SCR)",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -38742,7 +38742,7 @@
     {
       "id": "himeru_anniversary-love-01",
       "idol_slug": "himeru",
-      "slot_order": 31,
+      "slot_order": 32,
       "costume_name": "アニバーサリーラブ",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -38759,7 +38759,7 @@
     {
       "id": "himeru_number-eight-01",
       "idol_slug": "himeru",
-      "slot_order": 32,
+      "slot_order": 33,
       "costume_name": "ナンバーエイト衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38779,7 +38779,7 @@
     {
       "id": "himeru_album-trip-01",
       "idol_slug": "himeru",
-      "slot_order": 33,
+      "slot_order": 34,
       "costume_name": "アルバム『TRIP』衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38799,7 +38799,7 @@
     {
       "id": "himeru_primula-mirror-01",
       "idol_slug": "himeru",
-      "slot_order": 34,
+      "slot_order": 35,
       "costume_name": "プリムラミラー",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -38818,7 +38818,7 @@
     {
       "id": "himeru_newyear-rise-silver-01",
       "idol_slug": "himeru",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -38837,7 +38837,7 @@
     {
       "id": "himeru_scramble-gakuen-boys-uniform-01",
       "idol_slug": "himeru",
-      "slot_order": 36,
+      "slot_order": 37,
       "costume_name": "私立すくらんぶる学園男子制服",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38856,7 +38856,7 @@
     {
       "id": "himeru_matrix-01",
       "idol_slug": "himeru",
-      "slot_order": 37,
+      "slot_order": 38,
       "costume_name": "マトリックス衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38876,7 +38876,7 @@
     {
       "id": "himeru_anniversary-challenge-01",
       "idol_slug": "himeru",
-      "slot_order": 38,
+      "slot_order": 39,
       "costume_name": "アニバーサリーチャレンジ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -38895,7 +38895,7 @@
     {
       "id": "himeru_twilight-idol-01",
       "idol_slug": "himeru",
-      "slot_order": 39,
+      "slot_order": 40,
       "costume_name": "トワイライトアイドル衣装",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -38912,7 +38912,7 @@
     {
       "id": "himeru_anniversary-challenge-scr-01",
       "idol_slug": "himeru",
-      "slot_order": 40,
+      "slot_order": 41,
       "costume_name": "アニバーサリーチャレンジ(SCR)",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -38931,7 +38931,7 @@
     {
       "id": "himeru_shunsairei-01",
       "idol_slug": "himeru",
-      "slot_order": 41,
+      "slot_order": 42,
       "costume_name": "瞬祭礼衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38950,7 +38950,7 @@
     {
       "id": "himeru_sudden-death-01",
       "idol_slug": "himeru",
-      "slot_order": 42,
+      "slot_order": 43,
       "costume_name": "サドンデス衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38969,7 +38969,7 @@
     {
       "id": "himeru_halloween-wing-01",
       "idol_slug": "himeru",
-      "slot_order": 43,
+      "slot_order": 44,
       "costume_name": "ハロウィンウィング",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -38988,7 +38988,7 @@
     {
       "id": "himeru_starlight-8th-live-tshirt-01",
       "idol_slug": "himeru",
-      "slot_order": 44,
+      "slot_order": 45,
       "costume_name": "スタライ8thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39010,7 +39010,7 @@
     {
       "id": "himeru_newyear-rise-first-love-01",
       "idol_slug": "himeru",
-      "slot_order": 45,
+      "slot_order": 46,
       "costume_name": "ニューイヤーライズ（初恋）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -39031,7 +39031,7 @@
     {
       "id": "himeru_colorful-music-01",
       "idol_slug": "himeru",
-      "slot_order": 46,
+      "slot_order": 47,
       "costume_name": "カラフルミュージック",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39050,7 +39050,7 @@
     {
       "id": "himeru_crazy-b-hoodie-01",
       "idol_slug": "himeru",
-      "slot_order": 47,
+      "slot_order": 48,
       "costume_name": "Crazy:Bフーディ",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -39067,7 +39067,7 @@
     {
       "id": "himeru_ambivalence-01",
       "idol_slug": "himeru",
-      "slot_order": 48,
+      "slot_order": 49,
       "costume_name": "アンビバレンス衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -39086,7 +39086,7 @@
     {
       "id": "himeru_twilight-idol-scr-01",
       "idol_slug": "himeru",
-      "slot_order": 49,
+      "slot_order": 50,
       "costume_name": "トワイライトアイドル衣装(SCR)",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -39105,7 +39105,7 @@
     {
       "id": "himeru_pairing-01",
       "idol_slug": "himeru",
-      "slot_order": 50,
+      "slot_order": 51,
       "costume_name": "ペアリング衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39124,7 +39124,7 @@
     {
       "id": "himeru_jinbei-goldfish-01",
       "idol_slug": "himeru",
-      "slot_order": 51,
+      "slot_order": 52,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39143,7 +39143,7 @@
     {
       "id": "himeru_iridescent-light-01",
       "idol_slug": "himeru",
-      "slot_order": 52,
+      "slot_order": 53,
       "costume_name": "イリディセントライト",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39163,7 +39163,7 @@
     {
       "id": "himeru_caelum-01",
       "idol_slug": "himeru",
-      "slot_order": 53,
+      "slot_order": 54,
       "costume_name": "Caelum",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -39182,7 +39182,7 @@
     {
       "id": "himeru_iridescent-light-scr-01",
       "idol_slug": "himeru",
-      "slot_order": 54,
+      "slot_order": 55,
       "costume_name": "イリディセントライト（SCR）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39203,7 +39203,7 @@
     {
       "id": "himeru_its-knot-lov-01",
       "idol_slug": "himeru",
-      "slot_order": 55,
+      "slot_order": 56,
       "costume_name": "It's (k)not lov?衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39223,7 +39223,7 @@
     {
       "id": "himeru_halloween-wing-angel-01",
       "idol_slug": "himeru",
-      "slot_order": 56,
+      "slot_order": 57,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39242,7 +39242,7 @@
     {
       "id": "himeru_terra-01",
       "idol_slug": "himeru",
-      "slot_order": 57,
+      "slot_order": 58,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -39261,7 +39261,7 @@
     {
       "id": "himeru_shining-star-01",
       "idol_slug": "himeru",
-      "slot_order": 58,
+      "slot_order": 59,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -39280,7 +39280,7 @@
     {
       "id": "himeru_starlight-10th-live-tshirt-01",
       "idol_slug": "himeru",
-      "slot_order": 59,
+      "slot_order": 60,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -39302,7 +39302,7 @@
     {
       "id": "himeru_anniversary-agent-green-01",
       "idol_slug": "himeru",
-      "slot_order": 60,
+      "slot_order": 61,
       "costume_name": "アニバーサリーエージェント（緑）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -39322,7 +39322,7 @@
     {
       "id": "himeru_mm-crazy-b-01",
       "idol_slug": "himeru",
-      "slot_order": 61,
+      "slot_order": 62,
       "costume_name": "MM Crazy:B衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -39341,7 +39341,7 @@
     {
       "id": "himeru_mare-01",
       "idol_slug": "himeru",
-      "slot_order": 62,
+      "slot_order": 63,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -39360,7 +39360,7 @@
     {
       "id": "himeru_jinbei-fireworks-01",
       "idol_slug": "himeru",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68602,6 +68602,26 @@
       ],
       "note_public": "",
       "updated_at": "2026-08-26"
+    },
+    {
+      "id": "himeru_ariadone-01",
+      "idol_slug": "himeru",
+      "slot_order": 14,
+      "costume_name": "アリアドネ衣装",
+      "costume_group": "other",
+      "unlock_status": "card_missing",
+      "requestable": false,
+      "images": {
+        "icon": "himeru_ariadone-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "カード未所持のため参考画像なし。",
+      "updated_at": "2026-09-01"
     }
   ]
 }
