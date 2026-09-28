@@ -29825,7 +29825,7 @@
             "height": 213
           }
         },
-        "62_overflow": {
+        "63_overflow": {
           "id": "sengoku-shinobu_overflow-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29836,7 +29836,7 @@
             "height": 213
           }
         },
-        "63_terra": {
+        "64_terra": {
           "id": "sengoku-shinobu_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29847,7 +29847,7 @@
             "height": 215
           }
         },
-        "64_shining-star": {
+        "65_shining-star": {
           "id": "sengoku-shinobu_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29858,7 +29858,7 @@
             "height": 215
           }
         },
-        "65_starlight-10th": {
+        "66_starlight-10th": {
           "id": "sengoku-shinobu_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -29880,7 +29880,7 @@
             "height": 215
           }
         },
-        "68_jinbei-fireworks": {
+        "71_jinbei-fireworks": {
           "id": "sengoku-shinobu_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -29889,6 +29889,39 @@
             "y": 626,
             "width": 215,
             "height": 215
+          }
+        },
+        "62_halloween-wing-angel": {
+          "id": "sengoku-shinobu_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1780,
+            "y": 421,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "69_naked": {
+          "id": "sengoku-shinobu_naked-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "70_yukata-seigaiha": {
+          "id": "sengoku-shinobu_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 486,
+            "width": 175,
+            "height": 175
           }
         }
       }
@@ -40087,7 +40120,7 @@
       "input_dir": "sengoku-shinobu",
       "output_dir": "sengoku-shinobu",
       "items": {
-        "66_mare": {
+        "68_mare": {
           "id": "sengoku-shinobu_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,

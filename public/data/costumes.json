@@ -50795,7 +50795,7 @@
     {
       "id": "sengoku-shinobu_overflow-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 62,
+      "slot_order": 63,
       "costume_name": "OVERFLOW！衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -50814,7 +50814,7 @@
     {
       "id": "sengoku-shinobu_terra-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -50833,7 +50833,7 @@
     {
       "id": "sengoku-shinobu_shining-star-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -50852,7 +50852,7 @@
     {
       "id": "sengoku-shinobu_starlight-10th-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -50894,7 +50894,7 @@
     {
       "id": "sengoku-shinobu_jinbei-fireworks-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 68,
+      "slot_order": 71,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68205,7 +68205,7 @@
     {
       "id": "sengoku-shinobu_mare-01",
       "idol_slug": "sengoku-shinobu",
-      "slot_order": 66,
+      "slot_order": 68,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -68789,6 +68789,63 @@
         "icon": "takamine-midori_yukata-seigaiha-01_icon.webp",
         "front": "takamine-midori_yukata-seigaiha-01_front.webp",
         "back": "takamine-midori_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "sengoku-shinobu_halloween-wing-angel-01",
+      "idol_slug": "sengoku-shinobu",
+      "slot_order": 62,
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_halloween-wing-angel-01_icon.webp",
+        "front": "sengoku-shinobu_halloween-wing-angel-01_front.webp",
+        "back": "sengoku-shinobu_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "sengoku-shinobu_naked-01",
+      "idol_slug": "sengoku-shinobu",
+      "slot_order": 69,
+      "costume_name": "ネイキッド衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_naked-01_icon.webp",
+        "front": "sengoku-shinobu_naked-01_front.webp",
+        "back": "sengoku-shinobu_naked-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "sengoku-shinobu_yukata-seigaiha-01",
+      "idol_slug": "sengoku-shinobu",
+      "slot_order": 70,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sengoku-shinobu_yukata-seigaiha-01_icon.webp",
+        "front": "sengoku-shinobu_yukata-seigaiha-01_front.webp",
+        "back": "sengoku-shinobu_yukata-seigaiha-01_back.webp"
       },
       "tags": [
         "暫定分類"
