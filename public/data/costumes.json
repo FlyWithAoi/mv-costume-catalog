@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01",
+  "updated_at": "2026-09-29",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -52257,7 +52257,7 @@
     {
       "id": "shinkai-kanata_halloween-party-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 8,
+      "slot_order": 9,
       "costume_name": "ハロウィンパーティ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52277,7 +52277,7 @@
     {
       "id": "shinkai-kanata_halloween-bat-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 9,
+      "slot_order": 10,
       "costume_name": "ハロウィンバット",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52297,7 +52297,7 @@
     {
       "id": "shinkai-kanata_comet-show-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 10,
+      "slot_order": 11,
       "costume_name": "コメットショウ衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -52317,7 +52317,7 @@
     {
       "id": "shinkai-kanata_ryuusei-anniversary-rock-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 11,
+      "slot_order": 12,
       "costume_name": "流星のアニバーサリーロック",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -52337,7 +52337,7 @@
     {
       "id": "shinkai-kanata_esmg-graphic-tshirt-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 12,
+      "slot_order": 13,
       "costume_name": "ESMGグラフィックTシャツ",
       "costume_group": "exchange",
       "unlock_status": "not_purchased",
@@ -52357,7 +52357,7 @@
     {
       "id": "shinkai-kanata_pilot-suit-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 13,
+      "slot_order": 14,
       "costume_name": "パイロットスーツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52376,7 +52376,7 @@
     {
       "id": "shinkai-kanata_motor-show-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 14,
+      "slot_order": 15,
       "costume_name": "モーターショウ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52396,8 +52396,8 @@
     {
       "id": "shinkai-kanata_yumenosaki-spectacle-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 15,
-      "costume_name": "夢ノ咲スペクタル衣装",
+      "slot_order": 16,
+      "costume_name": "月都スペクタクル衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
       "requestable": false,
@@ -52416,7 +52416,7 @@
     {
       "id": "shinkai-kanata_bloom-idol-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 16,
+      "slot_order": 17,
       "costume_name": "ブルームアイドル衣装",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -52435,8 +52435,8 @@
     {
       "id": "shinkai-kanata_senkai-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 17,
-      "costume_name": "鮮海衣装",
+      "slot_order": 18,
+      "costume_name": "鱗海",
       "costume_group": "other",
       "unlock_status": "card_missing",
       "requestable": false,
@@ -52455,7 +52455,7 @@
     {
       "id": "shinkai-kanata_ninja-dan-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 18,
+      "slot_order": 19,
       "costume_name": "忍者団衣装",
       "costume_group": "other",
       "unlock_status": "locked",
@@ -52475,7 +52475,7 @@
     {
       "id": "shinkai-kanata_cruising-live-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 19,
+      "slot_order": 20,
       "costume_name": "クルージングライブ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52495,7 +52495,7 @@
     {
       "id": "shinkai-kanata_ss-kouhaku-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 20,
+      "slot_order": 21,
       "costume_name": "『SS』紅白衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -52515,7 +52515,7 @@
     {
       "id": "shinkai-kanata_fusion-ryuseitai-knights-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 21,
+      "slot_order": 22,
       "costume_name": "FUSION UNIT(流星隊×Knights)衣装",
       "costume_group": "campaign",
       "unlock_status": "card_missing",
@@ -52534,7 +52534,7 @@
     {
       "id": "shinkai-kanata_anniversary-chance-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 22,
+      "slot_order": 23,
       "costume_name": "アニバーサリーChance",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -52554,7 +52554,7 @@
     {
       "id": "shinkai-kanata_anniversary-777-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 23,
+      "slot_order": 24,
       "costume_name": "アニバーサリー777",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -52575,7 +52575,7 @@
     {
       "id": "shinkai-kanata_black-stage-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 24,
+      "slot_order": 25,
       "costume_name": "ブラックステージ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52595,7 +52595,7 @@
     {
       "id": "shinkai-kanata_kanata-slot-22-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 25,
+      "slot_order": 26,
       "costume_name": "ブラックステージ衣装（SCR）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52614,27 +52614,27 @@
     {
       "id": "shinkai-kanata_sakana-mode-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 26,
+      "slot_order": 27,
       "costume_name": "SaKaNa☆Mode",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "shinkai-kanata_sakana-mode-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "shinkai-kanata_sakana-mode-01_front.webp",
+        "back": "shinkai-kanata_sakana-mode-01_back.webp"
       },
       "tags": [
         "カード衣装",
         "暫定分類"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "shinkai-kanata_hamutaro-totto-kouta-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 27,
+      "slot_order": 28,
       "costume_name": "ハム太郎とっとこうた衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52654,7 +52654,7 @@
     {
       "id": "shinkai-kanata_starlight-6th-live-tshirt-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 28,
+      "slot_order": 29,
       "costume_name": "スタライ6thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -52674,7 +52674,7 @@
     {
       "id": "shinkai-kanata_halloween-candle-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 29,
+      "slot_order": 30,
       "costume_name": "ハロウィンキャンドル",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -52691,7 +52691,7 @@
     {
       "id": "shinkai-kanata_newyear-rise-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 30,
+      "slot_order": 31,
       "costume_name": "ニューイヤーライズ",
       "costume_group": "campaign",
       "unlock_status": "locked",
@@ -52712,7 +52712,7 @@
     {
       "id": "shinkai-kanata_super-villains-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 31,
+      "slot_order": 32,
       "costume_name": "スーパーヴィランズ衣装",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -52732,7 +52732,7 @@
     {
       "id": "shinkai-kanata_ryuuseitai-power-up-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 32,
+      "slot_order": 33,
       "costume_name": "流星隊パワーアップ衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -52751,7 +52751,7 @@
     {
       "id": "shinkai-kanata_newyear-rise-cape-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 33,
+      "slot_order": 34,
       "costume_name": "ニューイヤーライズ（ケープ）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -52768,7 +52768,7 @@
     {
       "id": "shinkai-kanata_training-wear-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 34,
+      "slot_order": 35,
       "costume_name": "トレーニングウェア",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -52785,7 +52785,7 @@
     {
       "id": "shinkai-kanata_five-eccentrics-stage-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "五奇人ステージ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52805,7 +52805,7 @@
     {
       "id": "shinkai-kanata_altered-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 36,
+      "slot_order": 37,
       "costume_name": "オルタード衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -52825,7 +52825,7 @@
     {
       "id": "shinkai-kanata_bloom-idol-scr-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 37,
+      "slot_order": 38,
       "costume_name": "ブルームアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "card_missing",
@@ -52845,7 +52845,7 @@
     {
       "id": "shinkai-kanata_anniversary-love-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 38,
+      "slot_order": 39,
       "costume_name": "アニバーサリーラブ",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -52862,7 +52862,7 @@
     {
       "id": "shinkai-kanata_tropical-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 39,
+      "slot_order": 40,
       "costume_name": "トロピカル衣装",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -52882,8 +52882,8 @@
     {
       "id": "shinkai-kanata_umi-no-shigeki-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 40,
-      "costume_name": "海の刺激衣装",
+      "slot_order": 41,
+      "costume_name": "海の鼓動衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -52902,7 +52902,7 @@
     {
       "id": "shinkai-kanata_summer-pri-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 41,
+      "slot_order": 42,
       "costume_name": "サブマリン衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52921,7 +52921,7 @@
     {
       "id": "shinkai-kanata_newyear-rise-silver-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 42,
+      "slot_order": 43,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -52942,7 +52942,7 @@
     {
       "id": "shinkai-kanata_stella-maris-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 43,
+      "slot_order": 44,
       "costume_name": "ステラマリス衣装",
       "costume_group": "other",
       "unlock_status": "locked",
@@ -52962,7 +52962,7 @@
     {
       "id": "shinkai-kanata_album-trip-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 44,
+      "slot_order": 45,
       "costume_name": "アルバム『TRIP』衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -52982,7 +52982,7 @@
     {
       "id": "shinkai-kanata_scramble-gakuen-boys-uniform-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 45,
+      "slot_order": 46,
       "costume_name": "私立すくらんぶる学園男子制服",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53001,7 +53001,7 @@
     {
       "id": "shinkai-kanata_anniversary-challenge-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 46,
+      "slot_order": 47,
       "costume_name": "アニバーサリーチャレンジ",
       "costume_group": "campaign",
       "unlock_status": "card_missing",
@@ -53020,7 +53020,7 @@
     {
       "id": "shinkai-kanata_twilight-idol-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 47,
+      "slot_order": 48,
       "costume_name": "トワイライトアイドル衣装",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -53037,7 +53037,7 @@
     {
       "id": "shinkai-kanata_anniversary-challenge-scr-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 48,
+      "slot_order": 49,
       "costume_name": "アニバーサリーチャレンジ（SCR）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -53056,7 +53056,7 @@
     {
       "id": "shinkai-kanata_chase-cheshire-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 49,
+      "slot_order": 50,
       "costume_name": "チェイス・チェシャ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53075,7 +53075,7 @@
     {
       "id": "shinkai-kanata_halloween-wing-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 50,
+      "slot_order": 51,
       "costume_name": "ハロウィンウィング",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53094,7 +53094,7 @@
     {
       "id": "shinkai-kanata_at-home-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 51,
+      "slot_order": 52,
       "costume_name": "アットホーム衣装",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -53113,7 +53113,7 @@
     {
       "id": "shinkai-kanata_tanabata-festival-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 52,
+      "slot_order": 53,
       "costume_name": "七夕祭衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53133,7 +53133,7 @@
     {
       "id": "shinkai-kanata_starlight-9th-live-tshirt-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 53,
+      "slot_order": 54,
       "costume_name": "スタライ9thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53155,7 +53155,7 @@
     {
       "id": "shinkai-kanata_newyear-rise-first-love-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 54,
+      "slot_order": 55,
       "costume_name": "ニューイヤーライズ（初恋）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -53176,7 +53176,7 @@
     {
       "id": "shinkai-kanata_colorful-music-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 55,
+      "slot_order": 56,
       "costume_name": "カラフルミュージック",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53195,7 +53195,7 @@
     {
       "id": "shinkai-kanata_ryuuseitai-hoodie-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 56,
+      "slot_order": 57,
       "costume_name": "流星隊フーディ",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -53214,7 +53214,7 @@
     {
       "id": "shinkai-kanata_twilight-idol-scr-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 57,
+      "slot_order": 58,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -53233,7 +53233,7 @@
     {
       "id": "shinkai-kanata_deep-into-you-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 58,
+      "slot_order": 59,
       "costume_name": "Deep into you衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53253,7 +53253,7 @@
     {
       "id": "shinkai-kanata_natsuiro-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 59,
+      "slot_order": 60,
       "costume_name": "ナツコイ衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53273,7 +53273,7 @@
     {
       "id": "shinkai-kanata_jinbei-goldfish-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 60,
+      "slot_order": 61,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53292,7 +53292,7 @@
     {
       "id": "shinkai-kanata_caelum-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 61,
+      "slot_order": 62,
       "costume_name": "Caelum",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -53313,7 +53313,7 @@
     {
       "id": "shinkai-kanata_halloween-wing-angel-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 62,
+      "slot_order": 63,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53332,7 +53332,7 @@
     {
       "id": "shinkai-kanata_overflow-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "OVERFLOW！衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53351,7 +53351,7 @@
     {
       "id": "shinkai-kanata_terra-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -53370,7 +53370,7 @@
     {
       "id": "shinkai-kanata_ruris-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "ユリシス衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53390,7 +53390,7 @@
     {
       "id": "shinkai-kanata_shining-star-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 66,
+      "slot_order": 67,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -53409,7 +53409,7 @@
     {
       "id": "shinkai-kanata_starlight-10th-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -53431,7 +53431,7 @@
     {
       "id": "shinkai-kanata_anniversary-agent-red-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 68,
+      "slot_order": 69,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -53451,7 +53451,7 @@
     {
       "id": "shinkai-kanata_mare-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 69,
+      "slot_order": 70,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -53470,7 +53470,7 @@
     {
       "id": "shinkai-kanata_jinbei-fireworks-01",
       "idol_slug": "shinkai-kanata",
-      "slot_order": 70,
+      "slot_order": 73,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68622,6 +68622,65 @@
       ],
       "note_public": "カード未所持のため参考画像なし。",
       "updated_at": "2026-09-01"
+    },
+    {
+      "id": "shinkai-kanata_summer-snow-scr-01",
+      "idol_slug": "shinkai-kanata",
+      "slot_order": 8,
+      "costume_name": "サマースノー衣装（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_summer-snow-scr-01_icon.webp",
+        "front": "shinkai-kanata_summer-snow-scr-01_front.webp",
+        "back": "shinkai-kanata_summer-snow-scr-01_back.webp"
+      },
+      "tags": [
+        "カード衣装",
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "shinkai-kanata_naked-01",
+      "idol_slug": "shinkai-kanata",
+      "slot_order": 71,
+      "costume_name": "ネイキッド衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_naked-01_icon.webp",
+        "front": "shinkai-kanata_naked-01_front.webp",
+        "back": "shinkai-kanata_naked-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "shinkai-kanata_yukata-seigaiha-01",
+      "idol_slug": "shinkai-kanata",
+      "slot_order": 72,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "shinkai-kanata_yukata-seigaiha-01_icon.webp",
+        "front": "shinkai-kanata_yukata-seigaiha-01_front.webp",
+        "back": "shinkai-kanata_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
     }
   ]
 }
