@@ -30558,13 +30558,35 @@
             "height": 175
           }
         },
-        "68_jinbei-fireworks": {
+        "70_jinbei-fireworks": {
           "id": "morisawa-chiaki_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
             "x": 1269,
             "y": 646,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "68_naked": {
+          "id": "morisawa-chiaki_naked-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "69_yukata-seigaiha": {
+          "id": "morisawa-chiaki_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1440,
+            "y": 486,
             "width": 175,
             "height": 175
           }

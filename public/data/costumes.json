@@ -52162,7 +52162,7 @@
     {
       "id": "morisawa-chiaki_jinbei-fireworks-01",
       "idol_slug": "morisawa-chiaki",
-      "slot_order": 68,
+      "slot_order": 70,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68675,6 +68675,44 @@
         "icon": "shinkai-kanata_yukata-seigaiha-01_icon.webp",
         "front": "shinkai-kanata_yukata-seigaiha-01_front.webp",
         "back": "shinkai-kanata_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "morisawa-chiaki_naked-01",
+      "idol_slug": "morisawa-chiaki",
+      "slot_order": 68,
+      "costume_name": "ネイキッド衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_naked-01_icon.webp",
+        "front": "morisawa-chiaki_naked-01_front.webp",
+        "back": "morisawa-chiaki_naked-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "morisawa-chiaki_yukata-seigaiha-01",
+      "idol_slug": "morisawa-chiaki",
+      "slot_order": 69,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "morisawa-chiaki_yukata-seigaiha-01_icon.webp",
+        "front": "morisawa-chiaki_yukata-seigaiha-01_front.webp",
+        "back": "morisawa-chiaki_yukata-seigaiha-01_back.webp"
       },
       "tags": [
         "暫定分類"
