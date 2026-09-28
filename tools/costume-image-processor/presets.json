@@ -9028,8 +9028,8 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 583,
-            "y": 287,
+            "x": 1776,
+            "y": 628,
             "width": 195,
             "height": 195
           }
@@ -9237,8 +9237,8 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 754,
-            "y": 457,
+            "x": 1947,
+            "y": 287,
             "width": 195,
             "height": 195
           }
