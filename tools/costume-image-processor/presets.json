@@ -14964,7 +14964,29 @@
             "height": 195
           }
         },
-        "63_jinbei-fireworks": {
+        "63_mm-alkaloid": {
+          "id": "amagi-hiiro_mm-alkaloid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "64_yukata-seigaiha": {
+          "id": "amagi-hiiro_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 651,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "65_jinbei-fireworks": {
           "id": "amagi-hiiro_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -15620,7 +15642,7 @@
             "height": 195
           }
         },
-        "62_jinbei-fireworks": {
+        "65_jinbei-fireworks": {
           "id": "shiratori-aira_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -15631,7 +15653,7 @@
             "height": 195
           }
         },
-        "63_prim-hour": {
+        "62_prim-hour": {
           "id": "shiratori-aira_prim-hour-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -15640,6 +15662,28 @@
             "y": 481,
             "width": 195,
             "height": 195
+          }
+        },
+        "63_mm-alkaloid": {
+          "id": "shiratori-aira_mm-alkaloid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1949,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "64_yukata-seigaiha": {
+          "id": "shiratori-aira_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 585,
+            "y": 651,
+            "width": 175,
+            "height": 175
           }
         }
       }
@@ -16320,7 +16364,29 @@
             "height": 195
           }
         },
-        "65_jinbei-fireworks": {
+        "65_mm-alkaloid": {
+          "id": "ayase-mayoi_mm-alkaloid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 651,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "66_yukata-seigaiha": {
+          "id": "ayase-mayoi_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 651,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "67_jinbei-fireworks": {
           "id": "ayase-mayoi_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -16965,7 +17031,7 @@
             "height": 195
           }
         },
-        "61_jinbei-fireworks": {
+        "63_jinbei-fireworks": {
           "id": "kazehaya-tatsumi_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -16974,6 +17040,28 @@
             "y": 473,
             "width": 195,
             "height": 195
+          }
+        },
+        "61_mm-alkaloid": {
+          "id": "kazehaya-tatsumi_mm-alkaloid-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1609,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "62_yukata-seigaiha": {
+          "id": "kazehaya-tatsumi_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1779,
+            "y": 486,
+            "width": 175,
+            "height": 175
           }
         }
       }
