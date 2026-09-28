@@ -28425,7 +28425,7 @@
             "height": 215
           }
         },
-        "69_jinbei-fireworks": {
+        "71_jinbei-fireworks": {
           "id": "nagumo-tetora_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -28434,6 +28434,28 @@
             "y": 626,
             "width": 215,
             "height": 215
+          }
+        },
+        "69_naked": {
+          "id": "nagumo-tetora_naked-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 486,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "70_yukata-seigaiha": {
+          "id": "nagumo-tetora_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1610,
+            "y": 486,
+            "width": 175,
+            "height": 175
           }
         }
       }

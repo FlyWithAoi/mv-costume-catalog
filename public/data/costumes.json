@@ -48420,7 +48420,7 @@
     {
       "id": "nagumo-tetora_jinbei-fireworks-01",
       "idol_slug": "nagumo-tetora",
-      "slot_order": 69,
+      "slot_order": 71,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68713,6 +68713,44 @@
         "icon": "morisawa-chiaki_yukata-seigaiha-01_icon.webp",
         "front": "morisawa-chiaki_yukata-seigaiha-01_front.webp",
         "back": "morisawa-chiaki_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "nagumo-tetora_naked-01",
+      "idol_slug": "nagumo-tetora",
+      "slot_order": 69,
+      "costume_name": "ネイキッド衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_naked-01_icon.webp",
+        "front": "nagumo-tetora_naked-01_front.webp",
+        "back": "nagumo-tetora_naked-01_back.webp"
+      },
+      "tags": [
+        "流星隊"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "nagumo-tetora_yukata-seigaiha-01",
+      "idol_slug": "nagumo-tetora",
+      "slot_order": 70,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "nagumo-tetora_yukata-seigaiha-01_icon.webp",
+        "front": "nagumo-tetora_yukata-seigaiha-01_front.webp",
+        "back": "nagumo-tetora_yukata-seigaiha-01_back.webp"
       },
       "tags": [
         "暫定分類"
