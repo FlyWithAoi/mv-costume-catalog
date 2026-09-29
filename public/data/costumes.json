@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-29",
+  "updated_at": "2026-09-30",
   "costumes": [
     {
       "id": "hibiki-wataru_common-01",
@@ -54129,20 +54129,20 @@
       "slot_order": 40,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "hakaze-kaoru_newyear-rise-silver-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "hakaze-kaoru_newyear-rise-silver-01_front.webp",
+        "back": "hakaze-kaoru_newyear-rise-silver-01_back.webp"
       },
       "tags": [
         "新年",
         "ニューイヤー",
         "ダイヤショップ"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-08-16"
+      "note_public": "",
+      "updated_at": "2026-09-30"
     },
     {
       "id": "hakaze-kaoru_album-trip-01",
@@ -54452,7 +54452,7 @@
     {
       "id": "hakaze-kaoru_caelum-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 59,
+      "slot_order": 60,
       "costume_name": "Caelum",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -54473,7 +54473,7 @@
     {
       "id": "hakaze-kaoru_halloween-wing-angel-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 60,
+      "slot_order": 61,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54492,7 +54492,7 @@
     {
       "id": "hakaze-kaoru_sore-wa-zanzou-no-shoushitsuten-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 61,
+      "slot_order": 62,
       "costume_name": "それは残像の消失点衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54511,7 +54511,7 @@
     {
       "id": "hakaze-kaoru_terra-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 62,
+      "slot_order": 63,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -54530,7 +54530,7 @@
     {
       "id": "hakaze-kaoru_perfect-sundae-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "Perfect Sundae衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54549,7 +54549,7 @@
     {
       "id": "hakaze-kaoru_shining-star-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54568,7 +54568,7 @@
     {
       "id": "hakaze-kaoru_starlight-10th-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 65,
+      "slot_order": 66,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -54590,7 +54590,7 @@
     {
       "id": "hakaze-kaoru_anniversary-agent-green-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 66,
+      "slot_order": 67,
       "costume_name": "アニバーサリーエージェント（緑）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -54610,7 +54610,7 @@
     {
       "id": "hakaze-kaoru_mare-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -54629,7 +54629,7 @@
     {
       "id": "hakaze-kaoru_jinbei-fireworks-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 68,
+      "slot_order": 71,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -54821,7 +54821,7 @@
       "id": "oogami-koga_pirates-suit-01",
       "idol_slug": "oogami-koga",
       "slot_order": 13,
-      "costume_name": "パイレーツスーツ",
+      "costume_name": "パイロットスーツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -55339,20 +55339,20 @@
       "slot_order": 40,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "oogami-koga_newyear-rise-silver-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "oogami-koga_newyear-rise-silver-01_front.webp",
+        "back": "oogami-koga_newyear-rise-silver-01_back.webp"
       },
       "tags": [
         "新年",
         "ニューイヤー",
         "ダイヤショップ"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-07-30"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "oogami-koga_album-trip-01",
@@ -55863,7 +55863,7 @@
     {
       "id": "oogami-koga_jinbei-fireworks-01",
       "idol_slug": "oogami-koga",
-      "slot_order": 67,
+      "slot_order": 69,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -55878,6 +55878,44 @@
       ],
       "note_public": "",
       "updated_at": "2026-07-30"
+    },
+    {
+      "id": "oogami-koga_yukata-seigaiha-01",
+      "idol_slug": "oogami-koga",
+      "slot_order": 67,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oogami-koga_yukata-seigaiha-01_icon.webp",
+        "front": "oogami-koga_yukata-seigaiha-01_front.webp",
+        "back": "oogami-koga_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "oogami-koga_rambling-01",
+      "idol_slug": "oogami-koga",
+      "slot_order": 68,
+      "costume_name": "ランブリング衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "oogami-koga_rambling-01_icon.webp",
+        "front": "oogami-koga_rambling-01_front.webp",
+        "back": "oogami-koga_rambling-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "otogari-adonis_common-scr-01",
@@ -56267,9 +56305,29 @@
       "updated_at": "2026-08-12"
     },
     {
-      "id": "otogari-adonis_bride-light-01",
+      "id": "otogari-adonis_black-stage-scr-01",
       "idol_slug": "otogari-adonis",
       "slot_order": 24,
+      "costume_name": "ブラックステージ（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_black-stage-scr-01_icon.webp",
+        "front": "otogari-adonis_black-stage-scr-01_front.webp",
+        "back": "otogari-adonis_black-stage-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "otogari-adonis_bride-light-01",
+      "idol_slug": "otogari-adonis",
+      "slot_order": 25,
       "costume_name": "ブライドライト衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56289,27 +56347,27 @@
     {
       "id": "otogari-adonis_usa-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 25,
+      "slot_order": 26,
       "costume_name": "U.S.A.衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "otogari-adonis_usa-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "otogari-adonis_usa-01_front.webp",
+        "back": "otogari-adonis_usa-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "カード未所持のため参考画像なし。",
-      "updated_at": "2026-08-12"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "otogari-adonis_butoukai-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 26,
+      "slot_order": 27,
       "costume_name": "舞闘会衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -56329,7 +56387,7 @@
     {
       "id": "otogari-adonis_toori-night-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 27,
+      "slot_order": 28,
       "costume_name": "ドーリーナイト衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -56348,7 +56406,7 @@
     {
       "id": "otogari-adonis_halloween-candle-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 28,
+      "slot_order": 29,
       "costume_name": "ハロウィンキャンドル",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56365,7 +56423,7 @@
     {
       "id": "otogari-adonis_starlight-7th-live-tshirt-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 29,
+      "slot_order": 30,
       "costume_name": "スタライ7thライブTシャツ",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -56382,7 +56440,7 @@
     {
       "id": "otogari-adonis_newyear-rise-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 30,
+      "slot_order": 31,
       "costume_name": "ニューイヤーライズ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -56403,7 +56461,7 @@
     {
       "id": "otogari-adonis_newyear-rise-cape-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 31,
+      "slot_order": 32,
       "costume_name": "ニューイヤーライズ（ケープ）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56420,7 +56478,7 @@
     {
       "id": "otogari-adonis_graduation-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 32,
+      "slot_order": 33,
       "costume_name": "グラデュエーション衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -56440,7 +56498,7 @@
     {
       "id": "otogari-adonis_training-wear-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 33,
+      "slot_order": 34,
       "costume_name": "トレーニングウェア",
       "costume_group": "common",
       "unlock_status": "unlocked",
@@ -56457,7 +56515,7 @@
     {
       "id": "otogari-adonis_bloom-idol-scr-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 34,
+      "slot_order": 35,
       "costume_name": "ブルームアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -56477,7 +56535,7 @@
     {
       "id": "otogari-adonis_anniversary-love-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 35,
+      "slot_order": 36,
       "costume_name": "アニバーサリーラブ",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56494,7 +56552,7 @@
     {
       "id": "otogari-adonis_playzing-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 36,
+      "slot_order": 37,
       "costume_name": "ブレイジング",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56513,7 +56571,7 @@
     {
       "id": "otogari-adonis_flashback-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 37,
+      "slot_order": 38,
       "costume_name": "フラッシュバック衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -56533,28 +56591,28 @@
     {
       "id": "otogari-adonis_newyear-rise-silver-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 38,
+      "slot_order": 39,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "otogari-adonis_newyear-rise-silver-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "otogari-adonis_newyear-rise-silver-01_front.webp",
+        "back": "otogari-adonis_newyear-rise-silver-01_back.webp"
       },
       "tags": [
         "新年",
         "ニューイヤー",
         "ダイヤショップ"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-08-12"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "otogari-adonis_album-trip-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 39,
+      "slot_order": 40,
       "costume_name": "アルバム『TRIP』衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56574,7 +56632,7 @@
     {
       "id": "otogari-adonis_scramble-gakuen-boys-uniform-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 40,
+      "slot_order": 41,
       "costume_name": "私立すくらんぶる学園男子制服",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56593,7 +56651,7 @@
     {
       "id": "otogari-adonis_anniversary-challenge-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 41,
+      "slot_order": 42,
       "costume_name": "アニバーサリーチャレンジ",
       "costume_group": "campaign",
       "unlock_status": "not_purchased",
@@ -56612,7 +56670,7 @@
     {
       "id": "otogari-adonis_twilight-idol-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 42,
+      "slot_order": 43,
       "costume_name": "トワイライトアイドル衣装",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -56629,7 +56687,7 @@
     {
       "id": "otogari-adonis_swing-night-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 43,
+      "slot_order": 44,
       "costume_name": "SWING NIGHT衣装",
       "costume_group": "other",
       "unlock_status": "card_missing",
@@ -56649,7 +56707,7 @@
     {
       "id": "otogari-adonis_anniversary-challenge-scr-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 44,
+      "slot_order": 45,
       "costume_name": "アニバーサリーチャレンジ（SCR）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56668,7 +56726,7 @@
     {
       "id": "otogari-adonis_halloween-wing-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 45,
+      "slot_order": 46,
       "costume_name": "ハロウィンウィング",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56687,7 +56745,7 @@
     {
       "id": "otogari-adonis_sandstorm-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 46,
+      "slot_order": 47,
       "costume_name": "サンドストーム衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56706,7 +56764,7 @@
     {
       "id": "otogari-adonis_seeker-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 47,
+      "slot_order": 48,
       "costume_name": "シーカー衣装",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56725,7 +56783,7 @@
     {
       "id": "otogari-adonis_halloween-costume-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 48,
+      "slot_order": 49,
       "costume_name": "ハロウィン衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56744,7 +56802,7 @@
     {
       "id": "otogari-adonis_starlight-8th-live-tshirt-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 49,
+      "slot_order": 50,
       "costume_name": "スタライ8thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56766,7 +56824,7 @@
     {
       "id": "otogari-adonis_newyear-rise-first-love-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 50,
+      "slot_order": 51,
       "costume_name": "ニューイヤーライズ（初恋）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -56787,7 +56845,7 @@
     {
       "id": "otogari-adonis_colorful-music-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 51,
+      "slot_order": 52,
       "costume_name": "カラフルミュージック",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56806,7 +56864,7 @@
     {
       "id": "otogari-adonis_undead-hoodie-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 52,
+      "slot_order": 53,
       "costume_name": "UNDEADフーディ",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -56825,7 +56883,7 @@
     {
       "id": "otogari-adonis_twilight-idol-scr-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 53,
+      "slot_order": 54,
       "costume_name": "トワイライトアイドル衣装（SCR）",
       "costume_group": "common",
       "unlock_status": "locked",
@@ -56844,7 +56902,7 @@
     {
       "id": "otogari-adonis_deep-into-you-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 54,
+      "slot_order": 55,
       "costume_name": "Deep into you衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56864,7 +56922,7 @@
     {
       "id": "otogari-adonis_velvet-ship-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 55,
+      "slot_order": 56,
       "costume_name": "Velvet Ship衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56883,7 +56941,7 @@
     {
       "id": "otogari-adonis_jinbei-goldfish-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 56,
+      "slot_order": 57,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56902,7 +56960,7 @@
     {
       "id": "otogari-adonis_iridescent-light-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 57,
+      "slot_order": 58,
       "costume_name": "イリディセントライト",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56922,7 +56980,7 @@
     {
       "id": "otogari-adonis_caelum-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 58,
+      "slot_order": 59,
       "costume_name": "Caelum",
       "costume_group": "unit",
       "unlock_status": "unlocked",
@@ -56941,9 +56999,30 @@
       "updated_at": "2026-08-12"
     },
     {
+      "id": "otogari-adonis_iridescent-light-scr-01",
+      "idol_slug": "otogari-adonis",
+      "slot_order": 60,
+      "costume_name": "イリディセントライト（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_iridescent-light-scr-01_icon.webp",
+        "front": "otogari-adonis_iridescent-light-scr-01_front.webp",
+        "back": "otogari-adonis_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
       "id": "otogari-adonis_halloween-wing-angel-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 59,
+      "slot_order": 61,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56962,7 +57041,7 @@
     {
       "id": "otogari-adonis_kage-ni-hikaru-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 60,
+      "slot_order": 62,
       "costume_name": "影に光る",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -56981,7 +57060,7 @@
     {
       "id": "otogari-adonis_terra-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 61,
+      "slot_order": 63,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -57000,7 +57079,7 @@
     {
       "id": "otogari-adonis_shining-star-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 62,
+      "slot_order": 64,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -57019,7 +57098,7 @@
     {
       "id": "otogari-adonis_starlight-10th-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 63,
+      "slot_order": 65,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -57041,7 +57120,7 @@
     {
       "id": "otogari-adonis_anniversary-agent-red-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 64,
+      "slot_order": 66,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -57061,7 +57140,7 @@
     {
       "id": "otogari-adonis_mare-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 65,
+      "slot_order": 67,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -57078,9 +57157,47 @@
       "updated_at": "2026-08-12"
     },
     {
+      "id": "otogari-adonis_yukata-seigaiha-01",
+      "idol_slug": "otogari-adonis",
+      "slot_order": 68,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_yukata-seigaiha-01_icon.webp",
+        "front": "otogari-adonis_yukata-seigaiha-01_front.webp",
+        "back": "otogari-adonis_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "otogari-adonis_rambling-01",
+      "idol_slug": "otogari-adonis",
+      "slot_order": 69,
+      "costume_name": "ランブリング衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "otogari-adonis_rambling-01_icon.webp",
+        "front": "otogari-adonis_rambling-01_front.webp",
+        "back": "otogari-adonis_rambling-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
       "id": "otogari-adonis_jinbei-fireworks-01",
       "idol_slug": "otogari-adonis",
-      "slot_order": 66,
+      "slot_order": 70,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68439,15 +68556,15 @@
     {
       "id": "hakaze-kaoru_iridescent-light-01",
       "idol_slug": "hakaze-kaoru",
-      "slot_order": 69,
+      "slot_order": 59,
       "costume_name": "イリディセントライト",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {"icon": "hakaze-kaoru_iridescent-light-01_icon.webp", "front": "hakaze-kaoru_iridescent-light-01_front.webp", "back": "hakaze-kaoru_iridescent-light-01_back.webp"},
       "tags": ["暫定分類", "カード衣装"],
-      "note_public": "カード未所持のためリクエスト不可。スカウト試着画像を使用。",
-      "updated_at": "2026-08-25"
+      "note_public": "",
+      "updated_at": "2026-09-30"
     },
     {
       "id": "kuon-mashu_mm-mellow-dear-us-01",
@@ -69200,6 +69317,44 @@
       ],
       "note_public": "",
       "updated_at": "2026-09-29"
+    },
+    {
+      "id": "hakaze-kaoru_yukata-seigaiha-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 69,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_yukata-seigaiha-01_icon.webp",
+        "front": "hakaze-kaoru_yukata-seigaiha-01_front.webp",
+        "back": "hakaze-kaoru_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "hakaze-kaoru_rambling-01",
+      "idol_slug": "hakaze-kaoru",
+      "slot_order": 70,
+      "costume_name": "ランブリング衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "hakaze-kaoru_rambling-01_icon.webp",
+        "front": "hakaze-kaoru_rambling-01_front.webp",
+        "back": "hakaze-kaoru_rambling-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
     }
   ]
 }

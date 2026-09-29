@@ -31950,7 +31950,7 @@
         "40_anniversary-challenge": {
           "id": "hakaze-kaoru_newyear-rise-silver-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -32112,7 +32112,7 @@
             "height": 175
           }
         },
-        "59_caelum": {
+        "60_caelum": {
           "id": "hakaze-kaoru_caelum-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32123,7 +32123,7 @@
             "height": 175
           }
         },
-        "60_halloween-wing-angel": {
+        "61_halloween-wing-angel": {
           "id": "hakaze-kaoru_halloween-wing-angel-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32134,7 +32134,7 @@
             "height": 173
           }
         },
-        "61_sore-wa-zanzou-no-shoushitsuten": {
+        "62_sore-wa-zanzou-no-shoushitsuten": {
           "id": "hakaze-kaoru_sore-wa-zanzou-no-shoushitsuten-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32145,7 +32145,7 @@
             "height": 173
           }
         },
-        "62_terra": {
+        "63_terra": {
           "id": "hakaze-kaoru_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32156,7 +32156,7 @@
             "height": 173
           }
         },
-        "63_perfect-sundae": {
+        "64_perfect-sundae": {
           "id": "hakaze-kaoru_perfect-sundae-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32167,7 +32167,7 @@
             "height": 175
           }
         },
-        "64_shining-star": {
+        "65_shining-star": {
           "id": "hakaze-kaoru_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32178,7 +32178,7 @@
             "height": 173
           }
         },
-        "65_starlight-10th": {
+        "66_starlight-10th": {
           "id": "hakaze-kaoru_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -32189,7 +32189,7 @@
             "height": 300
           }
         },
-        "66_anniversary-agent-green": {
+        "67_anniversary-agent-green": {
           "id": "hakaze-kaoru_anniversary-agent-green-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32200,7 +32200,7 @@
             "height": 175
           }
         },
-        "67_mare": {
+        "68_mare": {
           "id": "hakaze-kaoru_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32211,7 +32211,7 @@
             "height": 175
           }
         },
-        "68_jinbei-fireworks": {
+        "71_jinbei-fireworks": {
           "id": "hakaze-kaoru_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -32672,7 +32672,7 @@
         "40_newyear-rise-silver": {
           "id": "oogami-koga_newyear-rise-silver-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -32966,7 +32966,7 @@
             "height": 175
           }
         },
-        "67_jinbei-fireworks": {
+        "69_jinbei-fireworks": {
           "id": "oogami-koga_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33204,7 +33204,7 @@
             "height": 176
           }
         },
-        "24_bride-light": {
+        "25_bride-light": {
           "id": "otogari-adonis_bride-light-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33215,10 +33215,10 @@
             "height": 172
           }
         },
-        "25_usa": {
+        "26_usa": {
           "id": "otogari-adonis_usa-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -33226,7 +33226,7 @@
             "height": 300
           }
         },
-        "26_butoukai": {
+        "27_butoukai": {
           "id": "otogari-adonis_butoukai-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33237,7 +33237,7 @@
             "height": 300
           }
         },
-        "27_toori-night": {
+        "28_toori-night": {
           "id": "otogari-adonis_toori-night-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33248,7 +33248,7 @@
             "height": 300
           }
         },
-        "28_halloween-candle": {
+        "29_halloween-candle": {
           "id": "otogari-adonis_halloween-candle-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33259,7 +33259,7 @@
             "height": 172
           }
         },
-        "29_starlight-7th-live-tshirt": {
+        "30_starlight-7th-live-tshirt": {
           "id": "otogari-adonis_starlight-7th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33270,7 +33270,7 @@
             "height": 176
           }
         },
-        "30_newyear-rise": {
+        "31_newyear-rise": {
           "id": "otogari-adonis_newyear-rise-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33281,7 +33281,7 @@
             "height": 300
           }
         },
-        "31_newyear-rise-cape": {
+        "32_newyear-rise-cape": {
           "id": "otogari-adonis_newyear-rise-cape-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33292,7 +33292,7 @@
             "height": 176
           }
         },
-        "32_graduation": {
+        "33_graduation": {
           "id": "otogari-adonis_graduation-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33303,7 +33303,7 @@
             "height": 300
           }
         },
-        "33_training-wear": {
+        "34_training-wear": {
           "id": "otogari-adonis_training-wear-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33314,7 +33314,7 @@
             "height": 172
           }
         },
-        "34_bloom-idol-scr": {
+        "35_bloom-idol-scr": {
           "id": "otogari-adonis_bloom-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33325,7 +33325,7 @@
             "height": 300
           }
         },
-        "35_anniversary-love": {
+        "36_anniversary-love": {
           "id": "otogari-adonis_anniversary-love-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33336,7 +33336,7 @@
             "height": 176
           }
         },
-        "36_playzing": {
+        "37_playzing": {
           "id": "otogari-adonis_playzing-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33347,7 +33347,7 @@
             "height": 172
           }
         },
-        "37_flashback": {
+        "38_flashback": {
           "id": "otogari-adonis_flashback-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33358,10 +33358,10 @@
             "height": 300
           }
         },
-        "38_newyear-rise-silver": {
+        "39_newyear-rise-silver": {
           "id": "otogari-adonis_newyear-rise-silver-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -33369,7 +33369,7 @@
             "height": 300
           }
         },
-        "39_album-trip": {
+        "40_album-trip": {
           "id": "otogari-adonis_album-trip-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33380,7 +33380,7 @@
             "height": 172
           }
         },
-        "40_scramble-gakuen-boys-uniform": {
+        "41_scramble-gakuen-boys-uniform": {
           "id": "otogari-adonis_scramble-gakuen-boys-uniform-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33391,7 +33391,7 @@
             "height": 176
           }
         },
-        "41_anniversary-challenge": {
+        "42_anniversary-challenge": {
           "id": "otogari-adonis_anniversary-challenge-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33402,7 +33402,7 @@
             "height": 300
           }
         },
-        "42_twilight-idol": {
+        "43_twilight-idol": {
           "id": "otogari-adonis_twilight-idol-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33413,7 +33413,7 @@
             "height": 300
           }
         },
-        "43_swing-night": {
+        "44_swing-night": {
           "id": "otogari-adonis_swing-night-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33424,7 +33424,7 @@
             "height": 300
           }
         },
-        "44_anniversary-challenge-scr": {
+        "45_anniversary-challenge-scr": {
           "id": "otogari-adonis_anniversary-challenge-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33435,7 +33435,7 @@
             "height": 176
           }
         },
-        "45_halloween-wing": {
+        "46_halloween-wing": {
           "id": "otogari-adonis_halloween-wing-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33446,7 +33446,7 @@
             "height": 172
           }
         },
-        "46_sandstorm": {
+        "47_sandstorm": {
           "id": "otogari-adonis_sandstorm-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33457,7 +33457,7 @@
             "height": 172
           }
         },
-        "47_seeker": {
+        "48_seeker": {
           "id": "otogari-adonis_seeker-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33468,7 +33468,7 @@
             "height": 176
           }
         },
-        "48_halloween-costume": {
+        "49_halloween-costume": {
           "id": "otogari-adonis_halloween-costume-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33479,7 +33479,7 @@
             "height": 172
           }
         },
-        "49_starlight-8th-live-tshirt": {
+        "50_starlight-8th-live-tshirt": {
           "id": "otogari-adonis_starlight-8th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33490,7 +33490,7 @@
             "height": 176
           }
         },
-        "50_newyear-rise-first-love": {
+        "51_newyear-rise-first-love": {
           "id": "otogari-adonis_newyear-rise-first-love-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33501,7 +33501,7 @@
             "height": 176
           }
         },
-        "51_colorful-music": {
+        "52_colorful-music": {
           "id": "otogari-adonis_colorful-music-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33512,7 +33512,7 @@
             "height": 172
           }
         },
-        "52_undead-hoodie": {
+        "53_undead-hoodie": {
           "id": "otogari-adonis_undead-hoodie-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33523,7 +33523,7 @@
             "height": 176
           }
         },
-        "53_twilight-idol-scr": {
+        "54_twilight-idol-scr": {
           "id": "otogari-adonis_twilight-idol-scr-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33534,7 +33534,7 @@
             "height": 300
           }
         },
-        "54_deep-into-you": {
+        "55_deep-into-you": {
           "id": "otogari-adonis_deep-into-you-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33545,7 +33545,7 @@
             "height": 172
           }
         },
-        "55_velvet-ship": {
+        "56_velvet-ship": {
           "id": "otogari-adonis_velvet-ship-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33556,7 +33556,7 @@
             "height": 172
           }
         },
-        "56_jinbei-goldfish": {
+        "57_jinbei-goldfish": {
           "id": "otogari-adonis_jinbei-goldfish-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33567,7 +33567,7 @@
             "height": 176
           }
         },
-        "57_iridescent-light": {
+        "58_iridescent-light": {
           "id": "otogari-adonis_iridescent-light-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33578,7 +33578,7 @@
             "height": 172
           }
         },
-        "58_caelum": {
+        "59_caelum": {
           "id": "otogari-adonis_caelum-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33589,7 +33589,7 @@
             "height": 176
           }
         },
-        "59_halloween-wing-angel": {
+        "61_halloween-wing-angel": {
           "id": "otogari-adonis_halloween-wing-angel-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33600,7 +33600,7 @@
             "height": 176
           }
         },
-        "60_kage-ni-hikaru": {
+        "62_kage-ni-hikaru": {
           "id": "otogari-adonis_kage-ni-hikaru-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33611,7 +33611,7 @@
             "height": 172
           }
         },
-        "61_terra": {
+        "63_terra": {
           "id": "otogari-adonis_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33622,7 +33622,7 @@
             "height": 176
           }
         },
-        "62_shining-star": {
+        "64_shining-star": {
           "id": "otogari-adonis_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33633,7 +33633,7 @@
             "height": 176
           }
         },
-        "63_starlight-10th": {
+        "65_starlight-10th": {
           "id": "otogari-adonis_starlight-10th-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -33644,7 +33644,7 @@
             "height": 300
           }
         },
-        "64_anniversary-agent-red": {
+        "66_anniversary-agent-red": {
           "id": "otogari-adonis_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33655,7 +33655,7 @@
             "height": 172
           }
         },
-        "65_mare": {
+        "67_mare": {
           "id": "otogari-adonis_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -33666,7 +33666,7 @@
             "height": 176
           }
         },
-        "66_jinbei-fireworks": {
+        "70_jinbei-fireworks": {
           "id": "otogari-adonis_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40469,7 +40469,7 @@
       "input_dir": "hakaze-kaoru",
       "output_dir": "hakaze-kaoru",
       "items": {
-        "69_iridescent-light": {
+        "59_iridescent-light": {
           "id": "hakaze-kaoru_iridescent-light-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40795,6 +40795,129 @@
           "icon_crop": {
             "x": 1095,
             "y": 650,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "oogami-koga-2026-09-29-tail": {
+      "idol_slug": "oogami-koga",
+      "input_dir": "oogami-koga",
+      "output_dir": "oogami-koga",
+      "items": {
+        "67_yukata-seigaiha": {
+          "id": "oogami-koga_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 650,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "68_rambling": {
+          "id": "oogami-koga_rambling-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 650,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "otogari-adonis-2026-09-29-slot-24": {
+      "idol_slug": "otogari-adonis",
+      "input_dir": "otogari-adonis",
+      "output_dir": "otogari-adonis",
+      "items": {
+        "24_black-stage-scr": {
+          "id": "otogari-adonis_black-stage-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 400,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "otogari-adonis-2026-09-29-slot-60": {
+      "idol_slug": "otogari-adonis",
+      "input_dir": "otogari-adonis",
+      "output_dir": "otogari-adonis",
+      "items": {
+        "60_iridescent-light-scr": {
+          "id": "otogari-adonis_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 398,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "otogari-adonis-2026-09-29-tail": {
+      "idol_slug": "otogari-adonis",
+      "input_dir": "otogari-adonis",
+      "output_dir": "otogari-adonis",
+      "items": {
+        "68_yukata-seigaiha": {
+          "id": "otogari-adonis_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 515,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "69_rambling": {
+          "id": "otogari-adonis_rambling-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 481,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "hakaze-kaoru-2026-09-29-tail": {
+      "idol_slug": "hakaze-kaoru",
+      "input_dir": "hakaze-kaoru",
+      "output_dir": "hakaze-kaoru",
+      "items": {
+        "69_yukata-seigaiha": {
+          "id": "hakaze-kaoru_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1269,
+            "y": 540,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "70_rambling": {
+          "id": "hakaze-kaoru_rambling-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1439,
+            "y": 481,
             "width": 175,
             "height": 175
           }
