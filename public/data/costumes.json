@@ -15986,7 +15986,7 @@
       "id": "aoba-tsumugi_fine-01",
       "idol_slug": "aoba-tsumugi",
       "slot_order": 33,
-      "costume_name": "fine衣装",
+      "costume_name": "旧fine衣装",
       "costume_group": "unit",
       "unlock_status": "unlocked",
       "requestable": true,
@@ -16644,7 +16644,7 @@
     {
       "id": "aoba-tsumugi_halloween-wing-angel-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 67,
+      "slot_order": 68,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -16663,7 +16663,7 @@
     {
       "id": "aoba-tsumugi_terra-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 68,
+      "slot_order": 69,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -16682,7 +16682,7 @@
     {
       "id": "aoba-tsumugi_shining-star-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 69,
+      "slot_order": 70,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -16701,7 +16701,7 @@
     {
       "id": "aoba-tsumugi_starlight-10th-live-tshirt-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 70,
+      "slot_order": 71,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -16723,7 +16723,7 @@
     {
       "id": "aoba-tsumugi_anniversary-agent-green-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 71,
+      "slot_order": 72,
       "costume_name": "アニバーサリーエージェント（緑）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -16743,7 +16743,7 @@
     {
       "id": "aoba-tsumugi_reinvent-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 73,
+      "slot_order": 74,
       "costume_name": "Reinvent",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -16763,7 +16763,7 @@
     {
       "id": "aoba-tsumugi_jinbei-fireworks-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 74,
+      "slot_order": 79,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68361,7 +68361,7 @@
     {
       "id": "aoba-tsumugi_mare-01",
       "idol_slug": "aoba-tsumugi",
-      "slot_order": 72,
+      "slot_order": 73,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -69039,6 +69039,106 @@
       },
       "tags": [
         "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "aoba-tsumugi_iridescent-light-scr-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 67,
+      "costume_name": "イリディセントライト（SCR）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_iridescent-light-scr-01_icon.webp",
+        "front": "aoba-tsumugi_iridescent-light-scr-01_front.webp",
+        "back": "aoba-tsumugi_iridescent-light-scr-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "SCR"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "aoba-tsumugi_mm-switch-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 75,
+      "costume_name": "MM Switch衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_mm-switch-01_icon.webp",
+        "front": "aoba-tsumugi_mm-switch-01_front.webp",
+        "back": "aoba-tsumugi_mm-switch-01_back.webp"
+      },
+      "tags": [
+        "Switch"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "aoba-tsumugi_yukata-seigaiha-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 76,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_yukata-seigaiha-01_icon.webp",
+        "front": "aoba-tsumugi_yukata-seigaiha-01_front.webp",
+        "back": "aoba-tsumugi_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "aoba-tsumugi_fusion-unit-switch-eden-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 77,
+      "costume_name": "FUSION UNIT(Switch×Eden)衣装（短髪）",
+      "costume_group": "unit",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "aoba-tsumugi_fusion-unit-switch-eden-short-hair-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "短髪",
+        "ダイヤショップ"
+      ],
+      "note_public": "未所持のため参考画像なし。",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "aoba-tsumugi_fine-o-short-hair-01",
+      "idol_slug": "aoba-tsumugi",
+      "slot_order": 78,
+      "costume_name": "『fine-O』衣装（短髪）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "aoba-tsumugi_fine-o-short-hair-01_icon.webp",
+        "front": "aoba-tsumugi_fine-o-short-hair-01_front.webp",
+        "back": "aoba-tsumugi_fine-o-short-hair-01_back.webp"
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装",
+        "短髪"
       ],
       "note_public": "",
       "updated_at": "2026-09-29"

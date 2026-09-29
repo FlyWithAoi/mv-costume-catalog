@@ -10119,7 +10119,7 @@
             "height": 195
           }
         },
-        "67_halloween-wing-angel": {
+        "68_halloween-wing-angel": {
           "id": "aoba-tsumugi_halloween-wing-angel-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10130,7 +10130,7 @@
             "height": 195
           }
         },
-        "68_terra": {
+        "69_terra": {
           "id": "aoba-tsumugi_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10141,7 +10141,7 @@
             "height": 195
           }
         },
-        "69_shining-star": {
+        "70_shining-star": {
           "id": "aoba-tsumugi_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10152,7 +10152,7 @@
             "height": 195
           }
         },
-        "70_starlight-10th-live-tshirt": {
+        "71_starlight-10th-live-tshirt": {
           "id": "aoba-tsumugi_starlight-10th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -10163,7 +10163,7 @@
             "height": 300
           }
         },
-        "71_anniversary-agent-green": {
+        "72_anniversary-agent-green": {
           "id": "aoba-tsumugi_anniversary-agent-green-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10174,7 +10174,7 @@
             "height": 195
           }
         },
-        "73_reinvent": {
+        "74_reinvent": {
           "id": "aoba-tsumugi_reinvent-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10185,7 +10185,7 @@
             "height": 195
           }
         },
-        "74_jinbei-fireworks": {
+        "79_jinbei-fireworks": {
           "id": "aoba-tsumugi_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40386,7 +40386,7 @@
       "input_dir": "aoba-tsumugi",
       "output_dir": "aoba-tsumugi",
       "items": {
-        "72_mare": {
+        "73_mare": {
           "id": "aoba-tsumugi_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40681,6 +40681,75 @@
             "y": 340,
             "width": 320,
             "height": 300
+          }
+        }
+      }
+    },
+    "aoba-tsumugi-2026-09-29-mid": {
+      "idol_slug": "aoba-tsumugi",
+      "input_dir": "aoba-tsumugi",
+      "output_dir": "aoba-tsumugi",
+      "items": {
+        "67_iridescent-light-scr": {
+          "id": "aoba-tsumugi_iridescent-light-scr-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 410,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "aoba-tsumugi-2026-09-29-tail": {
+      "idol_slug": "aoba-tsumugi",
+      "input_dir": "aoba-tsumugi",
+      "output_dir": "aoba-tsumugi",
+      "items": {
+        "75_mm-switch": {
+          "id": "aoba-tsumugi_mm-switch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "76_yukata-seigaiha": {
+          "id": "aoba-tsumugi_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "77_fusion-unit-switch-eden-short-hair": {
+          "id": "aoba-tsumugi_fusion-unit-switch-eden-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        },
+        "78_fine-o-short-hair": {
+          "id": "aoba-tsumugi_fine-o-short-hair-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 480,
+            "width": 175,
+            "height": 175
           }
         }
       }
