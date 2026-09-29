@@ -10786,7 +10786,7 @@
             "height": 195
           }
         },
-        "57_caelum": {
+        "58_caelum": {
           "id": "harukawa-sora_caelum-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10797,7 +10797,7 @@
             "height": 195
           }
         },
-        "58_free-step": {
+        "59_free-step": {
           "id": "harukawa-sora_free-step-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10808,7 +10808,7 @@
             "height": 195
           }
         },
-        "59_halloween-wing-angel": {
+        "60_halloween-wing-angel": {
           "id": "harukawa-sora_halloween-wing-angel-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10819,7 +10819,7 @@
             "height": 195
           }
         },
-        "60_terra": {
+        "61_terra": {
           "id": "harukawa-sora_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10830,7 +10830,7 @@
             "height": 195
           }
         },
-        "61_shining-star": {
+        "62_shining-star": {
           "id": "harukawa-sora_shining-star-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10841,7 +10841,7 @@
             "height": 195
           }
         },
-        "62_starlight-10th-live-tshirt": {
+        "63_starlight-10th-live-tshirt": {
           "id": "harukawa-sora_starlight-10th-live-tshirt-01",
           "icon_mode": "manual_crop",
           "has_body_images": false,
@@ -10852,7 +10852,7 @@
             "height": 300
           }
         },
-        "63_anniversary-agent-red": {
+        "64_anniversary-agent-red": {
           "id": "harukawa-sora_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -10863,7 +10863,7 @@
             "height": 195
           }
         },
-        "65_jinbei-fireworks": {
+        "68_jinbei-fireworks": {
           "id": "harukawa-sora_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40127,7 +40127,7 @@
       "input_dir": "harukawa-sora",
       "output_dir": "harukawa-sora",
       "items": {
-        "64_mare": {
+        "65_mare": {
           "id": "harukawa-sora_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40748,6 +40748,53 @@
           "icon_crop": {
             "x": 1435,
             "y": 480,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "harukawa-sora-2026-09-29-mid": {
+      "idol_slug": "harukawa-sora",
+      "input_dir": "harukawa-sora",
+      "output_dir": "harukawa-sora",
+      "items": {
+        "57_iridescent-light": {
+          "id": "harukawa-sora_iridescent-light-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "harukawa-sora-2026-09-29-tail": {
+      "idol_slug": "harukawa-sora",
+      "input_dir": "harukawa-sora",
+      "output_dir": "harukawa-sora",
+      "items": {
+        "66_mm-switch": {
+          "id": "harukawa-sora_mm-switch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 650,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "67_yukata-seigaiha": {
+          "id": "harukawa-sora_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 650,
             "width": 175,
             "height": 175
           }

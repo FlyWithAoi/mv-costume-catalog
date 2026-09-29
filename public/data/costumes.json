@@ -17803,7 +17803,7 @@
     {
       "id": "harukawa-sora_caelum-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 57,
+      "slot_order": 58,
       "costume_name": "Caelum",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -17824,7 +17824,7 @@
     {
       "id": "harukawa-sora_free-step-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 58,
+      "slot_order": 59,
       "costume_name": "Free Step",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -17844,7 +17844,7 @@
     {
       "id": "harukawa-sora_halloween-wing-angel-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 59,
+      "slot_order": 60,
       "costume_name": "ハロウィンウィング（天使）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -17863,7 +17863,7 @@
     {
       "id": "harukawa-sora_terra-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 60,
+      "slot_order": 61,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -17882,7 +17882,7 @@
     {
       "id": "harukawa-sora_shining-star-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 61,
+      "slot_order": 62,
       "costume_name": "Shining Star衣装",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -17901,7 +17901,7 @@
     {
       "id": "harukawa-sora_starlight-10th-live-tshirt-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 62,
+      "slot_order": 63,
       "costume_name": "スタライ10thライブTシャツ",
       "costume_group": "other",
       "unlock_status": "not_purchased",
@@ -17923,7 +17923,7 @@
     {
       "id": "harukawa-sora_anniversary-agent-red-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 63,
+      "slot_order": 64,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "campaign",
       "unlock_status": "unlocked",
@@ -17943,7 +17943,7 @@
     {
       "id": "harukawa-sora_jinbei-fireworks-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 65,
+      "slot_order": 68,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68097,7 +68097,7 @@
     {
       "id": "harukawa-sora_mare-01",
       "idol_slug": "harukawa-sora",
-      "slot_order": 64,
+      "slot_order": 65,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -69139,6 +69139,64 @@
         "暫定分類",
         "カード衣装",
         "短髪"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "harukawa-sora_iridescent-light-01",
+      "idol_slug": "harukawa-sora",
+      "slot_order": 57,
+      "costume_name": "イリディセントライト",
+      "costume_group": "other",
+      "unlock_status": "locked",
+      "requestable": false,
+      "images": {
+        "icon": "harukawa-sora_iridescent-light-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "暫定分類",
+        "カード衣装"
+      ],
+      "note_public": "未解放のため参考画像なし。",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "harukawa-sora_mm-switch-01",
+      "idol_slug": "harukawa-sora",
+      "slot_order": 66,
+      "costume_name": "MM Switch衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_mm-switch-01_icon.webp",
+        "front": "harukawa-sora_mm-switch-01_front.webp",
+        "back": "harukawa-sora_mm-switch-01_back.webp"
+      },
+      "tags": [
+        "Switch"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "harukawa-sora_yukata-seigaiha-01",
+      "idol_slug": "harukawa-sora",
+      "slot_order": 67,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "harukawa-sora_yukata-seigaiha-01_icon.webp",
+        "front": "harukawa-sora_yukata-seigaiha-01_front.webp",
+        "back": "harukawa-sora_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
       ],
       "note_public": "",
       "updated_at": "2026-09-29"
