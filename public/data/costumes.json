@@ -14210,19 +14210,19 @@
       "slot_order": 6,
       "costume_name": "AtoZ衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "sakasaki-natsume_atoz-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "sakasaki-natsume_atoz-01_front.webp",
+        "back": "sakasaki-natsume_atoz-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "未所持のため参考画像なし。",
-      "updated_at": "2026-07-17"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "sakasaki-natsume_new-color-anniversary-suit-01",
@@ -14714,19 +14714,19 @@
       "slot_order": 32,
       "costume_name": "グラデュエーション衣装",
       "costume_group": "other",
-      "unlock_status": "card_missing",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "sakasaki-natsume_graduation-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "sakasaki-natsume_graduation-01_front.webp",
+        "back": "sakasaki-natsume_graduation-01_back.webp"
       },
       "tags": [
         "暫定分類",
         "カード衣装"
       ],
-      "note_public": "未所持のため参考画像なし。",
-      "updated_at": "2026-07-17"
+      "note_public": "",
+      "updated_at": "2026-09-29"
     },
     {
       "id": "sakasaki-natsume_training-wear-01",
@@ -15409,7 +15409,7 @@
     {
       "id": "sakasaki-natsume_jinbei-fireworks-01",
       "idol_slug": "sakasaki-natsume",
-      "slot_order": 69,
+      "slot_order": 71,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68998,6 +68998,44 @@
         "icon": "ayase-mayoi_yukata-seigaiha-01_icon.webp",
         "front": "ayase-mayoi_yukata-seigaiha-01_front.webp",
         "back": "ayase-mayoi_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "sakasaki-natsume_mm-switch-01",
+      "idol_slug": "sakasaki-natsume",
+      "slot_order": 69,
+      "costume_name": "MM Switch衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_mm-switch-01_icon.webp",
+        "front": "sakasaki-natsume_mm-switch-01_front.webp",
+        "back": "sakasaki-natsume_mm-switch-01_back.webp"
+      },
+      "tags": [
+        "Switch"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-29"
+    },
+    {
+      "id": "sakasaki-natsume_yukata-seigaiha-01",
+      "idol_slug": "sakasaki-natsume",
+      "slot_order": 70,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakasaki-natsume_yukata-seigaiha-01_icon.webp",
+        "front": "sakasaki-natsume_yukata-seigaiha-01_front.webp",
+        "back": "sakasaki-natsume_yukata-seigaiha-01_back.webp"
       },
       "tags": [
         "暫定分類"

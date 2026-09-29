@@ -8707,7 +8707,7 @@
         "06_atoz": {
           "id": "sakasaki-natsume_atoz-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -8731,7 +8731,7 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 924,
+            "x": 1775,
             "y": 287,
             "width": 195,
             "height": 195
@@ -8830,8 +8830,8 @@
           "icon_mode": "manual_crop",
           "has_body_images": true,
           "icon_crop": {
-            "x": 924,
-            "y": 287,
+            "x": 1775,
+            "y": 457,
             "width": 195,
             "height": 195
           }
@@ -8993,7 +8993,7 @@
         "32_graduation": {
           "id": "sakasaki-natsume_graduation-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -9386,7 +9386,29 @@
             "height": 300
           }
         },
-        "69_jinbei-fireworks": {
+        "69_mm-switch": {
+          "id": "sakasaki-natsume_mm-switch-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 651,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "70_yukata-seigaiha": {
+          "id": "sakasaki-natsume_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 651,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "71_jinbei-fireworks": {
           "id": "sakasaki-natsume_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
