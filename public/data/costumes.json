@@ -246,7 +246,7 @@
     {
       "id": "sakuma-rei_caelum-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 5,
+      "slot_order": 59,
       "costume_name": "Caelum",
       "costume_group": "cross",
       "unlock_status": "unlocked",
@@ -57843,19 +57843,19 @@
       "slot_order": 38,
       "costume_name": "ニューイヤーライズ（白銀）",
       "costume_group": "campaign",
-      "unlock_status": "not_purchased",
-      "requestable": false,
+      "unlock_status": "unlocked",
+      "requestable": true,
       "images": {
         "icon": "sakuma-rei_new-year-rise-silver-01_icon.webp",
-        "front": null,
-        "back": null
+        "front": "sakuma-rei_new-year-rise-silver-01_front.webp",
+        "back": "sakuma-rei_new-year-rise-silver-01_back.webp"
       },
       "tags": [
         "新年",
         "ニューイヤー"
       ],
-      "note_public": "未購入のため参考画像なし。",
-      "updated_at": "2026-08-13"
+      "note_public": "",
+      "updated_at": "2026-09-30"
     },
     {
       "id": "sakuma-rei_album-trip-01",
@@ -58188,7 +58188,7 @@
     {
       "id": "sakuma-rei_anniversary-agent-red-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 57,
+      "slot_order": 65,
       "costume_name": "アニバーサリーエージェント（赤）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -58207,7 +58207,7 @@
     {
       "id": "sakuma-rei_mare-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 58,
+      "slot_order": 66,
       "costume_name": "Mare",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -58226,7 +58226,7 @@
     {
       "id": "sakuma-rei_jinbei-fireworks-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 59,
+      "slot_order": 69,
       "costume_name": "甚平（花火）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -58245,7 +58245,7 @@
     {
       "id": "sakuma-rei_uta-no-oniisan-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 60,
+      "slot_order": 5,
       "costume_name": "うたのおにいさん衣装",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -67981,7 +67981,7 @@
     {
       "id": "sakuma-rei_jinbei-goldfish-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 61,
+      "slot_order": 58,
       "costume_name": "甚平（金魚）",
       "costume_group": "other",
       "unlock_status": "unlocked",
@@ -68119,7 +68119,7 @@
     {
       "id": "sakuma-rei_terra-01",
       "idol_slug": "sakuma-rei",
-      "slot_order": 56,
+      "slot_order": 62,
       "costume_name": "Terra",
       "costume_group": "exchange",
       "unlock_status": "unlocked",
@@ -69349,6 +69349,161 @@
         "icon": "hakaze-kaoru_rambling-01_icon.webp",
         "front": "hakaze-kaoru_rambling-01_front.webp",
         "back": "hakaze-kaoru_rambling-01_back.webp"
+      },
+      "tags": [
+        "UNDEAD"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_graceful-punishment-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 56,
+      "costume_name": "Graceful Punishment衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_graceful-punishment-01_icon.webp",
+        "front": "sakuma-rei_graceful-punishment-01_front.webp",
+        "back": "sakuma-rei_graceful-punishment-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_velvet-ship-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 57,
+      "costume_name": "Velvet Ship衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_velvet-ship-01_icon.webp",
+        "front": "sakuma-rei_velvet-ship-01_front.webp",
+        "back": "sakuma-rei_velvet-ship-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_halloween-wing-angel-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 60,
+      "costume_name": "ハロウィンウィング（天使）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_halloween-wing-angel-01_icon.webp",
+        "front": "sakuma-rei_halloween-wing-angel-01_front.webp",
+        "back": "sakuma-rei_halloween-wing-angel-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_stillness-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 61,
+      "costume_name": "Stillness",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_stillness-01_icon.webp",
+        "front": "sakuma-rei_stillness-01_front.webp",
+        "back": "sakuma-rei_stillness-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_shining-star-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 63,
+      "costume_name": "Shining Star衣装",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_shining-star-01_icon.webp",
+        "front": "sakuma-rei_shining-star-01_front.webp",
+        "back": "sakuma-rei_shining-star-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_starlight-10th-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 64,
+      "costume_name": "スタライ10thライブTシャツ",
+      "costume_group": "other",
+      "unlock_status": "not_purchased",
+      "requestable": false,
+      "images": {
+        "icon": "sakuma-rei_starlight-10th-01_icon.webp",
+        "front": null,
+        "back": null
+      },
+      "tags": [
+        "Tシャツ",
+        "ライブ",
+        "ダイヤショップ",
+        "暫定分類"
+      ],
+      "note_public": "未購入のため参考画像なし。",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_yukata-seigaiha-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 67,
+      "costume_name": "浴衣（青海波）",
+      "costume_group": "other",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_yukata-seigaiha-01_icon.webp",
+        "front": "sakuma-rei_yukata-seigaiha-01_front.webp",
+        "back": "sakuma-rei_yukata-seigaiha-01_back.webp"
+      },
+      "tags": [
+        "暫定分類"
+      ],
+      "note_public": "",
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "sakuma-rei_rambling-01",
+      "idol_slug": "sakuma-rei",
+      "slot_order": 68,
+      "costume_name": "ランブリング衣装",
+      "costume_group": "unit",
+      "unlock_status": "unlocked",
+      "requestable": true,
+      "images": {
+        "icon": "sakuma-rei_rambling-01_icon.webp",
+        "front": "sakuma-rei_rambling-01_front.webp",
+        "back": "sakuma-rei_rambling-01_back.webp"
       },
       "tags": [
         "UNDEAD"

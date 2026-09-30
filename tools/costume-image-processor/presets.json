@@ -1446,7 +1446,7 @@
           },
           "has_body_images": true
         },
-        "05_caelum": {
+        "59_caelum": {
           "_comment": "rei_testから正式化。既存WebPを保全し、rawをcanonical配置へ移行。",
           "id": "sakuma-rei_caelum-01",
           "icon_mode": "manual_crop",
@@ -34039,7 +34039,7 @@
         "38_new-year-rise-silver": {
           "id": "sakuma-rei_new-year-rise-silver-01",
           "icon_mode": "manual_crop",
-          "has_body_images": false,
+          "has_body_images": true,
           "icon_crop": {
             "x": 770,
             "y": 340,
@@ -34234,7 +34234,7 @@
             "height": 300
           }
         },
-        "57_anniversary-agent-red": {
+        "65_anniversary-agent-red": {
           "id": "sakuma-rei_anniversary-agent-red-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34245,7 +34245,7 @@
             "height": 195
           }
         },
-        "58_mare": {
+        "66_mare": {
           "id": "sakuma-rei_mare-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34256,7 +34256,7 @@
             "height": 195
           }
         },
-        "59_jinbei-fireworks": {
+        "69_jinbei-fireworks": {
           "id": "sakuma-rei_jinbei-fireworks-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -34274,7 +34274,7 @@
       "input_dir": "sakuma-rei",
       "output_dir": "sakuma-rei",
       "items": {
-        "60_uta-no-oniisan": {
+        "05_uta-no-oniisan": {
           "id": "sakuma-rei_uta-no-oniisan-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -39983,7 +39983,7 @@
       "input_dir": "sakuma-rei",
       "output_dir": "sakuma-rei",
       "items": {
-        "61_jinbei-goldfish": {
+        "58_jinbei-goldfish": {
           "id": "sakuma-rei_jinbei-goldfish-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40037,7 +40037,7 @@
       "input_dir": "sakuma-rei",
       "output_dir": "sakuma-rei",
       "items": {
-        "56_terra": {
+        "62_terra": {
           "id": "sakuma-rei_terra-01",
           "icon_mode": "manual_crop",
           "has_body_images": true,
@@ -40918,6 +40918,122 @@
           "icon_crop": {
             "x": 1439,
             "y": 481,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "sakuma-rei-2026-09-29-slots-56-57": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "56_graceful-punishment": {
+          "id": "sakuma-rei_graceful-punishment-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 755,
+            "y": 610,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "57_velvet-ship": {
+          "id": "sakuma-rei_velvet-ship-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 925,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "sakuma-rei-2026-09-29-slots-60-61": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "60_halloween-wing-angel": {
+          "id": "sakuma-rei_halloween-wing-angel-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1435,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "61_stillness": {
+          "id": "sakuma-rei_stillness-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1605,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        }
+      }
+    },
+    "sakuma-rei-2026-09-29-slots-63-64": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "63_shining-star": {
+          "id": "sakuma-rei_shining-star-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1945,
+            "y": 475,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "64_starlight-10th": {
+          "id": "sakuma-rei_starlight-10th-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": false,
+          "icon_crop": {
+            "x": 770,
+            "y": 340,
+            "width": 320,
+            "height": 300
+          }
+        }
+      }
+    },
+    "sakuma-rei-2026-09-29-slots-67-68": {
+      "idol_slug": "sakuma-rei",
+      "input_dir": "sakuma-rei",
+      "output_dir": "sakuma-rei",
+      "items": {
+        "67_yukata-seigaiha": {
+          "id": "sakuma-rei_yukata-seigaiha-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1095,
+            "y": 650,
+            "width": 175,
+            "height": 175
+          }
+        },
+        "68_rambling": {
+          "id": "sakuma-rei_rambling-01",
+          "icon_mode": "manual_crop",
+          "has_body_images": true,
+          "icon_crop": {
+            "x": 1265,
+            "y": 650,
             "width": 175,
             "height": 175
           }
